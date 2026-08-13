@@ -671,6 +671,55 @@ def probe_serie(driver, comic_url):
         print(cards[0].get_attribute("outerHTML")[:1600])
 
 
+def probe_edicao(driver, comic_url):
+    """Despeja a estrutura da pagina de uma edicao (criadores, sinopse, personagens)
+    para calibrar o scraper de enriquecimento."""
+    from selenium.webdriver.common.by import By
+    print(f"abrindo a edicao {comic_url}")
+    driver.get(comic_url)
+    inicio = time.monotonic()
+    while time.monotonic() - inicio < 90:
+        try:
+            if driver.execute_script("return document.querySelectorAll('a[href]').length > 30"):
+                break
+        except Exception:
+            pass
+        print(f"  ... esperando montar — titulo={(driver.title or '')[:35]!r}")
+        time.sleep(3)
+
+    js = r"""
+    const grupos = {};
+    for (const a of document.querySelectorAll('a[href]')) {
+      const h = a.getAttribute('href') || '';
+      const m = h.match(/\/(people|creator|creators|character|characters|profile)\//i);
+      if (m) { const k = m[1].toLowerCase(); (grupos[k] ||= []).push((a.textContent||'').replace(/\s+/g,' ').trim().slice(0,28)); }
+    }
+    const secoes = [];
+    for (const sel of ['[class*=creator i]','[class*=character i]','[class*=descrip i]',
+                       '[class*=credit i]','[class*=synops i]','[id*=creator i]','[id*=character i]']) {
+      let el; try { el = document.querySelector(sel); } catch(e) { el = null; }
+      if (el) secoes.push({sel, cls: (el.className||'').toString().slice(0,55),
+                           html: el.outerHTML.replace(/\s+/g,' ').slice(0,480)});
+    }
+    let sinopse = '';
+    for (const el of document.querySelectorAll('p, div')) {
+      const t = (el.textContent || '').trim();
+      if (t.length > 120 && t.length < 1500 && !el.querySelector('a, button, img')) { sinopse = t.slice(0,320); break; }
+    }
+    return {grupos, secoes, sinopse};
+    """
+    d = driver.execute_script(js)
+    print("\n=== links por padrao (criadores/personagens) ===")
+    for k, v in (d.get("grupos") or {}).items():
+        print(f"  /{k}/  ({len(v)}): {v[:10]}")
+    print("\n=== secoes candidatas (creator/character/description/credit) ===")
+    for s in d.get("secoes") or []:
+        print(f"\n  {s['sel']}  class='{s['cls']}'")
+        print(f"    {s['html']}")
+    print(f"\n=== candidato a sinopse ===\n  {d.get('sinopse') or '(nao achou)'}")
+    print("\nCola tudo -- com isso eu escrevo o scraper de enriquecimento.")
+
+
 # ---------------------------------------------------------------- pipeline
 
 def _edicao_do_card(c, partes):
@@ -1004,6 +1053,8 @@ def main():
                     help="lista os checkboxes de FORMAT/PUBLISHERS da barra lateral")
     ap.add_argument("--probe-serie", metavar="URL_EDICAO",
                     help="a partir de uma URL de edicao, despeja a estrutura da serie")
+    ap.add_argument("--probe-edicao", metavar="URL_EDICAO",
+                    help="despeja a estrutura da pagina de uma edicao (criadores/sinopse/personagens)")
     ap.add_argument("--desde", default="2026-01-01", help="inicio da janela (AAAA-MM-DD)")
     ap.add_argument("--completo", action="store_true",
                     help="tambem busca as edicoes anteriores a --desde na pagina de "
@@ -1050,6 +1101,8 @@ def main():
             return probe_semana(driver, args.probe_semana)
         if args.probe_serie:
             return probe_serie(driver, args.probe_serie)
+        if args.probe_edicao:
+            return probe_edicao(driver, args.probe_edicao)
         if args.reparar:
             return reparar(driver, fim_do_mes_seguinte(dt.date.today()))
         if args.atualizar:

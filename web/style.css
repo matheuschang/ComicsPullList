@@ -8,6 +8,7 @@
   --dc: #2f6fe4;
   --marvel: #e0353b;
   --ok: #3fbf7f;
+  --estrela: #e6b23c;
   --raio: 12px;
   /* Sombras em camadas -- profundidade sutil, sem mexer nas cores. */
   --sombra: 0 1px 2px rgba(0, 0, 0, .22), 0 5px 18px rgba(0, 0, 0, .16);
@@ -236,6 +237,18 @@ main { padding: 20px 24px 64px; max-width: 1320px; margin: 0 auto; }
 .numero { font-weight: 700; min-width: 58px; }
 .data { color: var(--texto-2); font-size: 13px; min-width: 88px; }
 .preco { color: var(--texto-2); font-size: 13px; }
+
+/* Avaliacao 1-5. DOM em ordem reversa (5..1) + row-reverse: o hover preenche da
+   esquerda ate a estrela sob o cursor. */
+.estrelas { display: inline-flex; flex-direction: row-reverse; gap: 1px; flex: none; }
+.estrela {
+  background: none; border: 0; padding: 1px 2px; cursor: pointer;
+  font-size: 16px; line-height: 1; color: var(--borda); transition: color .1s ease;
+}
+.estrela.cheia { color: var(--estrela); }
+.estrelas:hover .estrela { color: var(--borda); }
+.estrelas:hover .estrela:hover,
+.estrelas:hover .estrela:hover ~ .estrela { color: var(--estrela); }
 
 .links { display: flex; gap: 10px; font-size: 12px; }
 .links a { color: var(--texto-2); }

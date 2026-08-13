@@ -42,6 +42,16 @@ function capa(serie, classe) {
   return `<div class="${classe} capa-vazia">${esc(iniciais(serie.nome))}</div>`;
 }
 
+/** Estrelas 1-5 de uma edicao. Renderiza 5->1 (o CSS usa row-reverse) para o
+ * hover preencher da esquerda ate a estrela sob o cursor. */
+function estrelasHTML(numero, nota) {
+  let s = '';
+  for (let n = 5; n >= 1; n--) {
+    s += `<button type="button" class="estrela ${n <= nota ? 'cheia' : ''}" data-nota-val="${n}" aria-label="Avaliar ${n} de 5">★</button>`;
+  }
+  return `<span class="estrelas" data-nota-num="${esc(numero)}" data-nota="${nota}">${s}</span>`;
+}
+
 async function edicoesDe(id) {
   if (!cacheEdicoes.has(id)) {
     const r = await fetch(`data/issues/${id}.json`);
@@ -718,6 +728,7 @@ async function verSerie(id) {
   const [edicoes, lidas, segue] = await Promise.all([
     edicoesDe(id), store.lidas(id), store.segue(id),
   ]);
+  const notas = await store.notas(id);
   const hoje = meta.referencia;
   const pendentes = edicoes.filter((e) => !lidas.has(e.numero) && e.data <= hoje).length;
   // total_anunciado (quando existir) diz quantas edicoes a serie tem no total;
@@ -764,6 +775,7 @@ async function verSerie(id) {
             ${futura ? '<span class="tag-futura">a sair</span>' : ''}
             ${e.preco ? `<span class="preco">US$ ${esc(e.preco)}</span>` : ''}
           </label>
+          ${futura ? '' : estrelasHTML(e.numero, notas.get(e.numero) || 0)}
           <span class="links">
             ${e.link ? `<a href="${esc(e.link)}" target="_blank" rel="noopener">ficha</a>` : ''}
             ${e.read_link ? `<a class="tag-ler" href="${esc(e.read_link)}" target="_blank" rel="noopener">LER</a>` : ''}
@@ -771,6 +783,17 @@ async function verSerie(id) {
         </li>`;
       }).join('')}
     </ol>`;
+
+  tela.querySelector('.edicoes').addEventListener('click', async (ev) => {
+    const est = ev.target.closest('.estrela');
+    if (!est) return;
+    const cont = est.closest('.estrelas');
+    const val = Number(est.dataset.notaVal);
+    const nova = val === Number(cont.dataset.nota || 0) ? 0 : val; // clicar na nota atual limpa
+    cont.dataset.nota = String(nova);
+    cont.querySelectorAll('.estrela').forEach((s) => s.classList.toggle('cheia', Number(s.dataset.notaVal) <= nova));
+    await store.avaliar(id, cont.dataset.notaNum, nova);
+  });
 
   tela.querySelectorAll('[data-edicao]').forEach((cx) => {
     cx.addEventListener('change', async () => {

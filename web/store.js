@@ -44,9 +44,10 @@ async function carregar() {
   const user = session?.user;
   if (!user) throw new Error('sem sessão');
 
-  const [follows, reads, perfil] = await Promise.all([
+  const [follows, reads, notas, perfil] = await Promise.all([
     comRetry(() => supabase.from('follows').select('serie_id').eq('user_id', user.id)),
     comRetry(() => supabase.from('reads').select('serie_id, numero').eq('user_id', user.id)),
+    comRetry(() => supabase.from('ratings').select('serie_id, numero, nota').eq('user_id', user.id)),
     comRetry(() => supabase.from('profiles').select('email, role, ultima_visita').eq('id', user.id).single()),
   ]);
   if (follows.error) throw follows.error;
@@ -57,11 +58,17 @@ async function carregar() {
     if (!lidas.has(r.serie_id)) lidas.set(r.serie_id, new Set());
     lidas.get(r.serie_id).add(r.numero);
   }
+  const notasMap = new Map(); // serie_id -> Map<numero, nota>
+  for (const r of notas.data || []) {
+    if (!notasMap.has(r.serie_id)) notasMap.set(r.serie_id, new Map());
+    notasMap.get(r.serie_id).set(r.numero, r.nota);
+  }
 
   cache = {
     userId: user.id,
     seguindo: new Set((follows.data || []).map((f) => f.serie_id)),
     lidas,
+    notas: notasMap,
     ultimaVisita: perfil.data?.ultima_visita || null,
     perfil: perfil.data || { email: user.email, role: 'user' },
   };
@@ -129,6 +136,27 @@ export const store = {
       numeros.forEach((n) => set.delete(n));
       await comRetry(() => supabase.from('reads').delete()
         .eq('user_id', c.userId).eq('serie_id', idSerie).in('numero', numeros));
+    }
+  },
+
+  /** Notas (1-5) do usuario para uma serie: Map<numero, nota>. */
+  async notas(idSerie) {
+    return new Map((await carregar()).notas.get(idSerie) || []);
+  },
+
+  /** Avalia uma edicao (1-5); nota 0/null remove a avaliacao. */
+  async avaliar(idSerie, numero, nota) {
+    const c = await carregar();
+    let mapa = c.notas.get(idSerie);
+    if (!mapa) { mapa = new Map(); c.notas.set(idSerie, mapa); }
+    if (nota) {
+      mapa.set(numero, nota);
+      await comRetry(() => supabase.from('ratings')
+        .upsert({ user_id: c.userId, serie_id: idSerie, numero, nota }));
+    } else {
+      mapa.delete(numero);
+      await comRetry(() => supabase.from('ratings').delete()
+        .eq('user_id', c.userId).eq('serie_id', idSerie).eq('numero', numero));
     }
   },
 
