@@ -12,6 +12,10 @@ let ordemDir = 'asc';    // 'asc' | 'desc'
 
 const EDITORAS = { dc: 'DC', marvel: 'Marvel' };
 
+// Icones de olho (mostrar/ocultar senha) -- SVG inline, sem emoji.
+const OLHO = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>';
+const OLHO_OFF = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9.9 4.24A9 9 0 0 1 12 4c6.4 0 10 7 10 7a13.2 13.2 0 0 1-1.7 2.7M6.6 6.6C3.8 8.2 2 12 2 12s3.6 7 10 7a9.5 9.5 0 0 0 5.4-1.6"/><path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/><path d="m2 2 20 20"/></svg>';
+
 // ---------------------------------------------------------------- utilidades
 
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => (
@@ -582,7 +586,7 @@ async function verAdmin() {
           <label class="campo">Senha inicial
             <span class="senha-wrap">
               <input type="password" id="novo-senha" autocomplete="off" minlength="6" required>
-              <button type="button" class="olho" data-olho aria-label="Mostrar senha">👁</button>
+              <button type="button" class="olho" data-olho aria-label="Mostrar senha">${OLHO}</button>
             </span>
           </label>
           <label class="campo">Papel
@@ -617,7 +621,7 @@ async function verAdmin() {
             <form class="reset-form" data-reset-form="${esc(u.id)}" hidden>
               <span class="senha-wrap">
                 <input type="password" placeholder="Nova senha (mín. 6)" minlength="6" required autocomplete="off">
-                <button type="button" class="olho" data-olho aria-label="Mostrar senha">👁</button>
+                <button type="button" class="olho" data-olho aria-label="Mostrar senha">${OLHO}</button>
               </span>
               <button type="submit" class="botao-seguir">Salvar</button>
               <button type="button" class="botao-fantasma" data-reset-cancel>Cancelar</button>
@@ -908,7 +912,8 @@ document.addEventListener('click', (ev) => {
   if (!input) return;
   const revelar = input.type === 'password';
   input.type = revelar ? 'text' : 'password';
-  olho.textContent = revelar ? '🙈' : '👁';
+  olho.innerHTML = revelar ? OLHO_OFF : OLHO;
+  olho.classList.toggle('ativo', revelar);
   olho.setAttribute('aria-label', revelar ? 'Ocultar senha' : 'Mostrar senha');
 });
 
@@ -933,7 +938,7 @@ function mostrarLogin(erro = '') {
       <label class="campo">Senha
         <span class="senha-wrap">
           <input type="password" id="login-senha" autocomplete="current-password" required>
-          <button type="button" class="olho" data-olho aria-label="Mostrar senha">👁</button>
+          <button type="button" class="olho" data-olho aria-label="Mostrar senha">${OLHO}</button>
         </span>
       </label>
       ${erro ? `<p class="login-erro">${esc(erro)}</p>` : ''}
