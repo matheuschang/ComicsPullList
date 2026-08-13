@@ -465,6 +465,10 @@ body.deslogado #usuario { display: none; }
 /* ----------------------------------------------------------------- mobile */
 
 @media (max-width: 700px) {
+  /* Rede de seguranca: nada estoura a largura da tela (clip no body nao quebra o
+     header sticky, ao contrario de overflow hidden). */
+  body { overflow-x: clip; }
+
   /* Header em duas linhas: marca + usuario em cima, abas rolando embaixo. */
   .topo { flex-wrap: wrap; gap: 8px 12px; padding: 9px 12px; }
   .marca { font-size: 18px; }
@@ -496,5 +500,27 @@ body.deslogado #usuario { display: none; }
   .edicoes li { flex-wrap: wrap; gap: 8px; }
   .data { min-width: auto; }
   .user-linha { align-items: flex-start; }
-  .rank li { grid-template-columns: minmax(0, 1fr) 56px 26px; }
+  .rank li { grid-template-columns: minmax(0, 1fr) 52px 24px; }
+
+  /* Controles um pouco mais compactos e discretos. */
+  .segmentos { padding: 2px; }
+  .segmentos button { padding: 6px 11px; font-size: 12.5px; }
+  .alternador, .botao-fantasma, .botao-seguir { font-size: 12.5px; }
+
+  /* Dashboard: tudo cabe na largura. */
+  .tiles { gap: 10px; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
+  .tile { padding: 13px 15px; }
+  .tile-num { font-size: 23px; }
+  .painel { padding: 15px 15px; }
+  .paineis { gap: 14px; }
+  .painel-cabecalho { flex-wrap: wrap; gap: 4px 10px; }
+
+  /* Grafico de meses: colunas encolhem pra caber (12 meses); "Tudo" ainda rola. */
+  .grafico { height: 148px; gap: 4px; }
+  .grafico .col { flex: 1 1 16px; min-width: 16px; }
+  .col-ano { display: none; }        /* mostra so "08" no lugar de "08/26" */
+  .col-rot { font-size: 9px; }
+
+  /* Nada de imagem/lista vazando. */
+  .capa, .capa-grande, img { max-width: 100%; }
 }

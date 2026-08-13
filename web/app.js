@@ -278,7 +278,7 @@ function graficoMes(dados) {
           <span class="seg-dc" style="height:${(x.dc / max * 100).toFixed(1)}%"></span>
           <span class="seg-mv" style="height:${(x.marvel / max * 100).toFixed(1)}%"></span>
         </div>
-        <span class="col-rot">${x.mes.slice(5)}/${x.mes.slice(2, 4)}</span>
+        <span class="col-rot">${x.mes.slice(5)}<span class="col-ano">/${x.mes.slice(2, 4)}</span></span>
       </div>`).join('')}
   </div>`;
 }
