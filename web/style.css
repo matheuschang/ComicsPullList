@@ -63,6 +63,21 @@ code { background: var(--fundo-3); padding: 1px 5px; border-radius: 4px; font-si
    apareceria pra nao-admin). Esta regra, mais especifica, respeita o hidden. */
 .abas a[hidden] { display: none; }
 
+/* Botao hamburguer: so aparece no mobile (media query abaixo). */
+.btn-menu {
+  position: relative; display: none; align-items: center; justify-content: center;
+  width: 40px; height: 40px; padding: 0; margin-left: auto;
+  background: none; border: 0; border-radius: 9px; cursor: pointer; color: var(--texto);
+}
+.btn-menu svg { width: 22px; height: 22px; display: block; }
+.btn-menu:hover { background: var(--fundo-3); }
+/* Ponto de alerta quando ha novidades (o menu fechado esconderia a pilula). */
+.btn-menu.tem-alerta::after {
+  content: ''; position: absolute; top: 7px; right: 7px;
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--marvel); border: 2px solid var(--fundo);
+}
+
 .pilula {
   min-width: 19px; padding: 1px 6px; border-radius: 99px;
   background: var(--fundo); border: 1px solid var(--borda);
@@ -322,7 +337,10 @@ a.ed-marvel { color: var(--marvel); }
 .janela-rot { color: var(--texto-2); font-size: 12px; margin-left: auto; }
 .barra-dash .janela-rot + .segmentos { margin-left: 0; }
 
-.painel-largo { grid-column: 1 / -1; }
+/* Grid-column full + o proprio painel vira grid com minmax(0,1fr): isso obriga o
+   grafico a ficar preso na largura da coluna (rola dentro) em vez de esticar a
+   pagina, mesmo com 122 meses ("Tudo"). */
+.painel-largo { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1fr); }
 .painel-cabecalho { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 14px; }
 .painel-cabecalho .painel-titulo { margin: 0; }
 .leg-mini { display: flex; align-items: center; gap: 5px; color: var(--texto-2); font-size: 12px; }
@@ -367,7 +385,8 @@ dialog .linha-botoes { margin: 18px 0 12px; }
 
 /* Sem sessao: esconde a navegacao e as acoes do topo. */
 body.deslogado .abas,
-body.deslogado #usuario { display: none; }
+body.deslogado #usuario,
+body.deslogado .btn-menu { display: none !important; }
 
 .login {
   max-width: 360px; margin: 8vh auto 0;
@@ -488,18 +507,25 @@ body.deslogado #usuario { display: none; }
      header sticky, ao contrario de overflow hidden). */
   body { overflow-x: clip; }
 
-  /* Header em duas linhas: marca + usuario em cima, abas rolando embaixo. */
+  /* Header: marca + hamburguer. As abas e o usuario viram um menu recolhivel. */
   .topo { flex-wrap: wrap; gap: 8px 12px; padding: 9px 12px; }
   .marca { font-size: 18px; }
-  .usuario { margin-left: auto; }
-  .usuario-email { max-width: 130px; }
-  .abas {
-    order: 3; flex-basis: 100%; margin-right: 0;
-    overflow-x: auto; overscroll-behavior-x: contain;
-    -webkit-overflow-scrolling: touch; scrollbar-width: none;
+  .btn-menu { display: flex; }
+  .abas, .usuario { display: none; }
+
+  body.menu-aberto .abas {
+    display: flex; flex-direction: column; gap: 2px; order: 3;
+    flex-basis: 100%; margin: 6px 0 0; padding-top: 8px;
+    border-top: 1px solid var(--borda);
   }
-  .abas::-webkit-scrollbar { display: none; }
-  .abas a { flex: 0 0 auto; padding: 7px 11px; font-size: 13px; white-space: nowrap; }
+  body.menu-aberto .abas a { padding: 11px 12px; font-size: 15px; }
+  body.menu-aberto .abas a.ativa { box-shadow: inset 3px 0 0 var(--dc); }
+  body.menu-aberto .usuario {
+    display: flex; order: 4; flex-basis: 100%;
+    justify-content: space-between; align-items: center;
+    margin-top: 6px; padding-top: 8px; border-top: 1px solid var(--borda);
+  }
+  body.menu-aberto .usuario-email { max-width: none; }
 
   main { padding: 16px 12px 56px; }
 

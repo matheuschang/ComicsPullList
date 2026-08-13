@@ -809,6 +809,8 @@ async function atualizarPilulas() {
   const pNov = document.getElementById('pilula-novidades');
   pNov.textContent = nov;
   pNov.hidden = !nov;
+  // Espelha o alerta no botao do menu (que esconde a pilula quando fechado).
+  document.getElementById('btn-menu').classList.toggle('tem-alerta', nov > 0);
 }
 
 function marcarAbaAtiva(aba) {
@@ -990,7 +992,21 @@ function ligarChrome() {
   if (jaLigou) return;
   jaLigou = true;
   document.getElementById('btn-sair').addEventListener('click', () => supabase.auth.signOut());
-  window.addEventListener('hashchange', rotear);
+
+  // Menu hamburguer (mobile): abre/fecha; fecha ao tocar num link ou trocar de rota.
+  const btnMenu = document.getElementById('btn-menu');
+  const fecharMenu = () => {
+    document.body.classList.remove('menu-aberto');
+    btnMenu.setAttribute('aria-expanded', 'false');
+  };
+  btnMenu.addEventListener('click', () => {
+    const aberto = document.body.classList.toggle('menu-aberto');
+    btnMenu.setAttribute('aria-expanded', String(aberto));
+  });
+  document.querySelector('.abas').addEventListener('click', (ev) => {
+    if (ev.target.closest('a')) fecharMenu();
+  });
+  window.addEventListener('hashchange', () => { fecharMenu(); rotear(); });
 }
 
 let appIniciado = false;
