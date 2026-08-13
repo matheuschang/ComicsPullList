@@ -1,0 +1,241 @@
+{
+ "id": "dc_magical-mysteries-of-shazam",
+ "nome": "The Magical Mysteries of Shazam!",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Magical Mysteries of Shazam! #1",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7153264.jpg?1783399542",
+   "link": "https://leagueofcomicgeeks.com/comic/7153264/the-magical-mysteries-of-shazam-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Magical Mysteries of Shazam! #2",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1689697.jpg?1783408920",
+   "link": "https://leagueofcomicgeeks.com/comic/1689697/the-magical-mysteries-of-shazam-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Magical Mysteries of Shazam! #3",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1906131.jpg?1783421117",
+   "link": "https://leagueofcomicgeeks.com/comic/1906131/the-magical-mysteries-of-shazam-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Magical Mysteries of Shazam! #4",
+   "data": "2025-07-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7845333.jpg?1783421807",
+   "link": "https://leagueofcomicgeeks.com/comic/7845333/the-magical-mysteries-of-shazam-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Magical Mysteries of Shazam! #5",
+   "data": "2025-07-31",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6918059.jpg?1783422632",
+   "link": "https://leagueofcomicgeeks.com/comic/6918059/the-magical-mysteries-of-shazam-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "The Magical Mysteries of Shazam! #6",
+   "data": "2025-08-07",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6409798.jpg?1783423601",
+   "link": "https://leagueofcomicgeeks.com/comic/6409798/the-magical-mysteries-of-shazam-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "The Magical Mysteries of Shazam! #7",
+   "data": "2025-08-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8721415.jpg?1785536179",
+   "link": "https://leagueofcomicgeeks.com/comic/8721415/the-magical-mysteries-of-shazam-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "The Magical Mysteries of Shazam! #8",
+   "data": "2025-08-21",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8025306.jpg?1785536155",
+   "link": "https://leagueofcomicgeeks.com/comic/8025306/the-magical-mysteries-of-shazam-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "The Magical Mysteries of Shazam! #9",
+   "data": "2025-08-28",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7097348.jpg?1785885350",
+   "link": "https://leagueofcomicgeeks.com/comic/7097348/the-magical-mysteries-of-shazam-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "The Magical Mysteries of Shazam! #10",
+   "data": "2025-09-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8395788.jpg?1785885400",
+   "link": "https://leagueofcomicgeeks.com/comic/8395788/the-magical-mysteries-of-shazam-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "The Magical Mysteries of Shazam! #11",
+   "data": "2025-09-18",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3043343.jpg?1785885418",
+   "link": "https://leagueofcomicgeeks.com/comic/3043343/the-magical-mysteries-of-shazam-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "The Magical Mysteries of Shazam! #12",
+   "data": "2025-09-25",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5334755.jpg?1768697859",
+   "link": "https://leagueofcomicgeeks.com/comic/5334755/the-magical-mysteries-of-shazam-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "The Magical Mysteries of Shazam! #13",
+   "data": "2025-10-09",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6759450.jpg?1768740293",
+   "link": "https://leagueofcomicgeeks.com/comic/6759450/the-magical-mysteries-of-shazam-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "The Magical Mysteries of Shazam! #14",
+   "data": "2025-10-23",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8094223.jpg?1770217615",
+   "link": "https://leagueofcomicgeeks.com/comic/8094223/the-magical-mysteries-of-shazam-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "The Magical Mysteries of Shazam! #15",
+   "data": "2025-11-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8845638.jpg?1770218058",
+   "link": "https://leagueofcomicgeeks.com/comic/8845638/the-magical-mysteries-of-shazam-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "The Magical Mysteries of Shazam! #16",
+   "data": "2025-11-20",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8458662.jpg?1774188742",
+   "link": "https://leagueofcomicgeeks.com/comic/8458662/the-magical-mysteries-of-shazam-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "The Magical Mysteries of Shazam! #17",
+   "data": "2026-01-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5958004.jpg?1774188796",
+   "link": "https://leagueofcomicgeeks.com/comic/5958004/the-magical-mysteries-of-shazam-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "The Magical Mysteries of Shazam! #18",
+   "data": "2026-01-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6874828.jpg?1774188861",
+   "link": "https://leagueofcomicgeeks.com/comic/6874828/the-magical-mysteries-of-shazam-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "The Magical Mysteries of Shazam! #19",
+   "data": "2026-02-05",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6888371.jpg?1780648079",
+   "link": "https://leagueofcomicgeeks.com/comic/6888371/the-magical-mysteries-of-shazam-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "The Magical Mysteries of Shazam! #20",
+   "data": "2026-02-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5748965.jpg?1780648094",
+   "link": "https://leagueofcomicgeeks.com/comic/5748965/the-magical-mysteries-of-shazam-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "The Magical Mysteries of Shazam! #21",
+   "data": "2026-03-05",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7629317.jpg?1773628561",
+   "link": "https://leagueofcomicgeeks.com/comic/7629317/the-magical-mysteries-of-shazam-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "The Magical Mysteries of Shazam! #22",
+   "data": "2026-03-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7557877.jpg?1780641887",
+   "link": "https://leagueofcomicgeeks.com/comic/7557877/the-magical-mysteries-of-shazam-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "The Magical Mysteries of Shazam! #23",
+   "data": "2026-04-02",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7024694.jpg?1780648069",
+   "link": "https://leagueofcomicgeeks.com/comic/7024694/the-magical-mysteries-of-shazam-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "The Magical Mysteries of Shazam! #24",
+   "data": "2026-04-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5515875.jpg?1780648058",
+   "link": "https://leagueofcomicgeeks.com/comic/5515875/the-magical-mysteries-of-shazam-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "The Magical Mysteries of Shazam! #25",
+   "data": "2026-04-30",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3069139.jpg?1780648114",
+   "link": "https://leagueofcomicgeeks.com/comic/3069139/the-magical-mysteries-of-shazam-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "The Magical Mysteries of Shazam! #26",
+   "data": "2026-05-14",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5975292.jpg?1780648160",
+   "link": "https://leagueofcomicgeeks.com/comic/5975292/the-magical-mysteries-of-shazam-26",
+   "read_link": ""
+  }
+ ]
+}

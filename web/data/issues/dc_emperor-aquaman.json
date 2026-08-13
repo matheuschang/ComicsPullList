@@ -1,0 +1,70 @@
+{
+ "id": "dc_emperor-aquaman",
+ "nome": "Emperor Aquaman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "15",
+   "titulo": "Emperor Aquaman #15",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9017387.jpg?1781780677",
+   "link": "https://leagueofcomicgeeks.com/comic/9017387/emperor-aquaman-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Emperor Aquaman #16",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2467057.jpg?1781780738",
+   "link": "https://leagueofcomicgeeks.com/comic/2467057/emperor-aquaman-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Emperor Aquaman #17",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8712691.jpg?1782849655",
+   "link": "https://leagueofcomicgeeks.com/comic/8712691/emperor-aquaman-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Emperor Aquaman #18",
+   "data": "2026-06-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3337396.jpg?1785083157",
+   "link": "https://leagueofcomicgeeks.com/comic/3337396/emperor-aquaman-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Emperor Aquaman #19",
+   "data": "2026-07-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4422087.jpg?1785136482",
+   "link": "https://leagueofcomicgeeks.com/comic/4422087/emperor-aquaman-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Emperor Aquaman #20",
+   "data": "2026-08-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9951433.jpg?1786575842",
+   "link": "https://leagueofcomicgeeks.com/comic/9951433/emperor-aquaman-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Emperor Aquaman #21",
+   "data": "2026-09-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8730291.jpg?1785160754",
+   "link": "https://leagueofcomicgeeks.com/comic/8730291/emperor-aquaman-21",
+   "read_link": ""
+  }
+ ]
+}

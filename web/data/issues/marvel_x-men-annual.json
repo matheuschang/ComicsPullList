@@ -1,0 +1,16 @@
+{
+ "id": "marvel_x-men-annual",
+ "nome": "X-Men Annual",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "X-Men Annual #1",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2302675.jpg?1772994066",
+   "link": "https://leagueofcomicgeeks.com/comic/2302675/x-men-annual-1",
+   "read_link": ""
+  }
+ ]
+}

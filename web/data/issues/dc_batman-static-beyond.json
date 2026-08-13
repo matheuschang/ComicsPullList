@@ -1,0 +1,61 @@
+{
+ "id": "dc_batman-static-beyond",
+ "nome": "Batman / Static: Beyond",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman / Static: Beyond #1",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9334684.jpg?1772944539",
+   "link": "https://leagueofcomicgeeks.com/comic/9334684/batman-static-beyond-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batman / Static: Beyond #2",
+   "data": "2025-12-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7951570.jpg?1775544025",
+   "link": "https://leagueofcomicgeeks.com/comic/7951570/batman-static-beyond-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batman / Static: Beyond #3",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2069426.jpg?1775542906",
+   "link": "https://leagueofcomicgeeks.com/comic/2069426/batman-static-beyond-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batman / Static: Beyond #4",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7830256.jpg?1775541549",
+   "link": "https://leagueofcomicgeeks.com/comic/7830256/batman-static-beyond-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Batman / Static: Beyond #5",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3529921.jpg?1775543208",
+   "link": "https://leagueofcomicgeeks.com/comic/3529921/batman-static-beyond-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Batman / Static: Beyond #6",
+   "data": "2026-05-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9503620.jpg?1778808137",
+   "link": "https://leagueofcomicgeeks.com/comic/9503620/batman-static-beyond-6",
+   "read_link": ""
+  }
+ ]
+}

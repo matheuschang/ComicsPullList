@@ -1,0 +1,43 @@
+{
+ "id": "marvel_marvel-black-white-blood-and-guts",
+ "nome": "Marvel: Black, White & Blood and Guts",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Marvel: Black, White & Blood and Guts #1",
+   "data": "2025-10-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7659084.jpg?1777897054",
+   "link": "https://leagueofcomicgeeks.com/comic/7659084/marvel-black-white-blood-and-guts-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Marvel: Black, White & Blood and Guts #2",
+   "data": "2025-11-12",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1620435.jpg?1777897039",
+   "link": "https://leagueofcomicgeeks.com/comic/1620435/marvel-black-white-blood-and-guts-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Marvel: Black, White & Blood and Guts #3",
+   "data": "2025-12-03",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1563058.jpg?1777897015",
+   "link": "https://leagueofcomicgeeks.com/comic/1563058/marvel-black-white-blood-and-guts-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Marvel: Black, White & Blood and Guts #4",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2536337.jpg?1777897073",
+   "link": "https://leagueofcomicgeeks.com/comic/2536337/marvel-black-white-blood-and-guts-4",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,475 @@
+{
+ "id": "dc_nothing-butt-nightwing",
+ "nome": "Nothing Butt Nightwing",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Nothing Butt Nightwing #1",
+   "data": "2024-10-14",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6663816.jpg?1765948491",
+   "link": "https://leagueofcomicgeeks.com/comic/6663816/nothing-butt-nightwing-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Nothing Butt Nightwing #2",
+   "data": "2024-10-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1529477.jpg?1769288408",
+   "link": "https://leagueofcomicgeeks.com/comic/1529477/nothing-butt-nightwing-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Nothing Butt Nightwing #3",
+   "data": "2024-11-20",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2177117.jpg?1766727681",
+   "link": "https://leagueofcomicgeeks.com/comic/2177117/nothing-butt-nightwing-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Nothing Butt Nightwing #4",
+   "data": "2024-11-28",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9884525.jpg?1765948554",
+   "link": "https://leagueofcomicgeeks.com/comic/9884525/nothing-butt-nightwing-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Nothing Butt Nightwing #5",
+   "data": "2024-12-04",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5159925.jpg?1765771882",
+   "link": "https://leagueofcomicgeeks.com/comic/5159925/nothing-butt-nightwing-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Nothing Butt Nightwing #6",
+   "data": "2024-12-11",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8216388.jpg?1766727773",
+   "link": "https://leagueofcomicgeeks.com/comic/8216388/nothing-butt-nightwing-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Nothing Butt Nightwing #7",
+   "data": "2024-12-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6802391.jpg?1765782780",
+   "link": "https://leagueofcomicgeeks.com/comic/6802391/nothing-butt-nightwing-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Nothing Butt Nightwing #8",
+   "data": "2025-01-09",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6881463.jpg?1766000003",
+   "link": "https://leagueofcomicgeeks.com/comic/6881463/nothing-butt-nightwing-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Nothing Butt Nightwing #9",
+   "data": "2025-01-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6578605.jpg?1766001218",
+   "link": "https://leagueofcomicgeeks.com/comic/6578605/nothing-butt-nightwing-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Nothing Butt Nightwing #10",
+   "data": "2025-01-23",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1794689.jpg?1765934830",
+   "link": "https://leagueofcomicgeeks.com/comic/1794689/nothing-butt-nightwing-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Nothing Butt Nightwing #11",
+   "data": "2025-01-30",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7646339.jpg?1765954825",
+   "link": "https://leagueofcomicgeeks.com/comic/7646339/nothing-butt-nightwing-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Nothing Butt Nightwing #12",
+   "data": "2025-02-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6678002.jpg?1766727849",
+   "link": "https://leagueofcomicgeeks.com/comic/6678002/nothing-butt-nightwing-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Nothing Butt Nightwing #13",
+   "data": "2025-02-13",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6054704.jpg?1766727868",
+   "link": "https://leagueofcomicgeeks.com/comic/6054704/nothing-butt-nightwing-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Nothing Butt Nightwing #14",
+   "data": "2025-02-20",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9382299.jpg?1766727885",
+   "link": "https://leagueofcomicgeeks.com/comic/9382299/nothing-butt-nightwing-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Nothing Butt Nightwing #15",
+   "data": "2025-02-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1672978.jpg?1766727900",
+   "link": "https://leagueofcomicgeeks.com/comic/1672978/nothing-butt-nightwing-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Nothing Butt Nightwing #16",
+   "data": "2025-03-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8553250.jpg?1766727346",
+   "link": "https://leagueofcomicgeeks.com/comic/8553250/nothing-butt-nightwing-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Nothing Butt Nightwing #17",
+   "data": "2025-03-13",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9903513.jpg?1766014995",
+   "link": "https://leagueofcomicgeeks.com/comic/9903513/nothing-butt-nightwing-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Nothing Butt Nightwing #18",
+   "data": "2025-03-20",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7178434.jpg?1766102238",
+   "link": "https://leagueofcomicgeeks.com/comic/7178434/nothing-butt-nightwing-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Nothing Butt Nightwing #19",
+   "data": "2025-03-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6033571.jpg?1766103800",
+   "link": "https://leagueofcomicgeeks.com/comic/6033571/nothing-butt-nightwing-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Nothing Butt Nightwing #20",
+   "data": "2025-04-03",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4701995.jpg?1766113494",
+   "link": "https://leagueofcomicgeeks.com/comic/4701995/nothing-butt-nightwing-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Nothing Butt Nightwing #21",
+   "data": "2025-04-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7688230.jpg?1766114205",
+   "link": "https://leagueofcomicgeeks.com/comic/7688230/nothing-butt-nightwing-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Nothing Butt Nightwing #22",
+   "data": "2025-04-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7011054.jpg?1766124811",
+   "link": "https://leagueofcomicgeeks.com/comic/7011054/nothing-butt-nightwing-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Nothing Butt Nightwing #23",
+   "data": "2025-05-01",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6066022.jpg?1766727188",
+   "link": "https://leagueofcomicgeeks.com/comic/6066022/nothing-butt-nightwing-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Nothing Butt Nightwing #24",
+   "data": "2025-05-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8309857.jpg?1766126286",
+   "link": "https://leagueofcomicgeeks.com/comic/8309857/nothing-butt-nightwing-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Nothing Butt Nightwing #25",
+   "data": "2025-05-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5014712.jpg?1766727941",
+   "link": "https://leagueofcomicgeeks.com/comic/5014712/nothing-butt-nightwing-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Nothing Butt Nightwing #26",
+   "data": "2025-05-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4411967.jpg?1766727966",
+   "link": "https://leagueofcomicgeeks.com/comic/4411967/nothing-butt-nightwing-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Nothing Butt Nightwing #27",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3915600.jpg?1766727983",
+   "link": "https://leagueofcomicgeeks.com/comic/3915600/nothing-butt-nightwing-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Nothing Butt Nightwing #28",
+   "data": "2025-07-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1400248.jpg?1766728320",
+   "link": "https://leagueofcomicgeeks.com/comic/1400248/nothing-butt-nightwing-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Nothing Butt Nightwing #29",
+   "data": "2025-07-31",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8799396.jpg?1766728503",
+   "link": "https://leagueofcomicgeeks.com/comic/8799396/nothing-butt-nightwing-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Nothing Butt Nightwing #30",
+   "data": "2025-08-07",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2183118.jpg?1766728696",
+   "link": "https://leagueofcomicgeeks.com/comic/2183118/nothing-butt-nightwing-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Nothing Butt Nightwing #31",
+   "data": "2025-08-14",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6188567.jpg?1767076669",
+   "link": "https://leagueofcomicgeeks.com/comic/6188567/nothing-butt-nightwing-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Nothing Butt Nightwing #32",
+   "data": "2025-08-21",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8050325.jpg?1767077117",
+   "link": "https://leagueofcomicgeeks.com/comic/8050325/nothing-butt-nightwing-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Nothing Butt Nightwing #33",
+   "data": "2025-08-28",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1415868.jpg?1767078370",
+   "link": "https://leagueofcomicgeeks.com/comic/1415868/nothing-butt-nightwing-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Nothing Butt Nightwing #34",
+   "data": "2025-09-04",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3630192.jpg?1767078325",
+   "link": "https://leagueofcomicgeeks.com/comic/3630192/nothing-butt-nightwing-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Nothing Butt Nightwing #35",
+   "data": "2025-09-11",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3880106.jpg?1767135962",
+   "link": "https://leagueofcomicgeeks.com/comic/3880106/nothing-butt-nightwing-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Nothing Butt Nightwing #36",
+   "data": "2025-09-18",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2212678.jpg?1767137756",
+   "link": "https://leagueofcomicgeeks.com/comic/2212678/nothing-butt-nightwing-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Nothing Butt Nightwing #37",
+   "data": "2025-09-25",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5634925.jpg?1767138052",
+   "link": "https://leagueofcomicgeeks.com/comic/5634925/nothing-butt-nightwing-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Nothing Butt Nightwing #38",
+   "data": "2025-10-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2119470.jpg?1767138436",
+   "link": "https://leagueofcomicgeeks.com/comic/2119470/nothing-butt-nightwing-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Nothing Butt Nightwing #39",
+   "data": "2025-10-30",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9110248.jpg?1767138715",
+   "link": "https://leagueofcomicgeeks.com/comic/9110248/nothing-butt-nightwing-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Nothing Butt Nightwing #40",
+   "data": "2025-11-13",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8526924.jpg?1773776538",
+   "link": "https://leagueofcomicgeeks.com/comic/8526924/nothing-butt-nightwing-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Nothing Butt Nightwing #41",
+   "data": "2025-11-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3420158.jpg?1773776574",
+   "link": "https://leagueofcomicgeeks.com/comic/3420158/nothing-butt-nightwing-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Nothing Butt Nightwing #42",
+   "data": "2026-01-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9138951.jpg?1773776479",
+   "link": "https://leagueofcomicgeeks.com/comic/9138951/nothing-butt-nightwing-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Nothing Butt Nightwing #43",
+   "data": "2026-01-29",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9803421.jpg?1780393336",
+   "link": "https://leagueofcomicgeeks.com/comic/9803421/nothing-butt-nightwing-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Nothing Butt Nightwing #44",
+   "data": "2026-02-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2020821.jpg?1780580843",
+   "link": "https://leagueofcomicgeeks.com/comic/2020821/nothing-butt-nightwing-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Nothing Butt Nightwing #45",
+   "data": "2026-02-26",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2470851.jpg?1780589252",
+   "link": "https://leagueofcomicgeeks.com/comic/2470851/nothing-butt-nightwing-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Nothing Butt Nightwing #46",
+   "data": "2026-03-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1803685.jpg?1780589265",
+   "link": "https://leagueofcomicgeeks.com/comic/1803685/nothing-butt-nightwing-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Nothing Butt Nightwing #47",
+   "data": "2026-03-26",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4927046.jpg?1780589715",
+   "link": "https://leagueofcomicgeeks.com/comic/4927046/nothing-butt-nightwing-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Nothing Butt Nightwing #48",
+   "data": "2026-04-09",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2916059.jpg?1780393742",
+   "link": "https://leagueofcomicgeeks.com/comic/2916059/nothing-butt-nightwing-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Nothing Butt Nightwing #49",
+   "data": "2026-04-23",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4382315.jpg?1780393829",
+   "link": "https://leagueofcomicgeeks.com/comic/4382315/nothing-butt-nightwing-49",
+   "read_link": ""
+  },
+  {
+   "numero": "50",
+   "titulo": "Nothing Butt Nightwing #50",
+   "data": "2026-05-07",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4994937.jpg?1780393891",
+   "link": "https://leagueofcomicgeeks.com/comic/4994937/nothing-butt-nightwing-50",
+   "read_link": ""
+  },
+  {
+   "numero": "51",
+   "titulo": "Nothing Butt Nightwing #51",
+   "data": "2026-05-21",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6891974.jpg?1780393955",
+   "link": "https://leagueofcomicgeeks.com/comic/6891974/nothing-butt-nightwing-51",
+   "read_link": ""
+  },
+  {
+   "numero": "52",
+   "titulo": "Nothing Butt Nightwing #52",
+   "data": "2026-06-04",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1999185.jpg?1782645219",
+   "link": "https://leagueofcomicgeeks.com/comic/1999185/nothing-butt-nightwing-52",
+   "read_link": ""
+  }
+ ]
+}

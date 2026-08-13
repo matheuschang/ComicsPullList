@@ -1,0 +1,61 @@
+{
+ "id": "marvel_nova-centurion",
+ "nome": "Nova: Centurion",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Nova: Centurion #1",
+   "data": "2025-11-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5900405.jpg?1785733864",
+   "link": "https://leagueofcomicgeeks.com/comic/5900405/nova-centurion-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Nova: Centurion #2",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1534448.jpg?1765733184",
+   "link": "https://leagueofcomicgeeks.com/comic/1534448/nova-centurion-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Nova: Centurion #3",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8477848.jpg?1768323009",
+   "link": "https://leagueofcomicgeeks.com/comic/8477848/nova-centurion-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Nova: Centurion #4",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3632173.jpg?1770423723",
+   "link": "https://leagueofcomicgeeks.com/comic/3632173/nova-centurion-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Nova: Centurion #5",
+   "data": "2026-03-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1919309.jpg?1775633291",
+   "link": "https://leagueofcomicgeeks.com/comic/1919309/nova-centurion-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Nova: Centurion #6",
+   "data": "2026-04-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6433068.jpg?1775591188",
+   "link": "https://leagueofcomicgeeks.com/comic/6433068/nova-centurion-6",
+   "read_link": ""
+  }
+ ]
+}

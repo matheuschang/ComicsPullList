@@ -1,0 +1,16 @@
+{
+ "id": "dc_batman-r-i-p",
+ "nome": "Batman: R.I.P.",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman: R.I.P. #1",
+   "data": "2026-06-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3127388.jpg?1785660985",
+   "link": "https://leagueofcomicgeeks.com/comic/3127388/batman-rip-1",
+   "read_link": ""
+  }
+ ]
+}

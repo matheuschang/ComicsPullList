@@ -1,0 +1,43 @@
+{
+ "id": "dc_sirens-love-hurts",
+ "nome": "Sirens: Love Hurts",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Sirens: Love Hurts #1",
+   "data": "2026-02-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2155717.jpg?1775652815",
+   "link": "https://leagueofcomicgeeks.com/comic/2155717/sirens-love-hurts-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Sirens: Love Hurts #2",
+   "data": "2026-03-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9262759.jpg?1775652829",
+   "link": "https://leagueofcomicgeeks.com/comic/9262759/sirens-love-hurts-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Sirens: Love Hurts #3",
+   "data": "2026-04-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5427473.jpg?1779845085",
+   "link": "https://leagueofcomicgeeks.com/comic/5427473/sirens-love-hurts-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Sirens: Love Hurts #4",
+   "data": "2026-05-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1796167.jpg?1779845024",
+   "link": "https://leagueofcomicgeeks.com/comic/1796167/sirens-love-hurts-4",
+   "read_link": ""
+  }
+ ]
+}

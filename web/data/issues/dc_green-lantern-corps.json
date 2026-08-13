@@ -1,0 +1,187 @@
+{
+ "id": "dc_green-lantern-corps",
+ "nome": "Green Lantern Corps",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Green Lantern Corps #1",
+   "data": "2025-02-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7238886.jpg?1767050863",
+   "link": "https://leagueofcomicgeeks.com/comic/7238886/green-lantern-corps-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Green Lantern Corps #2",
+   "data": "2025-03-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4834585.jpg?1752604685",
+   "link": "https://leagueofcomicgeeks.com/comic/4834585/green-lantern-corps-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Green Lantern Corps #3",
+   "data": "2025-04-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2827268.jpg?1783026983",
+   "link": "https://leagueofcomicgeeks.com/comic/2827268/green-lantern-corps-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Green Lantern Corps #4",
+   "data": "2025-05-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7548916.jpg?1753362847",
+   "link": "https://leagueofcomicgeeks.com/comic/7548916/green-lantern-corps-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Green Lantern Corps #5",
+   "data": "2025-06-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2051602.jpg?1750405922",
+   "link": "https://leagueofcomicgeeks.com/comic/2051602/green-lantern-corps-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Green Lantern Corps #6",
+   "data": "2025-07-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8890683.jpg?1757275190",
+   "link": "https://leagueofcomicgeeks.com/comic/8890683/green-lantern-corps-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Green Lantern Corps #7",
+   "data": "2025-08-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1840885.jpg?1783778229",
+   "link": "https://leagueofcomicgeeks.com/comic/1840885/green-lantern-corps-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Green Lantern Corps #8",
+   "data": "2025-09-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5399819.jpg?1785028020",
+   "link": "https://leagueofcomicgeeks.com/comic/5399819/green-lantern-corps-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Green Lantern Corps #9",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5131684.jpg?1784510230",
+   "link": "https://leagueofcomicgeeks.com/comic/5131684/green-lantern-corps-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Green Lantern Corps #10",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1633748.jpg?1765434314",
+   "link": "https://leagueofcomicgeeks.com/comic/1633748/green-lantern-corps-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Green Lantern Corps #11",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2703363.jpg?1767319247",
+   "link": "https://leagueofcomicgeeks.com/comic/2703363/green-lantern-corps-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Green Lantern Corps #12",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1666782.jpg?1771284073",
+   "link": "https://leagueofcomicgeeks.com/comic/1666782/green-lantern-corps-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Green Lantern Corps #13",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2150858.jpg?1771638213",
+   "link": "https://leagueofcomicgeeks.com/comic/2150858/green-lantern-corps-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Green Lantern Corps #14",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6892653.jpg?1778677332",
+   "link": "https://leagueofcomicgeeks.com/comic/6892653/green-lantern-corps-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Green Lantern Corps #15",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3922703.jpg?1776027277",
+   "link": "https://leagueofcomicgeeks.com/comic/3922703/green-lantern-corps-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Green Lantern Corps #16",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1708635.jpg?1779189596",
+   "link": "https://leagueofcomicgeeks.com/comic/1708635/green-lantern-corps-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Green Lantern Corps #17",
+   "data": "2026-06-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5369609.jpg?1781268885",
+   "link": "https://leagueofcomicgeeks.com/comic/5369609/green-lantern-corps-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Green Lantern Corps #18",
+   "data": "2026-07-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6325175.jpg?1786123855",
+   "link": "https://leagueofcomicgeeks.com/comic/6325175/green-lantern-corps-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Green Lantern Corps #19",
+   "data": "2026-08-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6086826.jpg?1786562630",
+   "link": "https://leagueofcomicgeeks.com/comic/6086826/green-lantern-corps-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Green Lantern Corps #20",
+   "data": "2026-09-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8435049.jpg?1781840910",
+   "link": "https://leagueofcomicgeeks.com/comic/8435049/green-lantern-corps-20",
+   "read_link": ""
+  }
+ ]
+}

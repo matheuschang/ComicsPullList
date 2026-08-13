@@ -1,0 +1,52 @@
+{
+ "id": "marvel_civil-war-unmasked",
+ "nome": "Civil War: Unmasked",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Civil War: Unmasked #1",
+   "data": "2026-05-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4921659.jpg?1779985062",
+   "link": "https://leagueofcomicgeeks.com/comic/4921659/civil-war-unmasked-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Civil War: Unmasked #2",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9528311.jpg?1781167473",
+   "link": "https://leagueofcomicgeeks.com/comic/9528311/civil-war-unmasked-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Civil War: Unmasked #3",
+   "data": "2026-07-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9704289.jpg?1783707445",
+   "link": "https://leagueofcomicgeeks.com/comic/9704289/civil-war-unmasked-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Civil War: Unmasked #4",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4627485.jpg?1786386780",
+   "link": "https://leagueofcomicgeeks.com/comic/4627485/civil-war-unmasked-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Civil War: Unmasked #5",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9282771.jpg?1784226806",
+   "link": "https://leagueofcomicgeeks.com/comic/9282771/civil-war-unmasked-5",
+   "read_link": ""
+  }
+ ]
+}

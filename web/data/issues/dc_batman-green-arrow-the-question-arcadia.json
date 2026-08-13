@@ -1,0 +1,43 @@
+{
+ "id": "dc_batman-green-arrow-the-question-arcadia",
+ "nome": "Batman / Green Arrow / The Question: Arcadia",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman / Green Arrow / The Question: Arcadia #1",
+   "data": "2025-11-26",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9725102.jpg?1783330357",
+   "link": "https://leagueofcomicgeeks.com/comic/9725102/batman-green-arrow-the-question-arcadia-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batman / Green Arrow / The Question: Arcadia #2",
+   "data": "2026-01-07",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8537995.jpg?1783330394",
+   "link": "https://leagueofcomicgeeks.com/comic/8537995/batman-green-arrow-the-question-arcadia-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batman / Green Arrow / The Question: Arcadia #3",
+   "data": "2026-03-04",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2540633.jpg?1783330421",
+   "link": "https://leagueofcomicgeeks.com/comic/2540633/batman-green-arrow-the-question-arcadia-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batman / Green Arrow / The Question: Arcadia #4",
+   "data": "2026-07-01",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4085613.jpg?1783378199",
+   "link": "https://leagueofcomicgeeks.com/comic/4085613/batman-green-arrow-the-question-arcadia-4",
+   "read_link": ""
+  }
+ ]
+}

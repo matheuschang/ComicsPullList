@@ -1,0 +1,25 @@
+{
+ "id": "marvel_spider-man-hulk-fire-and-brimstone",
+ "nome": "Spider-Man / Hulk: Fire and Brimstone",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Spider-Man / Hulk: Fire and Brimstone #1",
+   "data": "2026-08-19",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9368950.jpg?1785855382",
+   "link": "https://leagueofcomicgeeks.com/comic/9368950/spider-man-hulk-fire-and-brimstone-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Spider-Man / Hulk: Fire and Brimstone #2",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4994498.jpg?1785531917",
+   "link": "https://leagueofcomicgeeks.com/comic/4994498/spider-man-hulk-fire-and-brimstone-2",
+   "read_link": ""
+  }
+ ]
+}

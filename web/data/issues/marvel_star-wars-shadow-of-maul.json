@@ -1,0 +1,52 @@
+{
+ "id": "marvel_star-wars-shadow-of-maul",
+ "nome": "Star Wars: Shadow of Maul",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Star Wars: Shadow of Maul #1",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9330579.jpg?1773140213",
+   "link": "https://leagueofcomicgeeks.com/comic/9330579/star-wars-shadow-of-maul-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Star Wars: Shadow of Maul #2",
+   "data": "2026-04-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6002300.jpg?1776110486",
+   "link": "https://leagueofcomicgeeks.com/comic/6002300/star-wars-shadow-of-maul-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Star Wars: Shadow of Maul #3",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8025356.jpg?1779755255",
+   "link": "https://leagueofcomicgeeks.com/comic/8025356/star-wars-shadow-of-maul-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Star Wars: Shadow of Maul #4",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1770275.jpg?1781290897",
+   "link": "https://leagueofcomicgeeks.com/comic/1770275/star-wars-shadow-of-maul-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Star Wars: Shadow of Maul #5",
+   "data": "2026-07-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6713504.jpg?1783917312",
+   "link": "https://leagueofcomicgeeks.com/comic/6713504/star-wars-shadow-of-maul-5",
+   "read_link": ""
+  }
+ ]
+}

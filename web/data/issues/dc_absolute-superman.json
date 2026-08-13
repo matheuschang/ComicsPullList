@@ -1,0 +1,214 @@
+{
+ "id": "dc_absolute-superman",
+ "nome": "Absolute Superman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Absolute Superman #1",
+   "data": "2024-11-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7938850.jpg?1786291257",
+   "link": "https://leagueofcomicgeeks.com/comic/7938850/absolute-superman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Absolute Superman #2",
+   "data": "2024-12-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1356696.jpg?1748036368",
+   "link": "https://leagueofcomicgeeks.com/comic/1356696/absolute-superman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Absolute Superman #3",
+   "data": "2025-01-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3909135.jpg?1745108239",
+   "link": "https://leagueofcomicgeeks.com/comic/3909135/absolute-superman-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Absolute Superman #4",
+   "data": "2025-02-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4509167.jpg?1748052655",
+   "link": "https://leagueofcomicgeeks.com/comic/4509167/absolute-superman-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Absolute Superman #5",
+   "data": "2025-03-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3601635.jpg?1745113546",
+   "link": "https://leagueofcomicgeeks.com/comic/3601635/absolute-superman-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Absolute Superman #6",
+   "data": "2025-04-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9748903.jpg?1759699869",
+   "link": "https://leagueofcomicgeeks.com/comic/9748903/absolute-superman-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Absolute Superman #7",
+   "data": "2025-05-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6840272.jpg?1750188607",
+   "link": "https://leagueofcomicgeeks.com/comic/6840272/absolute-superman-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Absolute Superman #8",
+   "data": "2025-06-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4132139.jpg?1751566199",
+   "link": "https://leagueofcomicgeeks.com/comic/4132139/absolute-superman-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Absolute Superman #9",
+   "data": "2025-07-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1662918.jpg?1752160167",
+   "link": "https://leagueofcomicgeeks.com/comic/1662918/absolute-superman-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Absolute Superman #10",
+   "data": "2025-08-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7031658.jpg?1761927126",
+   "link": "https://leagueofcomicgeeks.com/comic/7031658/absolute-superman-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Absolute Superman #11",
+   "data": "2025-09-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2583532.jpg?1759330542",
+   "link": "https://leagueofcomicgeeks.com/comic/2583532/absolute-superman-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Absolute Superman #12",
+   "data": "2025-10-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8923119.jpg?1782331096",
+   "link": "https://leagueofcomicgeeks.com/comic/8923119/absolute-superman-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Absolute Superman #13",
+   "data": "2025-11-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3106468.jpg?1782331133",
+   "link": "https://leagueofcomicgeeks.com/comic/3106468/absolute-superman-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Absolute Superman #14",
+   "data": "2025-12-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8208323.jpg?1782331155",
+   "link": "https://leagueofcomicgeeks.com/comic/8208323/absolute-superman-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Absolute Superman #15",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6230146.jpg?1767840900",
+   "link": "https://leagueofcomicgeeks.com/comic/6230146/absolute-superman-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Absolute Superman #16",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2567304.jpg?1770895545",
+   "link": "https://leagueofcomicgeeks.com/comic/2567304/absolute-superman-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Absolute Superman #17",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7505264.jpg?1779589300",
+   "link": "https://leagueofcomicgeeks.com/comic/7505264/absolute-superman-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Absolute Superman #18",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2985577.jpg?1778809115",
+   "link": "https://leagueofcomicgeeks.com/comic/2985577/absolute-superman-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Absolute Superman #19",
+   "data": "2026-05-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5525931.jpg?1782775700",
+   "link": "https://leagueofcomicgeeks.com/comic/5525931/absolute-superman-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Absolute Superman #20",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8637080.jpg?1786044478",
+   "link": "https://leagueofcomicgeeks.com/comic/8637080/absolute-superman-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Absolute Superman #21",
+   "data": "2026-07-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9713919.jpg?1785170465",
+   "link": "https://leagueofcomicgeeks.com/comic/9713919/absolute-superman-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Absolute Superman #22",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2856428.jpg?1786386339",
+   "link": "https://leagueofcomicgeeks.com/comic/2856428/absolute-superman-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Absolute Superman #23",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7919676.jpg?1786046405",
+   "link": "https://leagueofcomicgeeks.com/comic/7919676/absolute-superman-23",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pull List — DC & Marvel</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%2312141a'/><rect x='7' y='6' width='8' height='20' rx='2' fill='%232f6fe4'/><rect x='17' y='6' width='8' height='20' rx='2' fill='%23e0353b'/></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topo">
+  <a class="marca" href="#/catalogo">
+    <span class="marca-dc">PULL</span><span class="marca-mv">LIST</span>
+  </a>
+  <nav class="abas">
+    <a href="#/catalogo" data-aba="catalogo">Catálogo</a>
+    <a href="#/seguindo" data-aba="seguindo">Seguindo <span class="pilula" id="pilula-seguindo" hidden></span></a>
+    <a href="#/novidades" data-aba="novidades">Novidades <span class="pilula alerta" id="pilula-novidades" hidden></span></a>
+    <a href="#/dashboard" data-aba="dashboard">Dashboard</a>
+    <a href="#/admin" data-aba="admin" id="aba-admin" hidden>Admin</a>
+  </nav>
+  <div class="usuario" id="usuario" hidden>
+    <span class="usuario-email" id="usuario-email"></span>
+    <button class="botao-fantasma" id="btn-sair">Sair</button>
+  </div>
+</header>
+
+<main id="tela"></main>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

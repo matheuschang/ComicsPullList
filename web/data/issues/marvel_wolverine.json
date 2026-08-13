@@ -1,0 +1,259 @@
+{
+ "id": "marvel_wolverine",
+ "nome": "Wolverine",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Wolverine #1",
+   "data": "2024-09-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5572755.jpg?1731871180",
+   "link": "https://leagueofcomicgeeks.com/comic/5572755/wolverine-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Wolverine #2",
+   "data": "2024-10-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2642520.jpg?1750809299",
+   "link": "https://leagueofcomicgeeks.com/comic/2642520/wolverine-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Wolverine #3",
+   "data": "2024-11-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8389537.jpg?1750809251",
+   "link": "https://leagueofcomicgeeks.com/comic/8389537/wolverine-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Wolverine #4",
+   "data": "2024-12-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2111196.jpg?1753470221",
+   "link": "https://leagueofcomicgeeks.com/comic/2111196/wolverine-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Wolverine #5",
+   "data": "2025-01-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7448483.jpg?1765723644",
+   "link": "https://leagueofcomicgeeks.com/comic/7448483/wolverine-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Wolverine #6",
+   "data": "2025-02-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1443714.jpg?1753470177",
+   "link": "https://leagueofcomicgeeks.com/comic/1443714/wolverine-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Wolverine #7",
+   "data": "2025-03-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5077614.jpg?1753470090",
+   "link": "https://leagueofcomicgeeks.com/comic/5077614/wolverine-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Wolverine #8",
+   "data": "2025-04-16",
+   "preco": "7.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9225376.jpg?1754196968",
+   "link": "https://leagueofcomicgeeks.com/comic/9225376/wolverine-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Wolverine #9",
+   "data": "2025-05-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2862816.jpg?1753473455",
+   "link": "https://leagueofcomicgeeks.com/comic/2862816/wolverine-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Wolverine #10",
+   "data": "2025-06-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6468915.jpg?1753259410",
+   "link": "https://leagueofcomicgeeks.com/comic/6468915/wolverine-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Wolverine #11",
+   "data": "2025-07-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3540479.jpg?1753748809",
+   "link": "https://leagueofcomicgeeks.com/comic/3540479/wolverine-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Wolverine #12",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3319773.jpg?1757432011",
+   "link": "https://leagueofcomicgeeks.com/comic/3319773/wolverine-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Wolverine #13",
+   "data": "2025-09-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5593307.jpg?1781130048",
+   "link": "https://leagueofcomicgeeks.com/comic/5593307/wolverine-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Wolverine #14",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3908186.jpg?1770334257",
+   "link": "https://leagueofcomicgeeks.com/comic/3908186/wolverine-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Wolverine #15",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2350987.jpg?1771440213",
+   "link": "https://leagueofcomicgeeks.com/comic/2350987/wolverine-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Wolverine #16",
+   "data": "2026-02-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9980287.jpg?1771899573",
+   "link": "https://leagueofcomicgeeks.com/comic/9980287/wolverine-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Wolverine #17",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8647014.jpg?1773080542",
+   "link": "https://leagueofcomicgeeks.com/comic/8647014/wolverine-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Wolverine #18",
+   "data": "2026-04-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2927995.jpg?1776451934",
+   "link": "https://leagueofcomicgeeks.com/comic/2927995/wolverine-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Wolverine #19",
+   "data": "2026-04-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2525827.jpg?1785312446",
+   "link": "https://leagueofcomicgeeks.com/comic/2525827/wolverine-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Wolverine #20",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7622207.jpg?1785680658",
+   "link": "https://leagueofcomicgeeks.com/comic/7622207/wolverine-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Wolverine #21",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2126239.jpg?1785312549",
+   "link": "https://leagueofcomicgeeks.com/comic/2126239/wolverine-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Wolverine #22",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1976080.jpg?1785343452",
+   "link": "https://leagueofcomicgeeks.com/comic/1976080/wolverine-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Wolverine #23",
+   "data": "2026-07-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9354699.jpg?1785343472",
+   "link": "https://leagueofcomicgeeks.com/comic/9354699/wolverine-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Wolverine #24",
+   "data": "2026-07-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5451070.jpg?1785312338",
+   "link": "https://leagueofcomicgeeks.com/comic/5451070/wolverine-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Wolverine #25",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6201148.jpg?1786577706",
+   "link": "https://leagueofcomicgeeks.com/comic/6201148/wolverine-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Wolverine #26",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2591013.jpg?1784223685",
+   "link": "https://leagueofcomicgeeks.com/comic/2591013/wolverine-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Wolverine #27",
+   "data": "2026-09-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7691445.jpg?1785530023",
+   "link": "https://leagueofcomicgeeks.com/comic/7691445/wolverine-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Wolverine #28",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6220431.jpg?1784223700",
+   "link": "https://leagueofcomicgeeks.com/comic/6220431/wolverine-28",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "marvel_queen-in-black",
+ "nome": "Queen in Black",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Queen in Black #1",
+   "data": "2026-07-29",
+   "preco": "7.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4051191.jpg?1786313764",
+   "link": "https://leagueofcomicgeeks.com/comic/4051191/queen-in-black-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Queen in Black #2",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4046841.jpg?1786467372",
+   "link": "https://leagueofcomicgeeks.com/comic/4046841/queen-in-black-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Queen in Black #3",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7560318.jpg?1785855126",
+   "link": "https://leagueofcomicgeeks.com/comic/7560318/queen-in-black-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Queen in Black #4",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2177503.jpg?1785596524",
+   "link": "https://leagueofcomicgeeks.com/comic/2177503/queen-in-black-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Queen in Black #5",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8814110.jpg?1785596505",
+   "link": "https://leagueofcomicgeeks.com/comic/8814110/queen-in-black-5",
+   "read_link": ""
+  }
+ ]
+}

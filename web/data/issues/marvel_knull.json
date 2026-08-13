@@ -1,0 +1,52 @@
+{
+ "id": "marvel_knull",
+ "nome": "Knull",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Knull #1",
+   "data": "2026-01-14",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1260188.jpg?1785170440",
+   "link": "https://leagueofcomicgeeks.com/comic/1260188/knull-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Knull #2",
+   "data": "2026-02-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7308235.jpg?1785169182",
+   "link": "https://leagueofcomicgeeks.com/comic/7308235/knull-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Knull #3",
+   "data": "2026-03-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3895478.jpg?1785169264",
+   "link": "https://leagueofcomicgeeks.com/comic/3895478/knull-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Knull #4",
+   "data": "2026-04-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9030655.jpg?1785079752",
+   "link": "https://leagueofcomicgeeks.com/comic/9030655/knull-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Knull #5",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1178177.jpg?1782643025",
+   "link": "https://leagueofcomicgeeks.com/comic/1178177/knull-5",
+   "read_link": ""
+  }
+ ]
+}

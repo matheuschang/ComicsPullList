@@ -1,0 +1,160 @@
+{
+ "id": "dc_supergirl",
+ "nome": "Supergirl",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Supergirl #1",
+   "data": "2025-05-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2624016.jpg?1780366879",
+   "link": "https://leagueofcomicgeeks.com/comic/2624016/supergirl-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Supergirl #2",
+   "data": "2025-06-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7341811.jpg?1763231613",
+   "link": "https://leagueofcomicgeeks.com/comic/7341811/supergirl-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Supergirl #3",
+   "data": "2025-07-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7480888.jpg?1763231685",
+   "link": "https://leagueofcomicgeeks.com/comic/7480888/supergirl-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Supergirl #4",
+   "data": "2025-08-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8966420.jpg?1763231707",
+   "link": "https://leagueofcomicgeeks.com/comic/8966420/supergirl-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Supergirl #5",
+   "data": "2025-09-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4260381.jpg?1780366919",
+   "link": "https://leagueofcomicgeeks.com/comic/4260381/supergirl-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Supergirl #6",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9139268.jpg?1765524379",
+   "link": "https://leagueofcomicgeeks.com/comic/9139268/supergirl-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Supergirl #7",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7168677.jpg?1780400275",
+   "link": "https://leagueofcomicgeeks.com/comic/7168677/supergirl-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Supergirl #8",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4319153.jpg?1765688317",
+   "link": "https://leagueofcomicgeeks.com/comic/4319153/supergirl-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Supergirl #9",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5311865.jpg?1768783307",
+   "link": "https://leagueofcomicgeeks.com/comic/5311865/supergirl-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Supergirl #10",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9288259.jpg?1771210264",
+   "link": "https://leagueofcomicgeeks.com/comic/9288259/supergirl-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Supergirl #11",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4098495.jpg?1781783084",
+   "link": "https://leagueofcomicgeeks.com/comic/4098495/supergirl-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Supergirl #12",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9617691.jpg?1777504914",
+   "link": "https://leagueofcomicgeeks.com/comic/9617691/supergirl-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Supergirl #13",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5694671.jpg?1781141579",
+   "link": "https://leagueofcomicgeeks.com/comic/5694671/supergirl-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Supergirl #14",
+   "data": "2026-06-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4754342.jpg?1786048836",
+   "link": "https://leagueofcomicgeeks.com/comic/4754342/supergirl-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Supergirl #15",
+   "data": "2026-07-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9662862.jpg?1786535239",
+   "link": "https://leagueofcomicgeeks.com/comic/9662862/supergirl-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Supergirl #16",
+   "data": "2026-08-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9886181.jpg?1786577348",
+   "link": "https://leagueofcomicgeeks.com/comic/9886181/supergirl-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Supergirl #17",
+   "data": "2026-09-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7622584.jpg?1782785123",
+   "link": "https://leagueofcomicgeeks.com/comic/7622584/supergirl-17",
+   "read_link": ""
+  }
+ ]
+}

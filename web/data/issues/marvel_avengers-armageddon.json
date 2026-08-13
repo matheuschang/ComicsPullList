@@ -1,0 +1,43 @@
+{
+ "id": "marvel_avengers-armageddon",
+ "nome": "Avengers: Armageddon",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Avengers: Armageddon #1",
+   "data": "2026-06-10",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2843535.jpg?1785219783",
+   "link": "https://leagueofcomicgeeks.com/comic/2843535/avengers-armageddon-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Avengers: Armageddon #2",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3773849.jpg?1784194376",
+   "link": "https://leagueofcomicgeeks.com/comic/3773849/avengers-armageddon-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Avengers: Armageddon #3",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2027968.jpg?1785854281",
+   "link": "https://leagueofcomicgeeks.com/comic/2027968/avengers-armageddon-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Avengers: Armageddon #4",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6658111.jpg?1786584344",
+   "link": "https://leagueofcomicgeeks.com/comic/6658111/avengers-armageddon-4",
+   "read_link": ""
+  }
+ ]
+}

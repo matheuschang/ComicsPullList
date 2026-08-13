@@ -1,0 +1,52 @@
+{
+ "id": "marvel_punisher-red-band",
+ "nome": "Punisher: Red Band",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Punisher: Red Band #1",
+   "data": "2025-09-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4442085.jpg?1772004734",
+   "link": "https://leagueofcomicgeeks.com/comic/4442085/punisher-red-band-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Punisher: Red Band #2",
+   "data": "2025-10-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7462582.jpg?1772004779",
+   "link": "https://leagueofcomicgeeks.com/comic/7462582/punisher-red-band-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Punisher: Red Band #3",
+   "data": "2025-11-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1942172.jpg?1771968721",
+   "link": "https://leagueofcomicgeeks.com/comic/1942172/punisher-red-band-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Punisher: Red Band #4",
+   "data": "2025-12-31",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7873338.jpg?1771968797",
+   "link": "https://leagueofcomicgeeks.com/comic/7873338/punisher-red-band-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Punisher: Red Band #5",
+   "data": "2026-01-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5328673.jpg?1772004919",
+   "link": "https://leagueofcomicgeeks.com/comic/5328673/punisher-red-band-5",
+   "read_link": ""
+  }
+ ]
+}

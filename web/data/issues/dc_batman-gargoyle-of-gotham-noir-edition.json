@@ -1,0 +1,43 @@
+{
+ "id": "dc_batman-gargoyle-of-gotham-noir-edition",
+ "nome": "Batman: Gargoyle of Gotham – Noir Edition",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman: Gargoyle of Gotham – Noir Edition #1",
+   "data": "2023-09-12",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3819732.jpg?1733365625",
+   "link": "https://leagueofcomicgeeks.com/comic/3819732/batman-gargoyle-of-gotham-noir-edition-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batman: Gargoyle of Gotham – Noir Edition #2",
+   "data": "2023-12-12",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9441062.jpg?1733365625",
+   "link": "https://leagueofcomicgeeks.com/comic/9441062/batman-gargoyle-of-gotham-noir-edition-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batman: Gargoyle of Gotham – Noir Edition #3",
+   "data": "2024-12-26",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4117242.jpg?1735359575",
+   "link": "https://leagueofcomicgeeks.com/comic/4117242/batman-gargoyle-of-gotham-noir-edition-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batman: Gargoyle of Gotham – Noir Edition #4",
+   "data": "2026-06-10",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3579923.jpg?1778194298",
+   "link": "https://leagueofcomicgeeks.com/comic/3579923/batman-gargoyle-of-gotham-noir-edition-4",
+   "read_link": ""
+  }
+ ]
+}

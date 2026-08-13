@@ -1,0 +1,34 @@
+{
+ "id": "dc_bizarro-year-none",
+ "nome": "Bizarro: Year None",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Bizarro: Year None #1",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5257026.jpg?1782307698",
+   "link": "https://leagueofcomicgeeks.com/comic/5257026/bizarro-year-none-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Bizarro: Year None #2",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7099272.jpg?1782327204",
+   "link": "https://leagueofcomicgeeks.com/comic/7099272/bizarro-year-none-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Bizarro: Year None #3",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9288857.jpg?1781841285",
+   "link": "https://leagueofcomicgeeks.com/comic/9288857/bizarro-year-none-3",
+   "read_link": ""
+  }
+ ]
+}

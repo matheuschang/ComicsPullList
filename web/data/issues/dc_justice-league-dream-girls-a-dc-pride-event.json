@@ -1,0 +1,43 @@
+{
+ "id": "dc_justice-league-dream-girls-a-dc-pride-event",
+ "nome": "Justice League: Dream Girls – A DC Pride Event",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Justice League: Dream Girls – A DC Pride Event #1",
+   "data": "2026-06-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2179943.jpg?1783432418",
+   "link": "https://leagueofcomicgeeks.com/comic/2179943/justice-league-dream-girls-a-dc-pride-event-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Justice League: Dream Girls – A DC Pride Event #2",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2069345.jpg?1783432405",
+   "link": "https://leagueofcomicgeeks.com/comic/2069345/justice-league-dream-girls-a-dc-pride-event-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Justice League: Dream Girls – A DC Pride Event #3",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5529331.jpg?1783432428",
+   "link": "https://leagueofcomicgeeks.com/comic/5529331/justice-league-dream-girls-a-dc-pride-event-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Justice League: Dream Girls – A DC Pride Event #4",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3808778.jpg?1783432441",
+   "link": "https://leagueofcomicgeeks.com/comic/3808778/justice-league-dream-girls-a-dc-pride-event-4",
+   "read_link": ""
+  }
+ ]
+}

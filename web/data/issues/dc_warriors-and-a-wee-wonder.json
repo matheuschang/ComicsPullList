@@ -1,0 +1,241 @@
+{
+ "id": "dc_warriors-and-a-wee-wonder",
+ "nome": "Warriors and a Wee Wonder",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Warriors and a Wee Wonder #1",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6145730.jpg?1780453456",
+   "link": "https://leagueofcomicgeeks.com/comic/6145730/warriors-and-a-wee-wonder-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Warriors and a Wee Wonder #2",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6088879.jpg?1781189023",
+   "link": "https://leagueofcomicgeeks.com/comic/6088879/warriors-and-a-wee-wonder-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Warriors and a Wee Wonder #3",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5084313.jpg?1768430031",
+   "link": "https://leagueofcomicgeeks.com/comic/5084313/warriors-and-a-wee-wonder-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Warriors and a Wee Wonder #4",
+   "data": "2025-07-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6741936.jpg?1768430457",
+   "link": "https://leagueofcomicgeeks.com/comic/6741936/warriors-and-a-wee-wonder-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Warriors and a Wee Wonder #5",
+   "data": "2025-07-30",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5752269.jpg?1768431199",
+   "link": "https://leagueofcomicgeeks.com/comic/5752269/warriors-and-a-wee-wonder-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Warriors and a Wee Wonder #6",
+   "data": "2025-08-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3892437.jpg?1768431481",
+   "link": "https://leagueofcomicgeeks.com/comic/3892437/warriors-and-a-wee-wonder-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Warriors and a Wee Wonder #7",
+   "data": "2025-08-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9438898.jpg?1768431958",
+   "link": "https://leagueofcomicgeeks.com/comic/9438898/warriors-and-a-wee-wonder-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Warriors and a Wee Wonder #8",
+   "data": "2025-08-19",
+   "preco": "",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6725609.jpg?1768432564",
+   "link": "https://leagueofcomicgeeks.com/comic/6725609/warriors-and-a-wee-wonder-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Warriors and a Wee Wonder #9",
+   "data": "2025-08-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4503010.jpg?1768433820",
+   "link": "https://leagueofcomicgeeks.com/comic/4503010/warriors-and-a-wee-wonder-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Warriors and a Wee Wonder #10",
+   "data": "2025-09-03",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4092331.jpg?1768434427",
+   "link": "https://leagueofcomicgeeks.com/comic/4092331/warriors-and-a-wee-wonder-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Warriors and a Wee Wonder #11",
+   "data": "2025-09-10",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9267909.jpg?1768434565",
+   "link": "https://leagueofcomicgeeks.com/comic/9267909/warriors-and-a-wee-wonder-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Warriors and a Wee Wonder #12",
+   "data": "2025-09-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1859088.jpg?1768435136",
+   "link": "https://leagueofcomicgeeks.com/comic/1859088/warriors-and-a-wee-wonder-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Warriors and a Wee Wonder #13",
+   "data": "2025-09-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1295601.jpg?1768435256",
+   "link": "https://leagueofcomicgeeks.com/comic/1295601/warriors-and-a-wee-wonder-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Warriors and a Wee Wonder #14",
+   "data": "2025-10-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6842091.jpg?1768435398",
+   "link": "https://leagueofcomicgeeks.com/comic/6842091/warriors-and-a-wee-wonder-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Warriors and a Wee Wonder #15",
+   "data": "2025-10-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8850071.jpg?1768435544",
+   "link": "https://leagueofcomicgeeks.com/comic/8850071/warriors-and-a-wee-wonder-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Warriors and a Wee Wonder #16",
+   "data": "2025-11-05",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5271268.jpg?1768435656",
+   "link": "https://leagueofcomicgeeks.com/comic/5271268/warriors-and-a-wee-wonder-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Warriors and a Wee Wonder #17",
+   "data": "2025-11-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1612567.jpg?1780701823",
+   "link": "https://leagueofcomicgeeks.com/comic/1612567/warriors-and-a-wee-wonder-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Warriors and a Wee Wonder #18",
+   "data": "2026-01-07",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6341794.jpg?1780698932",
+   "link": "https://leagueofcomicgeeks.com/comic/6341794/warriors-and-a-wee-wonder-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Warriors and a Wee Wonder #19",
+   "data": "2026-01-21",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9321435.jpg?1780698973",
+   "link": "https://leagueofcomicgeeks.com/comic/9321435/warriors-and-a-wee-wonder-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Warriors and a Wee Wonder #20",
+   "data": "2026-02-04",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5267062.jpg?1780699004",
+   "link": "https://leagueofcomicgeeks.com/comic/5267062/warriors-and-a-wee-wonder-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Warriors and a Wee Wonder #21",
+   "data": "2026-02-18",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9639148.jpg?1780699160",
+   "link": "https://leagueofcomicgeeks.com/comic/9639148/warriors-and-a-wee-wonder-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Warriors and a Wee Wonder #22",
+   "data": "2026-03-18",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5225838.jpg?1780699227",
+   "link": "https://leagueofcomicgeeks.com/comic/5225838/warriors-and-a-wee-wonder-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Warriors and a Wee Wonder #23",
+   "data": "2026-04-01",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2423782.jpg?1780699253",
+   "link": "https://leagueofcomicgeeks.com/comic/2423782/warriors-and-a-wee-wonder-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Warriors and a Wee Wonder #24",
+   "data": "2026-04-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8365769.jpg?1780699278",
+   "link": "https://leagueofcomicgeeks.com/comic/8365769/warriors-and-a-wee-wonder-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Warriors and a Wee Wonder #25",
+   "data": "2026-05-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4402936.jpg?1780699341",
+   "link": "https://leagueofcomicgeeks.com/comic/4402936/warriors-and-a-wee-wonder-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Warriors and a Wee Wonder #26",
+   "data": "2026-05-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2961369.jpg?1780700658",
+   "link": "https://leagueofcomicgeeks.com/comic/2961369/warriors-and-a-wee-wonder-26",
+   "read_link": ""
+  }
+ ]
+}

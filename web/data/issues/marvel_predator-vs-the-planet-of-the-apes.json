@@ -1,0 +1,34 @@
+{
+ "id": "marvel_predator-vs-the-planet-of-the-apes",
+ "nome": "Predator vs. the Planet of the Apes",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Predator vs. the Planet of the Apes #1",
+   "data": "2026-07-29",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6368757.jpg?1785714869",
+   "link": "https://leagueofcomicgeeks.com/comic/6368757/predator-vs-the-planet-of-the-apes-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Predator vs. the Planet of the Apes #2",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3022458.jpg?1784226546",
+   "link": "https://leagueofcomicgeeks.com/comic/3022458/predator-vs-the-planet-of-the-apes-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Predator vs. the Planet of the Apes #3",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "",
+   "link": "https://leagueofcomicgeeks.com/comic/9429654/predator-vs-the-planet-of-the-apes-3",
+   "read_link": ""
+  }
+ ]
+}

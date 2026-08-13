@@ -1,0 +1,16 @@
+{
+ "id": "marvel_web-of-venom",
+ "nome": "Web of Venom",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Web of Venom #1",
+   "data": "2026-04-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6803942.jpg?1775851966",
+   "link": "https://leagueofcomicgeeks.com/comic/6803942/web-of-venom-1",
+   "read_link": ""
+  }
+ ]
+}

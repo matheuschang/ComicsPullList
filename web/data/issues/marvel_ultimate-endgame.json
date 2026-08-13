@@ -1,0 +1,52 @@
+{
+ "id": "marvel_ultimate-endgame",
+ "nome": "Ultimate Endgame",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Ultimate Endgame #1",
+   "data": "2025-12-31",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8680144.jpg?1771622249",
+   "link": "https://leagueofcomicgeeks.com/comic/8680144/ultimate-endgame-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Ultimate Endgame #2",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4980661.jpg?1770479007",
+   "link": "https://leagueofcomicgeeks.com/comic/4980661/ultimate-endgame-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Ultimate Endgame #3",
+   "data": "2026-03-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5529203.jpg?1778672410",
+   "link": "https://leagueofcomicgeeks.com/comic/5529203/ultimate-endgame-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Ultimate Endgame #4",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5179900.jpg?1780652638",
+   "link": "https://leagueofcomicgeeks.com/comic/5179900/ultimate-endgame-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Ultimate Endgame #5",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7873089.jpg?1785069267",
+   "link": "https://leagueofcomicgeeks.com/comic/7873089/ultimate-endgame-5",
+   "read_link": ""
+  }
+ ]
+}

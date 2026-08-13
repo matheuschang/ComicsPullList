@@ -1,0 +1,601 @@
+{
+ "id": "dc_harley-quinn",
+ "nome": "Harley Quinn",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Harley Quinn #1",
+   "data": "2021-03-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8828687.jpg?1783958662",
+   "link": "https://leagueofcomicgeeks.com/comic/8828687/harley-quinn-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Harley Quinn #2",
+   "data": "2021-04-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7879238.jpg?1783958698",
+   "link": "https://leagueofcomicgeeks.com/comic/7879238/harley-quinn-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Harley Quinn #3",
+   "data": "2021-05-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1440392.jpg?1772457199",
+   "link": "https://leagueofcomicgeeks.com/comic/1440392/harley-quinn-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Harley Quinn #4",
+   "data": "2021-06-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7636046.jpg?1783958845",
+   "link": "https://leagueofcomicgeeks.com/comic/7636046/harley-quinn-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Harley Quinn #5",
+   "data": "2021-07-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4823358.jpg?1783958873",
+   "link": "https://leagueofcomicgeeks.com/comic/4823358/harley-quinn-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Harley Quinn #6",
+   "data": "2021-08-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8940209.jpg?1783958893",
+   "link": "https://leagueofcomicgeeks.com/comic/8940209/harley-quinn-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Harley Quinn #7",
+   "data": "2021-09-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5751124.jpg?1783958932",
+   "link": "https://leagueofcomicgeeks.com/comic/5751124/harley-quinn-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Harley Quinn #8",
+   "data": "2021-10-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9219293.jpg?1783958970",
+   "link": "https://leagueofcomicgeeks.com/comic/9219293/harley-quinn-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Harley Quinn #9",
+   "data": "2021-11-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5655782.jpg?1783958992",
+   "link": "https://leagueofcomicgeeks.com/comic/5655782/harley-quinn-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Harley Quinn #10",
+   "data": "2021-12-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4245976.jpg?1783959014",
+   "link": "https://leagueofcomicgeeks.com/comic/4245976/harley-quinn-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Harley Quinn #11",
+   "data": "2022-01-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6559815.jpg?1783959036",
+   "link": "https://leagueofcomicgeeks.com/comic/6559815/harley-quinn-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Harley Quinn #12",
+   "data": "2022-02-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2111167.jpg?1783959094",
+   "link": "https://leagueofcomicgeeks.com/comic/2111167/harley-quinn-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Harley Quinn #13",
+   "data": "2022-03-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4769534.jpg?1783959788",
+   "link": "https://leagueofcomicgeeks.com/comic/4769534/harley-quinn-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Harley Quinn #14",
+   "data": "2022-04-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3636814.jpg?1783959851",
+   "link": "https://leagueofcomicgeeks.com/comic/3636814/harley-quinn-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Harley Quinn #15",
+   "data": "2022-05-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2698942.jpg?1783959881",
+   "link": "https://leagueofcomicgeeks.com/comic/2698942/harley-quinn-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Harley Quinn #16",
+   "data": "2022-06-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4886582.jpg?1783959941",
+   "link": "https://leagueofcomicgeeks.com/comic/4886582/harley-quinn-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Harley Quinn #17",
+   "data": "2022-07-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5255375.jpg?1785516743",
+   "link": "https://leagueofcomicgeeks.com/comic/5255375/harley-quinn-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Harley Quinn #18",
+   "data": "2022-08-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8403231.jpg?1783960002",
+   "link": "https://leagueofcomicgeeks.com/comic/8403231/harley-quinn-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Harley Quinn #19",
+   "data": "2022-08-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7055800.jpg?1783960091",
+   "link": "https://leagueofcomicgeeks.com/comic/7055800/harley-quinn-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Harley Quinn #20",
+   "data": "2022-08-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6123682.jpg?1783960123",
+   "link": "https://leagueofcomicgeeks.com/comic/6123682/harley-quinn-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Harley Quinn #21",
+   "data": "2022-08-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8854573.jpg?1783960175",
+   "link": "https://leagueofcomicgeeks.com/comic/8854573/harley-quinn-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Harley Quinn #22",
+   "data": "2022-09-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9679128.jpg?1723144531",
+   "link": "https://leagueofcomicgeeks.com/comic/9679128/harley-quinn-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Harley Quinn #23",
+   "data": "2022-10-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5068267.jpg?1742816949",
+   "link": "https://leagueofcomicgeeks.com/comic/5068267/harley-quinn-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Harley Quinn #24",
+   "data": "2022-11-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7970939.jpg?1742213344",
+   "link": "https://leagueofcomicgeeks.com/comic/7970939/harley-quinn-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Harley Quinn #25",
+   "data": "2022-12-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9465725.jpg?1741746224",
+   "link": "https://leagueofcomicgeeks.com/comic/9465725/harley-quinn-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Harley Quinn #26",
+   "data": "2023-01-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7700347.jpg?1740876104",
+   "link": "https://leagueofcomicgeeks.com/comic/7700347/harley-quinn-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Harley Quinn #27",
+   "data": "2023-02-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4805359.jpg?1740605048",
+   "link": "https://leagueofcomicgeeks.com/comic/4805359/harley-quinn-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Harley Quinn #28",
+   "data": "2023-03-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5169005.jpg?1740259860",
+   "link": "https://leagueofcomicgeeks.com/comic/5169005/harley-quinn-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Harley Quinn #29",
+   "data": "2023-04-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4415786.jpg?1740184636",
+   "link": "https://leagueofcomicgeeks.com/comic/4415786/harley-quinn-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Harley Quinn #30",
+   "data": "2023-05-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4211819.jpg?1728576719",
+   "link": "https://leagueofcomicgeeks.com/comic/4211819/harley-quinn-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Harley Quinn #31",
+   "data": "2023-06-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2156139.jpg?1771549419",
+   "link": "https://leagueofcomicgeeks.com/comic/2156139/harley-quinn-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Harley Quinn #32",
+   "data": "2023-09-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7826265.jpg?1783957105",
+   "link": "https://leagueofcomicgeeks.com/comic/7826265/harley-quinn-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Harley Quinn #33",
+   "data": "2023-10-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1310472.jpg?1739033674",
+   "link": "https://leagueofcomicgeeks.com/comic/1310472/harley-quinn-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Harley Quinn #34",
+   "data": "2023-11-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7124306.jpg?1738872431",
+   "link": "https://leagueofcomicgeeks.com/comic/7124306/harley-quinn-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Harley Quinn #35",
+   "data": "2023-12-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3955663.jpg?1738625935",
+   "link": "https://leagueofcomicgeeks.com/comic/3955663/harley-quinn-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Harley Quinn #36",
+   "data": "2024-01-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3683205.jpg?1738469385",
+   "link": "https://leagueofcomicgeeks.com/comic/3683205/harley-quinn-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Harley Quinn #37",
+   "data": "2024-02-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6977351.jpg?1738160279",
+   "link": "https://leagueofcomicgeeks.com/comic/6977351/harley-quinn-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Harley Quinn #38",
+   "data": "2024-03-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4786617.jpg?1737934206",
+   "link": "https://leagueofcomicgeeks.com/comic/4786617/harley-quinn-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Harley Quinn #39",
+   "data": "2024-04-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9879524.jpg?1717976242",
+   "link": "https://leagueofcomicgeeks.com/comic/9879524/harley-quinn-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Harley Quinn #40",
+   "data": "2024-05-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9055331.jpg?1737855867",
+   "link": "https://leagueofcomicgeeks.com/comic/9055331/harley-quinn-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Harley Quinn #41",
+   "data": "2024-06-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7456042.jpg?1744602822",
+   "link": "https://leagueofcomicgeeks.com/comic/7456042/harley-quinn-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Harley Quinn #42",
+   "data": "2024-07-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4530531.jpg?1744602954",
+   "link": "https://leagueofcomicgeeks.com/comic/4530531/harley-quinn-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Harley Quinn #43",
+   "data": "2024-09-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1450403.jpg?1764426079",
+   "link": "https://leagueofcomicgeeks.com/comic/1450403/harley-quinn-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Harley Quinn #44",
+   "data": "2024-10-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9456583.jpg?1764426160",
+   "link": "https://leagueofcomicgeeks.com/comic/9456583/harley-quinn-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Harley Quinn #45",
+   "data": "2024-11-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7807702.jpg?1764426310",
+   "link": "https://leagueofcomicgeeks.com/comic/7807702/harley-quinn-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Harley Quinn #46",
+   "data": "2024-12-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3870943.jpg?1756490088",
+   "link": "https://leagueofcomicgeeks.com/comic/3870943/harley-quinn-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Harley Quinn #47",
+   "data": "2025-01-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2839898.jpg?1756490407",
+   "link": "https://leagueofcomicgeeks.com/comic/2839898/harley-quinn-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Harley Quinn #48",
+   "data": "2025-02-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2679019.jpg?1740565537",
+   "link": "https://leagueofcomicgeeks.com/comic/2679019/harley-quinn-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Harley Quinn #49",
+   "data": "2025-03-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3221188.jpg?1742978076",
+   "link": "https://leagueofcomicgeeks.com/comic/3221188/harley-quinn-49",
+   "read_link": ""
+  },
+  {
+   "numero": "50",
+   "titulo": "Harley Quinn #50",
+   "data": "2025-04-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2207939.jpg?1756491386",
+   "link": "https://leagueofcomicgeeks.com/comic/2207939/harley-quinn-50",
+   "read_link": ""
+  },
+  {
+   "numero": "51",
+   "titulo": "Harley Quinn #51",
+   "data": "2025-05-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1983352.jpg?1782531427",
+   "link": "https://leagueofcomicgeeks.com/comic/1983352/harley-quinn-51",
+   "read_link": ""
+  },
+  {
+   "numero": "52",
+   "titulo": "Harley Quinn #52",
+   "data": "2025-06-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8596646.jpg?1756491665",
+   "link": "https://leagueofcomicgeeks.com/comic/8596646/harley-quinn-52",
+   "read_link": ""
+  },
+  {
+   "numero": "53",
+   "titulo": "Harley Quinn #53",
+   "data": "2025-08-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6230356.jpg?1765733484",
+   "link": "https://leagueofcomicgeeks.com/comic/6230356/harley-quinn-53",
+   "read_link": ""
+  },
+  {
+   "numero": "54",
+   "titulo": "Harley Quinn #54",
+   "data": "2025-09-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7240044.jpg?1765733496",
+   "link": "https://leagueofcomicgeeks.com/comic/7240044/harley-quinn-54",
+   "read_link": ""
+  },
+  {
+   "numero": "55",
+   "titulo": "Harley Quinn #55",
+   "data": "2025-10-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9152081.jpg?1765733514",
+   "link": "https://leagueofcomicgeeks.com/comic/9152081/harley-quinn-55",
+   "read_link": ""
+  },
+  {
+   "numero": "56",
+   "titulo": "Harley Quinn #56",
+   "data": "2025-11-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6831566.jpg?1766840798",
+   "link": "https://leagueofcomicgeeks.com/comic/6831566/harley-quinn-56",
+   "read_link": ""
+  },
+  {
+   "numero": "57",
+   "titulo": "Harley Quinn #57",
+   "data": "2025-12-24",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7488615.jpg?1767641430",
+   "link": "https://leagueofcomicgeeks.com/comic/7488615/harley-quinn-57",
+   "read_link": ""
+  },
+  {
+   "numero": "58",
+   "titulo": "Harley Quinn #58",
+   "data": "2026-01-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4003311.jpg?1769964905",
+   "link": "https://leagueofcomicgeeks.com/comic/4003311/harley-quinn-58",
+   "read_link": ""
+  },
+  {
+   "numero": "59",
+   "titulo": "Harley Quinn #59",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4116262.jpg?1772297689",
+   "link": "https://leagueofcomicgeeks.com/comic/4116262/harley-quinn-59",
+   "read_link": ""
+  },
+  {
+   "numero": "60",
+   "titulo": "Harley Quinn #60",
+   "data": "2026-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1158797.jpg?1774494042",
+   "link": "https://leagueofcomicgeeks.com/comic/1158797/harley-quinn-60",
+   "read_link": ""
+  },
+  {
+   "numero": "61",
+   "titulo": "Harley Quinn #61",
+   "data": "2026-04-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5393144.jpg?1784324432",
+   "link": "https://leagueofcomicgeeks.com/comic/5393144/harley-quinn-61",
+   "read_link": ""
+  },
+  {
+   "numero": "62",
+   "titulo": "Harley Quinn #62",
+   "data": "2026-05-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7958618.jpg?1784325379",
+   "link": "https://leagueofcomicgeeks.com/comic/7958618/harley-quinn-62",
+   "read_link": ""
+  },
+  {
+   "numero": "63",
+   "titulo": "Harley Quinn #63",
+   "data": "2026-06-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8286996.jpg?1785650556",
+   "link": "https://leagueofcomicgeeks.com/comic/8286996/harley-quinn-63",
+   "read_link": ""
+  },
+  {
+   "numero": "64",
+   "titulo": "Harley Quinn #64",
+   "data": "2026-07-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1268610.jpg?1785650562",
+   "link": "https://leagueofcomicgeeks.com/comic/1268610/harley-quinn-64",
+   "read_link": ""
+  },
+  {
+   "numero": "65",
+   "titulo": "Harley Quinn #65",
+   "data": "2026-08-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6595170.jpg?1785445888",
+   "link": "https://leagueofcomicgeeks.com/comic/6595170/harley-quinn-65",
+   "read_link": ""
+  },
+  {
+   "numero": "66",
+   "titulo": "Harley Quinn #66",
+   "data": "2026-09-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2446541.jpg?1781812510",
+   "link": "https://leagueofcomicgeeks.com/comic/2446541/harley-quinn-66",
+   "read_link": ""
+  }
+ ]
+}

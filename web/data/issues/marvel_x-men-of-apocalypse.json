@@ -1,0 +1,43 @@
+{
+ "id": "marvel_x-men-of-apocalypse",
+ "nome": "X-Men of Apocalypse",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "X-Men of Apocalypse #1",
+   "data": "2025-11-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6007627.jpg?1780477177",
+   "link": "https://leagueofcomicgeeks.com/comic/6007627/x-men-of-apocalypse-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "X-Men of Apocalypse #2",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6577489.jpg?1780477534",
+   "link": "https://leagueofcomicgeeks.com/comic/6577489/x-men-of-apocalypse-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "X-Men of Apocalypse #3",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5925140.jpg?1780477689",
+   "link": "https://leagueofcomicgeeks.com/comic/5925140/x-men-of-apocalypse-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "X-Men of Apocalypse #4",
+   "data": "2026-06-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4120674.jpg?1782775369",
+   "link": "https://leagueofcomicgeeks.com/comic/4120674/x-men-of-apocalypse-4",
+   "read_link": ""
+  }
+ ]
+}

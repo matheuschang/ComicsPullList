@@ -1,0 +1,52 @@
+{
+ "id": "marvel_sai-dimensional-rivals",
+ "nome": "Sai: Dimensional Rivals",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Sai: Dimensional Rivals #1",
+   "data": "2026-01-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9358753.jpg?1772496405",
+   "link": "https://leagueofcomicgeeks.com/comic/9358753/sai-dimensional-rivals-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Sai: Dimensional Rivals #2",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7109194.jpg?1772506111",
+   "link": "https://leagueofcomicgeeks.com/comic/7109194/sai-dimensional-rivals-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Sai: Dimensional Rivals #3",
+   "data": "2026-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8353081.jpg?1775716995",
+   "link": "https://leagueofcomicgeeks.com/comic/8353081/sai-dimensional-rivals-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Sai: Dimensional Rivals #4",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5581255.jpg?1776201908",
+   "link": "https://leagueofcomicgeeks.com/comic/5581255/sai-dimensional-rivals-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Sai: Dimensional Rivals #5",
+   "data": "2026-05-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7269428.jpg?1779889994",
+   "link": "https://leagueofcomicgeeks.com/comic/7269428/sai-dimensional-rivals-5",
+   "read_link": ""
+  }
+ ]
+}

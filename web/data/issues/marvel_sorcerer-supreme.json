@@ -1,0 +1,97 @@
+{
+ "id": "marvel_sorcerer-supreme",
+ "nome": "Sorcerer Supreme",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Sorcerer Supreme #1",
+   "data": "2025-12-31",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8978976.jpg?1768813622",
+   "link": "https://leagueofcomicgeeks.com/comic/8978976/sorcerer-supreme-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Sorcerer Supreme #2",
+   "data": "2026-01-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5522266.jpg?1770847573",
+   "link": "https://leagueofcomicgeeks.com/comic/5522266/sorcerer-supreme-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Sorcerer Supreme #3",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2377442.jpg?1775319978",
+   "link": "https://leagueofcomicgeeks.com/comic/2377442/sorcerer-supreme-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Sorcerer Supreme #4",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9926256.jpg?1775319929",
+   "link": "https://leagueofcomicgeeks.com/comic/9926256/sorcerer-supreme-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Sorcerer Supreme #5",
+   "data": "2026-04-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3893474.jpg?1778413271",
+   "link": "https://leagueofcomicgeeks.com/comic/3893474/sorcerer-supreme-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Sorcerer Supreme #6",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7683335.jpg?1785631606",
+   "link": "https://leagueofcomicgeeks.com/comic/7683335/sorcerer-supreme-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Sorcerer Supreme #7",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4125446.jpg?1785421737",
+   "link": "https://leagueofcomicgeeks.com/comic/4125446/sorcerer-supreme-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Sorcerer Supreme #8",
+   "data": "2026-07-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2424673.jpg?1785421680",
+   "link": "https://leagueofcomicgeeks.com/comic/2424673/sorcerer-supreme-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Sorcerer Supreme #9",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3269810.jpg?1786462465",
+   "link": "https://leagueofcomicgeeks.com/comic/3269810/sorcerer-supreme-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Sorcerer Supreme #10",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1547922.jpg?1784227474",
+   "link": "https://leagueofcomicgeeks.com/comic/1547922/sorcerer-supreme-10",
+   "read_link": ""
+  }
+ ]
+}

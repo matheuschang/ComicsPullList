@@ -1,0 +1,52 @@
+{
+ "id": "marvel_amazing-spider-man-spider-versity",
+ "nome": "The Amazing Spider-Man: Spider-Versity",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Amazing Spider-Man: Spider-Versity #1",
+   "data": "2026-04-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2857479.jpg?1785427986",
+   "link": "https://leagueofcomicgeeks.com/comic/2857479/the-amazing-spider-man-spider-versity-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Amazing Spider-Man: Spider-Versity #2",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8035689.jpg?1785427957",
+   "link": "https://leagueofcomicgeeks.com/comic/8035689/the-amazing-spider-man-spider-versity-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Amazing Spider-Man: Spider-Versity #3",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3263763.jpg?1785427846",
+   "link": "https://leagueofcomicgeeks.com/comic/3263763/the-amazing-spider-man-spider-versity-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Amazing Spider-Man: Spider-Versity #4",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4062542.jpg?1785427906",
+   "link": "https://leagueofcomicgeeks.com/comic/4062542/the-amazing-spider-man-spider-versity-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Amazing Spider-Man: Spider-Versity #5",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1167516.jpg?1786577832",
+   "link": "https://leagueofcomicgeeks.com/comic/1167516/the-amazing-spider-man-spider-versity-5",
+   "read_link": ""
+  }
+ ]
+}

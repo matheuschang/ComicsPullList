@@ -1,0 +1,115 @@
+{
+ "id": "dc_adventures-of-superman-book-of-el",
+ "nome": "Adventures of Superman: Book of El",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Adventures of Superman: Book of El #1",
+   "data": "2025-09-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9147918.jpg?1768386140",
+   "link": "https://leagueofcomicgeeks.com/comic/9147918/adventures-of-superman-book-of-el-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Adventures of Superman: Book of El #2",
+   "data": "2025-10-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1467678.jpg?1768386140",
+   "link": "https://leagueofcomicgeeks.com/comic/1467678/adventures-of-superman-book-of-el-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Adventures of Superman: Book of El #3",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5077814.jpg?1768386140",
+   "link": "https://leagueofcomicgeeks.com/comic/5077814/adventures-of-superman-book-of-el-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Adventures of Superman: Book of El #4",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1697477.jpg?1785974830",
+   "link": "https://leagueofcomicgeeks.com/comic/1697477/adventures-of-superman-book-of-el-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Adventures of Superman: Book of El #5",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2427027.jpg?1779393805",
+   "link": "https://leagueofcomicgeeks.com/comic/2427027/adventures-of-superman-book-of-el-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Adventures of Superman: Book of El #6",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8173321.jpg?1777469764",
+   "link": "https://leagueofcomicgeeks.com/comic/8173321/adventures-of-superman-book-of-el-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Adventures of Superman: Book of El #7",
+   "data": "2026-04-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3929788.jpg?1786218620",
+   "link": "https://leagueofcomicgeeks.com/comic/3929788/adventures-of-superman-book-of-el-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Adventures of Superman: Book of El #8",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7228036.jpg?1779718538",
+   "link": "https://leagueofcomicgeeks.com/comic/7228036/adventures-of-superman-book-of-el-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Adventures of Superman: Book of El #9",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8016619.jpg?1781649803",
+   "link": "https://leagueofcomicgeeks.com/comic/8016619/adventures-of-superman-book-of-el-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Adventures of Superman: Book of El #10",
+   "data": "2026-07-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2531663.jpg?1785026946",
+   "link": "https://leagueofcomicgeeks.com/comic/2531663/adventures-of-superman-book-of-el-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Adventures of Superman: Book of El #11",
+   "data": "2026-08-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3071115.jpg?1786042189",
+   "link": "https://leagueofcomicgeeks.com/comic/3071115/adventures-of-superman-book-of-el-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Adventures of Superman: Book of El #12",
+   "data": "2026-09-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3742461.jpg?1782785560",
+   "link": "https://leagueofcomicgeeks.com/comic/3742461/adventures-of-superman-book-of-el-12",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "marvel_hulk-smash-everything",
+ "nome": "Hulk: Smash Everything",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Hulk: Smash Everything #1",
+   "data": "2025-12-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9059445.jpg?1765058167",
+   "link": "https://leagueofcomicgeeks.com/comic/9059445/hulk-smash-everything-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Hulk: Smash Everything #2",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6873293.jpg?1784611613",
+   "link": "https://leagueofcomicgeeks.com/comic/6873293/hulk-smash-everything-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Hulk: Smash Everything #3",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6836902.jpg?1779588241",
+   "link": "https://leagueofcomicgeeks.com/comic/6836902/hulk-smash-everything-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Hulk: Smash Everything #4",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8584395.jpg?1773574210",
+   "link": "https://leagueofcomicgeeks.com/comic/8584395/hulk-smash-everything-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Hulk: Smash Everything #5",
+   "data": "2026-04-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6799507.jpg?1784611619",
+   "link": "https://leagueofcomicgeeks.com/comic/6799507/hulk-smash-everything-5",
+   "read_link": ""
+  }
+ ]
+}

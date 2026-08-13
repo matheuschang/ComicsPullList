@@ -1,0 +1,115 @@
+{
+ "id": "marvel_star-wars-legacy-of-vader",
+ "nome": "Star Wars: Legacy of Vader",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Star Wars: Legacy of Vader #1",
+   "data": "2025-02-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7383350.jpg?1738779422",
+   "link": "https://leagueofcomicgeeks.com/comic/7383350/star-wars-legacy-of-vader-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Star Wars: Legacy of Vader #2",
+   "data": "2025-03-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8791259.jpg?1741822818",
+   "link": "https://leagueofcomicgeeks.com/comic/8791259/star-wars-legacy-of-vader-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Star Wars: Legacy of Vader #3",
+   "data": "2025-04-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4347901.jpg?1745351969",
+   "link": "https://leagueofcomicgeeks.com/comic/4347901/star-wars-legacy-of-vader-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Star Wars: Legacy of Vader #4",
+   "data": "2025-05-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3642070.jpg?1748021500",
+   "link": "https://leagueofcomicgeeks.com/comic/3642070/star-wars-legacy-of-vader-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Star Wars: Legacy of Vader #5",
+   "data": "2025-06-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7297142.jpg?1755238644",
+   "link": "https://leagueofcomicgeeks.com/comic/7297142/star-wars-legacy-of-vader-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Star Wars: Legacy of Vader #6",
+   "data": "2025-07-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6145543.jpg?1755486431",
+   "link": "https://leagueofcomicgeeks.com/comic/6145543/star-wars-legacy-of-vader-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Star Wars: Legacy of Vader #7",
+   "data": "2025-08-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7076908.jpg?1755238716",
+   "link": "https://leagueofcomicgeeks.com/comic/7076908/star-wars-legacy-of-vader-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Star Wars: Legacy of Vader #8",
+   "data": "2025-09-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2400629.jpg?1757028574",
+   "link": "https://leagueofcomicgeeks.com/comic/2400629/star-wars-legacy-of-vader-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Star Wars: Legacy of Vader #9",
+   "data": "2025-10-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3713668.jpg?1761285493",
+   "link": "https://leagueofcomicgeeks.com/comic/3713668/star-wars-legacy-of-vader-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Star Wars: Legacy of Vader #10",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9112522.jpg?1763567011",
+   "link": "https://leagueofcomicgeeks.com/comic/9112522/star-wars-legacy-of-vader-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Star Wars: Legacy of Vader #11",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2994221.jpg?1764778645",
+   "link": "https://leagueofcomicgeeks.com/comic/2994221/star-wars-legacy-of-vader-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Star Wars: Legacy of Vader #12",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4383412.jpg?1768474674",
+   "link": "https://leagueofcomicgeeks.com/comic/4383412/star-wars-legacy-of-vader-12",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,1474 @@
+{
+ "id": "dc_batman",
+ "nome": "Batman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman #1",
+   "data": "2025-09-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1773102.jpg?1773202927",
+   "link": "https://leagueofcomicgeeks.com/comic/1773102/batman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batman #2",
+   "data": "2025-10-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5175210.jpg?1766185529",
+   "link": "https://leagueofcomicgeeks.com/comic/5175210/batman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batman #3",
+   "data": "2025-11-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6231277.jpg?1780575303",
+   "link": "https://leagueofcomicgeeks.com/comic/6231277/batman-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batman #4",
+   "data": "2025-12-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3609268.jpg?1779672685",
+   "link": "https://leagueofcomicgeeks.com/comic/3609268/batman-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Batman #5",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3809202.jpg?1779675141",
+   "link": "https://leagueofcomicgeeks.com/comic/3809202/batman-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Batman #6",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9123940.jpg?1770895480",
+   "link": "https://leagueofcomicgeeks.com/comic/9123940/batman-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Batman #7",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8189413.jpg?1772834998",
+   "link": "https://leagueofcomicgeeks.com/comic/8189413/batman-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Batman #8",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9559460.jpg?1781056986",
+   "link": "https://leagueofcomicgeeks.com/comic/9559460/batman-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Batman #9",
+   "data": "2026-05-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1773295.jpg?1782319908",
+   "link": "https://leagueofcomicgeeks.com/comic/1773295/batman-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Batman #10",
+   "data": "2026-06-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7644351.jpg?1780874878",
+   "link": "https://leagueofcomicgeeks.com/comic/7644351/batman-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Batman #11",
+   "data": "2026-07-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3180776.jpg?1786144669",
+   "link": "https://leagueofcomicgeeks.com/comic/3180776/batman-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Batman #12",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8437483.jpg?1786144653",
+   "link": "https://leagueofcomicgeeks.com/comic/8437483/batman-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Batman #13",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7323774.jpg?1786047450",
+   "link": "https://leagueofcomicgeeks.com/comic/7323774/batman-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Batman #14",
+   "data": "2017-01-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6436185.jpg?1754893834",
+   "link": "https://leagueofcomicgeeks.com/comic/6436185/batman-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Batman #15",
+   "data": "2017-01-18",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6881851.jpg?1754893867",
+   "link": "https://leagueofcomicgeeks.com/comic/6881851/batman-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Batman #16",
+   "data": "2017-02-01",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7173782.jpg?1766467536",
+   "link": "https://leagueofcomicgeeks.com/comic/7173782/batman-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Batman #17",
+   "data": "2017-02-15",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1768584.jpg?1751089376",
+   "link": "https://leagueofcomicgeeks.com/comic/1768584/batman-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Batman #18",
+   "data": "2017-03-01",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5457620.jpg?1754894351",
+   "link": "https://leagueofcomicgeeks.com/comic/5457620/batman-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Batman #19",
+   "data": "2017-03-15",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2353037.jpg?1754894500",
+   "link": "https://leagueofcomicgeeks.com/comic/2353037/batman-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Batman #20",
+   "data": "2017-04-05",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5046838.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/5046838/batman-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Batman #21",
+   "data": "2017-04-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7105347.jpg?1743995816",
+   "link": "https://leagueofcomicgeeks.com/comic/7105347/batman-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Batman #22",
+   "data": "2017-05-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8160118.jpg?1754895797",
+   "link": "https://leagueofcomicgeeks.com/comic/8160118/batman-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Batman #23",
+   "data": "2017-05-17",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9917226.jpg?1754896509",
+   "link": "https://leagueofcomicgeeks.com/comic/9917226/batman-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Batman #24",
+   "data": "2017-06-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6029231.jpg?1754896725",
+   "link": "https://leagueofcomicgeeks.com/comic/6029231/batman-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Batman #25",
+   "data": "2017-06-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9286025.jpg?1754897277",
+   "link": "https://leagueofcomicgeeks.com/comic/9286025/batman-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Batman #26",
+   "data": "2017-07-05",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9033679.jpg?1754897564",
+   "link": "https://leagueofcomicgeeks.com/comic/9033679/batman-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Batman #27",
+   "data": "2017-07-19",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4138566.jpg?1754898000",
+   "link": "https://leagueofcomicgeeks.com/comic/4138566/batman-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Batman #28",
+   "data": "2017-08-02",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8314795.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/8314795/batman-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Batman #29",
+   "data": "2017-08-16",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3417018.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3417018/batman-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Batman #30",
+   "data": "2017-09-06",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7353560.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7353560/batman-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Batman #31",
+   "data": "2017-09-20",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9724509.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/9724509/batman-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Batman #32",
+   "data": "2017-10-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8053558.jpg?1749197542",
+   "link": "https://leagueofcomicgeeks.com/comic/8053558/batman-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Batman #33",
+   "data": "2017-10-18",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5329962.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/5329962/batman-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Batman #34",
+   "data": "2017-11-01",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7443375.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7443375/batman-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Batman #35",
+   "data": "2017-11-15",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9040922.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/9040922/batman-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Batman #36",
+   "data": "2017-12-06",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7261244.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7261244/batman-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Batman #37",
+   "data": "2017-12-20",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9295468.jpg?1745969401",
+   "link": "https://leagueofcomicgeeks.com/comic/9295468/batman-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Batman #38",
+   "data": "2018-01-03",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3339645.jpg?1749197525",
+   "link": "https://leagueofcomicgeeks.com/comic/3339645/batman-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Batman #39",
+   "data": "2018-01-17",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9450993.jpg?1749197421",
+   "link": "https://leagueofcomicgeeks.com/comic/9450993/batman-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Batman #40",
+   "data": "2018-02-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3864746.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3864746/batman-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Batman #41",
+   "data": "2018-02-21",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3487555.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3487555/batman-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Batman #42",
+   "data": "2018-03-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4590264.jpg?1749197386",
+   "link": "https://leagueofcomicgeeks.com/comic/4590264/batman-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Batman #43",
+   "data": "2018-03-21",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7135388.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7135388/batman-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Batman #44",
+   "data": "2018-04-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6305884.jpg?1754900725",
+   "link": "https://leagueofcomicgeeks.com/comic/6305884/batman-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Batman #45",
+   "data": "2018-04-18",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4012061.jpg?1754900848",
+   "link": "https://leagueofcomicgeeks.com/comic/4012061/batman-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Batman #46",
+   "data": "2018-05-02",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1918916.jpg?1749197306",
+   "link": "https://leagueofcomicgeeks.com/comic/1918916/batman-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Batman #47",
+   "data": "2018-05-16",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6190764.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/6190764/batman-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Batman #48",
+   "data": "2018-06-06",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6007719.jpg?1749197282",
+   "link": "https://leagueofcomicgeeks.com/comic/6007719/batman-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Batman #49",
+   "data": "2018-06-20",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3802607.jpg?1754902242",
+   "link": "https://leagueofcomicgeeks.com/comic/3802607/batman-49",
+   "read_link": ""
+  },
+  {
+   "numero": "50",
+   "titulo": "Batman #50",
+   "data": "2018-07-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5512896.jpg?1747245428",
+   "link": "https://leagueofcomicgeeks.com/comic/5512896/batman-50",
+   "read_link": ""
+  },
+  {
+   "numero": "51",
+   "titulo": "Batman #51",
+   "data": "2018-07-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5980179.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/5980179/batman-51",
+   "read_link": ""
+  },
+  {
+   "numero": "52",
+   "titulo": "Batman #52",
+   "data": "2018-08-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5766950.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/5766950/batman-52",
+   "read_link": ""
+  },
+  {
+   "numero": "53",
+   "titulo": "Batman #53",
+   "data": "2018-08-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7125465.jpg?1749205263",
+   "link": "https://leagueofcomicgeeks.com/comic/7125465/batman-53",
+   "read_link": ""
+  },
+  {
+   "numero": "54",
+   "titulo": "Batman #54",
+   "data": "2018-09-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5747250.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/5747250/batman-54",
+   "read_link": ""
+  },
+  {
+   "numero": "55",
+   "titulo": "Batman #55",
+   "data": "2018-09-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3789644.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3789644/batman-55",
+   "read_link": ""
+  },
+  {
+   "numero": "56",
+   "titulo": "Batman #56",
+   "data": "2018-10-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2954317.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/2954317/batman-56",
+   "read_link": ""
+  },
+  {
+   "numero": "57",
+   "titulo": "Batman #57",
+   "data": "2018-10-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6741061.jpg?1747245498",
+   "link": "https://leagueofcomicgeeks.com/comic/6741061/batman-57",
+   "read_link": ""
+  },
+  {
+   "numero": "58",
+   "titulo": "Batman #58",
+   "data": "2018-11-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6187483.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/6187483/batman-58",
+   "read_link": ""
+  },
+  {
+   "numero": "59",
+   "titulo": "Batman #59",
+   "data": "2018-11-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7206763.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7206763/batman-59",
+   "read_link": ""
+  },
+  {
+   "numero": "60",
+   "titulo": "Batman #60",
+   "data": "2018-12-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6858493.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/6858493/batman-60",
+   "read_link": ""
+  },
+  {
+   "numero": "61",
+   "titulo": "Batman #61",
+   "data": "2018-12-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7935692.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/7935692/batman-61",
+   "read_link": ""
+  },
+  {
+   "numero": "62",
+   "titulo": "Batman #62",
+   "data": "2019-01-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6412109.jpg?1748594780",
+   "link": "https://leagueofcomicgeeks.com/comic/6412109/batman-62",
+   "read_link": ""
+  },
+  {
+   "numero": "63",
+   "titulo": "Batman #63",
+   "data": "2019-01-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8075292.jpg?1748594762",
+   "link": "https://leagueofcomicgeeks.com/comic/8075292/batman-63",
+   "read_link": ""
+  },
+  {
+   "numero": "64",
+   "titulo": "Batman #64",
+   "data": "2019-02-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7200892.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7200892/batman-64",
+   "read_link": ""
+  },
+  {
+   "numero": "65",
+   "titulo": "Batman #65",
+   "data": "2019-02-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1376082.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/1376082/batman-65",
+   "read_link": ""
+  },
+  {
+   "numero": "66",
+   "titulo": "Batman #66",
+   "data": "2019-03-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7511528.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/7511528/batman-66",
+   "read_link": ""
+  },
+  {
+   "numero": "67",
+   "titulo": "Batman #67",
+   "data": "2019-03-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5753327.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/5753327/batman-67",
+   "read_link": ""
+  },
+  {
+   "numero": "68",
+   "titulo": "Batman #68",
+   "data": "2019-04-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1617179.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/1617179/batman-68",
+   "read_link": ""
+  },
+  {
+   "numero": "69",
+   "titulo": "Batman #69",
+   "data": "2019-04-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6383398.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/6383398/batman-69",
+   "read_link": ""
+  },
+  {
+   "numero": "70",
+   "titulo": "Batman #70",
+   "data": "2019-05-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6289136.jpg?1748594435",
+   "link": "https://leagueofcomicgeeks.com/comic/6289136/batman-70",
+   "read_link": ""
+  },
+  {
+   "numero": "71",
+   "titulo": "Batman #71",
+   "data": "2019-05-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9971888.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/9971888/batman-71",
+   "read_link": ""
+  },
+  {
+   "numero": "72",
+   "titulo": "Batman #72",
+   "data": "2019-06-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1489939.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/1489939/batman-72",
+   "read_link": ""
+  },
+  {
+   "numero": "73",
+   "titulo": "Batman #73",
+   "data": "2019-06-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6009719.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/6009719/batman-73",
+   "read_link": ""
+  },
+  {
+   "numero": "74",
+   "titulo": "Batman #74",
+   "data": "2019-07-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5943237.jpg?1748594418",
+   "link": "https://leagueofcomicgeeks.com/comic/5943237/batman-74",
+   "read_link": ""
+  },
+  {
+   "numero": "75",
+   "titulo": "Batman #75",
+   "data": "2019-07-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4329137.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/4329137/batman-75",
+   "read_link": ""
+  },
+  {
+   "numero": "76",
+   "titulo": "Batman #76",
+   "data": "2019-08-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5361510.jpg?1763146535",
+   "link": "https://leagueofcomicgeeks.com/comic/5361510/batman-76",
+   "read_link": ""
+  },
+  {
+   "numero": "77",
+   "titulo": "Batman #77",
+   "data": "2019-08-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7846094.jpg?1751688245",
+   "link": "https://leagueofcomicgeeks.com/comic/7846094/batman-77",
+   "read_link": ""
+  },
+  {
+   "numero": "78",
+   "titulo": "Batman #78",
+   "data": "2019-09-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8446338.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/8446338/batman-78",
+   "read_link": ""
+  },
+  {
+   "numero": "79",
+   "titulo": "Batman #79",
+   "data": "2019-09-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6057474.jpg?1763146504",
+   "link": "https://leagueofcomicgeeks.com/comic/6057474/batman-79",
+   "read_link": ""
+  },
+  {
+   "numero": "80",
+   "titulo": "Batman #80",
+   "data": "2019-10-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7305484.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7305484/batman-80",
+   "read_link": ""
+  },
+  {
+   "numero": "81",
+   "titulo": "Batman #81",
+   "data": "2019-10-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1190324.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/1190324/batman-81",
+   "read_link": ""
+  },
+  {
+   "numero": "82",
+   "titulo": "Batman #82",
+   "data": "2019-11-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9126681.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/9126681/batman-82",
+   "read_link": ""
+  },
+  {
+   "numero": "83",
+   "titulo": "Batman #83",
+   "data": "2019-11-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4848084.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/4848084/batman-83",
+   "read_link": ""
+  },
+  {
+   "numero": "84",
+   "titulo": "Batman #84",
+   "data": "2019-12-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4792314.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/4792314/batman-84",
+   "read_link": ""
+  },
+  {
+   "numero": "85",
+   "titulo": "Batman #85",
+   "data": "2019-12-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3846634.jpg?1741762573",
+   "link": "https://leagueofcomicgeeks.com/comic/3846634/batman-85",
+   "read_link": ""
+  },
+  {
+   "numero": "86",
+   "titulo": "Batman #86",
+   "data": "2020-01-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5326066.jpg?1748420668",
+   "link": "https://leagueofcomicgeeks.com/comic/5326066/batman-86",
+   "read_link": ""
+  },
+  {
+   "numero": "87",
+   "titulo": "Batman #87",
+   "data": "2020-01-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8373196.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/8373196/batman-87",
+   "read_link": ""
+  },
+  {
+   "numero": "88",
+   "titulo": "Batman #88",
+   "data": "2020-02-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9413911.jpg?1740157151",
+   "link": "https://leagueofcomicgeeks.com/comic/9413911/batman-88",
+   "read_link": ""
+  },
+  {
+   "numero": "89",
+   "titulo": "Batman #89",
+   "data": "2020-02-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7733621.jpg?1763146441",
+   "link": "https://leagueofcomicgeeks.com/comic/7733621/batman-89",
+   "read_link": ""
+  },
+  {
+   "numero": "90",
+   "titulo": "Batman #90",
+   "data": "2020-03-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5806894.jpg?1763146417",
+   "link": "https://leagueofcomicgeeks.com/comic/5806894/batman-90",
+   "read_link": ""
+  },
+  {
+   "numero": "91",
+   "titulo": "Batman #91",
+   "data": "2020-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6638219.jpg?1741762944",
+   "link": "https://leagueofcomicgeeks.com/comic/6638219/batman-91",
+   "read_link": ""
+  },
+  {
+   "numero": "92",
+   "titulo": "Batman #92",
+   "data": "2020-04-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2582194.jpg?1758071030",
+   "link": "https://leagueofcomicgeeks.com/comic/2582194/batman-92",
+   "read_link": ""
+  },
+  {
+   "numero": "93",
+   "titulo": "Batman #93",
+   "data": "2020-06-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1402590.jpg?1758070959",
+   "link": "https://leagueofcomicgeeks.com/comic/1402590/batman-93",
+   "read_link": ""
+  },
+  {
+   "numero": "94",
+   "titulo": "Batman #94",
+   "data": "2020-07-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4683425.jpg?1743554231",
+   "link": "https://leagueofcomicgeeks.com/comic/4683425/batman-94",
+   "read_link": ""
+  },
+  {
+   "numero": "95",
+   "titulo": "Batman #95",
+   "data": "2020-07-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4720423.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/4720423/batman-95",
+   "read_link": ""
+  },
+  {
+   "numero": "96",
+   "titulo": "Batman #96",
+   "data": "2020-08-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3909673.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3909673/batman-96",
+   "read_link": ""
+  },
+  {
+   "numero": "97",
+   "titulo": "Batman #97",
+   "data": "2020-08-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7054689.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/7054689/batman-97",
+   "read_link": ""
+  },
+  {
+   "numero": "98",
+   "titulo": "Batman #98",
+   "data": "2020-09-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1777142.jpg?1745169759",
+   "link": "https://leagueofcomicgeeks.com/comic/1777142/batman-98",
+   "read_link": ""
+  },
+  {
+   "numero": "99",
+   "titulo": "Batman #99",
+   "data": "2020-09-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1800552.jpg?1745168426",
+   "link": "https://leagueofcomicgeeks.com/comic/1800552/batman-99",
+   "read_link": ""
+  },
+  {
+   "numero": "100",
+   "titulo": "Batman #100",
+   "data": "2020-10-06",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2303061.jpg?1776006879",
+   "link": "https://leagueofcomicgeeks.com/comic/2303061/batman-100",
+   "read_link": ""
+  },
+  {
+   "numero": "101",
+   "titulo": "Batman #101",
+   "data": "2020-10-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1201958.jpg?1763146310",
+   "link": "https://leagueofcomicgeeks.com/comic/1201958/batman-101",
+   "read_link": ""
+  },
+  {
+   "numero": "102",
+   "titulo": "Batman #102",
+   "data": "2020-11-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6873308.jpg?1763146286",
+   "link": "https://leagueofcomicgeeks.com/comic/6873308/batman-102",
+   "read_link": ""
+  },
+  {
+   "numero": "103",
+   "titulo": "Batman #103",
+   "data": "2020-11-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4727549.jpg?1763146038",
+   "link": "https://leagueofcomicgeeks.com/comic/4727549/batman-103",
+   "read_link": ""
+  },
+  {
+   "numero": "104",
+   "titulo": "Batman #104",
+   "data": "2020-12-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2393414.jpg?1745124038",
+   "link": "https://leagueofcomicgeeks.com/comic/2393414/batman-104",
+   "read_link": ""
+  },
+  {
+   "numero": "105",
+   "titulo": "Batman #105",
+   "data": "2020-12-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9430629.jpg?1745122344",
+   "link": "https://leagueofcomicgeeks.com/comic/9430629/batman-105",
+   "read_link": ""
+  },
+  {
+   "numero": "106",
+   "titulo": "Batman #106",
+   "data": "2021-03-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7801160.jpg?1763146016",
+   "link": "https://leagueofcomicgeeks.com/comic/7801160/batman-106",
+   "read_link": ""
+  },
+  {
+   "numero": "107",
+   "titulo": "Batman #107",
+   "data": "2021-04-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9782469.jpg?1745100132",
+   "link": "https://leagueofcomicgeeks.com/comic/9782469/batman-107",
+   "read_link": ""
+  },
+  {
+   "numero": "108",
+   "titulo": "Batman #108",
+   "data": "2021-05-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5761660.jpg?1744988341",
+   "link": "https://leagueofcomicgeeks.com/comic/5761660/batman-108",
+   "read_link": ""
+  },
+  {
+   "numero": "109",
+   "titulo": "Batman #109",
+   "data": "2021-06-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5597853.jpg?1744985413",
+   "link": "https://leagueofcomicgeeks.com/comic/5597853/batman-109",
+   "read_link": ""
+  },
+  {
+   "numero": "110",
+   "titulo": "Batman #110",
+   "data": "2021-07-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1664000.jpg?1744939133",
+   "link": "https://leagueofcomicgeeks.com/comic/1664000/batman-110",
+   "read_link": ""
+  },
+  {
+   "numero": "111",
+   "titulo": "Batman #111",
+   "data": "2021-08-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5269737.jpg?1744937763",
+   "link": "https://leagueofcomicgeeks.com/comic/5269737/batman-111",
+   "read_link": ""
+  },
+  {
+   "numero": "112",
+   "titulo": "Batman #112",
+   "data": "2021-09-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1388027.jpg?1749172034",
+   "link": "https://leagueofcomicgeeks.com/comic/1388027/batman-112",
+   "read_link": ""
+  },
+  {
+   "numero": "113",
+   "titulo": "Batman #113",
+   "data": "2021-09-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5046858.jpg?1744933907",
+   "link": "https://leagueofcomicgeeks.com/comic/5046858/batman-113",
+   "read_link": ""
+  },
+  {
+   "numero": "114",
+   "titulo": "Batman #114",
+   "data": "2021-10-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2093919.jpg?1744930881",
+   "link": "https://leagueofcomicgeeks.com/comic/2093919/batman-114",
+   "read_link": ""
+  },
+  {
+   "numero": "115",
+   "titulo": "Batman #115",
+   "data": "2021-10-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7840954.jpg?1749518089",
+   "link": "https://leagueofcomicgeeks.com/comic/7840954/batman-115",
+   "read_link": ""
+  },
+  {
+   "numero": "116",
+   "titulo": "Batman #116",
+   "data": "2021-11-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2727517.jpg?1749941263",
+   "link": "https://leagueofcomicgeeks.com/comic/2727517/batman-116",
+   "read_link": ""
+  },
+  {
+   "numero": "117",
+   "titulo": "Batman #117",
+   "data": "2021-11-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3413834.jpg?1748368741",
+   "link": "https://leagueofcomicgeeks.com/comic/3413834/batman-117",
+   "read_link": ""
+  },
+  {
+   "numero": "118",
+   "titulo": "Batman #118",
+   "data": "2021-12-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9943725.jpg?1744734898",
+   "link": "https://leagueofcomicgeeks.com/comic/9943725/batman-118",
+   "read_link": ""
+  },
+  {
+   "numero": "119",
+   "titulo": "Batman #119",
+   "data": "2022-01-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6100579.jpg?1744603336",
+   "link": "https://leagueofcomicgeeks.com/comic/6100579/batman-119",
+   "read_link": ""
+  },
+  {
+   "numero": "120",
+   "titulo": "Batman #120",
+   "data": "2022-02-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6329714.jpg?1744599544",
+   "link": "https://leagueofcomicgeeks.com/comic/6329714/batman-120",
+   "read_link": ""
+  },
+  {
+   "numero": "121",
+   "titulo": "Batman #121",
+   "data": "2022-03-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3924511.jpg?1744525645",
+   "link": "https://leagueofcomicgeeks.com/comic/3924511/batman-121",
+   "read_link": ""
+  },
+  {
+   "numero": "122",
+   "titulo": "Batman #122",
+   "data": "2022-04-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1797664.jpg?1771846003",
+   "link": "https://leagueofcomicgeeks.com/comic/1797664/batman-122",
+   "read_link": ""
+  },
+  {
+   "numero": "123",
+   "titulo": "Batman #123",
+   "data": "2022-05-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8691343.jpg?1762004396",
+   "link": "https://leagueofcomicgeeks.com/comic/8691343/batman-123",
+   "read_link": ""
+  },
+  {
+   "numero": "124",
+   "titulo": "Batman #124",
+   "data": "2022-06-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6025206.jpg?1743899579",
+   "link": "https://leagueofcomicgeeks.com/comic/6025206/batman-124",
+   "read_link": ""
+  },
+  {
+   "numero": "125",
+   "titulo": "Batman #125",
+   "data": "2022-07-05",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6487491.jpg?1777715509",
+   "link": "https://leagueofcomicgeeks.com/comic/6487491/batman-125",
+   "read_link": ""
+  },
+  {
+   "numero": "126",
+   "titulo": "Batman #126",
+   "data": "2022-08-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7301693.jpg?1777715653",
+   "link": "https://leagueofcomicgeeks.com/comic/7301693/batman-126",
+   "read_link": ""
+  },
+  {
+   "numero": "127",
+   "titulo": "Batman #127",
+   "data": "2022-09-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6432305.jpg?1777715720",
+   "link": "https://leagueofcomicgeeks.com/comic/6432305/batman-127",
+   "read_link": ""
+  },
+  {
+   "numero": "128",
+   "titulo": "Batman #128",
+   "data": "2022-10-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8531882.jpg?1743200343",
+   "link": "https://leagueofcomicgeeks.com/comic/8531882/batman-128",
+   "read_link": ""
+  },
+  {
+   "numero": "129",
+   "titulo": "Batman #129",
+   "data": "2022-11-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4298766.jpg?1742777836",
+   "link": "https://leagueofcomicgeeks.com/comic/4298766/batman-129",
+   "read_link": ""
+  },
+  {
+   "numero": "130",
+   "titulo": "Batman #130",
+   "data": "2022-12-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8918365.jpg?1741897806",
+   "link": "https://leagueofcomicgeeks.com/comic/8918365/batman-130",
+   "read_link": ""
+  },
+  {
+   "numero": "131",
+   "titulo": "Batman #131",
+   "data": "2023-01-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2331867.jpg?1777715964",
+   "link": "https://leagueofcomicgeeks.com/comic/2331867/batman-131",
+   "read_link": ""
+  },
+  {
+   "numero": "132",
+   "titulo": "Batman #132",
+   "data": "2023-02-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6493628.jpg?1777716023",
+   "link": "https://leagueofcomicgeeks.com/comic/6493628/batman-132",
+   "read_link": ""
+  },
+  {
+   "numero": "133",
+   "titulo": "Batman #133",
+   "data": "2023-03-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6505316.jpg?1777716067",
+   "link": "https://leagueofcomicgeeks.com/comic/6505316/batman-133",
+   "read_link": ""
+  },
+  {
+   "numero": "134",
+   "titulo": "Batman #134",
+   "data": "2023-04-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4473199.jpg?1770742338",
+   "link": "https://leagueofcomicgeeks.com/comic/4473199/batman-134",
+   "read_link": ""
+  },
+  {
+   "numero": "135",
+   "titulo": "Batman #135",
+   "data": "2023-05-02",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7154465.jpg?1777716110",
+   "link": "https://leagueofcomicgeeks.com/comic/7154465/batman-135",
+   "read_link": ""
+  },
+  {
+   "numero": "136",
+   "titulo": "Batman #136",
+   "data": "2023-06-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3338013.jpg?1777716196",
+   "link": "https://leagueofcomicgeeks.com/comic/3338013/batman-136",
+   "read_link": ""
+  },
+  {
+   "numero": "137",
+   "titulo": "Batman #137",
+   "data": "2023-09-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3651850.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3651850/batman-137",
+   "read_link": ""
+  },
+  {
+   "numero": "138",
+   "titulo": "Batman #138",
+   "data": "2023-10-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5407168.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/5407168/batman-138",
+   "read_link": ""
+  },
+  {
+   "numero": "139",
+   "titulo": "Batman #139",
+   "data": "2023-11-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6333948.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/6333948/batman-139",
+   "read_link": ""
+  },
+  {
+   "numero": "140",
+   "titulo": "Batman #140",
+   "data": "2023-12-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4878324.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/4878324/batman-140",
+   "read_link": ""
+  },
+  {
+   "numero": "141",
+   "titulo": "Batman #141",
+   "data": "2024-01-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4321034.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/4321034/batman-141",
+   "read_link": ""
+  },
+  {
+   "numero": "142",
+   "titulo": "Batman #142",
+   "data": "2024-02-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3201176.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/3201176/batman-142",
+   "read_link": ""
+  },
+  {
+   "numero": "143",
+   "titulo": "Batman #143",
+   "data": "2024-02-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2790531.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/2790531/batman-143",
+   "read_link": ""
+  },
+  {
+   "numero": "144",
+   "titulo": "Batman #144",
+   "data": "2024-02-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5168818.jpg?1769669507",
+   "link": "https://leagueofcomicgeeks.com/comic/5168818/batman-144",
+   "read_link": ""
+  },
+  {
+   "numero": "145",
+   "titulo": "Batman #145",
+   "data": "2024-03-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4886609.jpg?1741904521",
+   "link": "https://leagueofcomicgeeks.com/comic/4886609/batman-145",
+   "read_link": ""
+  },
+  {
+   "numero": "146",
+   "titulo": "Batman #146",
+   "data": "2024-04-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3837678.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3837678/batman-146",
+   "read_link": ""
+  },
+  {
+   "numero": "147",
+   "titulo": "Batman #147",
+   "data": "2024-05-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2494747.jpg?1741904781",
+   "link": "https://leagueofcomicgeeks.com/comic/2494747/batman-147",
+   "read_link": ""
+  },
+  {
+   "numero": "148",
+   "titulo": "Batman #148",
+   "data": "2024-06-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2150312.jpg?1740157149",
+   "link": "https://leagueofcomicgeeks.com/comic/2150312/batman-148",
+   "read_link": ""
+  },
+  {
+   "numero": "149",
+   "titulo": "Batman #149",
+   "data": "2024-06-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3898863.jpg?1740157150",
+   "link": "https://leagueofcomicgeeks.com/comic/3898863/batman-149",
+   "read_link": ""
+  },
+  {
+   "numero": "150",
+   "titulo": "Batman #150",
+   "data": "2024-07-03",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7628107.jpg?1776891453",
+   "link": "https://leagueofcomicgeeks.com/comic/7628107/batman-150",
+   "read_link": ""
+  },
+  {
+   "numero": "151",
+   "titulo": "Batman #151",
+   "data": "2024-08-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9708939.jpg?1783575233",
+   "link": "https://leagueofcomicgeeks.com/comic/9708939/batman-151",
+   "read_link": ""
+  },
+  {
+   "numero": "152",
+   "titulo": "Batman #152",
+   "data": "2024-09-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6088416.jpg?1783575261",
+   "link": "https://leagueofcomicgeeks.com/comic/6088416/batman-152",
+   "read_link": ""
+  },
+  {
+   "numero": "153",
+   "titulo": "Batman #153",
+   "data": "2024-10-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5892069.jpg?1757376979",
+   "link": "https://leagueofcomicgeeks.com/comic/5892069/batman-153",
+   "read_link": ""
+  },
+  {
+   "numero": "154",
+   "titulo": "Batman #154",
+   "data": "2024-11-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9082445.jpg?1759036073",
+   "link": "https://leagueofcomicgeeks.com/comic/9082445/batman-154",
+   "read_link": ""
+  },
+  {
+   "numero": "155",
+   "titulo": "Batman #155",
+   "data": "2024-12-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4797789.jpg?1752608131",
+   "link": "https://leagueofcomicgeeks.com/comic/4797789/batman-155",
+   "read_link": ""
+  },
+  {
+   "numero": "156",
+   "titulo": "Batman #156",
+   "data": "2025-01-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9173948.jpg?1763073692",
+   "link": "https://leagueofcomicgeeks.com/comic/9173948/batman-156",
+   "read_link": ""
+  },
+  {
+   "numero": "157",
+   "titulo": "Batman #157",
+   "data": "2025-02-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3466924.jpg?1752608153",
+   "link": "https://leagueofcomicgeeks.com/comic/3466924/batman-157",
+   "read_link": ""
+  },
+  {
+   "numero": "158",
+   "titulo": "Batman #158",
+   "data": "2025-03-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8414250.jpg?1770108758",
+   "link": "https://leagueofcomicgeeks.com/comic/8414250/batman-158",
+   "read_link": ""
+  },
+  {
+   "numero": "159",
+   "titulo": "Batman #159",
+   "data": "2025-04-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4192398.jpg?1746641808",
+   "link": "https://leagueofcomicgeeks.com/comic/4192398/batman-159",
+   "read_link": ""
+  },
+  {
+   "numero": "160",
+   "titulo": "Batman #160",
+   "data": "2025-05-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3574282.jpg?1780100008",
+   "link": "https://leagueofcomicgeeks.com/comic/3574282/batman-160",
+   "read_link": ""
+  },
+  {
+   "numero": "161",
+   "titulo": "Batman #161",
+   "data": "2025-07-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5948108.jpg?1780100017",
+   "link": "https://leagueofcomicgeeks.com/comic/5948108/batman-161",
+   "read_link": ""
+  },
+  {
+   "numero": "162",
+   "titulo": "Batman #162",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5097129.jpg?1763393274",
+   "link": "https://leagueofcomicgeeks.com/comic/5097129/batman-162",
+   "read_link": ""
+  },
+  {
+   "numero": "163",
+   "titulo": "Batman #163",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1126236.jpg?1780495945",
+   "link": "https://leagueofcomicgeeks.com/comic/1126236/batman-163",
+   "read_link": ""
+  }
+ ]
+}

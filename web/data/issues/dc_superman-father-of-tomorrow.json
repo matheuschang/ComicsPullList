@@ -1,0 +1,52 @@
+{
+ "id": "dc_superman-father-of-tomorrow",
+ "nome": "Superman: Father of Tomorrow",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Superman: Father of Tomorrow #1",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2395915.jpg?1784382626",
+   "link": "https://leagueofcomicgeeks.com/comic/2395915/superman-father-of-tomorrow-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Superman: Father of Tomorrow #2",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9232201.jpg?1782778024",
+   "link": "https://leagueofcomicgeeks.com/comic/9232201/superman-father-of-tomorrow-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Superman: Father of Tomorrow #3",
+   "data": "2026-07-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3926096.jpg?1784839752",
+   "link": "https://leagueofcomicgeeks.com/comic/3926096/superman-father-of-tomorrow-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Superman: Father of Tomorrow #4",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2004175.jpg?1785445637",
+   "link": "https://leagueofcomicgeeks.com/comic/2004175/superman-father-of-tomorrow-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Superman: Father of Tomorrow #5",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5809864.jpg?1781841972",
+   "link": "https://leagueofcomicgeeks.com/comic/5809864/superman-father-of-tomorrow-5",
+   "read_link": ""
+  }
+ ]
+}

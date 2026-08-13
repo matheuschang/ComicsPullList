@@ -1,0 +1,25 @@
+{
+ "id": "dc_batman-and-robin-year-one-dynamic-duos",
+ "nome": "Batman and Robin: Year One – Dynamic Duos",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman and Robin: Year One – Dynamic Duos #1",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7724379.jpg?1786491408",
+   "link": "https://leagueofcomicgeeks.com/comic/7724379/batman-and-robin-year-one-dynamic-duos-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batman and Robin: Year One – Dynamic Duos #2",
+   "data": "2026-09-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8397405.jpg?1782325294",
+   "link": "https://leagueofcomicgeeks.com/comic/8397405/batman-and-robin-year-one-dynamic-duos-2",
+   "read_link": ""
+  }
+ ]
+}

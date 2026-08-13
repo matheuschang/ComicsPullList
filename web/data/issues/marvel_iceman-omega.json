@@ -1,0 +1,16 @@
+{
+ "id": "marvel_iceman-omega",
+ "nome": "Iceman: Omega",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Iceman: Omega #1",
+   "data": "2026-03-04",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5043209.jpg?1777177248",
+   "link": "https://leagueofcomicgeeks.com/comic/5043209/iceman-omega-1",
+   "read_link": ""
+  }
+ ]
+}

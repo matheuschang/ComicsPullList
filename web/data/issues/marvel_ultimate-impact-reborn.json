@@ -1,0 +1,52 @@
+{
+ "id": "marvel_ultimate-impact-reborn",
+ "nome": "Ultimate Impact: Reborn",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Ultimate Impact: Reborn #1",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7933050.jpg?1785342236",
+   "link": "https://leagueofcomicgeeks.com/comic/7933050/ultimate-impact-reborn-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Ultimate Impact: Reborn #2",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2837919.jpg?1782396420",
+   "link": "https://leagueofcomicgeeks.com/comic/2837919/ultimate-impact-reborn-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Ultimate Impact: Reborn #3",
+   "data": "2026-07-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6966389.jpg?1785674456",
+   "link": "https://leagueofcomicgeeks.com/comic/6966389/ultimate-impact-reborn-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Ultimate Impact: Reborn #4",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2506124.jpg?1785856135",
+   "link": "https://leagueofcomicgeeks.com/comic/2506124/ultimate-impact-reborn-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Ultimate Impact: Reborn #5",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7222651.jpg?1784224899",
+   "link": "https://leagueofcomicgeeks.com/comic/7222651/ultimate-impact-reborn-5",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,475 @@
+{
+ "id": "dc_harley-quinn-in-paradise",
+ "nome": "Harley Quinn in Paradise",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Harley Quinn in Paradise #1",
+   "data": "2024-10-14",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6572268.jpg?1768436143",
+   "link": "https://leagueofcomicgeeks.com/comic/6572268/harley-quinn-in-paradise-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Harley Quinn in Paradise #2",
+   "data": "2024-10-14",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4651083.jpg?1768486185",
+   "link": "https://leagueofcomicgeeks.com/comic/4651083/harley-quinn-in-paradise-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Harley Quinn in Paradise #3",
+   "data": "2024-11-20",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1101011.jpg?1776737977",
+   "link": "https://leagueofcomicgeeks.com/comic/1101011/harley-quinn-in-paradise-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Harley Quinn in Paradise #4",
+   "data": "2024-11-25",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1500648.jpg?1776729499",
+   "link": "https://leagueofcomicgeeks.com/comic/1500648/harley-quinn-in-paradise-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Harley Quinn in Paradise #5",
+   "data": "2024-12-02",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9276210.jpg?1776729803",
+   "link": "https://leagueofcomicgeeks.com/comic/9276210/harley-quinn-in-paradise-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Harley Quinn in Paradise #6",
+   "data": "2024-12-09",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1307662.jpg?1777193877",
+   "link": "https://leagueofcomicgeeks.com/comic/1307662/harley-quinn-in-paradise-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Harley Quinn in Paradise #7",
+   "data": "2024-12-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6770755.jpg?1777193884",
+   "link": "https://leagueofcomicgeeks.com/comic/6770755/harley-quinn-in-paradise-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Harley Quinn in Paradise #8",
+   "data": "2024-12-23",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6967179.jpg?1777193892",
+   "link": "https://leagueofcomicgeeks.com/comic/6967179/harley-quinn-in-paradise-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Harley Quinn in Paradise #9",
+   "data": "2025-01-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8241058.jpg?1777193900",
+   "link": "https://leagueofcomicgeeks.com/comic/8241058/harley-quinn-in-paradise-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Harley Quinn in Paradise #10",
+   "data": "2025-01-20",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1803396.jpg?1768436842",
+   "link": "https://leagueofcomicgeeks.com/comic/1803396/harley-quinn-in-paradise-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Harley Quinn in Paradise #11",
+   "data": "2025-01-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6176581.jpg?1768436872",
+   "link": "https://leagueofcomicgeeks.com/comic/6176581/harley-quinn-in-paradise-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Harley Quinn in Paradise #12",
+   "data": "2025-02-03",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6172277.jpg?1768436910",
+   "link": "https://leagueofcomicgeeks.com/comic/6172277/harley-quinn-in-paradise-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Harley Quinn in Paradise #13",
+   "data": "2025-02-10",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8781274.jpg?1768436945",
+   "link": "https://leagueofcomicgeeks.com/comic/8781274/harley-quinn-in-paradise-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Harley Quinn in Paradise #14",
+   "data": "2025-02-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5078016.jpg?1768437016",
+   "link": "https://leagueofcomicgeeks.com/comic/5078016/harley-quinn-in-paradise-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Harley Quinn in Paradise #15",
+   "data": "2025-02-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9666953.jpg?1768437331",
+   "link": "https://leagueofcomicgeeks.com/comic/9666953/harley-quinn-in-paradise-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Harley Quinn in Paradise #16",
+   "data": "2025-03-03",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1843274.jpg?1768437355",
+   "link": "https://leagueofcomicgeeks.com/comic/1843274/harley-quinn-in-paradise-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Harley Quinn in Paradise #17",
+   "data": "2025-03-10",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2304916.jpg?1768437378",
+   "link": "https://leagueofcomicgeeks.com/comic/2304916/harley-quinn-in-paradise-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Harley Quinn in Paradise #18",
+   "data": "2025-03-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2090207.jpg?1768437410",
+   "link": "https://leagueofcomicgeeks.com/comic/2090207/harley-quinn-in-paradise-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Harley Quinn in Paradise #19",
+   "data": "2025-03-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1749995.jpg?1768437456",
+   "link": "https://leagueofcomicgeeks.com/comic/1749995/harley-quinn-in-paradise-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Harley Quinn in Paradise #20",
+   "data": "2025-03-31",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2264898.jpg?1768437501",
+   "link": "https://leagueofcomicgeeks.com/comic/2264898/harley-quinn-in-paradise-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Harley Quinn in Paradise #21",
+   "data": "2025-04-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8824304.jpg?1768437615",
+   "link": "https://leagueofcomicgeeks.com/comic/8824304/harley-quinn-in-paradise-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Harley Quinn in Paradise #22",
+   "data": "2025-04-21",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7335356.jpg?1768483035",
+   "link": "https://leagueofcomicgeeks.com/comic/7335356/harley-quinn-in-paradise-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Harley Quinn in Paradise #23",
+   "data": "2025-04-28",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7553572.jpg?1768483063",
+   "link": "https://leagueofcomicgeeks.com/comic/7553572/harley-quinn-in-paradise-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Harley Quinn in Paradise #24",
+   "data": "2025-05-05",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9474367.jpg?1768483107",
+   "link": "https://leagueofcomicgeeks.com/comic/9474367/harley-quinn-in-paradise-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Harley Quinn in Paradise #25",
+   "data": "2025-05-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4695275.jpg?1768483202",
+   "link": "https://leagueofcomicgeeks.com/comic/4695275/harley-quinn-in-paradise-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Harley Quinn in Paradise #26",
+   "data": "2025-05-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2192390.jpg?1768483229",
+   "link": "https://leagueofcomicgeeks.com/comic/2192390/harley-quinn-in-paradise-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Harley Quinn in Paradise #27",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6627697.jpg?1768483307",
+   "link": "https://leagueofcomicgeeks.com/comic/6627697/harley-quinn-in-paradise-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Harley Quinn in Paradise #28",
+   "data": "2025-07-21",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2650610.jpg?1768483344",
+   "link": "https://leagueofcomicgeeks.com/comic/2650610/harley-quinn-in-paradise-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Harley Quinn in Paradise #29",
+   "data": "2025-07-28",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2912821.jpg?1768483568",
+   "link": "https://leagueofcomicgeeks.com/comic/2912821/harley-quinn-in-paradise-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Harley Quinn in Paradise #30",
+   "data": "2025-08-04",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5656385.jpg?1768483587",
+   "link": "https://leagueofcomicgeeks.com/comic/5656385/harley-quinn-in-paradise-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Harley Quinn in Paradise #31",
+   "data": "2025-08-11",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6887220.jpg?1768483608",
+   "link": "https://leagueofcomicgeeks.com/comic/6887220/harley-quinn-in-paradise-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Harley Quinn in Paradise #32",
+   "data": "2025-08-18",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8523618.jpg?1768483629",
+   "link": "https://leagueofcomicgeeks.com/comic/8523618/harley-quinn-in-paradise-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Harley Quinn in Paradise #33",
+   "data": "2025-08-25",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5249284.jpg?1768483642",
+   "link": "https://leagueofcomicgeeks.com/comic/5249284/harley-quinn-in-paradise-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Harley Quinn in Paradise #34",
+   "data": "2025-09-01",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9787102.jpg?1768485106",
+   "link": "https://leagueofcomicgeeks.com/comic/9787102/harley-quinn-in-paradise-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Harley Quinn in Paradise #35",
+   "data": "2025-09-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9710105.jpg?1768485162",
+   "link": "https://leagueofcomicgeeks.com/comic/9710105/harley-quinn-in-paradise-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Harley Quinn in Paradise #36",
+   "data": "2025-09-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3609574.jpg?1768485207",
+   "link": "https://leagueofcomicgeeks.com/comic/3609574/harley-quinn-in-paradise-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Harley Quinn in Paradise #37",
+   "data": "2025-09-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5964359.jpg?1768487181",
+   "link": "https://leagueofcomicgeeks.com/comic/5964359/harley-quinn-in-paradise-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Harley Quinn in Paradise #38",
+   "data": "2025-10-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7085318.jpg?1768487273",
+   "link": "https://leagueofcomicgeeks.com/comic/7085318/harley-quinn-in-paradise-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Harley Quinn in Paradise #39",
+   "data": "2025-10-13",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1956158.jpg?1768487308",
+   "link": "https://leagueofcomicgeeks.com/comic/1956158/harley-quinn-in-paradise-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Harley Quinn in Paradise #40",
+   "data": "2025-10-20",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1754353.jpg?1768487338",
+   "link": "https://leagueofcomicgeeks.com/comic/1754353/harley-quinn-in-paradise-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Harley Quinn in Paradise #41",
+   "data": "2025-10-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9043239.jpg?1768487394",
+   "link": "https://leagueofcomicgeeks.com/comic/9043239/harley-quinn-in-paradise-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Harley Quinn in Paradise #42",
+   "data": "2025-11-03",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4015106.jpg?1762293740",
+   "link": "https://leagueofcomicgeeks.com/comic/4015106/harley-quinn-in-paradise-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Harley Quinn in Paradise #43",
+   "data": "2025-11-10",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6258603.jpg?1762751219",
+   "link": "https://leagueofcomicgeeks.com/comic/6258603/harley-quinn-in-paradise-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Harley Quinn in Paradise #44",
+   "data": "2025-11-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8178542.jpg?1769524376",
+   "link": "https://leagueofcomicgeeks.com/comic/8178542/harley-quinn-in-paradise-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Harley Quinn in Paradise #45",
+   "data": "2025-11-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5769994.jpg?1769524457",
+   "link": "https://leagueofcomicgeeks.com/comic/5769994/harley-quinn-in-paradise-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Harley Quinn in Paradise #46",
+   "data": "2026-01-05",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3624046.jpg?1776347386",
+   "link": "https://leagueofcomicgeeks.com/comic/3624046/harley-quinn-in-paradise-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Harley Quinn in Paradise #47",
+   "data": "2026-01-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3126124.jpg?1776347436",
+   "link": "https://leagueofcomicgeeks.com/comic/3126124/harley-quinn-in-paradise-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Harley Quinn in Paradise #48",
+   "data": "2026-01-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2622786.jpg?1776347485",
+   "link": "https://leagueofcomicgeeks.com/comic/2622786/harley-quinn-in-paradise-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Harley Quinn in Paradise #49",
+   "data": "2026-01-26",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2946641.jpg?1776347675",
+   "link": "https://leagueofcomicgeeks.com/comic/2946641/harley-quinn-in-paradise-49",
+   "read_link": ""
+  },
+  {
+   "numero": "50",
+   "titulo": "Harley Quinn in Paradise #50",
+   "data": "2026-02-02",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1508358.jpg?1776347742",
+   "link": "https://leagueofcomicgeeks.com/comic/1508358/harley-quinn-in-paradise-50",
+   "read_link": ""
+  },
+  {
+   "numero": "51",
+   "titulo": "Harley Quinn in Paradise #51",
+   "data": "2026-02-09",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8996239.jpg?1776347794",
+   "link": "https://leagueofcomicgeeks.com/comic/8996239/harley-quinn-in-paradise-51",
+   "read_link": ""
+  },
+  {
+   "numero": "52",
+   "titulo": "Harley Quinn in Paradise #52",
+   "data": "2026-02-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2586670.jpg?1782645529",
+   "link": "https://leagueofcomicgeeks.com/comic/2586670/harley-quinn-in-paradise-52",
+   "read_link": ""
+  }
+ ]
+}

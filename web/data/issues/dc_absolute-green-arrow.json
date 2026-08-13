@@ -1,0 +1,52 @@
+{
+ "id": "dc_absolute-green-arrow",
+ "nome": "Absolute Green Arrow",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Absolute Green Arrow #1",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1127152.jpg?1781202871",
+   "link": "https://leagueofcomicgeeks.com/comic/1127152/absolute-green-arrow-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Absolute Green Arrow #2",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4712491.jpg?1781737272",
+   "link": "https://leagueofcomicgeeks.com/comic/4712491/absolute-green-arrow-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Absolute Green Arrow #3",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4578031.jpg?1785541381",
+   "link": "https://leagueofcomicgeeks.com/comic/4578031/absolute-green-arrow-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Absolute Green Arrow #4",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4075435.jpg?1785194599",
+   "link": "https://leagueofcomicgeeks.com/comic/4075435/absolute-green-arrow-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Absolute Green Arrow #5",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1153213.jpg?1785106557",
+   "link": "https://leagueofcomicgeeks.com/comic/1153213/absolute-green-arrow-5",
+   "read_link": ""
+  }
+ ]
+}

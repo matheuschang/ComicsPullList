@@ -1,0 +1,241 @@
+{
+ "id": "dc_taste-of-justice",
+ "nome": "Taste of Justice",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Taste of Justice #1",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3222211.jpg?1767679213",
+   "link": "https://leagueofcomicgeeks.com/comic/3222211/taste-of-justice-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Taste of Justice #2",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5015650.jpg?1768426632",
+   "link": "https://leagueofcomicgeeks.com/comic/5015650/taste-of-justice-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Taste of Justice #3",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6595105.jpg?1769702234",
+   "link": "https://leagueofcomicgeeks.com/comic/6595105/taste-of-justice-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Taste of Justice #4",
+   "data": "2025-07-25",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7640551.jpg?1768427252",
+   "link": "https://leagueofcomicgeeks.com/comic/7640551/taste-of-justice-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Taste of Justice #5",
+   "data": "2025-08-01",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8763143.jpg?1768427390",
+   "link": "https://leagueofcomicgeeks.com/comic/8763143/taste-of-justice-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Taste of Justice #6",
+   "data": "2025-08-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4488575.jpg?1768427532",
+   "link": "https://leagueofcomicgeeks.com/comic/4488575/taste-of-justice-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Taste of Justice #7",
+   "data": "2025-08-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5087810.jpg?1769715159",
+   "link": "https://leagueofcomicgeeks.com/comic/5087810/taste-of-justice-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Taste of Justice #8",
+   "data": "2025-08-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6068966.jpg?1769702511",
+   "link": "https://leagueofcomicgeeks.com/comic/6068966/taste-of-justice-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Taste of Justice #9",
+   "data": "2025-08-29",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8270741.jpg?1769702605",
+   "link": "https://leagueofcomicgeeks.com/comic/8270741/taste-of-justice-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Taste of Justice #10",
+   "data": "2025-09-05",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7779703.jpg?1769702662",
+   "link": "https://leagueofcomicgeeks.com/comic/7779703/taste-of-justice-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Taste of Justice #11",
+   "data": "2025-09-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5126317.jpg?1769702735",
+   "link": "https://leagueofcomicgeeks.com/comic/5126317/taste-of-justice-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Taste of Justice #12",
+   "data": "2025-09-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1801649.jpg?1769702884",
+   "link": "https://leagueofcomicgeeks.com/comic/1801649/taste-of-justice-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Taste of Justice #13",
+   "data": "2025-09-29",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1984745.jpg?1769703990",
+   "link": "https://leagueofcomicgeeks.com/comic/1984745/taste-of-justice-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Taste of Justice #14",
+   "data": "2025-10-14",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4770662.jpg?1769704780",
+   "link": "https://leagueofcomicgeeks.com/comic/4770662/taste-of-justice-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Taste of Justice #15",
+   "data": "2025-10-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9094322.jpg?1769705025",
+   "link": "https://leagueofcomicgeeks.com/comic/9094322/taste-of-justice-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Taste of Justice #16",
+   "data": "2025-11-07",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1559693.jpg?1769705901",
+   "link": "https://leagueofcomicgeeks.com/comic/1559693/taste-of-justice-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Taste of Justice #17",
+   "data": "2025-11-21",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7810984.jpg?1769706079",
+   "link": "https://leagueofcomicgeeks.com/comic/7810984/taste-of-justice-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Taste of Justice #18",
+   "data": "2026-01-23",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8536840.jpg?1782711440",
+   "link": "https://leagueofcomicgeeks.com/comic/8536840/taste-of-justice-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Taste of Justice #19",
+   "data": "2026-02-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3826227.jpg?1782712191",
+   "link": "https://leagueofcomicgeeks.com/comic/3826227/taste-of-justice-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Taste of Justice #20",
+   "data": "2026-03-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8849913.jpg?1782712319",
+   "link": "https://leagueofcomicgeeks.com/comic/8849913/taste-of-justice-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Taste of Justice #21",
+   "data": "2026-04-13",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6247817.jpg?1782712454",
+   "link": "https://leagueofcomicgeeks.com/comic/6247817/taste-of-justice-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Taste of Justice #22",
+   "data": "2026-06-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5570876.jpg?1782712627",
+   "link": "https://leagueofcomicgeeks.com/comic/5570876/taste-of-justice-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Taste of Justice #23",
+   "data": "2026-06-26",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2737238.jpg?1782518382",
+   "link": "https://leagueofcomicgeeks.com/comic/2737238/taste-of-justice-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Taste of Justice #24",
+   "data": "2026-07-17",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4484068.jpg?1784673142",
+   "link": "https://leagueofcomicgeeks.com/comic/4484068/taste-of-justice-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Taste of Justice #25",
+   "data": "2026-07-24",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5099733.jpg?1785192743",
+   "link": "https://leagueofcomicgeeks.com/comic/5099733/taste-of-justice-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Taste of Justice #26",
+   "data": "2026-07-31",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5124300.jpg?1785470797",
+   "link": "https://leagueofcomicgeeks.com/comic/5124300/taste-of-justice-26",
+   "read_link": ""
+  }
+ ]
+}

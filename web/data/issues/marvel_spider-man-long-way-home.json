@@ -1,0 +1,34 @@
+{
+ "id": "marvel_spider-man-long-way-home",
+ "nome": "Spider-Man: Long Way Home",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Spider-Man: Long Way Home #1",
+   "data": "2026-06-17",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9632916.jpg?1784864361",
+   "link": "https://leagueofcomicgeeks.com/comic/9632916/spider-man-long-way-home-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Spider-Man: Long Way Home #2",
+   "data": "2026-07-22",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1059104.jpg?1784777918",
+   "link": "https://leagueofcomicgeeks.com/comic/1059104/spider-man-long-way-home-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Spider-Man: Long Way Home #3",
+   "data": "2026-09-16",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3496555.jpg?1785972751",
+   "link": "https://leagueofcomicgeeks.com/comic/3496555/spider-man-long-way-home-3",
+   "read_link": ""
+  }
+ ]
+}

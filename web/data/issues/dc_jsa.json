@@ -1,0 +1,214 @@
+{
+ "id": "dc_jsa",
+ "nome": "JSA",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "JSA #1",
+   "data": "2024-11-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8925458.jpg?1761191334",
+   "link": "https://leagueofcomicgeeks.com/comic/8925458/jsa-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "JSA #2",
+   "data": "2024-12-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1562609.jpg?1761191256",
+   "link": "https://leagueofcomicgeeks.com/comic/1562609/jsa-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "JSA #3",
+   "data": "2025-01-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9079875.jpg?1745807563",
+   "link": "https://leagueofcomicgeeks.com/comic/9079875/jsa-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "JSA #4",
+   "data": "2025-02-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2499063.jpg?1745807682",
+   "link": "https://leagueofcomicgeeks.com/comic/2499063/jsa-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "JSA #5",
+   "data": "2025-03-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6438858.jpg?1745807748",
+   "link": "https://leagueofcomicgeeks.com/comic/6438858/jsa-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "JSA #6",
+   "data": "2025-04-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4896690.jpg?1745807853",
+   "link": "https://leagueofcomicgeeks.com/comic/4896690/jsa-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "JSA #7",
+   "data": "2025-05-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2141813.jpg?1747777342",
+   "link": "https://leagueofcomicgeeks.com/comic/2141813/jsa-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "JSA #8",
+   "data": "2025-06-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9623252.jpg?1751557184",
+   "link": "https://leagueofcomicgeeks.com/comic/9623252/jsa-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "JSA #9",
+   "data": "2025-07-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7910708.jpg?1754515587",
+   "link": "https://leagueofcomicgeeks.com/comic/7910708/jsa-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "JSA #10",
+   "data": "2025-08-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7140414.jpg?1754527698",
+   "link": "https://leagueofcomicgeeks.com/comic/7140414/jsa-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "JSA #11",
+   "data": "2025-09-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5383823.jpg?1757100187",
+   "link": "https://leagueofcomicgeeks.com/comic/5383823/jsa-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "JSA #12",
+   "data": "2025-10-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1480326.jpg?1759472886",
+   "link": "https://leagueofcomicgeeks.com/comic/1480326/jsa-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "JSA #13",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8136791.jpg?1764874547",
+   "link": "https://leagueofcomicgeeks.com/comic/8136791/jsa-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "JSA #14",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6239459.jpg?1769990003",
+   "link": "https://leagueofcomicgeeks.com/comic/6239459/jsa-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "JSA #15",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9182980.jpg?1767891743",
+   "link": "https://leagueofcomicgeeks.com/comic/9182980/jsa-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "JSA #16",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3666205.jpg?1770246574",
+   "link": "https://leagueofcomicgeeks.com/comic/3666205/jsa-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "JSA #17",
+   "data": "2026-03-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6582545.jpg?1773853904",
+   "link": "https://leagueofcomicgeeks.com/comic/6582545/jsa-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "JSA #18",
+   "data": "2026-04-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2181065.jpg?1775253933",
+   "link": "https://leagueofcomicgeeks.com/comic/2181065/jsa-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "JSA #19",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5969155.jpg?1778112448",
+   "link": "https://leagueofcomicgeeks.com/comic/5969155/jsa-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "JSA #20",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2929509.jpg?1780514125",
+   "link": "https://leagueofcomicgeeks.com/comic/2929509/jsa-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "JSA #21",
+   "data": "2026-07-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1205390.jpg?1783503031",
+   "link": "https://leagueofcomicgeeks.com/comic/1205390/jsa-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "JSA #22",
+   "data": "2026-08-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4081673.jpg?1786148729",
+   "link": "https://leagueofcomicgeeks.com/comic/4081673/jsa-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "JSA #23",
+   "data": "2026-09-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3906396.jpg?1786048440",
+   "link": "https://leagueofcomicgeeks.com/comic/3906396/jsa-23",
+   "read_link": ""
+  }
+ ]
+}

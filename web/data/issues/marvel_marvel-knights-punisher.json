@@ -1,0 +1,43 @@
+{
+ "id": "marvel_marvel-knights-punisher",
+ "nome": "Marvel Knights: Punisher",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Marvel Knights: Punisher #1",
+   "data": "2025-10-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3927976.jpg?1768265826",
+   "link": "https://leagueofcomicgeeks.com/comic/3927976/marvel-knights-punisher-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Marvel Knights: Punisher #2",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4457974.jpg?1774966879",
+   "link": "https://leagueofcomicgeeks.com/comic/4457974/marvel-knights-punisher-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Marvel Knights: Punisher #3",
+   "data": "2025-12-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4319858.jpg?1774966895",
+   "link": "https://leagueofcomicgeeks.com/comic/4319858/marvel-knights-punisher-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Marvel Knights: Punisher #4",
+   "data": "2026-03-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5966927.jpg?1775009600",
+   "link": "https://leagueofcomicgeeks.com/comic/5966927/marvel-knights-punisher-4",
+   "read_link": ""
+  }
+ ]
+}

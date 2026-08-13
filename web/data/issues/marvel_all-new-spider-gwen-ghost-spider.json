@@ -1,0 +1,97 @@
+{
+ "id": "marvel_all-new-spider-gwen-ghost-spider",
+ "nome": "All-New Spider-Gwen: Ghost-Spider",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #1",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1693337.jpg?1761577197",
+   "link": "https://leagueofcomicgeeks.com/comic/1693337/all-new-spider-gwen-ghost-spider-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #2",
+   "data": "2025-09-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5953965.jpg?1761577213",
+   "link": "https://leagueofcomicgeeks.com/comic/5953965/all-new-spider-gwen-ghost-spider-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #3",
+   "data": "2025-10-29",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2732984.jpg?1762731756",
+   "link": "https://leagueofcomicgeeks.com/comic/2732984/all-new-spider-gwen-ghost-spider-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #4",
+   "data": "2025-11-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5461896.jpg?1765321980",
+   "link": "https://leagueofcomicgeeks.com/comic/5461896/all-new-spider-gwen-ghost-spider-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #5",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9452991.jpg?1766105744",
+   "link": "https://leagueofcomicgeeks.com/comic/9452991/all-new-spider-gwen-ghost-spider-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #6",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2417200.jpg?1768618557",
+   "link": "https://leagueofcomicgeeks.com/comic/2417200/all-new-spider-gwen-ghost-spider-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #7",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5858008.jpg?1773100040",
+   "link": "https://leagueofcomicgeeks.com/comic/5858008/all-new-spider-gwen-ghost-spider-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #8",
+   "data": "2026-03-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2956321.jpg?1773099903",
+   "link": "https://leagueofcomicgeeks.com/comic/2956321/all-new-spider-gwen-ghost-spider-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #9",
+   "data": "2026-04-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2466802.jpg?1775404537",
+   "link": "https://leagueofcomicgeeks.com/comic/2466802/all-new-spider-gwen-ghost-spider-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "All-New Spider-Gwen: Ghost-Spider #10",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1733801.jpg?1779721839",
+   "link": "https://leagueofcomicgeeks.com/comic/1733801/all-new-spider-gwen-ghost-spider-10",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "id": "dc_absolute-batman",
+ "nome": "Absolute Batman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Absolute Batman #1",
+   "data": "2024-10-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2463692.jpg?1783435656",
+   "link": "https://leagueofcomicgeeks.com/comic/2463692/absolute-batman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Absolute Batman #2",
+   "data": "2024-11-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8081353.jpg?1744681047",
+   "link": "https://leagueofcomicgeeks.com/comic/8081353/absolute-batman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Absolute Batman #3",
+   "data": "2024-12-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4941821.jpg?1758105485",
+   "link": "https://leagueofcomicgeeks.com/comic/4941821/absolute-batman-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Absolute Batman #4",
+   "data": "2025-01-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9876148.jpg?1783015222",
+   "link": "https://leagueofcomicgeeks.com/comic/9876148/absolute-batman-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Absolute Batman #5",
+   "data": "2025-02-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8470831.jpg?1759782567",
+   "link": "https://leagueofcomicgeeks.com/comic/8470831/absolute-batman-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Absolute Batman #6",
+   "data": "2025-03-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2844321.jpg?1758138125",
+   "link": "https://leagueofcomicgeeks.com/comic/2844321/absolute-batman-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Absolute Batman #7",
+   "data": "2025-04-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1867994.jpg?1781673197",
+   "link": "https://leagueofcomicgeeks.com/comic/1867994/absolute-batman-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Absolute Batman #8",
+   "data": "2025-05-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1032977.jpg?1781673156",
+   "link": "https://leagueofcomicgeeks.com/comic/1032977/absolute-batman-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Absolute Batman #9",
+   "data": "2025-06-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2676802.jpg?1781673133",
+   "link": "https://leagueofcomicgeeks.com/comic/2676802/absolute-batman-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Absolute Batman #10",
+   "data": "2025-07-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2372337.jpg?1781673115",
+   "link": "https://leagueofcomicgeeks.com/comic/2372337/absolute-batman-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Absolute Batman #11",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9078880.jpg?1781465605",
+   "link": "https://leagueofcomicgeeks.com/comic/9078880/absolute-batman-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Absolute Batman #12",
+   "data": "2025-09-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4860305.jpg?1781673076",
+   "link": "https://leagueofcomicgeeks.com/comic/4860305/absolute-batman-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Absolute Batman #13",
+   "data": "2025-10-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9522960.jpg?1781673062",
+   "link": "https://leagueofcomicgeeks.com/comic/9522960/absolute-batman-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Absolute Batman #14",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4235940.jpg?1781673043",
+   "link": "https://leagueofcomicgeeks.com/comic/4235940/absolute-batman-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Absolute Batman #15",
+   "data": "2025-12-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3675864.jpg?1781673002",
+   "link": "https://leagueofcomicgeeks.com/comic/3675864/absolute-batman-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Absolute Batman #16",
+   "data": "2026-01-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6297209.jpg?1781672985",
+   "link": "https://leagueofcomicgeeks.com/comic/6297209/absolute-batman-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Absolute Batman #17",
+   "data": "2026-02-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9457256.jpg?1781672969",
+   "link": "https://leagueofcomicgeeks.com/comic/9457256/absolute-batman-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Absolute Batman #18",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1511525.jpg?1781672955",
+   "link": "https://leagueofcomicgeeks.com/comic/1511525/absolute-batman-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Absolute Batman #19",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3528988.jpg?1781672943",
+   "link": "https://leagueofcomicgeeks.com/comic/3528988/absolute-batman-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Absolute Batman #20",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2292351.jpg?1781672906",
+   "link": "https://leagueofcomicgeeks.com/comic/2292351/absolute-batman-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Absolute Batman #21",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6512949.jpg?1782059134",
+   "link": "https://leagueofcomicgeeks.com/comic/6512949/absolute-batman-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Absolute Batman #22",
+   "data": "2026-07-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6863939.jpg?1785570567",
+   "link": "https://leagueofcomicgeeks.com/comic/6863939/absolute-batman-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Absolute Batman #23",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1669159.jpg?1786549413",
+   "link": "https://leagueofcomicgeeks.com/comic/1669159/absolute-batman-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Absolute Batman #24",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3952461.jpg?1786050106",
+   "link": "https://leagueofcomicgeeks.com/comic/3952461/absolute-batman-24",
+   "read_link": ""
+  }
+ ]
+}

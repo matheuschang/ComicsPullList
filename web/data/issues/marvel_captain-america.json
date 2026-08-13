@@ -1,0 +1,142 @@
+{
+ "id": "marvel_captain-america",
+ "nome": "Captain America",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Captain America #1",
+   "data": "2025-07-02",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2128372.jpg?1769619851",
+   "link": "https://leagueofcomicgeeks.com/comic/2128372/captain-america-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Captain America #2",
+   "data": "2025-08-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9838563.jpg?1755825544",
+   "link": "https://leagueofcomicgeeks.com/comic/9838563/captain-america-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Captain America #3",
+   "data": "2025-09-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1113637.jpg?1763570487",
+   "link": "https://leagueofcomicgeeks.com/comic/1113637/captain-america-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Captain America #4",
+   "data": "2025-10-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7774040.jpg?1763570383",
+   "link": "https://leagueofcomicgeeks.com/comic/7774040/captain-america-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Captain America #5",
+   "data": "2025-11-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8033237.jpg?1763661083",
+   "link": "https://leagueofcomicgeeks.com/comic/8033237/captain-america-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Captain America #6",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7859685.jpg?1771796011",
+   "link": "https://leagueofcomicgeeks.com/comic/7859685/captain-america-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Captain America #7",
+   "data": "2026-02-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7467707.jpg?1779976616",
+   "link": "https://leagueofcomicgeeks.com/comic/7467707/captain-america-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Captain America #8",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3040774.jpg?1779976635",
+   "link": "https://leagueofcomicgeeks.com/comic/3040774/captain-america-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Captain America #9",
+   "data": "2026-04-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8370766.jpg?1780759522",
+   "link": "https://leagueofcomicgeeks.com/comic/8370766/captain-america-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Captain America #10",
+   "data": "2026-04-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9412948.jpg?1779976834",
+   "link": "https://leagueofcomicgeeks.com/comic/9412948/captain-america-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Captain America #11",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7488873.jpg?1782476747",
+   "link": "https://leagueofcomicgeeks.com/comic/7488873/captain-america-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Captain America #12",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2118848.jpg?1785103673",
+   "link": "https://leagueofcomicgeeks.com/comic/2118848/captain-america-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Captain America #13",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3021631.jpg?1786395707",
+   "link": "https://leagueofcomicgeeks.com/comic/3021631/captain-america-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Captain America #14",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4329752.jpg?1786397087",
+   "link": "https://leagueofcomicgeeks.com/comic/4329752/captain-america-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Captain America #15",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5478055.jpg?1786289716",
+   "link": "https://leagueofcomicgeeks.com/comic/5478055/captain-america-15",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "gerado_em": "2026-08-13T03:38:49",
+ "fonte": "locg",
+ "referencia": "2026-08-13",
+ "cobertura": {
+  "de": "2026-01-01",
+  "ate": "2026-09-30"
+ },
+ "total_series": 337,
+ "total_edicoes": 2687,
+ "em_publicacao": 222,
+ "com_proxima": 135,
+ "descartes": {
+  "antes-do-corte": 17,
+  "outra-editora": 9242,
+  "digital-vertical": 826,
+  "reimpressao": 2,
+  "titulo-colecao": 3,
+  "preview-catalogo": 2
+ }
+}

@@ -1,0 +1,385 @@
+{
+ "id": "marvel_miles-morales-spider-man",
+ "nome": "Miles Morales: Spider-Man",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Miles Morales: Spider-Man #1",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3362498.jpg?1786558373",
+   "link": "https://leagueofcomicgeeks.com/comic/3362498/miles-morales-spider-man-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Miles Morales: Spider-Man #2",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1840376.jpg?1786488937",
+   "link": "https://leagueofcomicgeeks.com/comic/1840376/miles-morales-spider-man-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Miles Morales: Spider-Man #3",
+   "data": "2023-02-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7973983.jpg?1760511208",
+   "link": "https://leagueofcomicgeeks.com/comic/7973983/miles-morales-spider-man-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Miles Morales: Spider-Man #4",
+   "data": "2023-03-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9796918.jpg?1739231774",
+   "link": "https://leagueofcomicgeeks.com/comic/9796918/miles-morales-spider-man-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Miles Morales: Spider-Man #5",
+   "data": "2023-04-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8884769.jpg?1739231922",
+   "link": "https://leagueofcomicgeeks.com/comic/8884769/miles-morales-spider-man-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Miles Morales: Spider-Man #6",
+   "data": "2023-05-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3633024.jpg?1751397237",
+   "link": "https://leagueofcomicgeeks.com/comic/3633024/miles-morales-spider-man-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Miles Morales: Spider-Man #7",
+   "data": "2023-06-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2293641.jpg?1754944165",
+   "link": "https://leagueofcomicgeeks.com/comic/2293641/miles-morales-spider-man-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Miles Morales: Spider-Man #8",
+   "data": "2023-07-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7051117.jpg?1754766901",
+   "link": "https://leagueofcomicgeeks.com/comic/7051117/miles-morales-spider-man-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Miles Morales: Spider-Man #9",
+   "data": "2023-08-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2031413.jpg?1769077023",
+   "link": "https://leagueofcomicgeeks.com/comic/2031413/miles-morales-spider-man-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Miles Morales: Spider-Man #10",
+   "data": "2023-09-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8311883.jpg?1751396576",
+   "link": "https://leagueofcomicgeeks.com/comic/8311883/miles-morales-spider-man-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Miles Morales: Spider-Man #11",
+   "data": "2023-10-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1350128.jpg?1751396461",
+   "link": "https://leagueofcomicgeeks.com/comic/1350128/miles-morales-spider-man-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Miles Morales: Spider-Man #12",
+   "data": "2023-11-29",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7879442.jpg?1751396294",
+   "link": "https://leagueofcomicgeeks.com/comic/7879442/miles-morales-spider-man-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Miles Morales: Spider-Man #13",
+   "data": "2023-12-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7546106.jpg?1751396164",
+   "link": "https://leagueofcomicgeeks.com/comic/7546106/miles-morales-spider-man-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Miles Morales: Spider-Man #14",
+   "data": "2023-12-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3898969.jpg?1763546931",
+   "link": "https://leagueofcomicgeeks.com/comic/3898969/miles-morales-spider-man-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Miles Morales: Spider-Man #15",
+   "data": "2024-01-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3685990.jpg?1751395558",
+   "link": "https://leagueofcomicgeeks.com/comic/3685990/miles-morales-spider-man-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Miles Morales: Spider-Man #16",
+   "data": "2024-02-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8024346.jpg?1751397470",
+   "link": "https://leagueofcomicgeeks.com/comic/8024346/miles-morales-spider-man-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Miles Morales: Spider-Man #17",
+   "data": "2024-02-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4385333.jpg?1764029442",
+   "link": "https://leagueofcomicgeeks.com/comic/4385333/miles-morales-spider-man-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Miles Morales: Spider-Man #18",
+   "data": "2024-03-27",
+   "preco": "8.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8250499.jpg?1751326591",
+   "link": "https://leagueofcomicgeeks.com/comic/8250499/miles-morales-spider-man-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Miles Morales: Spider-Man #19",
+   "data": "2024-04-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9711208.jpg?1713335899",
+   "link": "https://leagueofcomicgeeks.com/comic/9711208/miles-morales-spider-man-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Miles Morales: Spider-Man #20",
+   "data": "2024-05-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2929221.jpg?1718299880",
+   "link": "https://leagueofcomicgeeks.com/comic/2929221/miles-morales-spider-man-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Miles Morales: Spider-Man #21",
+   "data": "2024-06-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3286363.jpg?1751326031",
+   "link": "https://leagueofcomicgeeks.com/comic/3286363/miles-morales-spider-man-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Miles Morales: Spider-Man #22",
+   "data": "2024-07-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1853084.jpg?1724549123",
+   "link": "https://leagueofcomicgeeks.com/comic/1853084/miles-morales-spider-man-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Miles Morales: Spider-Man #23",
+   "data": "2024-08-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5912237.jpg?1723657236",
+   "link": "https://leagueofcomicgeeks.com/comic/5912237/miles-morales-spider-man-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Miles Morales: Spider-Man #24",
+   "data": "2024-09-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9670187.jpg?1751325181",
+   "link": "https://leagueofcomicgeeks.com/comic/9670187/miles-morales-spider-man-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Miles Morales: Spider-Man #25",
+   "data": "2024-10-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4579731.jpg?1754184134",
+   "link": "https://leagueofcomicgeeks.com/comic/4579731/miles-morales-spider-man-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Miles Morales: Spider-Man #26",
+   "data": "2024-11-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7675534.jpg?1751324782",
+   "link": "https://leagueofcomicgeeks.com/comic/7675534/miles-morales-spider-man-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Miles Morales: Spider-Man #27",
+   "data": "2024-12-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4747926.jpg?1751324746",
+   "link": "https://leagueofcomicgeeks.com/comic/4747926/miles-morales-spider-man-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Miles Morales: Spider-Man #28",
+   "data": "2025-01-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9433385.jpg?1751324705",
+   "link": "https://leagueofcomicgeeks.com/comic/9433385/miles-morales-spider-man-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Miles Morales: Spider-Man #29",
+   "data": "2025-01-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5566362.jpg?1765495853",
+   "link": "https://leagueofcomicgeeks.com/comic/5566362/miles-morales-spider-man-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Miles Morales: Spider-Man #30",
+   "data": "2025-02-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1449360.jpg?1751324565",
+   "link": "https://leagueofcomicgeeks.com/comic/1449360/miles-morales-spider-man-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Miles Morales: Spider-Man #31",
+   "data": "2025-03-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3735705.jpg?1742483551",
+   "link": "https://leagueofcomicgeeks.com/comic/3735705/miles-morales-spider-man-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Miles Morales: Spider-Man #32",
+   "data": "2025-04-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5190798.jpg?1765771978",
+   "link": "https://leagueofcomicgeeks.com/comic/5190798/miles-morales-spider-man-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Miles Morales: Spider-Man #33",
+   "data": "2025-05-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6642262.jpg?1767300452",
+   "link": "https://leagueofcomicgeeks.com/comic/6642262/miles-morales-spider-man-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Miles Morales: Spider-Man #34",
+   "data": "2025-06-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7462601.jpg?1767300706",
+   "link": "https://leagueofcomicgeeks.com/comic/7462601/miles-morales-spider-man-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Miles Morales: Spider-Man #35",
+   "data": "2025-07-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3141061.jpg?1771995051",
+   "link": "https://leagueofcomicgeeks.com/comic/3141061/miles-morales-spider-man-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Miles Morales: Spider-Man #36",
+   "data": "2025-08-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6481964.jpg?1778745684",
+   "link": "https://leagueofcomicgeeks.com/comic/6481964/miles-morales-spider-man-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Miles Morales: Spider-Man #37",
+   "data": "2025-08-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8156365.jpg?1775635857",
+   "link": "https://leagueofcomicgeeks.com/comic/8156365/miles-morales-spider-man-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Miles Morales: Spider-Man #38",
+   "data": "2025-09-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8925396.jpg?1778745602",
+   "link": "https://leagueofcomicgeeks.com/comic/8925396/miles-morales-spider-man-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Miles Morales: Spider-Man #39",
+   "data": "2025-10-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4908328.jpg?1765097817",
+   "link": "https://leagueofcomicgeeks.com/comic/4908328/miles-morales-spider-man-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Miles Morales: Spider-Man #40",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4624880.jpg?1763510380",
+   "link": "https://leagueofcomicgeeks.com/comic/4624880/miles-morales-spider-man-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Miles Morales: Spider-Man #41",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9714440.jpg?1766979338",
+   "link": "https://leagueofcomicgeeks.com/comic/9714440/miles-morales-spider-man-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Miles Morales: Spider-Man #42",
+   "data": "2026-01-28",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8268001.jpg?1774355496",
+   "link": "https://leagueofcomicgeeks.com/comic/8268001/miles-morales-spider-man-42",
+   "read_link": ""
+  }
+ ]
+}

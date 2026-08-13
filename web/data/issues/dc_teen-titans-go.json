@@ -1,0 +1,115 @@
+{
+ "id": "dc_teen-titans-go",
+ "nome": "Teen Titans Go!",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Teen Titans Go! #1",
+   "data": "2025-03-05",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7214599.jpg?1778938538",
+   "link": "https://leagueofcomicgeeks.com/comic/7214599/teen-titans-go-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Teen Titans Go! #2",
+   "data": "2025-04-02",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6494048.jpg?1778938554",
+   "link": "https://leagueofcomicgeeks.com/comic/6494048/teen-titans-go-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Teen Titans Go! #3",
+   "data": "2025-05-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7411068.jpg?1752186498",
+   "link": "https://leagueofcomicgeeks.com/comic/7411068/teen-titans-go-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Teen Titans Go! #4",
+   "data": "2025-06-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6673676.jpg?1757276048",
+   "link": "https://leagueofcomicgeeks.com/comic/6673676/teen-titans-go-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Teen Titans Go! #5",
+   "data": "2025-07-02",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3822296.jpg?1757276124",
+   "link": "https://leagueofcomicgeeks.com/comic/3822296/teen-titans-go-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Teen Titans Go! #6",
+   "data": "2025-08-06",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2043021.jpg?1778938585",
+   "link": "https://leagueofcomicgeeks.com/comic/2043021/teen-titans-go-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Teen Titans Go! #7",
+   "data": "2025-09-03",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9745956.jpg?1757276412",
+   "link": "https://leagueofcomicgeeks.com/comic/9745956/teen-titans-go-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Teen Titans Go! #8",
+   "data": "2025-10-01",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8347740.jpg?1759303083",
+   "link": "https://leagueofcomicgeeks.com/comic/8347740/teen-titans-go-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Teen Titans Go! #9",
+   "data": "2025-11-05",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6255991.jpg?1762595229",
+   "link": "https://leagueofcomicgeeks.com/comic/6255991/teen-titans-go-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Teen Titans Go! #10",
+   "data": "2025-12-03",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2226184.jpg?1765058796",
+   "link": "https://leagueofcomicgeeks.com/comic/2226184/teen-titans-go-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Teen Titans Go! #11",
+   "data": "2026-01-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8990094.jpg?1767140675",
+   "link": "https://leagueofcomicgeeks.com/comic/8990094/teen-titans-go-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Teen Titans Go! #12",
+   "data": "2026-02-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4845485.jpg?1770217142",
+   "link": "https://leagueofcomicgeeks.com/comic/4845485/teen-titans-go-12",
+   "read_link": ""
+  }
+ ]
+}

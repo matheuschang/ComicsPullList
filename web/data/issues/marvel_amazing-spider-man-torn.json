@@ -1,0 +1,52 @@
+{
+ "id": "marvel_amazing-spider-man-torn",
+ "nome": "The Amazing Spider-Man: Torn",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Amazing Spider-Man: Torn #1",
+   "data": "2025-10-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3806820.jpg?1783913692",
+   "link": "https://leagueofcomicgeeks.com/comic/3806820/the-amazing-spider-man-torn-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Amazing Spider-Man: Torn #2",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5598239.jpg?1768443453",
+   "link": "https://leagueofcomicgeeks.com/comic/5598239/the-amazing-spider-man-torn-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Amazing Spider-Man: Torn #3",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9212735.jpg?1768443618",
+   "link": "https://leagueofcomicgeeks.com/comic/9212735/the-amazing-spider-man-torn-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Amazing Spider-Man: Torn #4",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1213045.jpg?1768443839",
+   "link": "https://leagueofcomicgeeks.com/comic/1213045/the-amazing-spider-man-torn-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Amazing Spider-Man: Torn #5",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2275859.jpg?1773949597",
+   "link": "https://leagueofcomicgeeks.com/comic/2275859/the-amazing-spider-man-torn-5",
+   "read_link": ""
+  }
+ ]
+}

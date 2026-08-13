@@ -1,0 +1,52 @@
+{
+ "id": "dc_dc-k-o",
+ "nome": "DC K.O.",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "DC K.O. #1",
+   "data": "2025-10-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6970916.jpg?1781958985",
+   "link": "https://leagueofcomicgeeks.com/comic/6970916/dc-ko-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "DC K.O. #2",
+   "data": "2025-11-26",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1936798.jpg?1782048944",
+   "link": "https://leagueofcomicgeeks.com/comic/1936798/dc-ko-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "DC K.O. #3",
+   "data": "2026-01-14",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9486252.jpg?1781959395",
+   "link": "https://leagueofcomicgeeks.com/comic/9486252/dc-ko-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "DC K.O. #4",
+   "data": "2026-02-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8227989.jpg?1781959440",
+   "link": "https://leagueofcomicgeeks.com/comic/8227989/dc-ko-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "DC K.O. #5",
+   "data": "2026-03-04",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4580771.jpg?1785890832",
+   "link": "https://leagueofcomicgeeks.com/comic/4580771/dc-ko-5",
+   "read_link": ""
+  }
+ ]
+}

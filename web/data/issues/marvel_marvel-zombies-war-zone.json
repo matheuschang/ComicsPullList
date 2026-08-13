@@ -1,0 +1,16 @@
+{
+ "id": "marvel_marvel-zombies-war-zone",
+ "nome": "Marvel Zombies: War Zone",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Marvel Zombies: War Zone #1",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3554251.jpg?1785090362",
+   "link": "https://leagueofcomicgeeks.com/comic/3554251/marvel-zombies-war-zone-1",
+   "read_link": ""
+  }
+ ]
+}

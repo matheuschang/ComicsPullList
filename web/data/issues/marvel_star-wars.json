@@ -1,0 +1,97 @@
+{
+ "id": "marvel_star-wars",
+ "nome": "Star Wars",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Star Wars #1",
+   "data": "2025-05-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7902046.jpg?1768677630",
+   "link": "https://leagueofcomicgeeks.com/comic/7902046/star-wars-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Star Wars #2",
+   "data": "2025-06-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9020126.jpg?1760965047",
+   "link": "https://leagueofcomicgeeks.com/comic/9020126/star-wars-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Star Wars #3",
+   "data": "2025-07-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6238760.jpg?1768679722",
+   "link": "https://leagueofcomicgeeks.com/comic/6238760/star-wars-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Star Wars #4",
+   "data": "2025-08-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2617989.jpg?1760965175",
+   "link": "https://leagueofcomicgeeks.com/comic/2617989/star-wars-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Star Wars #5",
+   "data": "2025-09-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3907298.jpg?1760965153",
+   "link": "https://leagueofcomicgeeks.com/comic/3907298/star-wars-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Star Wars #6",
+   "data": "2025-10-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6978062.jpg?1768679941",
+   "link": "https://leagueofcomicgeeks.com/comic/6978062/star-wars-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Star Wars #7",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1859255.jpg?1768955245",
+   "link": "https://leagueofcomicgeeks.com/comic/1859255/star-wars-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Star Wars #8",
+   "data": "2025-12-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3175894.jpg?1768954862",
+   "link": "https://leagueofcomicgeeks.com/comic/3175894/star-wars-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Star Wars #9",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9247743.jpg?1771579968",
+   "link": "https://leagueofcomicgeeks.com/comic/9247743/star-wars-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Star Wars #10",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7509911.jpg?1771579757",
+   "link": "https://leagueofcomicgeeks.com/comic/7509911/star-wars-10",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "marvel_battleworld",
+ "nome": "Battleworld",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Battleworld #1",
+   "data": "2025-09-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6831312.jpg?1760988904",
+   "link": "https://leagueofcomicgeeks.com/comic/6831312/battleworld-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Battleworld #2",
+   "data": "2025-10-29",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6968536.jpg?1765425204",
+   "link": "https://leagueofcomicgeeks.com/comic/6968536/battleworld-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Battleworld #3",
+   "data": "2025-11-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1345201.jpg?1766009647",
+   "link": "https://leagueofcomicgeeks.com/comic/1345201/battleworld-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Battleworld #4",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8732811.jpg?1782518609",
+   "link": "https://leagueofcomicgeeks.com/comic/8732811/battleworld-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Battleworld #5",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2632081.jpg?1782518625",
+   "link": "https://leagueofcomicgeeks.com/comic/2632081/battleworld-5",
+   "read_link": ""
+  }
+ ]
+}

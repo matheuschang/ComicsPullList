@@ -1,0 +1,97 @@
+{
+ "id": "marvel_new-avengers",
+ "nome": "New Avengers",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "New Avengers #1",
+   "data": "2025-06-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8295419.jpg?1757731098",
+   "link": "https://leagueofcomicgeeks.com/comic/8295419/new-avengers-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "New Avengers #2",
+   "data": "2025-07-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8029574.jpg?1786150544",
+   "link": "https://leagueofcomicgeeks.com/comic/8029574/new-avengers-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "New Avengers #3",
+   "data": "2025-08-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3418568.jpg?1778253515",
+   "link": "https://leagueofcomicgeeks.com/comic/3418568/new-avengers-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "New Avengers #4",
+   "data": "2025-09-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6305531.jpg?1778253659",
+   "link": "https://leagueofcomicgeeks.com/comic/6305531/new-avengers-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "New Avengers #5",
+   "data": "2025-10-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6435076.jpg?1786150583",
+   "link": "https://leagueofcomicgeeks.com/comic/6435076/new-avengers-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "New Avengers #6",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5904983.jpg?1763648826",
+   "link": "https://leagueofcomicgeeks.com/comic/5904983/new-avengers-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "New Avengers #7",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8794542.jpg?1766794501",
+   "link": "https://leagueofcomicgeeks.com/comic/8794542/new-avengers-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "New Avengers #8",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8965213.jpg?1786149403",
+   "link": "https://leagueofcomicgeeks.com/comic/8965213/new-avengers-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "New Avengers #9",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1166716.jpg?1771870260",
+   "link": "https://leagueofcomicgeeks.com/comic/1166716/new-avengers-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "New Avengers #10",
+   "data": "2026-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4822157.jpg?1786150748",
+   "link": "https://leagueofcomicgeeks.com/comic/4822157/new-avengers-10",
+   "read_link": ""
+  }
+ ]
+}

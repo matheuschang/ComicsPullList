@@ -1,0 +1,1285 @@
+{
+ "id": "dc_nightwing",
+ "nome": "Nightwing",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Nightwing #1",
+   "data": "2016-07-27",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5851467.jpg?1701484518",
+   "link": "https://leagueofcomicgeeks.com/comic/5851467/nightwing-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Nightwing #2",
+   "data": "2016-08-03",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1507594.jpg?1727634686",
+   "link": "https://leagueofcomicgeeks.com/comic/1507594/nightwing-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Nightwing #3",
+   "data": "2016-08-17",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8600458.jpg?1727634699",
+   "link": "https://leagueofcomicgeeks.com/comic/8600458/nightwing-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Nightwing #4",
+   "data": "2016-09-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6616748.jpg?1727634710",
+   "link": "https://leagueofcomicgeeks.com/comic/6616748/nightwing-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Nightwing #5",
+   "data": "2016-09-21",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5629035.jpg?1721234047",
+   "link": "https://leagueofcomicgeeks.com/comic/5629035/nightwing-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Nightwing #6",
+   "data": "2016-10-05",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8367602.jpg?1723393338",
+   "link": "https://leagueofcomicgeeks.com/comic/8367602/nightwing-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Nightwing #7",
+   "data": "2016-10-19",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8983972.jpg?1736810029",
+   "link": "https://leagueofcomicgeeks.com/comic/8983972/nightwing-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Nightwing #8",
+   "data": "2016-11-02",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1494155.jpg?1727634753",
+   "link": "https://leagueofcomicgeeks.com/comic/1494155/nightwing-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Nightwing #9",
+   "data": "2016-11-16",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7360792.jpg?1783542178",
+   "link": "https://leagueofcomicgeeks.com/comic/7360792/nightwing-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Nightwing #10",
+   "data": "2016-12-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8567816.jpg?1690771808",
+   "link": "https://leagueofcomicgeeks.com/comic/8567816/nightwing-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Nightwing #11",
+   "data": "2016-12-21",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8240747.jpg?1761008733",
+   "link": "https://leagueofcomicgeeks.com/comic/8240747/nightwing-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Nightwing #12",
+   "data": "2017-01-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8250153.jpg?1690835783",
+   "link": "https://leagueofcomicgeeks.com/comic/8250153/nightwing-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Nightwing #13",
+   "data": "2017-01-18",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4248186.jpg?1690836089",
+   "link": "https://leagueofcomicgeeks.com/comic/4248186/nightwing-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Nightwing #14",
+   "data": "2017-02-01",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8681496.jpg?1690836264",
+   "link": "https://leagueofcomicgeeks.com/comic/8681496/nightwing-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Nightwing #15",
+   "data": "2017-02-15",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2341671.jpg?1690834421",
+   "link": "https://leagueofcomicgeeks.com/comic/2341671/nightwing-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Nightwing #16",
+   "data": "2017-03-01",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9560801.jpg?1690834680",
+   "link": "https://leagueofcomicgeeks.com/comic/9560801/nightwing-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Nightwing #17",
+   "data": "2017-03-15",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8071127.jpg?1690834926",
+   "link": "https://leagueofcomicgeeks.com/comic/8071127/nightwing-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Nightwing #18",
+   "data": "2017-04-05",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9338688.jpg?1690835101",
+   "link": "https://leagueofcomicgeeks.com/comic/9338688/nightwing-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Nightwing #19",
+   "data": "2017-04-19",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9433649.jpg?1690835269",
+   "link": "https://leagueofcomicgeeks.com/comic/9433649/nightwing-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Nightwing #20",
+   "data": "2017-05-03",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9316203.jpg?1690835386",
+   "link": "https://leagueofcomicgeeks.com/comic/9316203/nightwing-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Nightwing #21",
+   "data": "2017-05-17",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8780749.jpg?1727634809",
+   "link": "https://leagueofcomicgeeks.com/comic/8780749/nightwing-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Nightwing #22",
+   "data": "2017-06-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1365675.jpg?1690837583",
+   "link": "https://leagueofcomicgeeks.com/comic/1365675/nightwing-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Nightwing #23",
+   "data": "2017-06-21",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2154795.jpg?1749395139",
+   "link": "https://leagueofcomicgeeks.com/comic/2154795/nightwing-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Nightwing #24",
+   "data": "2017-07-05",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6200343.jpg?1690838004",
+   "link": "https://leagueofcomicgeeks.com/comic/6200343/nightwing-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Nightwing #25",
+   "data": "2017-07-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4673543.jpg?1770408600",
+   "link": "https://leagueofcomicgeeks.com/comic/4673543/nightwing-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Nightwing #26",
+   "data": "2017-08-02",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7022109.jpg?1690838490",
+   "link": "https://leagueofcomicgeeks.com/comic/7022109/nightwing-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Nightwing #27",
+   "data": "2017-08-16",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7480255.jpg?1726809441",
+   "link": "https://leagueofcomicgeeks.com/comic/7480255/nightwing-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Nightwing #28",
+   "data": "2017-09-06",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1688340.jpg?1702788493",
+   "link": "https://leagueofcomicgeeks.com/comic/1688340/nightwing-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Nightwing #29",
+   "data": "2017-09-20",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7394118.jpg?1709617150",
+   "link": "https://leagueofcomicgeeks.com/comic/7394118/nightwing-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Nightwing #30",
+   "data": "2017-10-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2937879.jpg?1702046641",
+   "link": "https://leagueofcomicgeeks.com/comic/2937879/nightwing-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Nightwing #31",
+   "data": "2017-10-18",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3801060.jpg?1711618304",
+   "link": "https://leagueofcomicgeeks.com/comic/3801060/nightwing-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Nightwing #32",
+   "data": "2017-11-01",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6369996.jpg?1702047046",
+   "link": "https://leagueofcomicgeeks.com/comic/6369996/nightwing-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Nightwing #33",
+   "data": "2017-11-15",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8581712.jpg?1702047232",
+   "link": "https://leagueofcomicgeeks.com/comic/8581712/nightwing-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Nightwing #34",
+   "data": "2017-12-06",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3353452.jpg?1702047435",
+   "link": "https://leagueofcomicgeeks.com/comic/3353452/nightwing-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Nightwing #35",
+   "data": "2017-12-20",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4088384.jpg?1702690145",
+   "link": "https://leagueofcomicgeeks.com/comic/4088384/nightwing-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Nightwing #36",
+   "data": "2018-01-03",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8756655.jpg?1727706990",
+   "link": "https://leagueofcomicgeeks.com/comic/8756655/nightwing-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Nightwing #37",
+   "data": "2018-01-17",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4393468.jpg?1727707002",
+   "link": "https://leagueofcomicgeeks.com/comic/4393468/nightwing-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Nightwing #38",
+   "data": "2018-02-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5080223.jpg?1727707013",
+   "link": "https://leagueofcomicgeeks.com/comic/5080223/nightwing-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Nightwing #39",
+   "data": "2018-02-21",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1428017.jpg?1727707026",
+   "link": "https://leagueofcomicgeeks.com/comic/1428017/nightwing-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Nightwing #40",
+   "data": "2018-03-07",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5560936.jpg?1727707057",
+   "link": "https://leagueofcomicgeeks.com/comic/5560936/nightwing-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Nightwing #41",
+   "data": "2018-03-21",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8519003.jpg?1727707068",
+   "link": "https://leagueofcomicgeeks.com/comic/8519003/nightwing-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Nightwing #42",
+   "data": "2018-04-04",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6647703.jpg?1727707192",
+   "link": "https://leagueofcomicgeeks.com/comic/6647703/nightwing-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Nightwing #43",
+   "data": "2018-04-18",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3159582.jpg?1727707223",
+   "link": "https://leagueofcomicgeeks.com/comic/3159582/nightwing-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Nightwing #44",
+   "data": "2018-05-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9992910.jpg?1727707238",
+   "link": "https://leagueofcomicgeeks.com/comic/9992910/nightwing-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Nightwing #45",
+   "data": "2018-06-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1673101.jpg?1755433120",
+   "link": "https://leagueofcomicgeeks.com/comic/1673101/nightwing-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Nightwing #46",
+   "data": "2018-07-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3970391.jpg?1755433152",
+   "link": "https://leagueofcomicgeeks.com/comic/3970391/nightwing-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Nightwing #47",
+   "data": "2018-08-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1521458.jpg?1755433171",
+   "link": "https://leagueofcomicgeeks.com/comic/1521458/nightwing-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Nightwing #48",
+   "data": "2018-09-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6394583.jpg?1727707337",
+   "link": "https://leagueofcomicgeeks.com/comic/6394583/nightwing-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Nightwing #49",
+   "data": "2018-09-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5142299.jpg?1727707345",
+   "link": "https://leagueofcomicgeeks.com/comic/5142299/nightwing-49",
+   "read_link": ""
+  },
+  {
+   "numero": "50",
+   "titulo": "Nightwing #50",
+   "data": "2018-10-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9608656.jpg?1727707379",
+   "link": "https://leagueofcomicgeeks.com/comic/9608656/nightwing-50",
+   "read_link": ""
+  },
+  {
+   "numero": "51",
+   "titulo": "Nightwing #51",
+   "data": "2018-10-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4399696.jpg?1727707416",
+   "link": "https://leagueofcomicgeeks.com/comic/4399696/nightwing-51",
+   "read_link": ""
+  },
+  {
+   "numero": "52",
+   "titulo": "Nightwing #52",
+   "data": "2018-11-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8290549.jpg?1737577837",
+   "link": "https://leagueofcomicgeeks.com/comic/8290549/nightwing-52",
+   "read_link": ""
+  },
+  {
+   "numero": "53",
+   "titulo": "Nightwing #53",
+   "data": "2018-11-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7552996.jpg?1727707441",
+   "link": "https://leagueofcomicgeeks.com/comic/7552996/nightwing-53",
+   "read_link": ""
+  },
+  {
+   "numero": "54",
+   "titulo": "Nightwing #54",
+   "data": "2018-12-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1865806.jpg?1727707452",
+   "link": "https://leagueofcomicgeeks.com/comic/1865806/nightwing-54",
+   "read_link": ""
+  },
+  {
+   "numero": "55",
+   "titulo": "Nightwing #55",
+   "data": "2018-12-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4954677.jpg?1727707462",
+   "link": "https://leagueofcomicgeeks.com/comic/4954677/nightwing-55",
+   "read_link": ""
+  },
+  {
+   "numero": "56",
+   "titulo": "Nightwing #56",
+   "data": "2019-01-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3783988.jpg?1727707471",
+   "link": "https://leagueofcomicgeeks.com/comic/3783988/nightwing-56",
+   "read_link": ""
+  },
+  {
+   "numero": "57",
+   "titulo": "Nightwing #57",
+   "data": "2019-02-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8248088.jpg?1710812036",
+   "link": "https://leagueofcomicgeeks.com/comic/8248088/nightwing-57",
+   "read_link": ""
+  },
+  {
+   "numero": "58",
+   "titulo": "Nightwing #58",
+   "data": "2019-03-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2969287.jpg?1710812103",
+   "link": "https://leagueofcomicgeeks.com/comic/2969287/nightwing-58",
+   "read_link": ""
+  },
+  {
+   "numero": "59",
+   "titulo": "Nightwing #59",
+   "data": "2019-04-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6820699.jpg?1710812172",
+   "link": "https://leagueofcomicgeeks.com/comic/6820699/nightwing-59",
+   "read_link": ""
+  },
+  {
+   "numero": "60",
+   "titulo": "Nightwing #60",
+   "data": "2019-05-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6760365.jpg?1710858555",
+   "link": "https://leagueofcomicgeeks.com/comic/6760365/nightwing-60",
+   "read_link": ""
+  },
+  {
+   "numero": "61",
+   "titulo": "Nightwing #61",
+   "data": "2019-06-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6616457.jpg?1710858702",
+   "link": "https://leagueofcomicgeeks.com/comic/6616457/nightwing-61",
+   "read_link": ""
+  },
+  {
+   "numero": "62",
+   "titulo": "Nightwing #62",
+   "data": "2019-07-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1823310.jpg?1727707875",
+   "link": "https://leagueofcomicgeeks.com/comic/1823310/nightwing-62",
+   "read_link": ""
+  },
+  {
+   "numero": "63",
+   "titulo": "Nightwing #63",
+   "data": "2019-08-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9242896.jpg?1727707885",
+   "link": "https://leagueofcomicgeeks.com/comic/9242896/nightwing-63",
+   "read_link": ""
+  },
+  {
+   "numero": "64",
+   "titulo": "Nightwing #64",
+   "data": "2019-09-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1429502.jpg?1727707907",
+   "link": "https://leagueofcomicgeeks.com/comic/1429502/nightwing-64",
+   "read_link": ""
+  },
+  {
+   "numero": "65",
+   "titulo": "Nightwing #65",
+   "data": "2019-10-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1217203.jpg?1727707918",
+   "link": "https://leagueofcomicgeeks.com/comic/1217203/nightwing-65",
+   "read_link": ""
+  },
+  {
+   "numero": "66",
+   "titulo": "Nightwing #66",
+   "data": "2019-11-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8644007.jpg?1758027326",
+   "link": "https://leagueofcomicgeeks.com/comic/8644007/nightwing-66",
+   "read_link": ""
+  },
+  {
+   "numero": "67",
+   "titulo": "Nightwing #67",
+   "data": "2019-12-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6288234.jpg?1715730597",
+   "link": "https://leagueofcomicgeeks.com/comic/6288234/nightwing-67",
+   "read_link": ""
+  },
+  {
+   "numero": "68",
+   "titulo": "Nightwing #68",
+   "data": "2020-01-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1173005.jpg?1715731130",
+   "link": "https://leagueofcomicgeeks.com/comic/1173005/nightwing-68",
+   "read_link": ""
+  },
+  {
+   "numero": "69",
+   "titulo": "Nightwing #69",
+   "data": "2020-02-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3741610.jpg?1715731078",
+   "link": "https://leagueofcomicgeeks.com/comic/3741610/nightwing-69",
+   "read_link": ""
+  },
+  {
+   "numero": "70",
+   "titulo": "Nightwing #70",
+   "data": "2020-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4620799.jpg?1718493447",
+   "link": "https://leagueofcomicgeeks.com/comic/4620799/nightwing-70",
+   "read_link": ""
+  },
+  {
+   "numero": "71",
+   "titulo": "Nightwing #71",
+   "data": "2020-06-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5169652.jpg?1715455682",
+   "link": "https://leagueofcomicgeeks.com/comic/5169652/nightwing-71",
+   "read_link": ""
+  },
+  {
+   "numero": "72",
+   "titulo": "Nightwing #72",
+   "data": "2020-07-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1970893.jpg?1718493591",
+   "link": "https://leagueofcomicgeeks.com/comic/1970893/nightwing-72",
+   "read_link": ""
+  },
+  {
+   "numero": "73",
+   "titulo": "Nightwing #73",
+   "data": "2020-08-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9587472.jpg?1745170996",
+   "link": "https://leagueofcomicgeeks.com/comic/9587472/nightwing-73",
+   "read_link": ""
+  },
+  {
+   "numero": "74",
+   "titulo": "Nightwing #74",
+   "data": "2020-09-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4408912.jpg?1745169248",
+   "link": "https://leagueofcomicgeeks.com/comic/4408912/nightwing-74",
+   "read_link": ""
+  },
+  {
+   "numero": "75",
+   "titulo": "Nightwing #75",
+   "data": "2020-10-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3631875.jpg?1727708007",
+   "link": "https://leagueofcomicgeeks.com/comic/3631875/nightwing-75",
+   "read_link": ""
+  },
+  {
+   "numero": "76",
+   "titulo": "Nightwing #76",
+   "data": "2020-11-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9714973.jpg?1718649372",
+   "link": "https://leagueofcomicgeeks.com/comic/9714973/nightwing-76",
+   "read_link": ""
+  },
+  {
+   "numero": "77",
+   "titulo": "Nightwing #77",
+   "data": "2020-12-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7936922.jpg?1772027931",
+   "link": "https://leagueofcomicgeeks.com/comic/7936922/nightwing-77",
+   "read_link": ""
+  },
+  {
+   "numero": "78",
+   "titulo": "Nightwing #78",
+   "data": "2021-03-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4830175.jpg?1781653542",
+   "link": "https://leagueofcomicgeeks.com/comic/4830175/nightwing-78",
+   "read_link": ""
+  },
+  {
+   "numero": "79",
+   "titulo": "Nightwing #79",
+   "data": "2021-04-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7173600.jpg?1744991906",
+   "link": "https://leagueofcomicgeeks.com/comic/7173600/nightwing-79",
+   "read_link": ""
+  },
+  {
+   "numero": "80",
+   "titulo": "Nightwing #80",
+   "data": "2021-05-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7930403.jpg?1744987346",
+   "link": "https://leagueofcomicgeeks.com/comic/7930403/nightwing-80",
+   "read_link": ""
+  },
+  {
+   "numero": "81",
+   "titulo": "Nightwing #81",
+   "data": "2021-06-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6582220.jpg?1744941019",
+   "link": "https://leagueofcomicgeeks.com/comic/6582220/nightwing-81",
+   "read_link": ""
+  },
+  {
+   "numero": "82",
+   "titulo": "Nightwing #82",
+   "data": "2021-07-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9571120.jpg?1744938756",
+   "link": "https://leagueofcomicgeeks.com/comic/9571120/nightwing-82",
+   "read_link": ""
+  },
+  {
+   "numero": "83",
+   "titulo": "Nightwing #83",
+   "data": "2021-08-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1347721.jpg?1770673229",
+   "link": "https://leagueofcomicgeeks.com/comic/1347721/nightwing-83",
+   "read_link": ""
+  },
+  {
+   "numero": "84",
+   "titulo": "Nightwing #84",
+   "data": "2021-09-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3684456.jpg?1744934225",
+   "link": "https://leagueofcomicgeeks.com/comic/3684456/nightwing-84",
+   "read_link": ""
+  },
+  {
+   "numero": "85",
+   "titulo": "Nightwing #85",
+   "data": "2021-10-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3226144.jpg?1767547376",
+   "link": "https://leagueofcomicgeeks.com/comic/3226144/nightwing-85",
+   "read_link": ""
+  },
+  {
+   "numero": "86",
+   "titulo": "Nightwing #86",
+   "data": "2021-11-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4566637.jpg?1767547414",
+   "link": "https://leagueofcomicgeeks.com/comic/4566637/nightwing-86",
+   "read_link": ""
+  },
+  {
+   "numero": "87",
+   "titulo": "Nightwing #87",
+   "data": "2021-12-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8341939.jpg?1767547528",
+   "link": "https://leagueofcomicgeeks.com/comic/8341939/nightwing-87",
+   "read_link": ""
+  },
+  {
+   "numero": "88",
+   "titulo": "Nightwing #88",
+   "data": "2022-01-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6669219.jpg?1771903437",
+   "link": "https://leagueofcomicgeeks.com/comic/6669219/nightwing-88",
+   "read_link": ""
+  },
+  {
+   "numero": "89",
+   "titulo": "Nightwing #89",
+   "data": "2022-02-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7052549.jpg?1744594346",
+   "link": "https://leagueofcomicgeeks.com/comic/7052549/nightwing-89",
+   "read_link": ""
+  },
+  {
+   "numero": "90",
+   "titulo": "Nightwing #90",
+   "data": "2022-03-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3541985.jpg?1744142739",
+   "link": "https://leagueofcomicgeeks.com/comic/3541985/nightwing-90",
+   "read_link": ""
+  },
+  {
+   "numero": "91",
+   "titulo": "Nightwing #91",
+   "data": "2022-04-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2976193.jpg?1758610409",
+   "link": "https://leagueofcomicgeeks.com/comic/2976193/nightwing-91",
+   "read_link": ""
+  },
+  {
+   "numero": "92",
+   "titulo": "Nightwing #92",
+   "data": "2022-05-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7374257.jpg?1743904032",
+   "link": "https://leagueofcomicgeeks.com/comic/7374257/nightwing-92",
+   "read_link": ""
+  },
+  {
+   "numero": "93",
+   "titulo": "Nightwing #93",
+   "data": "2022-06-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8866041.jpg?1743824565",
+   "link": "https://leagueofcomicgeeks.com/comic/8866041/nightwing-93",
+   "read_link": ""
+  },
+  {
+   "numero": "94",
+   "titulo": "Nightwing #94",
+   "data": "2022-07-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8966237.jpg?1743717756",
+   "link": "https://leagueofcomicgeeks.com/comic/8966237/nightwing-94",
+   "read_link": ""
+  },
+  {
+   "numero": "95",
+   "titulo": "Nightwing #95",
+   "data": "2022-08-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4509221.jpg?1743598382",
+   "link": "https://leagueofcomicgeeks.com/comic/4509221/nightwing-95",
+   "read_link": ""
+  },
+  {
+   "numero": "96",
+   "titulo": "Nightwing #96",
+   "data": "2022-09-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7467820.jpg?1743514227",
+   "link": "https://leagueofcomicgeeks.com/comic/7467820/nightwing-96",
+   "read_link": ""
+  },
+  {
+   "numero": "97",
+   "titulo": "Nightwing #97",
+   "data": "2022-10-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4818718.jpg?1743191605",
+   "link": "https://leagueofcomicgeeks.com/comic/4818718/nightwing-97",
+   "read_link": ""
+  },
+  {
+   "numero": "98",
+   "titulo": "Nightwing #98",
+   "data": "2022-11-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9369570.jpg?1742767055",
+   "link": "https://leagueofcomicgeeks.com/comic/9369570/nightwing-98",
+   "read_link": ""
+  },
+  {
+   "numero": "99",
+   "titulo": "Nightwing #99",
+   "data": "2022-12-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9435020.jpg?1742293371",
+   "link": "https://leagueofcomicgeeks.com/comic/9435020/nightwing-99",
+   "read_link": ""
+  },
+  {
+   "numero": "100",
+   "titulo": "Nightwing #100",
+   "data": "2023-01-17",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6350249.jpg?1742293502",
+   "link": "https://leagueofcomicgeeks.com/comic/6350249/nightwing-100",
+   "read_link": ""
+  },
+  {
+   "numero": "101",
+   "titulo": "Nightwing #101",
+   "data": "2023-02-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3208236.jpg?1740800308",
+   "link": "https://leagueofcomicgeeks.com/comic/3208236/nightwing-101",
+   "read_link": ""
+  },
+  {
+   "numero": "102",
+   "titulo": "Nightwing #102",
+   "data": "2023-03-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3718674.jpg?1740264584",
+   "link": "https://leagueofcomicgeeks.com/comic/3718674/nightwing-102",
+   "read_link": ""
+  },
+  {
+   "numero": "103",
+   "titulo": "Nightwing #103",
+   "data": "2023-04-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3785834.jpg?1740192252",
+   "link": "https://leagueofcomicgeeks.com/comic/3785834/nightwing-103",
+   "read_link": ""
+  },
+  {
+   "numero": "104",
+   "titulo": "Nightwing #104",
+   "data": "2023-05-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2093452.jpg?1767377099",
+   "link": "https://leagueofcomicgeeks.com/comic/2093452/nightwing-104",
+   "read_link": ""
+  },
+  {
+   "numero": "105",
+   "titulo": "Nightwing #105",
+   "data": "2023-06-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7668029.jpg?1739929502",
+   "link": "https://leagueofcomicgeeks.com/comic/7668029/nightwing-105",
+   "read_link": ""
+  },
+  {
+   "numero": "106",
+   "titulo": "Nightwing #106",
+   "data": "2023-09-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7290584.jpg?1774754410",
+   "link": "https://leagueofcomicgeeks.com/comic/7290584/nightwing-106",
+   "read_link": ""
+  },
+  {
+   "numero": "107",
+   "titulo": "Nightwing #107",
+   "data": "2023-10-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5579217.jpg?1774754337",
+   "link": "https://leagueofcomicgeeks.com/comic/5579217/nightwing-107",
+   "read_link": ""
+  },
+  {
+   "numero": "108",
+   "titulo": "Nightwing #108",
+   "data": "2023-11-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5800920.jpg?1774754256",
+   "link": "https://leagueofcomicgeeks.com/comic/5800920/nightwing-108",
+   "read_link": ""
+  },
+  {
+   "numero": "109",
+   "titulo": "Nightwing #109",
+   "data": "2023-12-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2646252.jpg?1738696253",
+   "link": "https://leagueofcomicgeeks.com/comic/2646252/nightwing-109",
+   "read_link": ""
+  },
+  {
+   "numero": "110",
+   "titulo": "Nightwing #110",
+   "data": "2024-01-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5772547.jpg?1738534324",
+   "link": "https://leagueofcomicgeeks.com/comic/5772547/nightwing-110",
+   "read_link": ""
+  },
+  {
+   "numero": "111",
+   "titulo": "Nightwing #111",
+   "data": "2024-02-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7415598.jpg?1738179087",
+   "link": "https://leagueofcomicgeeks.com/comic/7415598/nightwing-111",
+   "read_link": ""
+  },
+  {
+   "numero": "112",
+   "titulo": "Nightwing #112",
+   "data": "2024-03-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5516168.jpg?1760655293",
+   "link": "https://leagueofcomicgeeks.com/comic/5516168/nightwing-112",
+   "read_link": ""
+  },
+  {
+   "numero": "113",
+   "titulo": "Nightwing #113",
+   "data": "2024-04-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7446816.jpg?1781617327",
+   "link": "https://leagueofcomicgeeks.com/comic/7446816/nightwing-113",
+   "read_link": ""
+  },
+  {
+   "numero": "114",
+   "titulo": "Nightwing #114",
+   "data": "2024-05-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7908857.jpg?1716298954",
+   "link": "https://leagueofcomicgeeks.com/comic/7908857/nightwing-114",
+   "read_link": ""
+  },
+  {
+   "numero": "115",
+   "titulo": "Nightwing #115",
+   "data": "2024-06-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3957293.jpg?1782099988",
+   "link": "https://leagueofcomicgeeks.com/comic/3957293/nightwing-115",
+   "read_link": ""
+  },
+  {
+   "numero": "116",
+   "titulo": "Nightwing #116",
+   "data": "2024-07-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6447440.jpg?1729040553",
+   "link": "https://leagueofcomicgeeks.com/comic/6447440/nightwing-116",
+   "read_link": ""
+  },
+  {
+   "numero": "117",
+   "titulo": "Nightwing #117",
+   "data": "2024-08-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8491326.jpg?1724257780",
+   "link": "https://leagueofcomicgeeks.com/comic/8491326/nightwing-117",
+   "read_link": ""
+  },
+  {
+   "numero": "118",
+   "titulo": "Nightwing #118",
+   "data": "2024-10-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8102360.jpg?1729083640",
+   "link": "https://leagueofcomicgeeks.com/comic/8102360/nightwing-118",
+   "read_link": ""
+  },
+  {
+   "numero": "119",
+   "titulo": "Nightwing #119",
+   "data": "2024-10-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3833828.jpg?1741712907",
+   "link": "https://leagueofcomicgeeks.com/comic/3833828/nightwing-119",
+   "read_link": ""
+  },
+  {
+   "numero": "120",
+   "titulo": "Nightwing #120",
+   "data": "2024-11-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6725424.jpg?1750966401",
+   "link": "https://leagueofcomicgeeks.com/comic/6725424/nightwing-120",
+   "read_link": ""
+  },
+  {
+   "numero": "121",
+   "titulo": "Nightwing #121",
+   "data": "2024-12-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9389517.jpg?1750964933",
+   "link": "https://leagueofcomicgeeks.com/comic/9389517/nightwing-121",
+   "read_link": ""
+  },
+  {
+   "numero": "122",
+   "titulo": "Nightwing #122",
+   "data": "2025-01-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2719854.jpg?1750968097",
+   "link": "https://leagueofcomicgeeks.com/comic/2719854/nightwing-122",
+   "read_link": ""
+  },
+  {
+   "numero": "123",
+   "titulo": "Nightwing #123",
+   "data": "2025-02-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1325311.jpg?1750968130",
+   "link": "https://leagueofcomicgeeks.com/comic/1325311/nightwing-123",
+   "read_link": ""
+  },
+  {
+   "numero": "124",
+   "titulo": "Nightwing #124",
+   "data": "2025-03-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9607121.jpg?1770083100",
+   "link": "https://leagueofcomicgeeks.com/comic/9607121/nightwing-124",
+   "read_link": ""
+  },
+  {
+   "numero": "125",
+   "titulo": "Nightwing #125",
+   "data": "2025-04-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5876416.jpg?1755432886",
+   "link": "https://leagueofcomicgeeks.com/comic/5876416/nightwing-125",
+   "read_link": ""
+  },
+  {
+   "numero": "126",
+   "titulo": "Nightwing #126",
+   "data": "2025-05-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1091677.jpg?1771567300",
+   "link": "https://leagueofcomicgeeks.com/comic/1091677/nightwing-126",
+   "read_link": ""
+  },
+  {
+   "numero": "127",
+   "titulo": "Nightwing #127",
+   "data": "2025-06-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4281070.jpg?1772175253",
+   "link": "https://leagueofcomicgeeks.com/comic/4281070/nightwing-127",
+   "read_link": ""
+  },
+  {
+   "numero": "128",
+   "titulo": "Nightwing #128",
+   "data": "2025-07-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6775796.jpg?1757275413",
+   "link": "https://leagueofcomicgeeks.com/comic/6775796/nightwing-128",
+   "read_link": ""
+  },
+  {
+   "numero": "129",
+   "titulo": "Nightwing #129",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7017562.jpg?1755778877",
+   "link": "https://leagueofcomicgeeks.com/comic/7017562/nightwing-129",
+   "read_link": ""
+  },
+  {
+   "numero": "130",
+   "titulo": "Nightwing #130",
+   "data": "2025-09-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5353080.jpg?1770617826",
+   "link": "https://leagueofcomicgeeks.com/comic/5353080/nightwing-130",
+   "read_link": ""
+  },
+  {
+   "numero": "131",
+   "titulo": "Nightwing #131",
+   "data": "2025-10-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5282866.jpg?1767002941",
+   "link": "https://leagueofcomicgeeks.com/comic/5282866/nightwing-131",
+   "read_link": ""
+  },
+  {
+   "numero": "132",
+   "titulo": "Nightwing #132",
+   "data": "2025-11-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5069678.jpg?1767002973",
+   "link": "https://leagueofcomicgeeks.com/comic/5069678/nightwing-132",
+   "read_link": ""
+  },
+  {
+   "numero": "133",
+   "titulo": "Nightwing #133",
+   "data": "2025-12-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7730420.jpg?1767002988",
+   "link": "https://leagueofcomicgeeks.com/comic/7730420/nightwing-133",
+   "read_link": ""
+  },
+  {
+   "numero": "134",
+   "titulo": "Nightwing #134",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9421984.jpg?1769170421",
+   "link": "https://leagueofcomicgeeks.com/comic/9421984/nightwing-134",
+   "read_link": ""
+  },
+  {
+   "numero": "135",
+   "titulo": "Nightwing #135",
+   "data": "2026-02-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4432034.jpg?1784149350",
+   "link": "https://leagueofcomicgeeks.com/comic/4432034/nightwing-135",
+   "read_link": ""
+  },
+  {
+   "numero": "136",
+   "titulo": "Nightwing #136",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4990457.jpg?1773933642",
+   "link": "https://leagueofcomicgeeks.com/comic/4990457/nightwing-136",
+   "read_link": ""
+  },
+  {
+   "numero": "137",
+   "titulo": "Nightwing #137",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3994255.jpg?1781878143",
+   "link": "https://leagueofcomicgeeks.com/comic/3994255/nightwing-137",
+   "read_link": ""
+  },
+  {
+   "numero": "138",
+   "titulo": "Nightwing #138",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1682703.jpg?1784441967",
+   "link": "https://leagueofcomicgeeks.com/comic/1682703/nightwing-138",
+   "read_link": ""
+  },
+  {
+   "numero": "139",
+   "titulo": "Nightwing #139",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8088259.jpg?1784441975",
+   "link": "https://leagueofcomicgeeks.com/comic/8088259/nightwing-139",
+   "read_link": ""
+  },
+  {
+   "numero": "140",
+   "titulo": "Nightwing #140",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3320571.jpg?1784441981",
+   "link": "https://leagueofcomicgeeks.com/comic/3320571/nightwing-140",
+   "read_link": ""
+  },
+  {
+   "numero": "141",
+   "titulo": "Nightwing #141",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9855917.jpg?1785196119",
+   "link": "https://leagueofcomicgeeks.com/comic/9855917/nightwing-141",
+   "read_link": ""
+  },
+  {
+   "numero": "142",
+   "titulo": "Nightwing #142",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3812734.jpg?1782317611",
+   "link": "https://leagueofcomicgeeks.com/comic/3812734/nightwing-142",
+   "read_link": ""
+  }
+ ]
+}

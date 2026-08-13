@@ -1,0 +1,16 @@
+{
+ "id": "dc_mad-spoofs-america",
+ "nome": "Mad Spoofs America",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Mad Spoofs America #1",
+   "data": "2026-02-01",
+   "preco": "14.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4170603.jpg?1777788120",
+   "link": "https://leagueofcomicgeeks.com/comic/4170603/mad-spoofs-america-1",
+   "read_link": ""
+  }
+ ]
+}

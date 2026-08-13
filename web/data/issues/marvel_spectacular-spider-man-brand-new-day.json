@@ -1,0 +1,52 @@
+{
+ "id": "marvel_spectacular-spider-man-brand-new-day",
+ "nome": "Spectacular Spider-Man: Brand New Day",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Spectacular Spider-Man: Brand New Day #1",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3251880.jpg?1785325177",
+   "link": "https://leagueofcomicgeeks.com/comic/3251880/spectacular-spider-man-brand-new-day-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Spectacular Spider-Man: Brand New Day #2",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8897923.jpg?1785325561",
+   "link": "https://leagueofcomicgeeks.com/comic/8897923/spectacular-spider-man-brand-new-day-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Spectacular Spider-Man: Brand New Day #3",
+   "data": "2026-07-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6819442.jpg?1785696282",
+   "link": "https://leagueofcomicgeeks.com/comic/6819442/spectacular-spider-man-brand-new-day-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Spectacular Spider-Man: Brand New Day #4",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1078959.jpg?1785855337",
+   "link": "https://leagueofcomicgeeks.com/comic/1078959/spectacular-spider-man-brand-new-day-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Spectacular Spider-Man: Brand New Day #5",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8730781.jpg?1786549132",
+   "link": "https://leagueofcomicgeeks.com/comic/8730781/spectacular-spider-man-brand-new-day-5",
+   "read_link": ""
+  }
+ ]
+}

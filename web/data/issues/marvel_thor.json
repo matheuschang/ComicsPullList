@@ -1,0 +1,25 @@
+{
+ "id": "marvel_thor",
+ "nome": "Thor",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "800",
+   "titulo": "Thor #800",
+   "data": "2026-08-19",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6466718.jpg?1785855625",
+   "link": "https://leagueofcomicgeeks.com/comic/6466718/thor-800",
+   "read_link": ""
+  },
+  {
+   "numero": "801",
+   "titulo": "Thor #801",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6374816.jpg?1785837621",
+   "link": "https://leagueofcomicgeeks.com/comic/6374816/thor-801",
+   "read_link": ""
+  }
+ ]
+}

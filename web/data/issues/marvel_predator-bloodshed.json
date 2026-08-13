@@ -1,0 +1,52 @@
+{
+ "id": "marvel_predator-bloodshed",
+ "nome": "Predator: Bloodshed",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Predator: Bloodshed #1",
+   "data": "2026-02-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1293703.jpg?1779309157",
+   "link": "https://leagueofcomicgeeks.com/comic/1293703/predator-bloodshed-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Predator: Bloodshed #2",
+   "data": "2026-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3888396.jpg?1777507406",
+   "link": "https://leagueofcomicgeeks.com/comic/3888396/predator-bloodshed-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Predator: Bloodshed #3",
+   "data": "2026-04-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4130328.jpg?1777507104",
+   "link": "https://leagueofcomicgeeks.com/comic/4130328/predator-bloodshed-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Predator: Bloodshed #4",
+   "data": "2026-05-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2259547.jpg?1779452716",
+   "link": "https://leagueofcomicgeeks.com/comic/2259547/predator-bloodshed-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Predator: Bloodshed #5",
+   "data": "2026-06-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8186980.jpg?1782171145",
+   "link": "https://leagueofcomicgeeks.com/comic/8186980/predator-bloodshed-5",
+   "read_link": ""
+  }
+ ]
+}

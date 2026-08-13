@@ -1,0 +1,43 @@
+{
+ "id": "marvel_alien-vs-captain-america",
+ "nome": "Alien vs. Captain America",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Alien vs. Captain America #1",
+   "data": "2025-11-05",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4087506.jpg?1780473124",
+   "link": "https://leagueofcomicgeeks.com/comic/4087506/alien-vs-captain-america-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Alien vs. Captain America #2",
+   "data": "2025-12-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4017030.jpg?1769070924",
+   "link": "https://leagueofcomicgeeks.com/comic/4017030/alien-vs-captain-america-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Alien vs. Captain America #3",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6269190.jpg?1773349009",
+   "link": "https://leagueofcomicgeeks.com/comic/6269190/alien-vs-captain-america-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Alien vs. Captain America #4",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8530010.jpg?1771191359",
+   "link": "https://leagueofcomicgeeks.com/comic/8530010/alien-vs-captain-america-4",
+   "read_link": ""
+  }
+ ]
+}

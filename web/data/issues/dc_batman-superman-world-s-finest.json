@@ -1,0 +1,241 @@
+{
+ "id": "dc_batman-superman-world-s-finest",
+ "nome": "Batman / Superman: World's Finest",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "30",
+   "titulo": "Batman / Superman: World's Finest #30",
+   "data": "2024-08-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4813617.jpg?1744992611",
+   "link": "https://leagueofcomicgeeks.com/comic/4813617/batman-superman-worlds-finest-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Batman / Superman: World's Finest #31",
+   "data": "2024-09-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2803107.jpg?1744992610",
+   "link": "https://leagueofcomicgeeks.com/comic/2803107/batman-superman-worlds-finest-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Batman / Superman: World's Finest #32",
+   "data": "2024-10-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7236918.jpg?1781398675",
+   "link": "https://leagueofcomicgeeks.com/comic/7236918/batman-superman-worlds-finest-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Batman / Superman: World's Finest #33",
+   "data": "2024-11-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9308038.jpg?1744992611",
+   "link": "https://leagueofcomicgeeks.com/comic/9308038/batman-superman-worlds-finest-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Batman / Superman: World's Finest #34",
+   "data": "2024-12-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3217834.jpg?1781877886",
+   "link": "https://leagueofcomicgeeks.com/comic/3217834/batman-superman-worlds-finest-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Batman / Superman: World's Finest #35",
+   "data": "2025-01-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4689759.jpg?1744992611",
+   "link": "https://leagueofcomicgeeks.com/comic/4689759/batman-superman-worlds-finest-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Batman / Superman: World's Finest #36",
+   "data": "2025-02-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3661041.jpg?1785469427",
+   "link": "https://leagueofcomicgeeks.com/comic/3661041/batman-superman-worlds-finest-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Batman / Superman: World's Finest #37",
+   "data": "2025-03-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4047939.jpg?1744992610",
+   "link": "https://leagueofcomicgeeks.com/comic/4047939/batman-superman-worlds-finest-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Batman / Superman: World's Finest #38",
+   "data": "2025-04-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7901601.jpg?1781877855",
+   "link": "https://leagueofcomicgeeks.com/comic/7901601/batman-superman-worlds-finest-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Batman / Superman: World's Finest #39",
+   "data": "2025-05-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1913740.jpg?1779735764",
+   "link": "https://leagueofcomicgeeks.com/comic/1913740/batman-superman-worlds-finest-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Batman / Superman: World's Finest #40",
+   "data": "2025-06-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2468641.jpg?1781877831",
+   "link": "https://leagueofcomicgeeks.com/comic/2468641/batman-superman-worlds-finest-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Batman / Superman: World's Finest #41",
+   "data": "2025-07-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6825105.jpg?1781019129",
+   "link": "https://leagueofcomicgeeks.com/comic/6825105/batman-superman-worlds-finest-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Batman / Superman: World's Finest #42",
+   "data": "2025-08-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2276143.jpg?1781019853",
+   "link": "https://leagueofcomicgeeks.com/comic/2276143/batman-superman-worlds-finest-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Batman / Superman: World's Finest #43",
+   "data": "2025-09-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6827172.jpg?1781877764",
+   "link": "https://leagueofcomicgeeks.com/comic/6827172/batman-superman-worlds-finest-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Batman / Superman: World's Finest #44",
+   "data": "2025-10-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4457661.jpg?1772028362",
+   "link": "https://leagueofcomicgeeks.com/comic/4457661/batman-superman-worlds-finest-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Batman / Superman: World's Finest #45",
+   "data": "2025-11-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5705946.jpg?1785086910",
+   "link": "https://leagueofcomicgeeks.com/comic/5705946/batman-superman-worlds-finest-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Batman / Superman: World's Finest #46",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6061154.jpg?1785249647",
+   "link": "https://leagueofcomicgeeks.com/comic/6061154/batman-superman-worlds-finest-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Batman / Superman: World's Finest #47",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8200808.jpg?1785249680",
+   "link": "https://leagueofcomicgeeks.com/comic/8200808/batman-superman-worlds-finest-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Batman / Superman: World's Finest #48",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4246387.jpg?1781765488",
+   "link": "https://leagueofcomicgeeks.com/comic/4246387/batman-superman-worlds-finest-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Batman / Superman: World's Finest #49",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5556882.jpg?1781765475",
+   "link": "https://leagueofcomicgeeks.com/comic/5556882/batman-superman-worlds-finest-49",
+   "read_link": ""
+  },
+  {
+   "numero": "50",
+   "titulo": "Batman / Superman: World's Finest #50",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1929506.jpg?1785939566",
+   "link": "https://leagueofcomicgeeks.com/comic/1929506/batman-superman-worlds-finest-50",
+   "read_link": ""
+  },
+  {
+   "numero": "51",
+   "titulo": "Batman / Superman: World's Finest #51",
+   "data": "2026-05-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1960162.jpg?1779459775",
+   "link": "https://leagueofcomicgeeks.com/comic/1960162/batman-superman-worlds-finest-51",
+   "read_link": ""
+  },
+  {
+   "numero": "52",
+   "titulo": "Batman / Superman: World's Finest #52",
+   "data": "2026-06-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2544367.jpg?1782315614",
+   "link": "https://leagueofcomicgeeks.com/comic/2544367/batman-superman-worlds-finest-52",
+   "read_link": ""
+  },
+  {
+   "numero": "53",
+   "titulo": "Batman / Superman: World's Finest #53",
+   "data": "2026-07-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4998569.jpg?1784965408",
+   "link": "https://leagueofcomicgeeks.com/comic/4998569/batman-superman-worlds-finest-53",
+   "read_link": ""
+  },
+  {
+   "numero": "54",
+   "titulo": "Batman / Superman: World's Finest #54",
+   "data": "2026-08-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8612360.jpg?1785194908",
+   "link": "https://leagueofcomicgeeks.com/comic/8612360/batman-superman-worlds-finest-54",
+   "read_link": ""
+  },
+  {
+   "numero": "55",
+   "titulo": "Batman / Superman: World's Finest #55",
+   "data": "2026-09-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4395617.jpg?1781813285",
+   "link": "https://leagueofcomicgeeks.com/comic/4395617/batman-superman-worlds-finest-55",
+   "read_link": ""
+  }
+ ]
+}

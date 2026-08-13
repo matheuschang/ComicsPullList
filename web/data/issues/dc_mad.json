@@ -1,0 +1,466 @@
+{
+ "id": "dc_mad",
+ "nome": "Mad",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Mad #1",
+   "data": "2018-04-18",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6423560.jpg?1775417920",
+   "link": "https://leagueofcomicgeeks.com/comic/6423560/mad-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Mad #2",
+   "data": "2018-06-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4817934.jpg?1778110616",
+   "link": "https://leagueofcomicgeeks.com/comic/4817934/mad-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Mad #3",
+   "data": "2018-08-01",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3742734.jpg?1774536643",
+   "link": "https://leagueofcomicgeeks.com/comic/3742734/mad-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Mad #4",
+   "data": "2018-10-31",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3180602.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/3180602/mad-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Mad #5",
+   "data": "2018-12-19",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5262286.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/5262286/mad-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Mad #6",
+   "data": "2019-02-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5145185.jpg?1747389498",
+   "link": "https://leagueofcomicgeeks.com/comic/5145185/mad-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Mad #7",
+   "data": "2019-04-17",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7529073.jpg?1747530436",
+   "link": "https://leagueofcomicgeeks.com/comic/7529073/mad-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Mad #8",
+   "data": "2019-06-19",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6496464.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/6496464/mad-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Mad #9",
+   "data": "2019-08-21",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1745582.jpg?1767211605",
+   "link": "https://leagueofcomicgeeks.com/comic/1745582/mad-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Mad #10",
+   "data": "2019-10-16",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9070615.jpg?1717230106",
+   "link": "https://leagueofcomicgeeks.com/comic/9070615/mad-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Mad #11",
+   "data": "2019-12-18",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4386896.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/4386896/mad-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Mad #12",
+   "data": "2020-02-19",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8671516.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/8671516/mad-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Mad #13",
+   "data": "2020-06-01",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9372468.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/9372468/mad-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Mad #14",
+   "data": "2020-07-01",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3458451.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/3458451/mad-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Mad #15",
+   "data": "2020-08-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8603616.jpg?1717231379",
+   "link": "https://leagueofcomicgeeks.com/comic/8603616/mad-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Mad #16",
+   "data": "2020-10-06",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3734632.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/3734632/mad-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Mad #17",
+   "data": "2020-12-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2400450.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/2400450/mad-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Mad #18",
+   "data": "2021-02-16",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4538572.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/4538572/mad-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Mad #19",
+   "data": "2021-04-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4873118.jpg?1735495076",
+   "link": "https://leagueofcomicgeeks.com/comic/4873118/mad-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Mad #20",
+   "data": "2021-06-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3814666.jpg?1735494947",
+   "link": "https://leagueofcomicgeeks.com/comic/3814666/mad-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Mad #21",
+   "data": "2021-08-03",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9315335.jpg?1735494848",
+   "link": "https://leagueofcomicgeeks.com/comic/9315335/mad-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Mad #22",
+   "data": "2021-10-05",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1428526.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/1428526/mad-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Mad #23",
+   "data": "2021-12-07",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9504464.jpg?1767212438",
+   "link": "https://leagueofcomicgeeks.com/comic/9504464/mad-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Mad #24",
+   "data": "2022-02-22",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1961804.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/1961804/mad-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Mad #25",
+   "data": "2022-04-12",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6521957.jpg?1717230616",
+   "link": "https://leagueofcomicgeeks.com/comic/6521957/mad-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Mad #26",
+   "data": "2022-06-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2312814.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/2312814/mad-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Mad #27",
+   "data": "2022-08-02",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4078035.jpg?1662324786",
+   "link": "https://leagueofcomicgeeks.com/comic/4078035/mad-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Mad #28",
+   "data": "2022-10-04",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5309708.jpg?1665000294",
+   "link": "https://leagueofcomicgeeks.com/comic/5309708/mad-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Mad #29",
+   "data": "2022-12-06",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5105156.jpg?1679683891",
+   "link": "https://leagueofcomicgeeks.com/comic/5105156/mad-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Mad #30",
+   "data": "2023-02-14",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1352448.jpg?1676198251",
+   "link": "https://leagueofcomicgeeks.com/comic/1352448/mad-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Mad #31",
+   "data": "2023-04-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2861695.jpg?1681275966",
+   "link": "https://leagueofcomicgeeks.com/comic/2861695/mad-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Mad #32",
+   "data": "2023-06-13",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9986603.jpg?1686663178",
+   "link": "https://leagueofcomicgeeks.com/comic/9986603/mad-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Mad #33",
+   "data": "2023-08-15",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9701282.jpg?1703931522",
+   "link": "https://leagueofcomicgeeks.com/comic/9701282/mad-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Mad #34",
+   "data": "2023-10-10",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6797911.jpg?1696518133",
+   "link": "https://leagueofcomicgeeks.com/comic/6797911/mad-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Mad #35",
+   "data": "2023-12-12",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1868238.jpg?1702573958",
+   "link": "https://leagueofcomicgeeks.com/comic/1868238/mad-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Mad #36",
+   "data": "2024-02-13",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5383019.jpg?1776021303",
+   "link": "https://leagueofcomicgeeks.com/comic/5383019/mad-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Mad #37",
+   "data": "2024-04-16",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1419390.jpg?1767060714",
+   "link": "https://leagueofcomicgeeks.com/comic/1419390/mad-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Mad #38",
+   "data": "2024-06-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8502609.jpg?1718311523",
+   "link": "https://leagueofcomicgeeks.com/comic/8502609/mad-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Mad #39",
+   "data": "2024-08-14",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4815439.jpg?1771681598",
+   "link": "https://leagueofcomicgeeks.com/comic/4815439/mad-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Mad #40",
+   "data": "2024-10-09",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8252836.jpg?1735494642",
+   "link": "https://leagueofcomicgeeks.com/comic/8252836/mad-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Mad #41",
+   "data": "2024-12-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9609105.jpg?1735494554",
+   "link": "https://leagueofcomicgeeks.com/comic/9609105/mad-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Mad #42",
+   "data": "2025-02-19",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2100817.jpg?1740334862",
+   "link": "https://leagueofcomicgeeks.com/comic/2100817/mad-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Mad #43",
+   "data": "2025-04-09",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6820770.jpg?1749264137",
+   "link": "https://leagueofcomicgeeks.com/comic/6820770/mad-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Mad #44",
+   "data": "2025-06-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4394036.jpg?1754116148",
+   "link": "https://leagueofcomicgeeks.com/comic/4394036/mad-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Mad #45",
+   "data": "2025-08-13",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7515988.jpg?1755415460",
+   "link": "https://leagueofcomicgeeks.com/comic/7515988/mad-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Mad #46",
+   "data": "2025-10-15",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7395818.jpg?1760782792",
+   "link": "https://leagueofcomicgeeks.com/comic/7395818/mad-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Mad #47",
+   "data": "2025-12-10",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1760027.jpg?1768861545",
+   "link": "https://leagueofcomicgeeks.com/comic/1760027/mad-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Mad #48",
+   "data": "2026-02-18",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4703043.jpg?1771632868",
+   "link": "https://leagueofcomicgeeks.com/comic/4703043/mad-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Mad #49",
+   "data": "2026-04-15",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4289170.jpg?1776455284",
+   "link": "https://leagueofcomicgeeks.com/comic/4289170/mad-49",
+   "read_link": ""
+  },
+  {
+   "numero": "600",
+   "titulo": "Mad #600",
+   "data": "2026-06-17",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6258692.jpg?1782407255",
+   "link": "https://leagueofcomicgeeks.com/comic/6258692/mad-600",
+   "read_link": ""
+  },
+  {
+   "numero": "601",
+   "titulo": "Mad #601",
+   "data": "2026-08-19",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9433393.jpg?1782438792",
+   "link": "https://leagueofcomicgeeks.com/comic/9433393/mad-601",
+   "read_link": ""
+  }
+ ]
+}

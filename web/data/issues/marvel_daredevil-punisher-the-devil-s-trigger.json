@@ -1,0 +1,52 @@
+{
+ "id": "marvel_daredevil-punisher-the-devil-s-trigger",
+ "nome": "Daredevil / Punisher: The Devil's Trigger",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Daredevil / Punisher: The Devil's Trigger #1",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5581524.jpg?1764177649",
+   "link": "https://leagueofcomicgeeks.com/comic/5581524/daredevil-punisher-the-devils-trigger-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Daredevil / Punisher: The Devil's Trigger #2",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1336702.jpg?1766436579",
+   "link": "https://leagueofcomicgeeks.com/comic/1336702/daredevil-punisher-the-devils-trigger-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Daredevil / Punisher: The Devil's Trigger #3",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4875058.jpg?1769211976",
+   "link": "https://leagueofcomicgeeks.com/comic/4875058/daredevil-punisher-the-devils-trigger-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Daredevil / Punisher: The Devil's Trigger #4",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2177098.jpg?1771869297",
+   "link": "https://leagueofcomicgeeks.com/comic/2177098/daredevil-punisher-the-devils-trigger-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Daredevil / Punisher: The Devil's Trigger #5",
+   "data": "2026-03-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9907587.jpg?1772915408",
+   "link": "https://leagueofcomicgeeks.com/comic/9907587/daredevil-punisher-the-devils-trigger-5",
+   "read_link": ""
+  }
+ ]
+}

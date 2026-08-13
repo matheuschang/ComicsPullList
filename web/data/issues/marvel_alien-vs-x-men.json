@@ -1,0 +1,16 @@
+{
+ "id": "marvel_alien-vs-x-men",
+ "nome": "Alien vs. X-Men",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Alien vs. X-Men #1",
+   "data": "2026-09-30",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8869248.jpg?1786565799",
+   "link": "https://leagueofcomicgeeks.com/comic/8869248/alien-vs-x-men-1",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": "marvel_wade-wilson-deadpool",
+ "nome": "Wade Wilson: Deadpool",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Wade Wilson: Deadpool #1",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8930000.jpg?1771288150",
+   "link": "https://leagueofcomicgeeks.com/comic/8930000/wade-wilson-deadpool-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Wade Wilson: Deadpool #2",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3227906.jpg?1774235955",
+   "link": "https://leagueofcomicgeeks.com/comic/3227906/wade-wilson-deadpool-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Wade Wilson: Deadpool #3",
+   "data": "2026-04-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8968324.jpg?1778168756",
+   "link": "https://leagueofcomicgeeks.com/comic/8968324/wade-wilson-deadpool-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Wade Wilson: Deadpool #4",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8348197.jpg?1778807714",
+   "link": "https://leagueofcomicgeeks.com/comic/8348197/wade-wilson-deadpool-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Wade Wilson: Deadpool #5",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1588758.jpg?1785360774",
+   "link": "https://leagueofcomicgeeks.com/comic/1588758/wade-wilson-deadpool-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Wade Wilson: Deadpool #6",
+   "data": "2026-07-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2239771.jpg?1785360689",
+   "link": "https://leagueofcomicgeeks.com/comic/2239771/wade-wilson-deadpool-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Wade Wilson: Deadpool #7",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6509548.jpg?1785602581",
+   "link": "https://leagueofcomicgeeks.com/comic/6509548/wade-wilson-deadpool-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Wade Wilson: Deadpool #8",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8023607.jpg?1785338617",
+   "link": "https://leagueofcomicgeeks.com/comic/8023607/wade-wilson-deadpool-8",
+   "read_link": ""
+  }
+ ]
+}

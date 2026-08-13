@@ -1,0 +1,223 @@
+{
+ "id": "marvel_ultimate-spider-man",
+ "nome": "Ultimate Spider-Man",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Ultimate Spider-Man #1",
+   "data": "2024-01-10",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5207966.jpg?1783273783",
+   "link": "https://leagueofcomicgeeks.com/comic/5207966/ultimate-spider-man-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Ultimate Spider-Man #2",
+   "data": "2024-02-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1526669.jpg?1754444380",
+   "link": "https://leagueofcomicgeeks.com/comic/1526669/ultimate-spider-man-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Ultimate Spider-Man #3",
+   "data": "2024-03-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8970786.jpg?1739196948",
+   "link": "https://leagueofcomicgeeks.com/comic/8970786/ultimate-spider-man-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Ultimate Spider-Man #4",
+   "data": "2024-04-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2056601.jpg?1746128941",
+   "link": "https://leagueofcomicgeeks.com/comic/2056601/ultimate-spider-man-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Ultimate Spider-Man #5",
+   "data": "2024-05-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7345687.jpg?1759564999",
+   "link": "https://leagueofcomicgeeks.com/comic/7345687/ultimate-spider-man-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Ultimate Spider-Man #6",
+   "data": "2024-06-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2437132.jpg?1739190285",
+   "link": "https://leagueofcomicgeeks.com/comic/2437132/ultimate-spider-man-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Ultimate Spider-Man #7",
+   "data": "2024-07-31",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2682271.jpg?1748419968",
+   "link": "https://leagueofcomicgeeks.com/comic/2682271/ultimate-spider-man-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Ultimate Spider-Man #8",
+   "data": "2024-08-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3141789.jpg?1744859881",
+   "link": "https://leagueofcomicgeeks.com/comic/3141789/ultimate-spider-man-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Ultimate Spider-Man #9",
+   "data": "2024-09-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5031247.jpg?1775562603",
+   "link": "https://leagueofcomicgeeks.com/comic/5031247/ultimate-spider-man-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Ultimate Spider-Man #10",
+   "data": "2024-10-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2122449.jpg?1739190670",
+   "link": "https://leagueofcomicgeeks.com/comic/2122449/ultimate-spider-man-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Ultimate Spider-Man #11",
+   "data": "2024-11-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2704458.jpg?1739190718",
+   "link": "https://leagueofcomicgeeks.com/comic/2704458/ultimate-spider-man-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Ultimate Spider-Man #12",
+   "data": "2024-12-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5293858.jpg?1739190766",
+   "link": "https://leagueofcomicgeeks.com/comic/5293858/ultimate-spider-man-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Ultimate Spider-Man #13",
+   "data": "2025-01-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8021561.jpg?1745990752",
+   "link": "https://leagueofcomicgeeks.com/comic/8021561/ultimate-spider-man-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Ultimate Spider-Man #14",
+   "data": "2025-02-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7245440.jpg?1764096445",
+   "link": "https://leagueofcomicgeeks.com/comic/7245440/ultimate-spider-man-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Ultimate Spider-Man #15",
+   "data": "2025-03-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2591053.jpg?1757274884",
+   "link": "https://leagueofcomicgeeks.com/comic/2591053/ultimate-spider-man-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Ultimate Spider-Man #16",
+   "data": "2025-04-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2261515.jpg?1759564824",
+   "link": "https://leagueofcomicgeeks.com/comic/2261515/ultimate-spider-man-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Ultimate Spider-Man #17",
+   "data": "2025-05-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9920545.jpg?1758728939",
+   "link": "https://leagueofcomicgeeks.com/comic/9920545/ultimate-spider-man-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Ultimate Spider-Man #18",
+   "data": "2025-06-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7309313.jpg?1758728818",
+   "link": "https://leagueofcomicgeeks.com/comic/7309313/ultimate-spider-man-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Ultimate Spider-Man #19",
+   "data": "2025-07-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6427253.jpg?1753908611",
+   "link": "https://leagueofcomicgeeks.com/comic/6427253/ultimate-spider-man-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Ultimate Spider-Man #20",
+   "data": "2025-08-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3049594.jpg?1756282199",
+   "link": "https://leagueofcomicgeeks.com/comic/3049594/ultimate-spider-man-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Ultimate Spider-Man #21",
+   "data": "2025-09-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1961003.jpg?1758735285",
+   "link": "https://leagueofcomicgeeks.com/comic/1961003/ultimate-spider-man-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Ultimate Spider-Man #22",
+   "data": "2025-10-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1698648.jpg?1771458158",
+   "link": "https://leagueofcomicgeeks.com/comic/1698648/ultimate-spider-man-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Ultimate Spider-Man #23",
+   "data": "2025-12-10",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1296286.jpg?1771458413",
+   "link": "https://leagueofcomicgeeks.com/comic/1296286/ultimate-spider-man-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Ultimate Spider-Man #24",
+   "data": "2026-02-18",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8016841.jpg?1771627065",
+   "link": "https://leagueofcomicgeeks.com/comic/8016841/ultimate-spider-man-24",
+   "read_link": ""
+  }
+ ]
+}

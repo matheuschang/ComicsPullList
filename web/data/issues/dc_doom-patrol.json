@@ -1,0 +1,16 @@
+{
+ "id": "dc_doom-patrol",
+ "nome": "The Doom Patrol",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Doom Patrol #1",
+   "data": "2026-09-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9098419.jpg?1786048173",
+   "link": "https://leagueofcomicgeeks.com/comic/9098419/the-doom-patrol-1",
+   "read_link": ""
+  }
+ ]
+}

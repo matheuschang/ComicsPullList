@@ -1,0 +1,16 @@
+{
+ "id": "marvel_fall-of-ultraman",
+ "nome": "The Fall of Ultraman",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Fall of Ultraman #1",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4503945.jpg?1770849097",
+   "link": "https://leagueofcomicgeeks.com/comic/4503945/the-fall-of-ultraman-1",
+   "read_link": ""
+  }
+ ]
+}

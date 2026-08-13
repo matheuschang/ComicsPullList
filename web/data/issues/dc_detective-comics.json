@@ -1,0 +1,268 @@
+{
+ "id": "dc_detective-comics",
+ "nome": "Detective Comics",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1085",
+   "titulo": "Detective Comics #1085",
+   "data": "2024-05-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7639686.jpg?1743255128",
+   "link": "https://leagueofcomicgeeks.com/comic/7639686/detective-comics-1085",
+   "read_link": ""
+  },
+  {
+   "numero": "1086",
+   "titulo": "Detective Comics #1086",
+   "data": "2024-06-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5286305.jpg?1743255156",
+   "link": "https://leagueofcomicgeeks.com/comic/5286305/detective-comics-1086",
+   "read_link": ""
+  },
+  {
+   "numero": "1087",
+   "titulo": "Detective Comics #1087",
+   "data": "2024-07-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5321442.jpg?1730127536",
+   "link": "https://leagueofcomicgeeks.com/comic/5321442/detective-comics-1087",
+   "read_link": ""
+  },
+  {
+   "numero": "1088",
+   "titulo": "Detective Comics #1088",
+   "data": "2024-08-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2522441.jpg?1743255202",
+   "link": "https://leagueofcomicgeeks.com/comic/2522441/detective-comics-1088",
+   "read_link": ""
+  },
+  {
+   "numero": "1089",
+   "titulo": "Detective Comics #1089",
+   "data": "2024-09-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9893179.jpg?1731163516",
+   "link": "https://leagueofcomicgeeks.com/comic/9893179/detective-comics-1089",
+   "read_link": ""
+  },
+  {
+   "numero": "1090",
+   "titulo": "Detective Comics #1090",
+   "data": "2024-10-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6465703.jpg?1761107135",
+   "link": "https://leagueofcomicgeeks.com/comic/6465703/detective-comics-1090",
+   "read_link": ""
+  },
+  {
+   "numero": "1091",
+   "titulo": "Detective Comics #1091",
+   "data": "2024-11-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7631357.jpg?1784945234",
+   "link": "https://leagueofcomicgeeks.com/comic/7631357/detective-comics-1091",
+   "read_link": ""
+  },
+  {
+   "numero": "1092",
+   "titulo": "Detective Comics #1092",
+   "data": "2024-12-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8601124.jpg?1768928215",
+   "link": "https://leagueofcomicgeeks.com/comic/8601124/detective-comics-1092",
+   "read_link": ""
+  },
+  {
+   "numero": "1093",
+   "titulo": "Detective Comics #1093",
+   "data": "2025-01-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2286167.jpg?1784947175",
+   "link": "https://leagueofcomicgeeks.com/comic/2286167/detective-comics-1093",
+   "read_link": ""
+  },
+  {
+   "numero": "1094",
+   "titulo": "Detective Comics #1094",
+   "data": "2025-02-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4481463.jpg?1768928271",
+   "link": "https://leagueofcomicgeeks.com/comic/4481463/detective-comics-1094",
+   "read_link": ""
+  },
+  {
+   "numero": "1095",
+   "titulo": "Detective Comics #1095",
+   "data": "2025-03-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2061369.jpg?1784949511",
+   "link": "https://leagueofcomicgeeks.com/comic/2061369/detective-comics-1095",
+   "read_link": ""
+  },
+  {
+   "numero": "1096",
+   "titulo": "Detective Comics #1096",
+   "data": "2025-04-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4066480.jpg?1784950528",
+   "link": "https://leagueofcomicgeeks.com/comic/4066480/detective-comics-1096",
+   "read_link": ""
+  },
+  {
+   "numero": "1097",
+   "titulo": "Detective Comics #1097",
+   "data": "2025-05-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5527993.jpg?1771567250",
+   "link": "https://leagueofcomicgeeks.com/comic/5527993/detective-comics-1097",
+   "read_link": ""
+  },
+  {
+   "numero": "1098",
+   "titulo": "Detective Comics #1098",
+   "data": "2025-06-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8881886.jpg?1772054074",
+   "link": "https://leagueofcomicgeeks.com/comic/8881886/detective-comics-1098",
+   "read_link": ""
+  },
+  {
+   "numero": "1099",
+   "titulo": "Detective Comics #1099",
+   "data": "2025-07-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9350678.jpg?1759322435",
+   "link": "https://leagueofcomicgeeks.com/comic/9350678/detective-comics-1099",
+   "read_link": ""
+  },
+  {
+   "numero": "1100",
+   "titulo": "Detective Comics #1100",
+   "data": "2025-08-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7799895.jpg?1781810390",
+   "link": "https://leagueofcomicgeeks.com/comic/7799895/detective-comics-1100",
+   "read_link": ""
+  },
+  {
+   "numero": "1101",
+   "titulo": "Detective Comics #1101",
+   "data": "2025-09-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2624475.jpg?1777590787",
+   "link": "https://leagueofcomicgeeks.com/comic/2624475/detective-comics-1101",
+   "read_link": ""
+  },
+  {
+   "numero": "1102",
+   "titulo": "Detective Comics #1102",
+   "data": "2025-10-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2986647.jpg?1762305239",
+   "link": "https://leagueofcomicgeeks.com/comic/2986647/detective-comics-1102",
+   "read_link": ""
+  },
+  {
+   "numero": "1103",
+   "titulo": "Detective Comics #1103",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5426944.jpg?1765418320",
+   "link": "https://leagueofcomicgeeks.com/comic/5426944/detective-comics-1103",
+   "read_link": ""
+  },
+  {
+   "numero": "1104",
+   "titulo": "Detective Comics #1104",
+   "data": "2025-12-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1801699.jpg?1767629432",
+   "link": "https://leagueofcomicgeeks.com/comic/1801699/detective-comics-1104",
+   "read_link": ""
+  },
+  {
+   "numero": "1105",
+   "titulo": "Detective Comics #1105",
+   "data": "2026-01-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3620951.jpg?1769877180",
+   "link": "https://leagueofcomicgeeks.com/comic/3620951/detective-comics-1105",
+   "read_link": ""
+  },
+  {
+   "numero": "1106",
+   "titulo": "Detective Comics #1106",
+   "data": "2026-02-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7811528.jpg?1779834243",
+   "link": "https://leagueofcomicgeeks.com/comic/7811528/detective-comics-1106",
+   "read_link": ""
+  },
+  {
+   "numero": "1107",
+   "titulo": "Detective Comics #1107",
+   "data": "2026-03-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1032683.jpg?1779195526",
+   "link": "https://leagueofcomicgeeks.com/comic/1032683/detective-comics-1107",
+   "read_link": ""
+  },
+  {
+   "numero": "1108",
+   "titulo": "Detective Comics #1108",
+   "data": "2026-04-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5852407.jpg?1779195544",
+   "link": "https://leagueofcomicgeeks.com/comic/5852407/detective-comics-1108",
+   "read_link": ""
+  },
+  {
+   "numero": "1109",
+   "titulo": "Detective Comics #1109",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2680358.jpg?1781133028",
+   "link": "https://leagueofcomicgeeks.com/comic/2680358/detective-comics-1109",
+   "read_link": ""
+  },
+  {
+   "numero": "1110",
+   "titulo": "Detective Comics #1110",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6509370.jpg?1784476185",
+   "link": "https://leagueofcomicgeeks.com/comic/6509370/detective-comics-1110",
+   "read_link": ""
+  },
+  {
+   "numero": "1111",
+   "titulo": "Detective Comics #1111",
+   "data": "2026-07-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4010674.jpg?1784984604",
+   "link": "https://leagueofcomicgeeks.com/comic/4010674/detective-comics-1111",
+   "read_link": ""
+  },
+  {
+   "numero": "1112",
+   "titulo": "Detective Comics #1112",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5014209.jpg?1785445517",
+   "link": "https://leagueofcomicgeeks.com/comic/5014209/detective-comics-1112",
+   "read_link": ""
+  },
+  {
+   "numero": "1113",
+   "titulo": "Detective Comics #1113",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2449306.jpg?1784941387",
+   "link": "https://leagueofcomicgeeks.com/comic/2449306/detective-comics-1113",
+   "read_link": ""
+  }
+ ]
+}

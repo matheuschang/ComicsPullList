@@ -1,0 +1,52 @@
+{
+ "id": "marvel_end-2099",
+ "nome": "The End 2099",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The End 2099 #1",
+   "data": "2025-12-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7359369.jpg?1772226287",
+   "link": "https://leagueofcomicgeeks.com/comic/7359369/the-end-2099-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The End 2099 #2",
+   "data": "2026-01-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4083869.jpg?1772226314",
+   "link": "https://leagueofcomicgeeks.com/comic/4083869/the-end-2099-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The End 2099 #3",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4833550.jpg?1772226359",
+   "link": "https://leagueofcomicgeeks.com/comic/4833550/the-end-2099-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The End 2099 #4",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1899111.jpg?1773264438",
+   "link": "https://leagueofcomicgeeks.com/comic/1899111/the-end-2099-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The End 2099 #5",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2026681.jpg?1775640796",
+   "link": "https://leagueofcomicgeeks.com/comic/2026681/the-end-2099-5",
+   "read_link": ""
+  }
+ ]
+}

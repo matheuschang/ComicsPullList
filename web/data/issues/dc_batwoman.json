@@ -1,0 +1,70 @@
+{
+ "id": "dc_batwoman",
+ "nome": "Batwoman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batwoman #1",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2506828.jpg?1782312289",
+   "link": "https://leagueofcomicgeeks.com/comic/2506828/batwoman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batwoman #2",
+   "data": "2026-04-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4152757.jpg?1782312443",
+   "link": "https://leagueofcomicgeeks.com/comic/4152757/batwoman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batwoman #3",
+   "data": "2026-05-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4743660.jpg?1782312622",
+   "link": "https://leagueofcomicgeeks.com/comic/4743660/batwoman-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batwoman #4",
+   "data": "2026-06-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1696092.jpg?1782484486",
+   "link": "https://leagueofcomicgeeks.com/comic/1696092/batwoman-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Batwoman #5",
+   "data": "2026-07-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9454092.jpg?1785541711",
+   "link": "https://leagueofcomicgeeks.com/comic/9454092/batwoman-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Batwoman #6",
+   "data": "2026-08-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8632942.jpg?1785195214",
+   "link": "https://leagueofcomicgeeks.com/comic/8632942/batwoman-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Batwoman #7",
+   "data": "2026-09-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5609092.jpg?1781812187",
+   "link": "https://leagueofcomicgeeks.com/comic/5609092/batwoman-7",
+   "read_link": ""
+  }
+ ]
+}

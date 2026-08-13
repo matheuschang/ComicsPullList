@@ -1,0 +1,34 @@
+{
+ "id": "marvel_godzilla-conquers-the-multiverse",
+ "nome": "Godzilla Conquers the Multiverse",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Godzilla Conquers the Multiverse #1",
+   "data": "2026-07-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7470534.jpg?1785136385",
+   "link": "https://leagueofcomicgeeks.com/comic/7470534/godzilla-conquers-the-multiverse-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Godzilla Conquers the Multiverse #2",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3650330.jpg?1785158446",
+   "link": "https://leagueofcomicgeeks.com/comic/3650330/godzilla-conquers-the-multiverse-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Godzilla Conquers the Multiverse #3",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6479112.jpg?1784223789",
+   "link": "https://leagueofcomicgeeks.com/comic/6479112/godzilla-conquers-the-multiverse-3",
+   "read_link": ""
+  }
+ ]
+}

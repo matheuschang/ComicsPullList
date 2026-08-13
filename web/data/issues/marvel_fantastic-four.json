@@ -1,0 +1,160 @@
+{
+ "id": "marvel_fantastic-four",
+ "nome": "Fantastic Four",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Fantastic Four #1",
+   "data": "2025-07-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2797465.jpg?1754510496",
+   "link": "https://leagueofcomicgeeks.com/comic/2797465/fantastic-four-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Fantastic Four #2",
+   "data": "2025-08-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4733695.jpg?1755088801",
+   "link": "https://leagueofcomicgeeks.com/comic/4733695/fantastic-four-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Fantastic Four #3",
+   "data": "2025-09-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2517038.jpg?1758065233",
+   "link": "https://leagueofcomicgeeks.com/comic/2517038/fantastic-four-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Fantastic Four #4",
+   "data": "2025-10-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8130451.jpg?1767220324",
+   "link": "https://leagueofcomicgeeks.com/comic/8130451/fantastic-four-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Fantastic Four #5",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4630723.jpg?1764778403",
+   "link": "https://leagueofcomicgeeks.com/comic/4630723/fantastic-four-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Fantastic Four #6",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3532837.jpg?1764778242",
+   "link": "https://leagueofcomicgeeks.com/comic/3532837/fantastic-four-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Fantastic Four #7",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2501850.jpg?1778129351",
+   "link": "https://leagueofcomicgeeks.com/comic/2501850/fantastic-four-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Fantastic Four #8",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9829576.jpg?1771936170",
+   "link": "https://leagueofcomicgeeks.com/comic/9829576/fantastic-four-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Fantastic Four #9",
+   "data": "2026-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5561773.jpg?1778743884",
+   "link": "https://leagueofcomicgeeks.com/comic/5561773/fantastic-four-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Fantastic Four #10",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7566402.jpg?1784674270",
+   "link": "https://leagueofcomicgeeks.com/comic/7566402/fantastic-four-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Fantastic Four #11",
+   "data": "2026-05-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1094223.jpg?1780071193",
+   "link": "https://leagueofcomicgeeks.com/comic/1094223/fantastic-four-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Fantastic Four #12",
+   "data": "2026-06-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8344664.jpg?1780502244",
+   "link": "https://leagueofcomicgeeks.com/comic/8344664/fantastic-four-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Fantastic Four #13",
+   "data": "2026-07-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1728258.jpg?1782938664",
+   "link": "https://leagueofcomicgeeks.com/comic/1728258/fantastic-four-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Fantastic Four #14",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1647631.jpg?1784142801",
+   "link": "https://leagueofcomicgeeks.com/comic/1647631/fantastic-four-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Fantastic Four #15",
+   "data": "2026-08-05",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3693460.jpg?1785922797",
+   "link": "https://leagueofcomicgeeks.com/comic/3693460/fantastic-four-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Fantastic Four #16",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7104275.jpg?1785529908",
+   "link": "https://leagueofcomicgeeks.com/comic/7104275/fantastic-four-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Fantastic Four #17",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2384942.jpg?1785532099",
+   "link": "https://leagueofcomicgeeks.com/comic/2384942/fantastic-four-17",
+   "read_link": ""
+  }
+ ]
+}

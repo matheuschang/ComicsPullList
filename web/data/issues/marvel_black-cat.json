@@ -1,0 +1,133 @@
+{
+ "id": "marvel_black-cat",
+ "nome": "Black Cat",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Black Cat #1",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6300965.jpg?1759297274",
+   "link": "https://leagueofcomicgeeks.com/comic/6300965/black-cat-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Black Cat #2",
+   "data": "2025-09-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8532805.jpg?1760246061",
+   "link": "https://leagueofcomicgeeks.com/comic/8532805/black-cat-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Black Cat #3",
+   "data": "2025-10-29",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7889217.jpg?1769096251",
+   "link": "https://leagueofcomicgeeks.com/comic/7889217/black-cat-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Black Cat #4",
+   "data": "2025-11-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8325698.jpg?1769098733",
+   "link": "https://leagueofcomicgeeks.com/comic/8325698/black-cat-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Black Cat #5",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6624349.jpg?1773756609",
+   "link": "https://leagueofcomicgeeks.com/comic/6624349/black-cat-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Black Cat #6",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2790247.jpg?1771211120",
+   "link": "https://leagueofcomicgeeks.com/comic/2790247/black-cat-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Black Cat #7",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6698780.jpg?1771211047",
+   "link": "https://leagueofcomicgeeks.com/comic/6698780/black-cat-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Black Cat #8",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4161650.jpg?1780984896",
+   "link": "https://leagueofcomicgeeks.com/comic/4161650/black-cat-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Black Cat #9",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4100379.jpg?1777156501",
+   "link": "https://leagueofcomicgeeks.com/comic/4100379/black-cat-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Black Cat #10",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3741042.jpg?1779632251",
+   "link": "https://leagueofcomicgeeks.com/comic/3741042/black-cat-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Black Cat #11",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4254997.jpg?1782006515",
+   "link": "https://leagueofcomicgeeks.com/comic/4254997/black-cat-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Black Cat #12",
+   "data": "2026-07-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8718385.jpg?1786337717",
+   "link": "https://leagueofcomicgeeks.com/comic/8718385/black-cat-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Black Cat #13",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2942859.jpg?1786133918",
+   "link": "https://leagueofcomicgeeks.com/comic/2942859/black-cat-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Black Cat #14",
+   "data": "2026-09-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6678858.jpg?1786133925",
+   "link": "https://leagueofcomicgeeks.com/comic/6678858/black-cat-14",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "dc_fury-of-firestorm",
+ "nome": "The Fury of Firestorm",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Fury of Firestorm #1",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7749293.jpg?1778756792",
+   "link": "https://leagueofcomicgeeks.com/comic/7749293/the-fury-of-firestorm-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Fury of Firestorm #2",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5533753.jpg?1779189622",
+   "link": "https://leagueofcomicgeeks.com/comic/5533753/the-fury-of-firestorm-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Fury of Firestorm #3",
+   "data": "2026-06-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1488979.jpg?1781126632",
+   "link": "https://leagueofcomicgeeks.com/comic/1488979/the-fury-of-firestorm-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Fury of Firestorm #4",
+   "data": "2026-07-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6812502.jpg?1783503895",
+   "link": "https://leagueofcomicgeeks.com/comic/6812502/the-fury-of-firestorm-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Fury of Firestorm #5",
+   "data": "2026-08-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4790648.jpg?1786542379",
+   "link": "https://leagueofcomicgeeks.com/comic/4790648/the-fury-of-firestorm-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "The Fury of Firestorm #6",
+   "data": "2026-09-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7620924.jpg?1785348114",
+   "link": "https://leagueofcomicgeeks.com/comic/7620924/the-fury-of-firestorm-6",
+   "read_link": ""
+  }
+ ]
+}

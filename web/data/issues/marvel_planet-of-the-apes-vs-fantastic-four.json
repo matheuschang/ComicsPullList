@@ -1,0 +1,43 @@
+{
+ "id": "marvel_planet-of-the-apes-vs-fantastic-four",
+ "nome": "Planet of the Apes vs. Fantastic Four",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Planet of the Apes vs. Fantastic Four #1",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3815431.jpg?1777392335",
+   "link": "https://leagueofcomicgeeks.com/comic/3815431/planet-of-the-apes-vs-fantastic-four-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Planet of the Apes vs. Fantastic Four #2",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4572005.jpg?1774889671",
+   "link": "https://leagueofcomicgeeks.com/comic/4572005/planet-of-the-apes-vs-fantastic-four-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Planet of the Apes vs. Fantastic Four #3",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3395038.jpg?1781320618",
+   "link": "https://leagueofcomicgeeks.com/comic/3395038/planet-of-the-apes-vs-fantastic-four-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Planet of the Apes vs. Fantastic Four #4",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4748662.jpg?1782046558",
+   "link": "https://leagueofcomicgeeks.com/comic/4748662/planet-of-the-apes-vs-fantastic-four-4",
+   "read_link": ""
+  }
+ ]
+}

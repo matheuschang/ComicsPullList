@@ -1,0 +1,169 @@
+{
+ "id": "dc_absolute-green-lantern",
+ "nome": "Absolute Green Lantern",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Absolute Green Lantern #1",
+   "data": "2025-04-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3150786.jpg?1781805062",
+   "link": "https://leagueofcomicgeeks.com/comic/3150786/absolute-green-lantern-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Absolute Green Lantern #2",
+   "data": "2025-05-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5509290.jpg?1781805072",
+   "link": "https://leagueofcomicgeeks.com/comic/5509290/absolute-green-lantern-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Absolute Green Lantern #3",
+   "data": "2025-06-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3629696.jpg?1781805076",
+   "link": "https://leagueofcomicgeeks.com/comic/3629696/absolute-green-lantern-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Absolute Green Lantern #4",
+   "data": "2025-07-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5445219.jpg?1779434438",
+   "link": "https://leagueofcomicgeeks.com/comic/5445219/absolute-green-lantern-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Absolute Green Lantern #5",
+   "data": "2025-08-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1569974.jpg?1757345000",
+   "link": "https://leagueofcomicgeeks.com/comic/1569974/absolute-green-lantern-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Absolute Green Lantern #6",
+   "data": "2025-09-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3668202.jpg?1770251232",
+   "link": "https://leagueofcomicgeeks.com/comic/3668202/absolute-green-lantern-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Absolute Green Lantern #7",
+   "data": "2025-10-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3505077.jpg?1762363268",
+   "link": "https://leagueofcomicgeeks.com/comic/3505077/absolute-green-lantern-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Absolute Green Lantern #8",
+   "data": "2025-11-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5343448.jpg?1775093533",
+   "link": "https://leagueofcomicgeeks.com/comic/5343448/absolute-green-lantern-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Absolute Green Lantern #9",
+   "data": "2025-12-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8476102.jpg?1774262375",
+   "link": "https://leagueofcomicgeeks.com/comic/8476102/absolute-green-lantern-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Absolute Green Lantern #10",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7884761.jpg?1773214377",
+   "link": "https://leagueofcomicgeeks.com/comic/7884761/absolute-green-lantern-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Absolute Green Lantern #11",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7329570.jpg?1773239888",
+   "link": "https://leagueofcomicgeeks.com/comic/7329570/absolute-green-lantern-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Absolute Green Lantern #12",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1598747.jpg?1780550664",
+   "link": "https://leagueofcomicgeeks.com/comic/1598747/absolute-green-lantern-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Absolute Green Lantern #13",
+   "data": "2026-04-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4835946.jpg?1776813569",
+   "link": "https://leagueofcomicgeeks.com/comic/4835946/absolute-green-lantern-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Absolute Green Lantern #14",
+   "data": "2026-05-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5586537.jpg?1780074683",
+   "link": "https://leagueofcomicgeeks.com/comic/5586537/absolute-green-lantern-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Absolute Green Lantern #15",
+   "data": "2026-06-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1364251.jpg?1781648220",
+   "link": "https://leagueofcomicgeeks.com/comic/1364251/absolute-green-lantern-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Absolute Green Lantern #16",
+   "data": "2026-07-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2724250.jpg?1785101134",
+   "link": "https://leagueofcomicgeeks.com/comic/2724250/absolute-green-lantern-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Absolute Green Lantern #17",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5681045.jpg?1786050561",
+   "link": "https://leagueofcomicgeeks.com/comic/5681045/absolute-green-lantern-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Absolute Green Lantern #18",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1586369.jpg?1786046028",
+   "link": "https://leagueofcomicgeeks.com/comic/1586369/absolute-green-lantern-18",
+   "read_link": ""
+  }
+ ]
+}

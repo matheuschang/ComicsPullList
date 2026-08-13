@@ -1,0 +1,25 @@
+{
+ "id": "marvel_tomb-of-apocalypse",
+ "nome": "Tomb of Apocalypse",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Tomb of Apocalypse #1",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1590181.jpg?1784227496",
+   "link": "https://leagueofcomicgeeks.com/comic/1590181/tomb-of-apocalypse-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Tomb of Apocalypse #2",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4586485.jpg?1784227504",
+   "link": "https://leagueofcomicgeeks.com/comic/4586485/tomb-of-apocalypse-2",
+   "read_link": ""
+  }
+ ]
+}

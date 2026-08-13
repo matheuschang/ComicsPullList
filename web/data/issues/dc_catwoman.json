@@ -1,0 +1,826 @@
+{
+ "id": "dc_catwoman",
+ "nome": "Catwoman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Catwoman #1",
+   "data": "2018-07-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1986868.jpg?1726696749",
+   "link": "https://leagueofcomicgeeks.com/comic/1986868/catwoman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Catwoman #2",
+   "data": "2018-08-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9442242.jpg?1726696799",
+   "link": "https://leagueofcomicgeeks.com/comic/9442242/catwoman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Catwoman #3",
+   "data": "2018-09-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7094766.jpg?1726696864",
+   "link": "https://leagueofcomicgeeks.com/comic/7094766/catwoman-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Catwoman #4",
+   "data": "2018-10-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5138435.jpg?1726696952",
+   "link": "https://leagueofcomicgeeks.com/comic/5138435/catwoman-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Catwoman #5",
+   "data": "2018-11-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4860616.jpg?1726697033",
+   "link": "https://leagueofcomicgeeks.com/comic/4860616/catwoman-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Catwoman #6",
+   "data": "2018-12-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4681092.jpg?1726697071",
+   "link": "https://leagueofcomicgeeks.com/comic/4681092/catwoman-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Catwoman #7",
+   "data": "2019-01-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6408368.jpg?1726697185",
+   "link": "https://leagueofcomicgeeks.com/comic/6408368/catwoman-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Catwoman #8",
+   "data": "2019-02-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5618853.jpg?1726697227",
+   "link": "https://leagueofcomicgeeks.com/comic/5618853/catwoman-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Catwoman #9",
+   "data": "2019-03-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8218939.jpg?1726697276",
+   "link": "https://leagueofcomicgeeks.com/comic/8218939/catwoman-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Catwoman #10",
+   "data": "2019-04-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7063932.jpg?1726697430",
+   "link": "https://leagueofcomicgeeks.com/comic/7063932/catwoman-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Catwoman #11",
+   "data": "2019-05-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3982889.jpg?1726697512",
+   "link": "https://leagueofcomicgeeks.com/comic/3982889/catwoman-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Catwoman #12",
+   "data": "2019-06-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4308584.jpg?1710747374",
+   "link": "https://leagueofcomicgeeks.com/comic/4308584/catwoman-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Catwoman #13",
+   "data": "2019-07-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5364374.jpg?1748594444",
+   "link": "https://leagueofcomicgeeks.com/comic/5364374/catwoman-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Catwoman #14",
+   "data": "2019-08-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1942290.jpg?1778417392",
+   "link": "https://leagueofcomicgeeks.com/comic/1942290/catwoman-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Catwoman #15",
+   "data": "2019-09-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5033114.jpg?1710747420",
+   "link": "https://leagueofcomicgeeks.com/comic/5033114/catwoman-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Catwoman #16",
+   "data": "2019-10-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5775403.jpg?1726697771",
+   "link": "https://leagueofcomicgeeks.com/comic/5775403/catwoman-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Catwoman #17",
+   "data": "2019-11-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2519144.jpg?1726697848",
+   "link": "https://leagueofcomicgeeks.com/comic/2519144/catwoman-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Catwoman #18",
+   "data": "2019-12-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5877788.jpg?1726697909",
+   "link": "https://leagueofcomicgeeks.com/comic/5877788/catwoman-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Catwoman #19",
+   "data": "2020-01-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1166215.jpg?1726697990",
+   "link": "https://leagueofcomicgeeks.com/comic/1166215/catwoman-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Catwoman #20",
+   "data": "2020-02-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2256118.jpg?1726752897",
+   "link": "https://leagueofcomicgeeks.com/comic/2256118/catwoman-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Catwoman #21",
+   "data": "2020-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4433819.jpg?1726752952",
+   "link": "https://leagueofcomicgeeks.com/comic/4433819/catwoman-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Catwoman #22",
+   "data": "2020-04-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6879749.jpg?1726753017",
+   "link": "https://leagueofcomicgeeks.com/comic/6879749/catwoman-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Catwoman #23",
+   "data": "2020-07-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5322592.jpg?1778417459",
+   "link": "https://leagueofcomicgeeks.com/comic/5322592/catwoman-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Catwoman #24",
+   "data": "2020-08-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3266667.jpg?1745170877",
+   "link": "https://leagueofcomicgeeks.com/comic/3266667/catwoman-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Catwoman #25",
+   "data": "2020-09-15",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1211240.jpg?1745168578",
+   "link": "https://leagueofcomicgeeks.com/comic/1211240/catwoman-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Catwoman #26",
+   "data": "2020-10-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5061171.jpg?1778417484",
+   "link": "https://leagueofcomicgeeks.com/comic/5061171/catwoman-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Catwoman #27",
+   "data": "2020-11-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3335045.jpg?1778417355",
+   "link": "https://leagueofcomicgeeks.com/comic/3335045/catwoman-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Catwoman #28",
+   "data": "2020-12-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1859617.jpg?1777006534",
+   "link": "https://leagueofcomicgeeks.com/comic/1859617/catwoman-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Catwoman #29",
+   "data": "2021-03-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1032053.jpg?1745102253",
+   "link": "https://leagueofcomicgeeks.com/comic/1032053/catwoman-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Catwoman #30",
+   "data": "2021-04-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3857503.jpg?1744991791",
+   "link": "https://leagueofcomicgeeks.com/comic/3857503/catwoman-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Catwoman #31",
+   "data": "2021-05-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9168181.jpg?1744986897",
+   "link": "https://leagueofcomicgeeks.com/comic/9168181/catwoman-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Catwoman #32",
+   "data": "2021-06-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4311445.jpg?1744940884",
+   "link": "https://leagueofcomicgeeks.com/comic/4311445/catwoman-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Catwoman #33",
+   "data": "2021-07-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3333067.jpg?1744938662",
+   "link": "https://leagueofcomicgeeks.com/comic/3333067/catwoman-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Catwoman #34",
+   "data": "2021-08-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1585165.jpg?1744936181",
+   "link": "https://leagueofcomicgeeks.com/comic/1585165/catwoman-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Catwoman #35",
+   "data": "2021-09-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2173337.jpg?1744934031",
+   "link": "https://leagueofcomicgeeks.com/comic/2173337/catwoman-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Catwoman #36",
+   "data": "2021-10-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8251081.jpg?1708717959",
+   "link": "https://leagueofcomicgeeks.com/comic/8251081/catwoman-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Catwoman #37",
+   "data": "2021-11-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2680162.jpg?1726753655",
+   "link": "https://leagueofcomicgeeks.com/comic/2680162/catwoman-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Catwoman #38",
+   "data": "2021-12-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1798120.jpg?1771453890",
+   "link": "https://leagueofcomicgeeks.com/comic/1798120/catwoman-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Catwoman #39",
+   "data": "2022-01-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5560965.jpg?1744602301",
+   "link": "https://leagueofcomicgeeks.com/comic/5560965/catwoman-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Catwoman #40",
+   "data": "2022-02-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3543584.jpg?1744593459",
+   "link": "https://leagueofcomicgeeks.com/comic/3543584/catwoman-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Catwoman #41",
+   "data": "2022-03-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8376016.jpg?1744141646",
+   "link": "https://leagueofcomicgeeks.com/comic/8376016/catwoman-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Catwoman #42",
+   "data": "2022-04-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4613157.jpg?1744037104",
+   "link": "https://leagueofcomicgeeks.com/comic/4613157/catwoman-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Catwoman #43",
+   "data": "2022-05-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1526393.jpg?1743903392",
+   "link": "https://leagueofcomicgeeks.com/comic/1526393/catwoman-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Catwoman #44",
+   "data": "2022-06-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6177008.jpg?1743824348",
+   "link": "https://leagueofcomicgeeks.com/comic/6177008/catwoman-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Catwoman #45",
+   "data": "2022-07-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1544046.jpg?1743717365",
+   "link": "https://leagueofcomicgeeks.com/comic/1544046/catwoman-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Catwoman #46",
+   "data": "2022-08-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9851697.jpg?1743597700",
+   "link": "https://leagueofcomicgeeks.com/comic/9851697/catwoman-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Catwoman #47",
+   "data": "2022-09-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7183943.jpg?1743513317",
+   "link": "https://leagueofcomicgeeks.com/comic/7183943/catwoman-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Catwoman #48",
+   "data": "2022-10-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5883145.jpg?1743191073",
+   "link": "https://leagueofcomicgeeks.com/comic/5883145/catwoman-48",
+   "read_link": ""
+  },
+  {
+   "numero": "49",
+   "titulo": "Catwoman #49",
+   "data": "2022-11-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4481925.jpg?1742763884",
+   "link": "https://leagueofcomicgeeks.com/comic/4481925/catwoman-49",
+   "read_link": ""
+  },
+  {
+   "numero": "50",
+   "titulo": "Catwoman #50",
+   "data": "2022-12-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3381228.jpg?1741747784",
+   "link": "https://leagueofcomicgeeks.com/comic/3381228/catwoman-50",
+   "read_link": ""
+  },
+  {
+   "numero": "51",
+   "titulo": "Catwoman #51",
+   "data": "2023-01-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9566269.jpg?1740855942",
+   "link": "https://leagueofcomicgeeks.com/comic/9566269/catwoman-51",
+   "read_link": ""
+  },
+  {
+   "numero": "52",
+   "titulo": "Catwoman #52",
+   "data": "2023-02-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3221975.jpg?1726754130",
+   "link": "https://leagueofcomicgeeks.com/comic/3221975/catwoman-52",
+   "read_link": ""
+  },
+  {
+   "numero": "53",
+   "titulo": "Catwoman #53",
+   "data": "2023-03-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3417706.jpg?1740260347",
+   "link": "https://leagueofcomicgeeks.com/comic/3417706/catwoman-53",
+   "read_link": ""
+  },
+  {
+   "numero": "54",
+   "titulo": "Catwoman #54",
+   "data": "2023-04-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8892850.jpg?1740190992",
+   "link": "https://leagueofcomicgeeks.com/comic/8892850/catwoman-54",
+   "read_link": ""
+  },
+  {
+   "numero": "55",
+   "titulo": "Catwoman #55",
+   "data": "2023-05-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4145698.jpg?1739994233",
+   "link": "https://leagueofcomicgeeks.com/comic/4145698/catwoman-55",
+   "read_link": ""
+  },
+  {
+   "numero": "56",
+   "titulo": "Catwoman #56",
+   "data": "2023-06-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2635434.jpg?1739924770",
+   "link": "https://leagueofcomicgeeks.com/comic/2635434/catwoman-56",
+   "read_link": ""
+  },
+  {
+   "numero": "57",
+   "titulo": "Catwoman #57",
+   "data": "2023-09-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3357792.jpg?1739134717",
+   "link": "https://leagueofcomicgeeks.com/comic/3357792/catwoman-57",
+   "read_link": ""
+  },
+  {
+   "numero": "58",
+   "titulo": "Catwoman #58",
+   "data": "2023-10-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5404997.jpg?1739050504",
+   "link": "https://leagueofcomicgeeks.com/comic/5404997/catwoman-58",
+   "read_link": ""
+  },
+  {
+   "numero": "59",
+   "titulo": "Catwoman #59",
+   "data": "2023-11-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7343650.jpg?1738940881",
+   "link": "https://leagueofcomicgeeks.com/comic/7343650/catwoman-59",
+   "read_link": ""
+  },
+  {
+   "numero": "60",
+   "titulo": "Catwoman #60",
+   "data": "2023-12-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4326969.jpg?1738676470",
+   "link": "https://leagueofcomicgeeks.com/comic/4326969/catwoman-60",
+   "read_link": ""
+  },
+  {
+   "numero": "61",
+   "titulo": "Catwoman #61",
+   "data": "2024-01-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7993370.jpg?1738528386",
+   "link": "https://leagueofcomicgeeks.com/comic/7993370/catwoman-61",
+   "read_link": ""
+  },
+  {
+   "numero": "62",
+   "titulo": "Catwoman #62",
+   "data": "2024-02-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2589439.jpg?1738177475",
+   "link": "https://leagueofcomicgeeks.com/comic/2589439/catwoman-62",
+   "read_link": ""
+  },
+  {
+   "numero": "63",
+   "titulo": "Catwoman #63",
+   "data": "2024-03-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8436140.jpg?1737941828",
+   "link": "https://leagueofcomicgeeks.com/comic/8436140/catwoman-63",
+   "read_link": ""
+  },
+  {
+   "numero": "64",
+   "titulo": "Catwoman #64",
+   "data": "2024-04-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2950309.jpg?1737862520",
+   "link": "https://leagueofcomicgeeks.com/comic/2950309/catwoman-64",
+   "read_link": ""
+  },
+  {
+   "numero": "65",
+   "titulo": "Catwoman #65",
+   "data": "2024-05-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3051516.jpg?1726754564",
+   "link": "https://leagueofcomicgeeks.com/comic/3051516/catwoman-65",
+   "read_link": ""
+  },
+  {
+   "numero": "66",
+   "titulo": "Catwoman #66",
+   "data": "2024-06-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9883240.jpg?1737848425",
+   "link": "https://leagueofcomicgeeks.com/comic/9883240/catwoman-66",
+   "read_link": ""
+  },
+  {
+   "numero": "67",
+   "titulo": "Catwoman #67",
+   "data": "2024-07-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6658093.jpg?1726896031",
+   "link": "https://leagueofcomicgeeks.com/comic/6658093/catwoman-67",
+   "read_link": ""
+  },
+  {
+   "numero": "68",
+   "titulo": "Catwoman #68",
+   "data": "2024-09-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7276183.jpg?1726896760",
+   "link": "https://leagueofcomicgeeks.com/comic/7276183/catwoman-68",
+   "read_link": ""
+  },
+  {
+   "numero": "69",
+   "titulo": "Catwoman #69",
+   "data": "2024-10-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3683075.jpg?1736456269",
+   "link": "https://leagueofcomicgeeks.com/comic/3683075/catwoman-69",
+   "read_link": ""
+  },
+  {
+   "numero": "70",
+   "titulo": "Catwoman #70",
+   "data": "2024-11-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8435046.jpg?1782761892",
+   "link": "https://leagueofcomicgeeks.com/comic/8435046/catwoman-70",
+   "read_link": ""
+  },
+  {
+   "numero": "71",
+   "titulo": "Catwoman #71",
+   "data": "2024-12-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5757604.jpg?1754238408",
+   "link": "https://leagueofcomicgeeks.com/comic/5757604/catwoman-71",
+   "read_link": ""
+  },
+  {
+   "numero": "72",
+   "titulo": "Catwoman #72",
+   "data": "2025-01-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8492497.jpg?1782761905",
+   "link": "https://leagueofcomicgeeks.com/comic/8492497/catwoman-72",
+   "read_link": ""
+  },
+  {
+   "numero": "73",
+   "titulo": "Catwoman #73",
+   "data": "2025-02-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4209271.jpg?1782761922",
+   "link": "https://leagueofcomicgeeks.com/comic/4209271/catwoman-73",
+   "read_link": ""
+  },
+  {
+   "numero": "74",
+   "titulo": "Catwoman #74",
+   "data": "2025-03-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5207300.jpg?1782761935",
+   "link": "https://leagueofcomicgeeks.com/comic/5207300/catwoman-74",
+   "read_link": ""
+  },
+  {
+   "numero": "75",
+   "titulo": "Catwoman #75",
+   "data": "2025-04-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8647023.jpg?1754238436",
+   "link": "https://leagueofcomicgeeks.com/comic/8647023/catwoman-75",
+   "read_link": ""
+  },
+  {
+   "numero": "76",
+   "titulo": "Catwoman #76",
+   "data": "2025-05-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9025201.jpg?1782761947",
+   "link": "https://leagueofcomicgeeks.com/comic/9025201/catwoman-76",
+   "read_link": ""
+  },
+  {
+   "numero": "77",
+   "titulo": "Catwoman #77",
+   "data": "2025-06-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5443276.jpg?1782761958",
+   "link": "https://leagueofcomicgeeks.com/comic/5443276/catwoman-77",
+   "read_link": ""
+  },
+  {
+   "numero": "78",
+   "titulo": "Catwoman #78",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3097797.jpg?1782761972",
+   "link": "https://leagueofcomicgeeks.com/comic/3097797/catwoman-78",
+   "read_link": ""
+  },
+  {
+   "numero": "79",
+   "titulo": "Catwoman #79",
+   "data": "2025-09-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7820066.jpg?1764409258",
+   "link": "https://leagueofcomicgeeks.com/comic/7820066/catwoman-79",
+   "read_link": ""
+  },
+  {
+   "numero": "80",
+   "titulo": "Catwoman #80",
+   "data": "2025-10-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6271688.jpg?1766089322",
+   "link": "https://leagueofcomicgeeks.com/comic/6271688/catwoman-80",
+   "read_link": ""
+  },
+  {
+   "numero": "81",
+   "titulo": "Catwoman #81",
+   "data": "2025-11-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5488776.jpg?1765397122",
+   "link": "https://leagueofcomicgeeks.com/comic/5488776/catwoman-81",
+   "read_link": ""
+  },
+  {
+   "numero": "82",
+   "titulo": "Catwoman #82",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9525350.jpg?1766088898",
+   "link": "https://leagueofcomicgeeks.com/comic/9525350/catwoman-82",
+   "read_link": ""
+  },
+  {
+   "numero": "83",
+   "titulo": "Catwoman #83",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4227653.jpg?1769049637",
+   "link": "https://leagueofcomicgeeks.com/comic/4227653/catwoman-83",
+   "read_link": ""
+  },
+  {
+   "numero": "84",
+   "titulo": "Catwoman #84",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6679350.jpg?1771462882",
+   "link": "https://leagueofcomicgeeks.com/comic/6679350/catwoman-84",
+   "read_link": ""
+  },
+  {
+   "numero": "85",
+   "titulo": "Catwoman #85",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7555578.jpg?1774140400",
+   "link": "https://leagueofcomicgeeks.com/comic/7555578/catwoman-85",
+   "read_link": ""
+  },
+  {
+   "numero": "86",
+   "titulo": "Catwoman #86",
+   "data": "2026-04-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9635346.jpg?1782761983",
+   "link": "https://leagueofcomicgeeks.com/comic/9635346/catwoman-86",
+   "read_link": ""
+  },
+  {
+   "numero": "87",
+   "titulo": "Catwoman #87",
+   "data": "2026-05-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8093296.jpg?1781837938",
+   "link": "https://leagueofcomicgeeks.com/comic/8093296/catwoman-87",
+   "read_link": ""
+  },
+  {
+   "numero": "88",
+   "titulo": "Catwoman #88",
+   "data": "2026-06-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7967307.jpg?1781837913",
+   "link": "https://leagueofcomicgeeks.com/comic/7967307/catwoman-88",
+   "read_link": ""
+  },
+  {
+   "numero": "89",
+   "titulo": "Catwoman #89",
+   "data": "2026-07-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9480667.jpg?1784423273",
+   "link": "https://leagueofcomicgeeks.com/comic/9480667/catwoman-89",
+   "read_link": ""
+  },
+  {
+   "numero": "90",
+   "titulo": "Catwoman #90",
+   "data": "2026-08-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6405560.jpg?1785251797",
+   "link": "https://leagueofcomicgeeks.com/comic/6405560/catwoman-90",
+   "read_link": ""
+  },
+  {
+   "numero": "91",
+   "titulo": "Catwoman #91",
+   "data": "2026-09-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1254464.jpg?1784723961",
+   "link": "https://leagueofcomicgeeks.com/comic/1254464/catwoman-91",
+   "read_link": ""
+  }
+ ]
+}

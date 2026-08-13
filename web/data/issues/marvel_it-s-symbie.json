@@ -1,0 +1,16 @@
+{
+ "id": "marvel_it-s-symbie",
+ "nome": "It's Symbie",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "It's Symbie #1",
+   "data": "2026-07-08",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2554167.jpg?1783100579",
+   "link": "https://leagueofcomicgeeks.com/comic/2554167/its-symbie-1",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "id": "marvel_avengers",
+ "nome": "The Avengers",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Avengers #1",
+   "data": "2023-05-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4740887.jpg?1746398535",
+   "link": "https://leagueofcomicgeeks.com/comic/4740887/the-avengers-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Avengers #2",
+   "data": "2023-06-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9625266.jpg?1746399283",
+   "link": "https://leagueofcomicgeeks.com/comic/9625266/the-avengers-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Avengers #3",
+   "data": "2023-07-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1093440.jpg?1746399463",
+   "link": "https://leagueofcomicgeeks.com/comic/1093440/the-avengers-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Avengers #4",
+   "data": "2023-08-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6236579.jpg?1746399809",
+   "link": "https://leagueofcomicgeeks.com/comic/6236579/the-avengers-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Avengers #5",
+   "data": "2023-09-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8935447.jpg?1746401206",
+   "link": "https://leagueofcomicgeeks.com/comic/8935447/the-avengers-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "The Avengers #6",
+   "data": "2023-10-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3646806.jpg?1746407171",
+   "link": "https://leagueofcomicgeeks.com/comic/3646806/the-avengers-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "The Avengers #7",
+   "data": "2023-11-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1103939.jpg?1738021246",
+   "link": "https://leagueofcomicgeeks.com/comic/1103939/the-avengers-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "The Avengers #8",
+   "data": "2023-12-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5076925.jpg?1713472388",
+   "link": "https://leagueofcomicgeeks.com/comic/5076925/the-avengers-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "The Avengers #9",
+   "data": "2024-01-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8865215.jpg?1715918429",
+   "link": "https://leagueofcomicgeeks.com/comic/8865215/the-avengers-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "The Avengers #10",
+   "data": "2024-02-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6520755.jpg?1750563581",
+   "link": "https://leagueofcomicgeeks.com/comic/6520755/the-avengers-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "The Avengers #11",
+   "data": "2024-03-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3666685.jpg?1716090771",
+   "link": "https://leagueofcomicgeeks.com/comic/3666685/the-avengers-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "The Avengers #12",
+   "data": "2024-04-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8642199.jpg?1750101648",
+   "link": "https://leagueofcomicgeeks.com/comic/8642199/the-avengers-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "The Avengers #13",
+   "data": "2024-04-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4240901.jpg?1750101676",
+   "link": "https://leagueofcomicgeeks.com/comic/4240901/the-avengers-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "The Avengers #14",
+   "data": "2024-05-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6382768.jpg?1738660711",
+   "link": "https://leagueofcomicgeeks.com/comic/6382768/the-avengers-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "The Avengers #15",
+   "data": "2024-06-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6457541.jpg?1717695549",
+   "link": "https://leagueofcomicgeeks.com/comic/6457541/the-avengers-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "The Avengers #16",
+   "data": "2024-07-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7813754.jpg?1720677805",
+   "link": "https://leagueofcomicgeeks.com/comic/7813754/the-avengers-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "The Avengers #17",
+   "data": "2024-08-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6567048.jpg?1726252895",
+   "link": "https://leagueofcomicgeeks.com/comic/6567048/the-avengers-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "The Avengers #18",
+   "data": "2024-09-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3160029.jpg?1727056845",
+   "link": "https://leagueofcomicgeeks.com/comic/3160029/the-avengers-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "The Avengers #19",
+   "data": "2024-10-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1566557.jpg?1745464369",
+   "link": "https://leagueofcomicgeeks.com/comic/1566557/the-avengers-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "The Avengers #20",
+   "data": "2024-11-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8247621.jpg?1745463702",
+   "link": "https://leagueofcomicgeeks.com/comic/8247621/the-avengers-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "The Avengers #21",
+   "data": "2024-12-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5427968.jpg?1735002746",
+   "link": "https://leagueofcomicgeeks.com/comic/5427968/the-avengers-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "The Avengers #22",
+   "data": "2025-01-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9536278.jpg?1772032233",
+   "link": "https://leagueofcomicgeeks.com/comic/9536278/the-avengers-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "The Avengers #23",
+   "data": "2025-02-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6958569.jpg?1739038145",
+   "link": "https://leagueofcomicgeeks.com/comic/6958569/the-avengers-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "The Avengers #24",
+   "data": "2025-03-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6547487.jpg?1742694673",
+   "link": "https://leagueofcomicgeeks.com/comic/6547487/the-avengers-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "The Avengers #25",
+   "data": "2025-04-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6263196.jpg?1745532359",
+   "link": "https://leagueofcomicgeeks.com/comic/6263196/the-avengers-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "The Avengers #26",
+   "data": "2025-05-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7366346.jpg?1748682950",
+   "link": "https://leagueofcomicgeeks.com/comic/7366346/the-avengers-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "The Avengers #27",
+   "data": "2025-06-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1896082.jpg?1750366789",
+   "link": "https://leagueofcomicgeeks.com/comic/1896082/the-avengers-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "The Avengers #28",
+   "data": "2025-07-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6527958.jpg?1751906921",
+   "link": "https://leagueofcomicgeeks.com/comic/6527958/the-avengers-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "The Avengers #29",
+   "data": "2025-08-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9209784.jpg?1756298448",
+   "link": "https://leagueofcomicgeeks.com/comic/9209784/the-avengers-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "The Avengers #30",
+   "data": "2025-09-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1027919.jpg?1782533189",
+   "link": "https://leagueofcomicgeeks.com/comic/1027919/the-avengers-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "The Avengers #31",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8384986.jpg?1760356588",
+   "link": "https://leagueofcomicgeeks.com/comic/8384986/the-avengers-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "The Avengers #32",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3347804.jpg?1763477952",
+   "link": "https://leagueofcomicgeeks.com/comic/3347804/the-avengers-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "The Avengers #33",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6107609.jpg?1768942181",
+   "link": "https://leagueofcomicgeeks.com/comic/6107609/the-avengers-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "The Avengers #34",
+   "data": "2026-01-14",
+   "preco": "7.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7288760.jpg?1775588616",
+   "link": "https://leagueofcomicgeeks.com/comic/7288760/the-avengers-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "The Avengers #35",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1556537.jpg?1773290470",
+   "link": "https://leagueofcomicgeeks.com/comic/1556537/the-avengers-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "The Avengers #36",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1413905.jpg?1772678311",
+   "link": "https://leagueofcomicgeeks.com/comic/1413905/the-avengers-36",
+   "read_link": ""
+  }
+ ]
+}

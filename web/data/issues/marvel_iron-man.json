@@ -1,0 +1,88 @@
+{
+ "id": "marvel_iron-man",
+ "nome": "Iron Man",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Iron Man #1",
+   "data": "2026-01-28",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8608396.jpg?1769639550",
+   "link": "https://leagueofcomicgeeks.com/comic/8608396/iron-man-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Iron Man #2",
+   "data": "2026-02-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7711070.jpg?1778753585",
+   "link": "https://leagueofcomicgeeks.com/comic/7711070/iron-man-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Iron Man #3",
+   "data": "2026-03-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9172745.jpg?1781130175",
+   "link": "https://leagueofcomicgeeks.com/comic/9172745/iron-man-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Iron Man #4",
+   "data": "2026-04-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3896709.jpg?1778753411",
+   "link": "https://leagueofcomicgeeks.com/comic/3896709/iron-man-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Iron Man #5",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3043659.jpg?1784819048",
+   "link": "https://leagueofcomicgeeks.com/comic/3043659/iron-man-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Iron Man #6",
+   "data": "2026-06-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7462264.jpg?1780599158",
+   "link": "https://leagueofcomicgeeks.com/comic/7462264/iron-man-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Iron Man #7",
+   "data": "2026-07-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8074015.jpg?1782950724",
+   "link": "https://leagueofcomicgeeks.com/comic/8074015/iron-man-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Iron Man #8",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8661754.jpg?1786093771",
+   "link": "https://leagueofcomicgeeks.com/comic/8661754/iron-man-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Iron Man #9",
+   "data": "2026-09-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1937325.jpg?1786179323",
+   "link": "https://leagueofcomicgeeks.com/comic/1937325/iron-man-9",
+   "read_link": ""
+  }
+ ]
+}

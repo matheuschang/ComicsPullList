@@ -1,0 +1,43 @@
+{
+ "id": "dc_dc-k-o-knightfight",
+ "nome": "DC K.O.: Knightfight",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "DC K.O.: Knightfight #1",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6918313.jpg?1764790658",
+   "link": "https://leagueofcomicgeeks.com/comic/6918313/dc-ko-knightfight-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "DC K.O.: Knightfight #2",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7962981.jpg?1768316171",
+   "link": "https://leagueofcomicgeeks.com/comic/7962981/dc-ko-knightfight-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "DC K.O.: Knightfight #3",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4414550.jpg?1778685472",
+   "link": "https://leagueofcomicgeeks.com/comic/4414550/dc-ko-knightfight-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "DC K.O.: Knightfight #4",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7818841.jpg?1781408768",
+   "link": "https://leagueofcomicgeeks.com/comic/7818841/dc-ko-knightfight-4",
+   "read_link": ""
+  }
+ ]
+}

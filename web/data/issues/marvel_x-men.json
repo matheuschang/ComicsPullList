@@ -1,0 +1,178 @@
+{
+ "id": "marvel_x-men",
+ "nome": "X-Men",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "20",
+   "titulo": "X-Men #20",
+   "data": "2025-08-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9189255.jpg?1756846472",
+   "link": "https://leagueofcomicgeeks.com/comic/9189255/x-men-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "X-Men #21",
+   "data": "2025-08-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3689987.jpg?1756846453",
+   "link": "https://leagueofcomicgeeks.com/comic/3689987/x-men-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "X-Men #22",
+   "data": "2025-09-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3319166.jpg?1767845046",
+   "link": "https://leagueofcomicgeeks.com/comic/3319166/x-men-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "X-Men #23",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8532443.jpg?1768618806",
+   "link": "https://leagueofcomicgeeks.com/comic/8532443/x-men-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "X-Men #24",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9046138.jpg?1784235466",
+   "link": "https://leagueofcomicgeeks.com/comic/9046138/x-men-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "X-Men #25",
+   "data": "2026-02-18",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2543906.jpg?1771868612",
+   "link": "https://leagueofcomicgeeks.com/comic/2543906/x-men-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "X-Men #26",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4713473.jpg?1780323510",
+   "link": "https://leagueofcomicgeeks.com/comic/4713473/x-men-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "X-Men #27",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2431547.jpg?1780323517",
+   "link": "https://leagueofcomicgeeks.com/comic/2431547/x-men-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "X-Men #28",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9115638.jpg?1780323524",
+   "link": "https://leagueofcomicgeeks.com/comic/9115638/x-men-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "X-Men #29",
+   "data": "2026-05-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9943257.jpg?1780323534",
+   "link": "https://leagueofcomicgeeks.com/comic/9943257/x-men-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "X-Men #30",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1906256.jpg?1782775154",
+   "link": "https://leagueofcomicgeeks.com/comic/1906256/x-men-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "X-Men #31",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7835083.jpg?1782830952",
+   "link": "https://leagueofcomicgeeks.com/comic/7835083/x-men-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "X-Men #32",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9781448.jpg?1782830984",
+   "link": "https://leagueofcomicgeeks.com/comic/9781448/x-men-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "X-Men #33",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8931741.jpg?1785976860",
+   "link": "https://leagueofcomicgeeks.com/comic/8931741/x-men-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "X-Men #34",
+   "data": "2026-07-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8176738.jpg?1785976896",
+   "link": "https://leagueofcomicgeeks.com/comic/8176738/x-men-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "X-Men #35",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8635058.jpg?1786524631",
+   "link": "https://leagueofcomicgeeks.com/comic/8635058/x-men-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "X-Men #36",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1398060.jpg?1784224005",
+   "link": "https://leagueofcomicgeeks.com/comic/1398060/x-men-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "X-Men #37",
+   "data": "2026-09-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2492843.jpg?1785595520",
+   "link": "https://leagueofcomicgeeks.com/comic/2492843/x-men-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "X-Men #38",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4695805.jpg?1786481797",
+   "link": "https://leagueofcomicgeeks.com/comic/4695805/x-men-38",
+   "read_link": ""
+  }
+ ]
+}

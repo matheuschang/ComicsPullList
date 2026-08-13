@@ -1,0 +1,124 @@
+{
+ "id": "marvel_mortal-thor",
+ "nome": "The Mortal Thor",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Mortal Thor #1",
+   "data": "2025-08-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6939321.jpg?1759709727",
+   "link": "https://leagueofcomicgeeks.com/comic/6939321/the-mortal-thor-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Mortal Thor #2",
+   "data": "2025-09-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8957400.jpg?1775911047",
+   "link": "https://leagueofcomicgeeks.com/comic/8957400/the-mortal-thor-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Mortal Thor #3",
+   "data": "2025-10-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9024983.jpg?1775911013",
+   "link": "https://leagueofcomicgeeks.com/comic/9024983/the-mortal-thor-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Mortal Thor #4",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4034191.jpg?1775864857",
+   "link": "https://leagueofcomicgeeks.com/comic/4034191/the-mortal-thor-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Mortal Thor #5",
+   "data": "2025-12-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2063058.jpg?1766078233",
+   "link": "https://leagueofcomicgeeks.com/comic/2063058/the-mortal-thor-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "The Mortal Thor #6",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2071697.jpg?1769305947",
+   "link": "https://leagueofcomicgeeks.com/comic/2071697/the-mortal-thor-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "The Mortal Thor #7",
+   "data": "2026-02-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3065047.jpg?1775911730",
+   "link": "https://leagueofcomicgeeks.com/comic/3065047/the-mortal-thor-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "The Mortal Thor #8",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1121861.jpg?1775913114",
+   "link": "https://leagueofcomicgeeks.com/comic/1121861/the-mortal-thor-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "The Mortal Thor #9",
+   "data": "2026-04-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4002478.jpg?1775703137",
+   "link": "https://leagueofcomicgeeks.com/comic/4002478/the-mortal-thor-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "The Mortal Thor #10",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6130265.jpg?1779632305",
+   "link": "https://leagueofcomicgeeks.com/comic/6130265/the-mortal-thor-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "The Mortal Thor #11",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5919538.jpg?1781660978",
+   "link": "https://leagueofcomicgeeks.com/comic/5919538/the-mortal-thor-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "The Mortal Thor #12",
+   "data": "2026-07-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3756357.jpg?1786337826",
+   "link": "https://leagueofcomicgeeks.com/comic/3756357/the-mortal-thor-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "The Mortal Thor #13",
+   "data": "2026-07-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5696452.jpg?1786466931",
+   "link": "https://leagueofcomicgeeks.com/comic/5696452/the-mortal-thor-13",
+   "read_link": ""
+  }
+ ]
+}

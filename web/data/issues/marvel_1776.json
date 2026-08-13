@@ -1,0 +1,52 @@
+{
+ "id": "marvel_1776",
+ "nome": "1776",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "1776 #1",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7692676.jpg?1765150238",
+   "link": "https://leagueofcomicgeeks.com/comic/7692676/1776-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "1776 #2",
+   "data": "2025-12-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8126329.jpg?1767375323",
+   "link": "https://leagueofcomicgeeks.com/comic/8126329/1776-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "1776 #3",
+   "data": "2026-01-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9572622.jpg?1786092012",
+   "link": "https://leagueofcomicgeeks.com/comic/9572622/1776-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "1776 #4",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7861439.jpg?1786092771",
+   "link": "https://leagueofcomicgeeks.com/comic/7861439/1776-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "1776 #5",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8384829.jpg?1774892182",
+   "link": "https://leagueofcomicgeeks.com/comic/8384829/1776-5",
+   "read_link": ""
+  }
+ ]
+}

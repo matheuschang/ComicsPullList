@@ -1,0 +1,124 @@
+{
+ "id": "marvel_venom",
+ "nome": "Venom",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "250",
+   "titulo": "Venom #250",
+   "data": "2025-10-01",
+   "preco": "7.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4291422.jpg?1781130158",
+   "link": "https://leagueofcomicgeeks.com/comic/4291422/venom-250",
+   "read_link": ""
+  },
+  {
+   "numero": "251",
+   "titulo": "Venom #251",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5087824.jpg?1765060721",
+   "link": "https://leagueofcomicgeeks.com/comic/5087824/venom-251",
+   "read_link": ""
+  },
+  {
+   "numero": "252",
+   "titulo": "Venom #252",
+   "data": "2025-12-03",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8442395.jpg?1778037559",
+   "link": "https://leagueofcomicgeeks.com/comic/8442395/venom-252",
+   "read_link": ""
+  },
+  {
+   "numero": "253",
+   "titulo": "Venom #253",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7594910.jpg?1776234555",
+   "link": "https://leagueofcomicgeeks.com/comic/7594910/venom-253",
+   "read_link": ""
+  },
+  {
+   "numero": "254",
+   "titulo": "Venom #254",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6982148.jpg?1776234512",
+   "link": "https://leagueofcomicgeeks.com/comic/6982148/venom-254",
+   "read_link": ""
+  },
+  {
+   "numero": "255",
+   "titulo": "Venom #255",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9343166.jpg?1773792170",
+   "link": "https://leagueofcomicgeeks.com/comic/9343166/venom-255",
+   "read_link": ""
+  },
+  {
+   "numero": "256",
+   "titulo": "Venom #256",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4305602.jpg?1777590984",
+   "link": "https://leagueofcomicgeeks.com/comic/4305602/venom-256",
+   "read_link": ""
+  },
+  {
+   "numero": "257",
+   "titulo": "Venom #257",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1254178.jpg?1778460134",
+   "link": "https://leagueofcomicgeeks.com/comic/1254178/venom-257",
+   "read_link": ""
+  },
+  {
+   "numero": "258",
+   "titulo": "Venom #258",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5482975.jpg?1782255305",
+   "link": "https://leagueofcomicgeeks.com/comic/5482975/venom-258",
+   "read_link": ""
+  },
+  {
+   "numero": "259",
+   "titulo": "Venom #259",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6791687.jpg?1786543320",
+   "link": "https://leagueofcomicgeeks.com/comic/6791687/venom-259",
+   "read_link": ""
+  },
+  {
+   "numero": "260",
+   "titulo": "Venom #260",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8212470.jpg?1786552900",
+   "link": "https://leagueofcomicgeeks.com/comic/8212470/venom-260",
+   "read_link": ""
+  },
+  {
+   "numero": "261",
+   "titulo": "Venom #261",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2238552.jpg?1784711514",
+   "link": "https://leagueofcomicgeeks.com/comic/2238552/venom-261",
+   "read_link": ""
+  },
+  {
+   "numero": "262",
+   "titulo": "Venom #262",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5795317.jpg?1784224531",
+   "link": "https://leagueofcomicgeeks.com/comic/5795317/venom-262",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "marvel_magik-and-colossus",
+ "nome": "Magik and Colossus",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Magik and Colossus #1",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9992717.jpg?1773979138",
+   "link": "https://leagueofcomicgeeks.com/comic/9992717/magik-and-colossus-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Magik and Colossus #2",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7451077.jpg?1773779507",
+   "link": "https://leagueofcomicgeeks.com/comic/7451077/magik-and-colossus-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Magik and Colossus #3",
+   "data": "2026-04-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8168703.jpg?1778824618",
+   "link": "https://leagueofcomicgeeks.com/comic/8168703/magik-and-colossus-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Magik and Colossus #4",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5906823.jpg?1779844926",
+   "link": "https://leagueofcomicgeeks.com/comic/5906823/magik-and-colossus-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Magik and Colossus #5",
+   "data": "2026-06-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7293883.jpg?1782249621",
+   "link": "https://leagueofcomicgeeks.com/comic/7293883/magik-and-colossus-5",
+   "read_link": ""
+  }
+ ]
+}

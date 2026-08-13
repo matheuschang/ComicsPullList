@@ -1,0 +1,52 @@
+{
+ "id": "marvel_storm-earth-s-mightiest-mutant",
+ "nome": "Storm: Earth's Mightiest Mutant",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Storm: Earth's Mightiest Mutant #1",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5847753.jpg?1778327647",
+   "link": "https://leagueofcomicgeeks.com/comic/5847753/storm-earths-mightiest-mutant-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Storm: Earth's Mightiest Mutant #2",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3989548.jpg?1778327686",
+   "link": "https://leagueofcomicgeeks.com/comic/3989548/storm-earths-mightiest-mutant-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Storm: Earth's Mightiest Mutant #3",
+   "data": "2026-04-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5085474.jpg?1778810499",
+   "link": "https://leagueofcomicgeeks.com/comic/5085474/storm-earths-mightiest-mutant-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Storm: Earth's Mightiest Mutant #4",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4014382.jpg?1778808905",
+   "link": "https://leagueofcomicgeeks.com/comic/4014382/storm-earths-mightiest-mutant-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Storm: Earth's Mightiest Mutant #5",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3409923.jpg?1786337643",
+   "link": "https://leagueofcomicgeeks.com/comic/3409923/storm-earths-mightiest-mutant-5",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "dc_mad-about-dc",
+ "nome": "Mad About DC",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Mad About DC #1",
+   "data": "2026-04-01",
+   "preco": "7.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8518835.jpg?1777648656",
+   "link": "https://leagueofcomicgeeks.com/comic/8518835/mad-about-dc-1",
+   "read_link": ""
+  }
+ ]
+}

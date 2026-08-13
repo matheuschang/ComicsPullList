@@ -1,0 +1,61 @@
+{
+ "id": "marvel_planet-she-hulk",
+ "nome": "Planet She-Hulk",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Planet She-Hulk #1",
+   "data": "2025-11-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1650998.jpg?1780787233",
+   "link": "https://leagueofcomicgeeks.com/comic/1650998/planet-she-hulk-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Planet She-Hulk #2",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5710470.jpg?1773840889",
+   "link": "https://leagueofcomicgeeks.com/comic/5710470/planet-she-hulk-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Planet She-Hulk #3",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8847594.jpg?1773841099",
+   "link": "https://leagueofcomicgeeks.com/comic/8847594/planet-she-hulk-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Planet She-Hulk #4",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4673861.jpg?1770831599",
+   "link": "https://leagueofcomicgeeks.com/comic/4673861/planet-she-hulk-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Planet She-Hulk #5",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2526220.jpg?1773937499",
+   "link": "https://leagueofcomicgeeks.com/comic/2526220/planet-she-hulk-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Planet She-Hulk #6",
+   "data": "2026-04-29",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9688330.jpg?1782970505",
+   "link": "https://leagueofcomicgeeks.com/comic/9688330/planet-she-hulk-6",
+   "read_link": ""
+  }
+ ]
+}

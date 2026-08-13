@@ -1,0 +1,43 @@
+{
+ "id": "marvel_black-panther-intergalactic",
+ "nome": "Black Panther: Intergalactic",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Black Panther: Intergalactic #1",
+   "data": "2025-12-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2100366.jpg?1776054999",
+   "link": "https://leagueofcomicgeeks.com/comic/2100366/black-panther-intergalactic-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Black Panther: Intergalactic #2",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5140363.jpg?1776053319",
+   "link": "https://leagueofcomicgeeks.com/comic/5140363/black-panther-intergalactic-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Black Panther: Intergalactic #3",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3063380.jpg?1780083668",
+   "link": "https://leagueofcomicgeeks.com/comic/3063380/black-panther-intergalactic-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Black Panther: Intergalactic #4",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4073811.jpg?1780083850",
+   "link": "https://leagueofcomicgeeks.com/comic/4073811/black-panther-intergalactic-4",
+   "read_link": ""
+  }
+ ]
+}

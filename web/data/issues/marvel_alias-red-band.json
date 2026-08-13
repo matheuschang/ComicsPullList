@@ -1,0 +1,52 @@
+{
+ "id": "marvel_alias-red-band",
+ "nome": "Alias: Red Band",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Alias: Red Band #1",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4622434.jpg?1776568948",
+   "link": "https://leagueofcomicgeeks.com/comic/4622434/alias-red-band-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Alias: Red Band #2",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2790302.jpg?1776568935",
+   "link": "https://leagueofcomicgeeks.com/comic/2790302/alias-red-band-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Alias: Red Band #3",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8626396.jpg?1781130229",
+   "link": "https://leagueofcomicgeeks.com/comic/8626396/alias-red-band-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Alias: Red Band #4",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2789285.jpg?1786337865",
+   "link": "https://leagueofcomicgeeks.com/comic/2789285/alias-red-band-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Alias: Red Band #5",
+   "data": "2026-07-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2771135.jpg?1785859289",
+   "link": "https://leagueofcomicgeeks.com/comic/2771135/alias-red-band-5",
+   "read_link": ""
+  }
+ ]
+}

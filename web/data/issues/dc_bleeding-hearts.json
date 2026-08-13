@@ -1,0 +1,79 @@
+{
+ "id": "dc_bleeding-hearts",
+ "nome": "Bleeding Hearts",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Bleeding Hearts #1",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2950971.jpg?1783503599",
+   "link": "https://leagueofcomicgeeks.com/comic/2950971/bleeding-hearts-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Bleeding Hearts #2",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2100646.jpg?1778678565",
+   "link": "https://leagueofcomicgeeks.com/comic/2100646/bleeding-hearts-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Bleeding Hearts #3",
+   "data": "2026-04-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8132296.jpg?1778678544",
+   "link": "https://leagueofcomicgeeks.com/comic/8132296/bleeding-hearts-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Bleeding Hearts #4",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1685874.jpg?1785970067",
+   "link": "https://leagueofcomicgeeks.com/comic/1685874/bleeding-hearts-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Bleeding Hearts #5",
+   "data": "2026-06-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5520518.jpg?1785970064",
+   "link": "https://leagueofcomicgeeks.com/comic/5520518/bleeding-hearts-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Bleeding Hearts #6",
+   "data": "2026-07-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5980957.jpg?1785970058",
+   "link": "https://leagueofcomicgeeks.com/comic/5980957/bleeding-hearts-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Bleeding Hearts #7",
+   "data": "2026-08-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3906841.jpg?1786530530",
+   "link": "https://leagueofcomicgeeks.com/comic/3906841/bleeding-hearts-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Bleeding Hearts #8",
+   "data": "2026-09-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3243782.jpg?1781830022",
+   "link": "https://leagueofcomicgeeks.com/comic/3243782/bleeding-hearts-8",
+   "read_link": ""
+  }
+ ]
+}

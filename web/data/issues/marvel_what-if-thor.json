@@ -1,0 +1,16 @@
+{
+ "id": "marvel_what-if-thor",
+ "nome": "What If...? Thor",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "What If...? Thor #1",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3623513.jpg?1782637285",
+   "link": "https://leagueofcomicgeeks.com/comic/3623513/what-if-thor-1",
+   "read_link": ""
+  }
+ ]
+}

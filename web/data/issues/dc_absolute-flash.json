@@ -1,0 +1,178 @@
+{
+ "id": "dc_absolute-flash",
+ "nome": "Absolute Flash",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Absolute Flash #1",
+   "data": "2025-03-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8134857.jpg?1763498993",
+   "link": "https://leagueofcomicgeeks.com/comic/8134857/absolute-flash-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Absolute Flash #2",
+   "data": "2025-04-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3630965.jpg?1757816462",
+   "link": "https://leagueofcomicgeeks.com/comic/3630965/absolute-flash-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Absolute Flash #3",
+   "data": "2025-05-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1613026.jpg?1759699335",
+   "link": "https://leagueofcomicgeeks.com/comic/1613026/absolute-flash-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Absolute Flash #4",
+   "data": "2025-06-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7234696.jpg?1770421354",
+   "link": "https://leagueofcomicgeeks.com/comic/7234696/absolute-flash-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Absolute Flash #5",
+   "data": "2025-07-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8900255.jpg?1757275326",
+   "link": "https://leagueofcomicgeeks.com/comic/8900255/absolute-flash-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Absolute Flash #6",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1073526.jpg?1756318047",
+   "link": "https://leagueofcomicgeeks.com/comic/1073526/absolute-flash-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Absolute Flash #7",
+   "data": "2025-09-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6787919.jpg?1760531581",
+   "link": "https://leagueofcomicgeeks.com/comic/6787919/absolute-flash-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Absolute Flash #8",
+   "data": "2025-10-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3834156.jpg?1763384255",
+   "link": "https://leagueofcomicgeeks.com/comic/3834156/absolute-flash-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Absolute Flash #9",
+   "data": "2025-11-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2250466.jpg?1783156847",
+   "link": "https://leagueofcomicgeeks.com/comic/2250466/absolute-flash-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Absolute Flash #10",
+   "data": "2025-12-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8744594.jpg?1772640362",
+   "link": "https://leagueofcomicgeeks.com/comic/8744594/absolute-flash-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Absolute Flash #11",
+   "data": "2026-01-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8285365.jpg?1772640301",
+   "link": "https://leagueofcomicgeeks.com/comic/8285365/absolute-flash-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Absolute Flash #12",
+   "data": "2026-03-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5446399.jpg?1772652111",
+   "link": "https://leagueofcomicgeeks.com/comic/5446399/absolute-flash-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Absolute Flash #13",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9284449.jpg?1773867485",
+   "link": "https://leagueofcomicgeeks.com/comic/9284449/absolute-flash-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Absolute Flash #14",
+   "data": "2026-04-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2061139.jpg?1777745935",
+   "link": "https://leagueofcomicgeeks.com/comic/2061139/absolute-flash-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Absolute Flash #15",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6576778.jpg?1780615399",
+   "link": "https://leagueofcomicgeeks.com/comic/6576778/absolute-flash-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Absolute Flash #16",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1999167.jpg?1781720998",
+   "link": "https://leagueofcomicgeeks.com/comic/1999167/absolute-flash-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Absolute Flash #17",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3057246.jpg?1784135106",
+   "link": "https://leagueofcomicgeeks.com/comic/3057246/absolute-flash-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Absolute Flash #18",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5350516.jpg?1785194473",
+   "link": "https://leagueofcomicgeeks.com/comic/5350516/absolute-flash-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Absolute Flash #19",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1587344.jpg?1781811775",
+   "link": "https://leagueofcomicgeeks.com/comic/1587344/absolute-flash-19",
+   "read_link": ""
+  }
+ ]
+}

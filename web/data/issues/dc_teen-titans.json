@@ -1,0 +1,16 @@
+{
+ "id": "dc_teen-titans",
+ "nome": "Teen Titans",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Teen Titans #1",
+   "data": "2026-09-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1958996.jpg?1786559819",
+   "link": "https://leagueofcomicgeeks.com/comic/1958996/teen-titans-1",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "id": "marvel_inglorious-x-force",
+ "nome": "Inglorious X-Force",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Inglorious X-Force #1",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2766247.jpg?1775595093",
+   "link": "https://leagueofcomicgeeks.com/comic/2766247/inglorious-x-force-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Inglorious X-Force #2",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5358607.jpg?1775594983",
+   "link": "https://leagueofcomicgeeks.com/comic/5358607/inglorious-x-force-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Inglorious X-Force #3",
+   "data": "2026-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4072927.jpg?1775594653",
+   "link": "https://leagueofcomicgeeks.com/comic/4072927/inglorious-x-force-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Inglorious X-Force #4",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4211555.jpg?1777870839",
+   "link": "https://leagueofcomicgeeks.com/comic/4211555/inglorious-x-force-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Inglorious X-Force #5",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5528983.jpg?1779309891",
+   "link": "https://leagueofcomicgeeks.com/comic/5528983/inglorious-x-force-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Inglorious X-Force #6",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6352912.jpg?1782136917",
+   "link": "https://leagueofcomicgeeks.com/comic/6352912/inglorious-x-force-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Inglorious X-Force #7",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1427677.jpg?1786574091",
+   "link": "https://leagueofcomicgeeks.com/comic/1427677/inglorious-x-force-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Inglorious X-Force #8",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9456879.jpg?1785854729",
+   "link": "https://leagueofcomicgeeks.com/comic/9456879/inglorious-x-force-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Inglorious X-Force #9",
+   "data": "2026-09-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7200285.jpg?1786574135",
+   "link": "https://leagueofcomicgeeks.com/comic/7200285/inglorious-x-force-9",
+   "read_link": ""
+  }
+ ]
+}

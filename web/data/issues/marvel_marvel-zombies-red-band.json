@@ -1,0 +1,52 @@
+{
+ "id": "marvel_marvel-zombies-red-band",
+ "nome": "Marvel Zombies: Red Band",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Marvel Zombies: Red Band #1",
+   "data": "2025-09-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9322857.jpg?1781185736",
+   "link": "https://leagueofcomicgeeks.com/comic/9322857/marvel-zombies-red-band-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Marvel Zombies: Red Band #2",
+   "data": "2025-10-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9265424.jpg?1761767359",
+   "link": "https://leagueofcomicgeeks.com/comic/9265424/marvel-zombies-red-band-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Marvel Zombies: Red Band #3",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3667235.jpg?1766522163",
+   "link": "https://leagueofcomicgeeks.com/comic/3667235/marvel-zombies-red-band-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Marvel Zombies: Red Band #4",
+   "data": "2025-12-31",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1482385.jpg?1767574641",
+   "link": "https://leagueofcomicgeeks.com/comic/1482385/marvel-zombies-red-band-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Marvel Zombies: Red Band #5",
+   "data": "2026-01-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3811343.jpg?1770598016",
+   "link": "https://leagueofcomicgeeks.com/comic/3811343/marvel-zombies-red-band-5",
+   "read_link": ""
+  }
+ ]
+}

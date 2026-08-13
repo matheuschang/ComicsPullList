@@ -1,0 +1,43 @@
+{
+ "id": "marvel_wolverine-weapons-of-armageddon",
+ "nome": "Wolverine: Weapons of Armageddon",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Wolverine: Weapons of Armageddon #1",
+   "data": "2026-02-18",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2621846.jpg?1779972290",
+   "link": "https://leagueofcomicgeeks.com/comic/2621846/wolverine-weapons-of-armageddon-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Wolverine: Weapons of Armageddon #2",
+   "data": "2026-03-25",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9277827.jpg?1779972471",
+   "link": "https://leagueofcomicgeeks.com/comic/9277827/wolverine-weapons-of-armageddon-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Wolverine: Weapons of Armageddon #3",
+   "data": "2026-04-29",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6806125.jpg?1781118041",
+   "link": "https://leagueofcomicgeeks.com/comic/6806125/wolverine-weapons-of-armageddon-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Wolverine: Weapons of Armageddon #4",
+   "data": "2026-05-20",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8520441.jpg?1779972653",
+   "link": "https://leagueofcomicgeeks.com/comic/8520441/wolverine-weapons-of-armageddon-4",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "id": "dc_poison-ivy",
+ "nome": "Poison Ivy",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "27",
+   "titulo": "Poison Ivy #27",
+   "data": "2024-11-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6868941.jpg?1745605653",
+   "link": "https://leagueofcomicgeeks.com/comic/6868941/poison-ivy-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Poison Ivy #28",
+   "data": "2024-12-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9249841.jpg?1745605747",
+   "link": "https://leagueofcomicgeeks.com/comic/9249841/poison-ivy-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Poison Ivy #29",
+   "data": "2025-01-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2003359.jpg?1749063321",
+   "link": "https://leagueofcomicgeeks.com/comic/2003359/poison-ivy-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Poison Ivy #30",
+   "data": "2025-02-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8047885.jpg?1762007342",
+   "link": "https://leagueofcomicgeeks.com/comic/8047885/poison-ivy-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Poison Ivy #31",
+   "data": "2025-03-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1655140.jpg?1762151581",
+   "link": "https://leagueofcomicgeeks.com/comic/1655140/poison-ivy-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Poison Ivy #32",
+   "data": "2025-04-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3098725.jpg?1762263479",
+   "link": "https://leagueofcomicgeeks.com/comic/3098725/poison-ivy-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Poison Ivy #33",
+   "data": "2025-05-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5406704.jpg?1762263469",
+   "link": "https://leagueofcomicgeeks.com/comic/5406704/poison-ivy-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Poison Ivy #34",
+   "data": "2025-06-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9851651.jpg?1762263450",
+   "link": "https://leagueofcomicgeeks.com/comic/9851651/poison-ivy-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Poison Ivy #35",
+   "data": "2025-08-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4411936.jpg?1757275577",
+   "link": "https://leagueofcomicgeeks.com/comic/4411936/poison-ivy-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Poison Ivy #36",
+   "data": "2025-09-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3377228.jpg?1762408975",
+   "link": "https://leagueofcomicgeeks.com/comic/3377228/poison-ivy-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Poison Ivy #37",
+   "data": "2025-10-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1089013.jpg?1762498257",
+   "link": "https://leagueofcomicgeeks.com/comic/1089013/poison-ivy-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Poison Ivy #38",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1307891.jpg?1763104724",
+   "link": "https://leagueofcomicgeeks.com/comic/1307891/poison-ivy-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Poison Ivy #39",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2058924.jpg?1764768105",
+   "link": "https://leagueofcomicgeeks.com/comic/2058924/poison-ivy-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Poison Ivy #40",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3118208.jpg?1768061747",
+   "link": "https://leagueofcomicgeeks.com/comic/3118208/poison-ivy-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Poison Ivy #41",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1598076.jpg?1770281390",
+   "link": "https://leagueofcomicgeeks.com/comic/1598076/poison-ivy-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Poison Ivy #42",
+   "data": "2026-03-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6884289.jpg?1772724337",
+   "link": "https://leagueofcomicgeeks.com/comic/6884289/poison-ivy-42",
+   "read_link": ""
+  },
+  {
+   "numero": "43",
+   "titulo": "Poison Ivy #43",
+   "data": "2026-04-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2927893.jpg?1775048151",
+   "link": "https://leagueofcomicgeeks.com/comic/2927893/poison-ivy-43",
+   "read_link": ""
+  },
+  {
+   "numero": "44",
+   "titulo": "Poison Ivy #44",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8454784.jpg?1778170928",
+   "link": "https://leagueofcomicgeeks.com/comic/8454784/poison-ivy-44",
+   "read_link": ""
+  },
+  {
+   "numero": "45",
+   "titulo": "Poison Ivy #45",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8402564.jpg?1780520409",
+   "link": "https://leagueofcomicgeeks.com/comic/8402564/poison-ivy-45",
+   "read_link": ""
+  },
+  {
+   "numero": "46",
+   "titulo": "Poison Ivy #46",
+   "data": "2026-07-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9177647.jpg?1782894890",
+   "link": "https://leagueofcomicgeeks.com/comic/9177647/poison-ivy-46",
+   "read_link": ""
+  },
+  {
+   "numero": "47",
+   "titulo": "Poison Ivy #47",
+   "data": "2026-08-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6991507.jpg?1785631509",
+   "link": "https://leagueofcomicgeeks.com/comic/6991507/poison-ivy-47",
+   "read_link": ""
+  },
+  {
+   "numero": "48",
+   "titulo": "Poison Ivy #48",
+   "data": "2026-09-30",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1426929.jpg?1781896197",
+   "link": "https://leagueofcomicgeeks.com/comic/1426929/poison-ivy-48",
+   "read_link": ""
+  }
+ ]
+}

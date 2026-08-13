@@ -1,0 +1,52 @@
+{
+ "id": "marvel_spider-man-noir",
+ "nome": "Spider-Man Noir",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Spider-Man Noir #1",
+   "data": "2025-10-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7207774.jpg?1770872924",
+   "link": "https://leagueofcomicgeeks.com/comic/7207774/spider-man-noir-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Spider-Man Noir #2",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4408495.jpg?1768551212",
+   "link": "https://leagueofcomicgeeks.com/comic/4408495/spider-man-noir-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Spider-Man Noir #3",
+   "data": "2025-12-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6591504.jpg?1770836645",
+   "link": "https://leagueofcomicgeeks.com/comic/6591504/spider-man-noir-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Spider-Man Noir #4",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9749592.jpg?1770836432",
+   "link": "https://leagueofcomicgeeks.com/comic/9749592/spider-man-noir-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Spider-Man Noir #5",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2672198.jpg?1771179503",
+   "link": "https://leagueofcomicgeeks.com/comic/2672198/spider-man-noir-5",
+   "read_link": ""
+  }
+ ]
+}

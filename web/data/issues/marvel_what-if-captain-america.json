@@ -1,0 +1,16 @@
+{
+ "id": "marvel_what-if-captain-america",
+ "nome": "What If...? Captain America",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "What If...? Captain America #1",
+   "data": "2026-08-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6242060.jpg?1786547683",
+   "link": "https://leagueofcomicgeeks.com/comic/6242060/what-if-captain-america-1",
+   "read_link": ""
+  }
+ ]
+}

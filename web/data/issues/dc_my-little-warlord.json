@@ -1,0 +1,241 @@
+{
+ "id": "dc_my-little-warlord",
+ "nome": "My Little Warlord",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "My Little Warlord #1",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5838595.jpg?1774189071",
+   "link": "https://leagueofcomicgeeks.com/comic/5838595/my-little-warlord-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "My Little Warlord #2",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7078609.jpg?1760429335",
+   "link": "https://leagueofcomicgeeks.com/comic/7078609/my-little-warlord-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "My Little Warlord #3",
+   "data": "2025-07-16",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1954861.jpg?1760429383",
+   "link": "https://leagueofcomicgeeks.com/comic/1954861/my-little-warlord-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "My Little Warlord #4",
+   "data": "2025-07-25",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4625509.jpg?1760429417",
+   "link": "https://leagueofcomicgeeks.com/comic/4625509/my-little-warlord-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "My Little Warlord #5",
+   "data": "2025-08-01",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1062783.jpg?1760429469",
+   "link": "https://leagueofcomicgeeks.com/comic/1062783/my-little-warlord-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "My Little Warlord #6",
+   "data": "2025-08-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1012723.jpg?1760429527",
+   "link": "https://leagueofcomicgeeks.com/comic/1012723/my-little-warlord-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "My Little Warlord #7",
+   "data": "2025-08-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6262484.jpg?1760429564",
+   "link": "https://leagueofcomicgeeks.com/comic/6262484/my-little-warlord-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "My Little Warlord #8",
+   "data": "2025-08-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2804811.jpg?1760429620",
+   "link": "https://leagueofcomicgeeks.com/comic/2804811/my-little-warlord-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "My Little Warlord #9",
+   "data": "2025-08-29",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1220246.jpg?1760429738",
+   "link": "https://leagueofcomicgeeks.com/comic/1220246/my-little-warlord-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "My Little Warlord #10",
+   "data": "2025-09-05",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4240419.jpg?1760429816",
+   "link": "https://leagueofcomicgeeks.com/comic/4240419/my-little-warlord-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "My Little Warlord #11",
+   "data": "2025-09-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8640628.jpg?1760429855",
+   "link": "https://leagueofcomicgeeks.com/comic/8640628/my-little-warlord-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "My Little Warlord #12",
+   "data": "2025-09-19",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8373691.jpg?1760429915",
+   "link": "https://leagueofcomicgeeks.com/comic/8373691/my-little-warlord-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "My Little Warlord #13",
+   "data": "2025-09-26",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1298424.jpg?1774189028",
+   "link": "https://leagueofcomicgeeks.com/comic/1298424/my-little-warlord-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "My Little Warlord #14",
+   "data": "2025-10-15",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5252069.jpg?1760481219",
+   "link": "https://leagueofcomicgeeks.com/comic/5252069/my-little-warlord-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "My Little Warlord #15",
+   "data": "2025-10-29",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8636822.jpg?1761872404",
+   "link": "https://leagueofcomicgeeks.com/comic/8636822/my-little-warlord-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "My Little Warlord #16",
+   "data": "2025-11-12",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7569886.jpg?1772269681",
+   "link": "https://leagueofcomicgeeks.com/comic/7569886/my-little-warlord-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "My Little Warlord #17",
+   "data": "2025-11-26",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7019755.jpg?1772269730",
+   "link": "https://leagueofcomicgeeks.com/comic/7019755/my-little-warlord-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "My Little Warlord #18",
+   "data": "2026-01-14",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9168405.jpg?1768367964",
+   "link": "https://leagueofcomicgeeks.com/comic/9168405/my-little-warlord-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "My Little Warlord #19",
+   "data": "2026-01-28",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6583858.jpg?1769604570",
+   "link": "https://leagueofcomicgeeks.com/comic/6583858/my-little-warlord-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "My Little Warlord #20",
+   "data": "2026-02-11",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8805625.jpg?1770853808",
+   "link": "https://leagueofcomicgeeks.com/comic/8805625/my-little-warlord-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "My Little Warlord #21",
+   "data": "2026-02-26",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3558884.jpg?1772151754",
+   "link": "https://leagueofcomicgeeks.com/comic/3558884/my-little-warlord-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "My Little Warlord #22",
+   "data": "2026-03-18",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7724015.jpg?1773881613",
+   "link": "https://leagueofcomicgeeks.com/comic/7724015/my-little-warlord-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "My Little Warlord #23",
+   "data": "2026-03-27",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3994511.jpg?1774654303",
+   "link": "https://leagueofcomicgeeks.com/comic/3994511/my-little-warlord-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "My Little Warlord #24",
+   "data": "2026-04-08",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3594507.jpg?1775678838",
+   "link": "https://leagueofcomicgeeks.com/comic/3594507/my-little-warlord-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "My Little Warlord #25",
+   "data": "2026-04-22",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3075431.jpg?1776834640",
+   "link": "https://leagueofcomicgeeks.com/comic/3075431/my-little-warlord-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "My Little Warlord #26",
+   "data": "2026-05-06",
+   "preco": "0.00",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1045561.jpg?1778117862",
+   "link": "https://leagueofcomicgeeks.com/comic/1045561/my-little-warlord-26",
+   "read_link": ""
+  }
+ ]
+}

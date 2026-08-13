@@ -1,0 +1,52 @@
+{
+ "id": "dc_barbara-gordon-breakout",
+ "nome": "Barbara Gordon: Breakout",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Barbara Gordon: Breakout #1",
+   "data": "2026-05-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2913460.jpg?1781481575",
+   "link": "https://leagueofcomicgeeks.com/comic/2913460/barbara-gordon-breakout-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Barbara Gordon: Breakout #2",
+   "data": "2026-06-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5245917.jpg?1781456720",
+   "link": "https://leagueofcomicgeeks.com/comic/5245917/barbara-gordon-breakout-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Barbara Gordon: Breakout #3",
+   "data": "2026-07-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8096797.jpg?1783605347",
+   "link": "https://leagueofcomicgeeks.com/comic/8096797/barbara-gordon-breakout-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Barbara Gordon: Breakout #4",
+   "data": "2026-08-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6511012.jpg?1786576173",
+   "link": "https://leagueofcomicgeeks.com/comic/6511012/barbara-gordon-breakout-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Barbara Gordon: Breakout #5",
+   "data": "2026-09-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9655665.jpg?1783449498",
+   "link": "https://leagueofcomicgeeks.com/comic/9655665/barbara-gordon-breakout-5",
+   "read_link": ""
+  }
+ ]
+}

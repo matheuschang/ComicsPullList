@@ -1,0 +1,982 @@
+{
+ "gerado_em": "2026-08-13T03:58:05",
+ "total_edicoes": 2687,
+ "por_mes": [
+  {
+   "mes": "2016-06",
+   "dc": 2,
+   "marvel": 0,
+   "total": 2,
+   "novos": 1
+  },
+  {
+   "mes": "2016-07",
+   "dc": 3,
+   "marvel": 0,
+   "total": 3,
+   "novos": 1
+  },
+  {
+   "mes": "2016-08",
+   "dc": 4,
+   "marvel": 0,
+   "total": 4,
+   "novos": 0
+  },
+  {
+   "mes": "2016-09",
+   "dc": 4,
+   "marvel": 0,
+   "total": 4,
+   "novos": 0
+  },
+  {
+   "mes": "2016-10",
+   "dc": 4,
+   "marvel": 0,
+   "total": 4,
+   "novos": 0
+  },
+  {
+   "mes": "2016-11",
+   "dc": 4,
+   "marvel": 0,
+   "total": 4,
+   "novos": 0
+  },
+  {
+   "mes": "2016-12",
+   "dc": 4,
+   "marvel": 0,
+   "total": 4,
+   "novos": 0
+  },
+  {
+   "mes": "2017-01",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 1
+  },
+  {
+   "mes": "2017-02",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-03",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-04",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-05",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-06",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-07",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-08",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-09",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-10",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-11",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2017-12",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2018-01",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2018-02",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2018-03",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2018-04",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 1
+  },
+  {
+   "mes": "2018-05",
+   "dc": 3,
+   "marvel": 0,
+   "total": 3,
+   "novos": 0
+  },
+  {
+   "mes": "2018-06",
+   "dc": 4,
+   "marvel": 0,
+   "total": 4,
+   "novos": 0
+  },
+  {
+   "mes": "2018-07",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 1
+  },
+  {
+   "mes": "2018-08",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2018-09",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2018-10",
+   "dc": 7,
+   "marvel": 0,
+   "total": 7,
+   "novos": 0
+  },
+  {
+   "mes": "2018-11",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2018-12",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2019-01",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2019-02",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2019-03",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2019-04",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2019-05",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2019-06",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2019-07",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2019-08",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2019-09",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2019-10",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2019-11",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2019-12",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2020-01",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2020-02",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2020-03",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2020-04",
+   "dc": 2,
+   "marvel": 0,
+   "total": 2,
+   "novos": 0
+  },
+  {
+   "mes": "2020-06",
+   "dc": 4,
+   "marvel": 0,
+   "total": 4,
+   "novos": 0
+  },
+  {
+   "mes": "2020-07",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2020-08",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2020-09",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2020-10",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2020-11",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2020-12",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2021-02",
+   "dc": 1,
+   "marvel": 0,
+   "total": 1,
+   "novos": 0
+  },
+  {
+   "mes": "2021-03",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 1
+  },
+  {
+   "mes": "2021-04",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2021-05",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2021-06",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2021-07",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2021-08",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2021-09",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2021-10",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2021-11",
+   "dc": 7,
+   "marvel": 0,
+   "total": 7,
+   "novos": 0
+  },
+  {
+   "mes": "2021-12",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2022-01",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2022-02",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2022-03",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2022-04",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2022-05",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2022-06",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2022-07",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2022-08",
+   "dc": 9,
+   "marvel": 0,
+   "total": 9,
+   "novos": 0
+  },
+  {
+   "mes": "2022-09",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2022-10",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2022-11",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2022-12",
+   "dc": 6,
+   "marvel": 0,
+   "total": 6,
+   "novos": 0
+  },
+  {
+   "mes": "2023-01",
+   "dc": 5,
+   "marvel": 0,
+   "total": 5,
+   "novos": 0
+  },
+  {
+   "mes": "2023-02",
+   "dc": 7,
+   "marvel": 1,
+   "total": 8,
+   "novos": 2
+  },
+  {
+   "mes": "2023-03",
+   "dc": 6,
+   "marvel": 1,
+   "total": 7,
+   "novos": 0
+  },
+  {
+   "mes": "2023-04",
+   "dc": 7,
+   "marvel": 1,
+   "total": 8,
+   "novos": 0
+  },
+  {
+   "mes": "2023-05",
+   "dc": 8,
+   "marvel": 2,
+   "total": 10,
+   "novos": 3
+  },
+  {
+   "mes": "2023-06",
+   "dc": 9,
+   "marvel": 2,
+   "total": 11,
+   "novos": 0
+  },
+  {
+   "mes": "2023-07",
+   "dc": 0,
+   "marvel": 2,
+   "total": 2,
+   "novos": 0
+  },
+  {
+   "mes": "2023-08",
+   "dc": 1,
+   "marvel": 2,
+   "total": 3,
+   "novos": 0
+  },
+  {
+   "mes": "2023-09",
+   "dc": 13,
+   "marvel": 2,
+   "total": 15,
+   "novos": 5
+  },
+  {
+   "mes": "2023-10",
+   "dc": 12,
+   "marvel": 2,
+   "total": 14,
+   "novos": 0
+  },
+  {
+   "mes": "2023-11",
+   "dc": 11,
+   "marvel": 2,
+   "total": 13,
+   "novos": 0
+  },
+  {
+   "mes": "2023-12",
+   "dc": 14,
+   "marvel": 3,
+   "total": 17,
+   "novos": 0
+  },
+  {
+   "mes": "2024-01",
+   "dc": 11,
+   "marvel": 3,
+   "total": 14,
+   "novos": 1
+  },
+  {
+   "mes": "2024-02",
+   "dc": 14,
+   "marvel": 5,
+   "total": 19,
+   "novos": 1
+  },
+  {
+   "mes": "2024-03",
+   "dc": 11,
+   "marvel": 5,
+   "total": 16,
+   "novos": 1
+  },
+  {
+   "mes": "2024-04",
+   "dc": 12,
+   "marvel": 6,
+   "total": 18,
+   "novos": 0
+  },
+  {
+   "mes": "2024-05",
+   "dc": 12,
+   "marvel": 5,
+   "total": 17,
+   "novos": 1
+  },
+  {
+   "mes": "2024-06",
+   "dc": 14,
+   "marvel": 6,
+   "total": 20,
+   "novos": 1
+  },
+  {
+   "mes": "2024-07",
+   "dc": 13,
+   "marvel": 6,
+   "total": 19,
+   "novos": 1
+  },
+  {
+   "mes": "2024-08",
+   "dc": 13,
+   "marvel": 7,
+   "total": 20,
+   "novos": 2
+  },
+  {
+   "mes": "2024-09",
+   "dc": 12,
+   "marvel": 9,
+   "total": 21,
+   "novos": 1
+  },
+  {
+   "mes": "2024-10",
+   "dc": 26,
+   "marvel": 8,
+   "total": 34,
+   "novos": 4
+  },
+  {
+   "mes": "2024-11",
+   "dc": 27,
+   "marvel": 9,
+   "total": 36,
+   "novos": 5
+  },
+  {
+   "mes": "2024-12",
+   "dc": 33,
+   "marvel": 8,
+   "total": 41,
+   "novos": 0
+  },
+  {
+   "mes": "2025-01",
+   "dc": 29,
+   "marvel": 11,
+   "total": 40,
+   "novos": 2
+  },
+  {
+   "mes": "2025-02",
+   "dc": 31,
+   "marvel": 10,
+   "total": 41,
+   "novos": 2
+  },
+  {
+   "mes": "2025-03",
+   "dc": 36,
+   "marvel": 11,
+   "total": 47,
+   "novos": 4
+  },
+  {
+   "mes": "2025-04",
+   "dc": 35,
+   "marvel": 10,
+   "total": 45,
+   "novos": 2
+  },
+  {
+   "mes": "2025-05",
+   "dc": 36,
+   "marvel": 13,
+   "total": 49,
+   "novos": 4
+  },
+  {
+   "mes": "2025-06",
+   "dc": 29,
+   "marvel": 14,
+   "total": 43,
+   "novos": 3
+  },
+  {
+   "mes": "2025-07",
+   "dc": 61,
+   "marvel": 17,
+   "total": 78,
+   "novos": 8
+  },
+  {
+   "mes": "2025-08",
+   "dc": 67,
+   "marvel": 21,
+   "total": 88,
+   "novos": 7
+  },
+  {
+   "mes": "2025-09",
+   "dc": 65,
+   "marvel": 25,
+   "total": 90,
+   "novos": 8
+  },
+  {
+   "mes": "2025-10",
+   "dc": 57,
+   "marvel": 29,
+   "total": 86,
+   "novos": 9
+  },
+  {
+   "mes": "2025-11",
+   "dc": 62,
+   "marvel": 35,
+   "total": 97,
+   "novos": 11
+  },
+  {
+   "mes": "2025-12",
+   "dc": 41,
+   "marvel": 41,
+   "total": 82,
+   "novos": 7
+  },
+  {
+   "mes": "2026-01",
+   "dc": 62,
+   "marvel": 57,
+   "total": 119,
+   "novos": 19
+  },
+  {
+   "mes": "2026-02",
+   "dc": 65,
+   "marvel": 62,
+   "total": 127,
+   "novos": 29
+  },
+  {
+   "mes": "2026-03",
+   "dc": 50,
+   "marvel": 62,
+   "total": 112,
+   "novos": 18
+  },
+  {
+   "mes": "2026-04",
+   "dc": 62,
+   "marvel": 65,
+   "total": 127,
+   "novos": 29
+  },
+  {
+   "mes": "2026-05",
+   "dc": 58,
+   "marvel": 62,
+   "total": 120,
+   "novos": 25
+  },
+  {
+   "mes": "2026-06",
+   "dc": 63,
+   "marvel": 63,
+   "total": 126,
+   "novos": 25
+  },
+  {
+   "mes": "2026-07",
+   "dc": 59,
+   "marvel": 64,
+   "total": 123,
+   "novos": 32
+  },
+  {
+   "mes": "2026-08",
+   "dc": 51,
+   "marvel": 59,
+   "total": 110,
+   "novos": 20
+  },
+  {
+   "mes": "2026-09",
+   "dc": 65,
+   "marvel": 70,
+   "total": 135,
+   "novos": 39
+  }
+ ],
+ "top_series": [
+  {
+   "id": "dc_batman",
+   "nome": "Batman",
+   "editora": "dc",
+   "edicoes": 163
+  },
+  {
+   "id": "dc_action-comics",
+   "nome": "Action Comics",
+   "editora": "dc",
+   "edicoes": 146
+  },
+  {
+   "id": "dc_nightwing",
+   "nome": "Nightwing",
+   "editora": "dc",
+   "edicoes": 142
+  },
+  {
+   "id": "dc_catwoman",
+   "nome": "Catwoman",
+   "editora": "dc",
+   "edicoes": 91
+  },
+  {
+   "id": "dc_harley-quinn",
+   "nome": "Harley Quinn",
+   "editora": "dc",
+   "edicoes": 66
+  },
+  {
+   "id": "dc_harley-quinn-in-paradise",
+   "nome": "Harley Quinn in Paradise",
+   "editora": "dc",
+   "edicoes": 52
+  },
+  {
+   "id": "dc_nothing-butt-nightwing",
+   "nome": "Nothing Butt Nightwing",
+   "editora": "dc",
+   "edicoes": 52
+  },
+  {
+   "id": "dc_mad",
+   "nome": "Mad",
+   "editora": "dc",
+   "edicoes": 51
+  },
+  {
+   "id": "dc_superman",
+   "nome": "Superman",
+   "editora": "dc",
+   "edicoes": 42
+  },
+  {
+   "id": "marvel_miles-morales-spider-man",
+   "nome": "Miles Morales: Spider-Man",
+   "editora": "marvel",
+   "edicoes": 42
+  },
+  {
+   "id": "dc_green-lantern",
+   "nome": "Green Lantern",
+   "editora": "dc",
+   "edicoes": 39
+  },
+  {
+   "id": "dc_flash",
+   "nome": "The Flash",
+   "editora": "dc",
+   "edicoes": 37
+  },
+  {
+   "id": "dc_wonder-woman",
+   "nome": "Wonder Woman",
+   "editora": "dc",
+   "edicoes": 37
+  },
+  {
+   "id": "marvel_avengers",
+   "nome": "The Avengers",
+   "editora": "marvel",
+   "edicoes": 36
+  },
+  {
+   "id": "marvel_uncanny-x-men",
+   "nome": "Uncanny X-Men",
+   "editora": "marvel",
+   "edicoes": 36
+  },
+  {
+   "id": "dc_titans",
+   "nome": "Titans",
+   "editora": "dc",
+   "edicoes": 32
+  },
+  {
+   "id": "dc_jon-kent-this-internship-is-my-kryptonite",
+   "nome": "Jon Kent: This Internship Is My Kryptonite",
+   "editora": "dc",
+   "edicoes": 31
+  },
+  {
+   "id": "dc_batman-and-robin",
+   "nome": "Batman and Robin",
+   "editora": "dc",
+   "edicoes": 30
+  },
+  {
+   "id": "dc_detective-comics",
+   "nome": "Detective Comics",
+   "editora": "dc",
+   "edicoes": 29
+  },
+  {
+   "id": "marvel_wolverine",
+   "nome": "Wolverine",
+   "editora": "marvel",
+   "edicoes": 28
+  }
+ ]
+}

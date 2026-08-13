@@ -1,0 +1,34 @@
+{
+ "id": "dc_dark-knights-of-steel-ii",
+ "nome": "Dark Knights of Steel II",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Dark Knights of Steel II #1",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5894202.jpg?1785265732",
+   "link": "https://leagueofcomicgeeks.com/comic/5894202/dark-knights-of-steel-ii-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Dark Knights of Steel II #2",
+   "data": "2026-08-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1420062.jpg?1785195564",
+   "link": "https://leagueofcomicgeeks.com/comic/1420062/dark-knights-of-steel-ii-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Dark Knights of Steel II #3",
+   "data": "2026-09-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5430723.jpg?1781841807",
+   "link": "https://leagueofcomicgeeks.com/comic/5430723/dark-knights-of-steel-ii-3",
+   "read_link": ""
+  }
+ ]
+}

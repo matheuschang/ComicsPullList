@@ -1,0 +1,277 @@
+{
+ "id": "dc_batman-and-robin",
+ "nome": "Batman and Robin",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman and Robin #1",
+   "data": "2023-09-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3880329.jpg?1739200405",
+   "link": "https://leagueofcomicgeeks.com/comic/3880329/batman-and-robin-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batman and Robin #2",
+   "data": "2023-10-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4462856.jpg?1739054294",
+   "link": "https://leagueofcomicgeeks.com/comic/4462856/batman-and-robin-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batman and Robin #3",
+   "data": "2023-11-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2071632.jpg?1738985818",
+   "link": "https://leagueofcomicgeeks.com/comic/2071632/batman-and-robin-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batman and Robin #4",
+   "data": "2023-12-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3390087.jpg?1738762557",
+   "link": "https://leagueofcomicgeeks.com/comic/3390087/batman-and-robin-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Batman and Robin #5",
+   "data": "2024-01-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7854890.jpg?1738534998",
+   "link": "https://leagueofcomicgeeks.com/comic/7854890/batman-and-robin-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Batman and Robin #6",
+   "data": "2024-02-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3828739.jpg?1738204428",
+   "link": "https://leagueofcomicgeeks.com/comic/3828739/batman-and-robin-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Batman and Robin #7",
+   "data": "2024-03-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9330675.jpg?1737946297",
+   "link": "https://leagueofcomicgeeks.com/comic/9330675/batman-and-robin-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Batman and Robin #8",
+   "data": "2024-04-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2964814.jpg?1737865081",
+   "link": "https://leagueofcomicgeeks.com/comic/2964814/batman-and-robin-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Batman and Robin #9",
+   "data": "2024-05-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5005861.jpg?1726346585",
+   "link": "https://leagueofcomicgeeks.com/comic/5005861/batman-and-robin-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Batman and Robin #10",
+   "data": "2024-06-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9400540.jpg?1726346644",
+   "link": "https://leagueofcomicgeeks.com/comic/9400540/batman-and-robin-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Batman and Robin #11",
+   "data": "2024-07-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7941818.jpg?1738250218",
+   "link": "https://leagueofcomicgeeks.com/comic/7941818/batman-and-robin-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Batman and Robin #12",
+   "data": "2024-08-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9002413.jpg?1738250244",
+   "link": "https://leagueofcomicgeeks.com/comic/9002413/batman-and-robin-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Batman and Robin #13",
+   "data": "2024-09-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5041757.jpg?1770948365",
+   "link": "https://leagueofcomicgeeks.com/comic/5041757/batman-and-robin-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Batman and Robin #14",
+   "data": "2024-10-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4740554.jpg?1755792886",
+   "link": "https://leagueofcomicgeeks.com/comic/4740554/batman-and-robin-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Batman and Robin #15",
+   "data": "2024-11-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7171070.jpg?1755792919",
+   "link": "https://leagueofcomicgeeks.com/comic/7171070/batman-and-robin-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Batman and Robin #16",
+   "data": "2024-12-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7458916.jpg?1755793025",
+   "link": "https://leagueofcomicgeeks.com/comic/7458916/batman-and-robin-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Batman and Robin #17",
+   "data": "2025-01-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2758164.jpg?1755793088",
+   "link": "https://leagueofcomicgeeks.com/comic/2758164/batman-and-robin-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Batman and Robin #18",
+   "data": "2025-02-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8137440.jpg?1762394814",
+   "link": "https://leagueofcomicgeeks.com/comic/8137440/batman-and-robin-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Batman and Robin #19",
+   "data": "2025-03-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1555583.jpg?1762394085",
+   "link": "https://leagueofcomicgeeks.com/comic/1555583/batman-and-robin-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Batman and Robin #20",
+   "data": "2025-04-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8816100.jpg?1755793843",
+   "link": "https://leagueofcomicgeeks.com/comic/8816100/batman-and-robin-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Batman and Robin #21",
+   "data": "2025-05-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5765169.jpg?1762980427",
+   "link": "https://leagueofcomicgeeks.com/comic/5765169/batman-and-robin-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Batman and Robin #22",
+   "data": "2025-06-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2838031.jpg?1773461306",
+   "link": "https://leagueofcomicgeeks.com/comic/2838031/batman-and-robin-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Batman and Robin #23",
+   "data": "2025-07-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9675729.jpg?1762980613",
+   "link": "https://leagueofcomicgeeks.com/comic/9675729/batman-and-robin-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Batman and Robin #24",
+   "data": "2025-08-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2806228.jpg?1762980769",
+   "link": "https://leagueofcomicgeeks.com/comic/2806228/batman-and-robin-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Batman and Robin #25",
+   "data": "2025-09-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1400842.jpg?1762979330",
+   "link": "https://leagueofcomicgeeks.com/comic/1400842/batman-and-robin-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Batman and Robin #26",
+   "data": "2025-10-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8478214.jpg?1768407284",
+   "link": "https://leagueofcomicgeeks.com/comic/8478214/batman-and-robin-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Batman and Robin #27",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6330361.jpg?1768407138",
+   "link": "https://leagueofcomicgeeks.com/comic/6330361/batman-and-robin-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Batman and Robin #28",
+   "data": "2025-12-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5396448.jpg?1772810867",
+   "link": "https://leagueofcomicgeeks.com/comic/5396448/batman-and-robin-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Batman and Robin #29",
+   "data": "2026-01-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7465739.jpg?1768406885",
+   "link": "https://leagueofcomicgeeks.com/comic/7465739/batman-and-robin-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Batman and Robin #30",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3846995.jpg?1779387669",
+   "link": "https://leagueofcomicgeeks.com/comic/3846995/batman-and-robin-30",
+   "read_link": ""
+  }
+ ]
+}

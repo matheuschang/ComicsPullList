@@ -1,0 +1,16 @@
+{
+ "id": "marvel_amazing-venom",
+ "nome": "The Amazing Venom",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Amazing Venom #1",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9384410.jpg?1785595629",
+   "link": "https://leagueofcomicgeeks.com/comic/9384410/the-amazing-venom-1",
+   "read_link": ""
+  }
+ ]
+}

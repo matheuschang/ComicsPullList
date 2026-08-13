@@ -1,0 +1,61 @@
+{
+ "id": "dc_c-o-r-t-children-of-the-round-table",
+ "nome": "C.O.R.T.: Children of the Round Table",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "C.O.R.T.: Children of the Round Table #1",
+   "data": "2025-09-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2075297.jpg?1774593674",
+   "link": "https://leagueofcomicgeeks.com/comic/2075297/cort-children-of-the-round-table-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "C.O.R.T.: Children of the Round Table #2",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3892142.jpg?1760741541",
+   "link": "https://leagueofcomicgeeks.com/comic/3892142/cort-children-of-the-round-table-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "C.O.R.T.: Children of the Round Table #3",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2404054.jpg?1763528914",
+   "link": "https://leagueofcomicgeeks.com/comic/2404054/cort-children-of-the-round-table-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "C.O.R.T.: Children of the Round Table #4",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2449606.jpg?1765902586",
+   "link": "https://leagueofcomicgeeks.com/comic/2449606/cort-children-of-the-round-table-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "C.O.R.T.: Children of the Round Table #5",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9940922.jpg?1768914474",
+   "link": "https://leagueofcomicgeeks.com/comic/9940922/cort-children-of-the-round-table-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "C.O.R.T.: Children of the Round Table #6",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8118724.jpg?1771296692",
+   "link": "https://leagueofcomicgeeks.com/comic/8118724/cort-children-of-the-round-table-6",
+   "read_link": ""
+  }
+ ]
+}

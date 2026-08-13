@@ -1,0 +1,34 @@
+{
+ "id": "dc_absolute-catwoman",
+ "nome": "Absolute Catwoman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Absolute Catwoman #1",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5802211.jpg?1781166654",
+   "link": "https://leagueofcomicgeeks.com/comic/5802211/absolute-catwoman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Absolute Catwoman #2",
+   "data": "2026-07-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2140784.jpg?1785280553",
+   "link": "https://leagueofcomicgeeks.com/comic/2140784/absolute-catwoman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Absolute Catwoman #3",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3606895.jpg?1784771398",
+   "link": "https://leagueofcomicgeeks.com/comic/3606895/absolute-catwoman-3",
+   "read_link": ""
+  }
+ ]
+}

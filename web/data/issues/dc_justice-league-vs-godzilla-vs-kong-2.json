@@ -1,0 +1,70 @@
+{
+ "id": "dc_justice-league-vs-godzilla-vs-kong-2",
+ "nome": "Justice League vs. Godzilla vs. Kong 2",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Justice League vs. Godzilla vs. Kong 2 #1",
+   "data": "2025-06-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6090345.jpg?1761334751",
+   "link": "https://leagueofcomicgeeks.com/comic/6090345/justice-league-vs-godzilla-vs-kong-2-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Justice League vs. Godzilla vs. Kong 2 #2",
+   "data": "2025-07-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9058771.jpg?1761334751",
+   "link": "https://leagueofcomicgeeks.com/comic/9058771/justice-league-vs-godzilla-vs-kong-2-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Justice League vs. Godzilla vs. Kong 2 #3",
+   "data": "2025-08-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2593186.jpg?1765347810",
+   "link": "https://leagueofcomicgeeks.com/comic/2593186/justice-league-vs-godzilla-vs-kong-2-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Justice League vs. Godzilla vs. Kong 2 #4",
+   "data": "2025-09-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2985475.jpg?1761334751",
+   "link": "https://leagueofcomicgeeks.com/comic/2985475/justice-league-vs-godzilla-vs-kong-2-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Justice League vs. Godzilla vs. Kong 2 #5",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2552538.jpg?1770080338",
+   "link": "https://leagueofcomicgeeks.com/comic/2552538/justice-league-vs-godzilla-vs-kong-2-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Justice League vs. Godzilla vs. Kong 2 #6",
+   "data": "2025-12-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1047828.jpg?1767061636",
+   "link": "https://leagueofcomicgeeks.com/comic/1047828/justice-league-vs-godzilla-vs-kong-2-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Justice League vs. Godzilla vs. Kong 2 #7",
+   "data": "2026-02-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5425338.jpg?1772401607",
+   "link": "https://leagueofcomicgeeks.com/comic/5425338/justice-league-vs-godzilla-vs-kong-2-7",
+   "read_link": ""
+  }
+ ]
+}

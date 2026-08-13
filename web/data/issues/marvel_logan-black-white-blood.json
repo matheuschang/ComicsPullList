@@ -1,0 +1,43 @@
+{
+ "id": "marvel_logan-black-white-blood",
+ "nome": "Logan: Black, White & Blood",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Logan: Black, White & Blood #1",
+   "data": "2026-01-14",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8232860.jpg?1769396353",
+   "link": "https://leagueofcomicgeeks.com/comic/8232860/logan-black-white-blood-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Logan: Black, White & Blood #2",
+   "data": "2026-02-04",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9272544.jpg?1770326707",
+   "link": "https://leagueofcomicgeeks.com/comic/9272544/logan-black-white-blood-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Logan: Black, White & Blood #3",
+   "data": "2026-03-11",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7565261.jpg?1779890109",
+   "link": "https://leagueofcomicgeeks.com/comic/7565261/logan-black-white-blood-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Logan: Black, White & Blood #4",
+   "data": "2026-04-01",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1169675.jpg?1775409848",
+   "link": "https://leagueofcomicgeeks.com/comic/1169675/logan-black-white-blood-4",
+   "read_link": ""
+  }
+ ]
+}

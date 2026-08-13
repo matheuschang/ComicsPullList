@@ -1,0 +1,16 @@
+{
+ "id": "marvel_luna-snow-world-tour",
+ "nome": "Luna Snow: World Tour",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Luna Snow: World Tour #1",
+   "data": "2026-01-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6163296.jpg?1769401912",
+   "link": "https://leagueofcomicgeeks.com/comic/6163296/luna-snow-world-tour-1",
+   "read_link": ""
+  }
+ ]
+}

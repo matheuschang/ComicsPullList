@@ -1,0 +1,16 @@
+{
+ "id": "dc_superman-the-stranger",
+ "nome": "Superman: The Stranger",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Superman: The Stranger #1",
+   "data": "2026-09-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4301596.jpg?1786049511",
+   "link": "https://leagueofcomicgeeks.com/comic/4301596/superman-the-stranger-1",
+   "read_link": ""
+  }
+ ]
+}

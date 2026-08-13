@@ -1,0 +1,385 @@
+{
+ "id": "dc_superman",
+ "nome": "Superman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Superman #1",
+   "data": "2023-02-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6426009.jpg?1783611674",
+   "link": "https://leagueofcomicgeeks.com/comic/6426009/superman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Superman #2",
+   "data": "2023-03-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1366438.jpg?1783612408",
+   "link": "https://leagueofcomicgeeks.com/comic/1366438/superman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Superman #3",
+   "data": "2023-04-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4522360.jpg?1783612428",
+   "link": "https://leagueofcomicgeeks.com/comic/4522360/superman-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Superman #4",
+   "data": "2023-05-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1815775.jpg?1781878461",
+   "link": "https://leagueofcomicgeeks.com/comic/1815775/superman-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Superman #5",
+   "data": "2023-06-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1169738.jpg?1781878477",
+   "link": "https://leagueofcomicgeeks.com/comic/1169738/superman-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Superman #6",
+   "data": "2023-09-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5214551.jpg?1781878502",
+   "link": "https://leagueofcomicgeeks.com/comic/5214551/superman-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Superman #7",
+   "data": "2023-10-17",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3423087.jpg?1781878522",
+   "link": "https://leagueofcomicgeeks.com/comic/3423087/superman-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Superman #8",
+   "data": "2023-11-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5360646.jpg?1781878546",
+   "link": "https://leagueofcomicgeeks.com/comic/5360646/superman-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Superman #9",
+   "data": "2023-12-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9052981.jpg?1781878575",
+   "link": "https://leagueofcomicgeeks.com/comic/9052981/superman-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Superman #10",
+   "data": "2024-01-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5252537.jpg?1771607234",
+   "link": "https://leagueofcomicgeeks.com/comic/5252537/superman-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Superman #11",
+   "data": "2024-02-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1684920.jpg?1773367918",
+   "link": "https://leagueofcomicgeeks.com/comic/1684920/superman-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Superman #12",
+   "data": "2024-03-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3354845.jpg?1771607234",
+   "link": "https://leagueofcomicgeeks.com/comic/3354845/superman-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Superman #13",
+   "data": "2024-04-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2983129.jpg?1779400445",
+   "link": "https://leagueofcomicgeeks.com/comic/2983129/superman-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Superman #14",
+   "data": "2024-05-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3954214.jpg?1783871838",
+   "link": "https://leagueofcomicgeeks.com/comic/3954214/superman-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Superman #15",
+   "data": "2024-06-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4304058.jpg?1781878633",
+   "link": "https://leagueofcomicgeeks.com/comic/4304058/superman-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Superman #16",
+   "data": "2024-07-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3980581.jpg?1781878656",
+   "link": "https://leagueofcomicgeeks.com/comic/3980581/superman-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Superman #17",
+   "data": "2024-08-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7644096.jpg?1781878677",
+   "link": "https://leagueofcomicgeeks.com/comic/7644096/superman-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Superman #18",
+   "data": "2024-09-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2693553.jpg?1781980616",
+   "link": "https://leagueofcomicgeeks.com/comic/2693553/superman-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Superman #19",
+   "data": "2024-10-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1255844.jpg?1783872209",
+   "link": "https://leagueofcomicgeeks.com/comic/1255844/superman-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Superman #20",
+   "data": "2024-11-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3804501.jpg?1782476287",
+   "link": "https://leagueofcomicgeeks.com/comic/3804501/superman-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Superman #21",
+   "data": "2024-12-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7841116.jpg?1783872437",
+   "link": "https://leagueofcomicgeeks.com/comic/7841116/superman-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Superman #22",
+   "data": "2025-01-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5103914.jpg?1781878772",
+   "link": "https://leagueofcomicgeeks.com/comic/5103914/superman-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Superman #23",
+   "data": "2025-02-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7245241.jpg?1778863230",
+   "link": "https://leagueofcomicgeeks.com/comic/7245241/superman-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Superman #24",
+   "data": "2025-03-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5338587.jpg?1771607235",
+   "link": "https://leagueofcomicgeeks.com/comic/5338587/superman-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Superman #25",
+   "data": "2025-04-23",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8205110.jpg?1780190566",
+   "link": "https://leagueofcomicgeeks.com/comic/8205110/superman-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Superman #26",
+   "data": "2025-05-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2531582.jpg?1781878797",
+   "link": "https://leagueofcomicgeeks.com/comic/2531582/superman-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Superman #27",
+   "data": "2025-06-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3917715.jpg?1781878814",
+   "link": "https://leagueofcomicgeeks.com/comic/3917715/superman-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Superman #28",
+   "data": "2025-07-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9501297.jpg?1785868209",
+   "link": "https://leagueofcomicgeeks.com/comic/9501297/superman-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Superman #29",
+   "data": "2025-08-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6521807.jpg?1782778832",
+   "link": "https://leagueofcomicgeeks.com/comic/6521807/superman-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Superman #30",
+   "data": "2025-09-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8915695.jpg?1785821453",
+   "link": "https://leagueofcomicgeeks.com/comic/8915695/superman-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Superman #31",
+   "data": "2025-10-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2150831.jpg?1784330476",
+   "link": "https://leagueofcomicgeeks.com/comic/2150831/superman-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Superman #32",
+   "data": "2025-11-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7168553.jpg?1781780274",
+   "link": "https://leagueofcomicgeeks.com/comic/7168553/superman-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "Superman #33",
+   "data": "2025-12-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4661462.jpg?1784330390",
+   "link": "https://leagueofcomicgeeks.com/comic/4661462/superman-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "Superman #34",
+   "data": "2026-01-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1304248.jpg?1784330429",
+   "link": "https://leagueofcomicgeeks.com/comic/1304248/superman-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "Superman #35",
+   "data": "2026-02-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8508303.jpg?1781765571",
+   "link": "https://leagueofcomicgeeks.com/comic/8508303/superman-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "Superman #36",
+   "data": "2026-03-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6321709.jpg?1785691739",
+   "link": "https://leagueofcomicgeeks.com/comic/6321709/superman-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "Superman #37",
+   "data": "2026-04-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1584101.jpg?1781965558",
+   "link": "https://leagueofcomicgeeks.com/comic/1584101/superman-37",
+   "read_link": ""
+  },
+  {
+   "numero": "38",
+   "titulo": "Superman #38",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7203519.jpg?1782322838",
+   "link": "https://leagueofcomicgeeks.com/comic/7203519/superman-38",
+   "read_link": ""
+  },
+  {
+   "numero": "39",
+   "titulo": "Superman #39",
+   "data": "2026-06-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3555252.jpg?1784675465",
+   "link": "https://leagueofcomicgeeks.com/comic/3555252/superman-39",
+   "read_link": ""
+  },
+  {
+   "numero": "40",
+   "titulo": "Superman #40",
+   "data": "2026-07-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6084586.jpg?1785968594",
+   "link": "https://leagueofcomicgeeks.com/comic/6084586/superman-40",
+   "read_link": ""
+  },
+  {
+   "numero": "41",
+   "titulo": "Superman #41",
+   "data": "2026-08-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7506049.jpg?1785446230",
+   "link": "https://leagueofcomicgeeks.com/comic/7506049/superman-41",
+   "read_link": ""
+  },
+  {
+   "numero": "42",
+   "titulo": "Superman #42",
+   "data": "2026-09-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2071458.jpg?1786535786",
+   "link": "https://leagueofcomicgeeks.com/comic/2071458/superman-42",
+   "read_link": ""
+  }
+ ]
+}

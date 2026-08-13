@@ -1,0 +1,43 @@
+{
+ "id": "dc_dc-x-sonic-the-hedgehog-the-metal-legion",
+ "nome": "DC x Sonic the Hedgehog: The Metal Legion",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "DC x Sonic the Hedgehog: The Metal Legion #1",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3575882.jpg?1785430595",
+   "link": "https://leagueofcomicgeeks.com/comic/3575882/dc-x-sonic-the-hedgehog-the-metal-legion-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "DC x Sonic the Hedgehog: The Metal Legion #2",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2059712.jpg?1785430803",
+   "link": "https://leagueofcomicgeeks.com/comic/2059712/dc-x-sonic-the-hedgehog-the-metal-legion-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "DC x Sonic the Hedgehog: The Metal Legion #3",
+   "data": "2026-07-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1457358.jpg?1786208252",
+   "link": "https://leagueofcomicgeeks.com/comic/1457358/dc-x-sonic-the-hedgehog-the-metal-legion-3",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "DC x Sonic the Hedgehog: The Metal Legion #5",
+   "data": "2026-09-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6973953.jpg?1785596447",
+   "link": "https://leagueofcomicgeeks.com/comic/6973953/dc-x-sonic-the-hedgehog-the-metal-legion-5",
+   "read_link": ""
+  }
+ ]
+}

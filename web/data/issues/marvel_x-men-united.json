@@ -1,0 +1,70 @@
+{
+ "id": "marvel_x-men-united",
+ "nome": "X-Men United",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "X-Men United #1",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6897059.jpg?1782892917",
+   "link": "https://leagueofcomicgeeks.com/comic/6897059/x-men-united-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "X-Men United #2",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3854969.jpg?1782892939",
+   "link": "https://leagueofcomicgeeks.com/comic/3854969/x-men-united-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "X-Men United #3",
+   "data": "2026-05-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4292803.jpg?1781826158",
+   "link": "https://leagueofcomicgeeks.com/comic/4292803/x-men-united-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "X-Men United #4",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4505253.jpg?1782136942",
+   "link": "https://leagueofcomicgeeks.com/comic/4505253/x-men-united-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "X-Men United #5",
+   "data": "2026-07-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4397722.jpg?1783037276",
+   "link": "https://leagueofcomicgeeks.com/comic/4397722/x-men-united-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "X-Men United #6",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9512666.jpg?1786577914",
+   "link": "https://leagueofcomicgeeks.com/comic/9512666/x-men-united-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "X-Men United #7",
+   "data": "2026-09-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3507038.jpg?1786481639",
+   "link": "https://leagueofcomicgeeks.com/comic/3507038/x-men-united-7",
+   "read_link": ""
+  }
+ ]
+}

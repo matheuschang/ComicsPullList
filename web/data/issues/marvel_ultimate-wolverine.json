@@ -1,0 +1,151 @@
+{
+ "id": "marvel_ultimate-wolverine",
+ "nome": "Ultimate Wolverine",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Ultimate Wolverine #1",
+   "data": "2025-01-15",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9033541.jpg?1756965952",
+   "link": "https://leagueofcomicgeeks.com/comic/9033541/ultimate-wolverine-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Ultimate Wolverine #2",
+   "data": "2025-02-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7075911.jpg?1775919577",
+   "link": "https://leagueofcomicgeeks.com/comic/7075911/ultimate-wolverine-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Ultimate Wolverine #3",
+   "data": "2025-03-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9677425.jpg?1775919597",
+   "link": "https://leagueofcomicgeeks.com/comic/9677425/ultimate-wolverine-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Ultimate Wolverine #4",
+   "data": "2025-04-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5071072.jpg?1775919608",
+   "link": "https://leagueofcomicgeeks.com/comic/5071072/ultimate-wolverine-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Ultimate Wolverine #5",
+   "data": "2025-05-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7539372.jpg?1776092910",
+   "link": "https://leagueofcomicgeeks.com/comic/7539372/ultimate-wolverine-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Ultimate Wolverine #6",
+   "data": "2025-06-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1648668.jpg?1775919625",
+   "link": "https://leagueofcomicgeeks.com/comic/1648668/ultimate-wolverine-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Ultimate Wolverine #7",
+   "data": "2025-07-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5941577.jpg?1771301230",
+   "link": "https://leagueofcomicgeeks.com/comic/5941577/ultimate-wolverine-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Ultimate Wolverine #8",
+   "data": "2025-08-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8578684.jpg?1757454431",
+   "link": "https://leagueofcomicgeeks.com/comic/8578684/ultimate-wolverine-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Ultimate Wolverine #9",
+   "data": "2025-09-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1554831.jpg?1765391035",
+   "link": "https://leagueofcomicgeeks.com/comic/1554831/ultimate-wolverine-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Ultimate Wolverine #10",
+   "data": "2025-10-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3873626.jpg?1762948248",
+   "link": "https://leagueofcomicgeeks.com/comic/3873626/ultimate-wolverine-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Ultimate Wolverine #11",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7826578.jpg?1763567878",
+   "link": "https://leagueofcomicgeeks.com/comic/7826578/ultimate-wolverine-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Ultimate Wolverine #12",
+   "data": "2025-12-10",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8099026.jpg?1765471485",
+   "link": "https://leagueofcomicgeeks.com/comic/8099026/ultimate-wolverine-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Ultimate Wolverine #13",
+   "data": "2026-01-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4558663.jpg?1773863043",
+   "link": "https://leagueofcomicgeeks.com/comic/4558663/ultimate-wolverine-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Ultimate Wolverine #14",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2137386.jpg?1773863062",
+   "link": "https://leagueofcomicgeeks.com/comic/2137386/ultimate-wolverine-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Ultimate Wolverine #15",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8917394.jpg?1779987554",
+   "link": "https://leagueofcomicgeeks.com/comic/8917394/ultimate-wolverine-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Ultimate Wolverine #16",
+   "data": "2026-04-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1122606.jpg?1779987386",
+   "link": "https://leagueofcomicgeeks.com/comic/1122606/ultimate-wolverine-16",
+   "read_link": ""
+  }
+ ]
+}

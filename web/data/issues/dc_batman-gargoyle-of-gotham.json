@@ -1,0 +1,43 @@
+{
+ "id": "dc_batman-gargoyle-of-gotham",
+ "nome": "Batman: Gargoyle of Gotham",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batman: Gargoyle of Gotham #1",
+   "data": "2023-09-12",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3608676.jpg?1735252980",
+   "link": "https://leagueofcomicgeeks.com/comic/3608676/batman-gargoyle-of-gotham-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batman: Gargoyle of Gotham #2",
+   "data": "2023-12-12",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9936467.jpg?1781110575",
+   "link": "https://leagueofcomicgeeks.com/comic/9936467/batman-gargoyle-of-gotham-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batman: Gargoyle of Gotham #3",
+   "data": "2024-12-26",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1129240.jpg?1781110699",
+   "link": "https://leagueofcomicgeeks.com/comic/1129240/batman-gargoyle-of-gotham-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batman: Gargoyle of Gotham #4",
+   "data": "2026-06-10",
+   "preco": "6.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3052889.jpg?1786547868",
+   "link": "https://leagueofcomicgeeks.com/comic/3052889/batman-gargoyle-of-gotham-4",
+   "read_link": ""
+  }
+ ]
+}

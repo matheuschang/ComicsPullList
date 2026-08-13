@@ -1,0 +1,52 @@
+{
+ "id": "marvel_spider-man-94",
+ "nome": "Spider-Man '94",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Spider-Man '94 #1",
+   "data": "2025-09-03",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1299559.jpg?1764619145",
+   "link": "https://leagueofcomicgeeks.com/comic/1299559/spider-man-94-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Spider-Man '94 #2",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8303739.jpg?1764619158",
+   "link": "https://leagueofcomicgeeks.com/comic/8303739/spider-man-94-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Spider-Man '94 #3",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5380166.jpg?1764619172",
+   "link": "https://leagueofcomicgeeks.com/comic/5380166/spider-man-94-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Spider-Man '94 #4",
+   "data": "2025-12-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7614484.jpg?1767372096",
+   "link": "https://leagueofcomicgeeks.com/comic/7614484/spider-man-94-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Spider-Man '94 #5",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8216333.jpg?1785910274",
+   "link": "https://leagueofcomicgeeks.com/comic/8216333/spider-man-94-5",
+   "read_link": ""
+  }
+ ]
+}

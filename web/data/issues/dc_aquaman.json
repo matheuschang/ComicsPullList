@@ -1,0 +1,133 @@
+{
+ "id": "dc_aquaman",
+ "nome": "Aquaman",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Aquaman #1",
+   "data": "2025-01-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9710582.jpg?1785188639",
+   "link": "https://leagueofcomicgeeks.com/comic/9710582/aquaman-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Aquaman #2",
+   "data": "2025-02-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2100234.jpg?1781780635",
+   "link": "https://leagueofcomicgeeks.com/comic/2100234/aquaman-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Aquaman #3",
+   "data": "2025-03-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9012036.jpg?1785204551",
+   "link": "https://leagueofcomicgeeks.com/comic/9012036/aquaman-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Aquaman #4",
+   "data": "2025-04-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9693854.jpg?1781780614",
+   "link": "https://leagueofcomicgeeks.com/comic/9693854/aquaman-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Aquaman #5",
+   "data": "2025-05-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7672090.jpg?1781780608",
+   "link": "https://leagueofcomicgeeks.com/comic/7672090/aquaman-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Aquaman #6",
+   "data": "2025-06-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8175942.jpg?1781780560",
+   "link": "https://leagueofcomicgeeks.com/comic/8175942/aquaman-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Aquaman #7",
+   "data": "2025-07-09",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5650698.jpg?1771576082",
+   "link": "https://leagueofcomicgeeks.com/comic/5650698/aquaman-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Aquaman #8",
+   "data": "2025-08-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2644663.jpg?1771576082",
+   "link": "https://leagueofcomicgeeks.com/comic/2644663/aquaman-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Aquaman #9",
+   "data": "2025-09-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7701555.jpg?1781780544",
+   "link": "https://leagueofcomicgeeks.com/comic/7701555/aquaman-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Aquaman #10",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4190539.jpg?1771576082",
+   "link": "https://leagueofcomicgeeks.com/comic/4190539/aquaman-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Aquaman #11",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6166734.jpg?1771576082",
+   "link": "https://leagueofcomicgeeks.com/comic/6166734/aquaman-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Aquaman #12",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9341371.jpg?1781780223",
+   "link": "https://leagueofcomicgeeks.com/comic/9341371/aquaman-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Aquaman #13",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2655215.jpg?1781780537",
+   "link": "https://leagueofcomicgeeks.com/comic/2655215/aquaman-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Aquaman #14",
+   "data": "2026-02-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8791244.jpg?1779387691",
+   "link": "https://leagueofcomicgeeks.com/comic/8791244/aquaman-14",
+   "read_link": ""
+  }
+ ]
+}

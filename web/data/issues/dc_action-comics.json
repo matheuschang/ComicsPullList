@@ -1,0 +1,1321 @@
+{
+ "id": "dc_action-comics",
+ "nome": "Action Comics",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "957",
+   "titulo": "Action Comics #957",
+   "data": "2016-06-08",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8169388.jpg?1781402062",
+   "link": "https://leagueofcomicgeeks.com/comic/8169388/action-comics-957",
+   "read_link": ""
+  },
+  {
+   "numero": "958",
+   "titulo": "Action Comics #958",
+   "data": "2016-06-22",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6961927.jpg?1781402089",
+   "link": "https://leagueofcomicgeeks.com/comic/6961927/action-comics-958",
+   "read_link": ""
+  },
+  {
+   "numero": "959",
+   "titulo": "Action Comics #959",
+   "data": "2016-07-13",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6711411.jpg?1781402171",
+   "link": "https://leagueofcomicgeeks.com/comic/6711411/action-comics-959",
+   "read_link": ""
+  },
+  {
+   "numero": "960",
+   "titulo": "Action Comics #960",
+   "data": "2016-07-27",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6016671.jpg?1781402197",
+   "link": "https://leagueofcomicgeeks.com/comic/6016671/action-comics-960",
+   "read_link": ""
+  },
+  {
+   "numero": "961",
+   "titulo": "Action Comics #961",
+   "data": "2016-08-10",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9704595.jpg?1781402222",
+   "link": "https://leagueofcomicgeeks.com/comic/9704595/action-comics-961",
+   "read_link": ""
+  },
+  {
+   "numero": "962",
+   "titulo": "Action Comics #962",
+   "data": "2016-08-24",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4813889.jpg?1781402266",
+   "link": "https://leagueofcomicgeeks.com/comic/4813889/action-comics-962",
+   "read_link": ""
+  },
+  {
+   "numero": "963",
+   "titulo": "Action Comics #963",
+   "data": "2016-09-14",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7437365.jpg?1779746251",
+   "link": "https://leagueofcomicgeeks.com/comic/7437365/action-comics-963",
+   "read_link": ""
+  },
+  {
+   "numero": "964",
+   "titulo": "Action Comics #964",
+   "data": "2016-09-28",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2041472.jpg?1779747135",
+   "link": "https://leagueofcomicgeeks.com/comic/2041472/action-comics-964",
+   "read_link": ""
+  },
+  {
+   "numero": "965",
+   "titulo": "Action Comics #965",
+   "data": "2016-10-12",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9454664.jpg?1779748005",
+   "link": "https://leagueofcomicgeeks.com/comic/9454664/action-comics-965",
+   "read_link": ""
+  },
+  {
+   "numero": "966",
+   "titulo": "Action Comics #966",
+   "data": "2016-10-26",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6071906.jpg?1776915604",
+   "link": "https://leagueofcomicgeeks.com/comic/6071906/action-comics-966",
+   "read_link": ""
+  },
+  {
+   "numero": "967",
+   "titulo": "Action Comics #967",
+   "data": "2016-11-09",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6550265.jpg?1780002814",
+   "link": "https://leagueofcomicgeeks.com/comic/6550265/action-comics-967",
+   "read_link": ""
+  },
+  {
+   "numero": "968",
+   "titulo": "Action Comics #968",
+   "data": "2016-11-23",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2818553.jpg?1771360725",
+   "link": "https://leagueofcomicgeeks.com/comic/2818553/action-comics-968",
+   "read_link": ""
+  },
+  {
+   "numero": "969",
+   "titulo": "Action Comics #969",
+   "data": "2016-12-14",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5477460.jpg?1780240657",
+   "link": "https://leagueofcomicgeeks.com/comic/5477460/action-comics-969",
+   "read_link": ""
+  },
+  {
+   "numero": "970",
+   "titulo": "Action Comics #970",
+   "data": "2016-12-28",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4026177.jpg?1780240687",
+   "link": "https://leagueofcomicgeeks.com/comic/4026177/action-comics-970",
+   "read_link": ""
+  },
+  {
+   "numero": "971",
+   "titulo": "Action Comics #971",
+   "data": "2017-01-11",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8335715.jpg?1780240710",
+   "link": "https://leagueofcomicgeeks.com/comic/8335715/action-comics-971",
+   "read_link": ""
+  },
+  {
+   "numero": "972",
+   "titulo": "Action Comics #972",
+   "data": "2017-01-25",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3169622.jpg?1780676061",
+   "link": "https://leagueofcomicgeeks.com/comic/3169622/action-comics-972",
+   "read_link": ""
+  },
+  {
+   "numero": "973",
+   "titulo": "Action Comics #973",
+   "data": "2017-02-08",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1829193.jpg?1780676925",
+   "link": "https://leagueofcomicgeeks.com/comic/1829193/action-comics-973",
+   "read_link": ""
+  },
+  {
+   "numero": "974",
+   "titulo": "Action Comics #974",
+   "data": "2017-02-22",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9944552.jpg?1780677684",
+   "link": "https://leagueofcomicgeeks.com/comic/9944552/action-comics-974",
+   "read_link": ""
+  },
+  {
+   "numero": "975",
+   "titulo": "Action Comics #975",
+   "data": "2017-03-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3144391.jpg?1781881700",
+   "link": "https://leagueofcomicgeeks.com/comic/3144391/action-comics-975",
+   "read_link": ""
+  },
+  {
+   "numero": "976",
+   "titulo": "Action Comics #976",
+   "data": "2017-03-22",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9651766.jpg?1781666199",
+   "link": "https://leagueofcomicgeeks.com/comic/9651766/action-comics-976",
+   "read_link": ""
+  },
+  {
+   "numero": "977",
+   "titulo": "Action Comics #977",
+   "data": "2017-04-12",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7499995.jpg?1783783604",
+   "link": "https://leagueofcomicgeeks.com/comic/7499995/action-comics-977",
+   "read_link": ""
+  },
+  {
+   "numero": "978",
+   "titulo": "Action Comics #978",
+   "data": "2017-04-26",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7315761.jpg?1783784446",
+   "link": "https://leagueofcomicgeeks.com/comic/7315761/action-comics-978",
+   "read_link": ""
+  },
+  {
+   "numero": "979",
+   "titulo": "Action Comics #979",
+   "data": "2017-05-10",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9623194.jpg?1782872268",
+   "link": "https://leagueofcomicgeeks.com/comic/9623194/action-comics-979",
+   "read_link": ""
+  },
+  {
+   "numero": "980",
+   "titulo": "Action Comics #980",
+   "data": "2017-05-24",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4192507.jpg?1782872300",
+   "link": "https://leagueofcomicgeeks.com/comic/4192507/action-comics-980",
+   "read_link": ""
+  },
+  {
+   "numero": "981",
+   "titulo": "Action Comics #981",
+   "data": "2017-06-14",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5146439.jpg?1782872359",
+   "link": "https://leagueofcomicgeeks.com/comic/5146439/action-comics-981",
+   "read_link": ""
+  },
+  {
+   "numero": "982",
+   "titulo": "Action Comics #982",
+   "data": "2017-06-28",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1552481.jpg?1784389303",
+   "link": "https://leagueofcomicgeeks.com/comic/1552481/action-comics-982",
+   "read_link": ""
+  },
+  {
+   "numero": "983",
+   "titulo": "Action Comics #983",
+   "data": "2017-07-12",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8171079.jpg?1784390001",
+   "link": "https://leagueofcomicgeeks.com/comic/8171079/action-comics-983",
+   "read_link": ""
+  },
+  {
+   "numero": "984",
+   "titulo": "Action Comics #984",
+   "data": "2017-07-26",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9011570.jpg?1784390942",
+   "link": "https://leagueofcomicgeeks.com/comic/9011570/action-comics-984",
+   "read_link": ""
+  },
+  {
+   "numero": "985",
+   "titulo": "Action Comics #985",
+   "data": "2017-08-09",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2076501.jpg?1784476278",
+   "link": "https://leagueofcomicgeeks.com/comic/2076501/action-comics-985",
+   "read_link": ""
+  },
+  {
+   "numero": "986",
+   "titulo": "Action Comics #986",
+   "data": "2017-08-23",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5788214.jpg?1784476770",
+   "link": "https://leagueofcomicgeeks.com/comic/5788214/action-comics-986",
+   "read_link": ""
+  },
+  {
+   "numero": "987",
+   "titulo": "Action Comics #987",
+   "data": "2017-09-13",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4313131.jpg?1704419491",
+   "link": "https://leagueofcomicgeeks.com/comic/4313131/action-comics-987",
+   "read_link": ""
+  },
+  {
+   "numero": "988",
+   "titulo": "Action Comics #988",
+   "data": "2017-09-27",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4196345.jpg?1784570854",
+   "link": "https://leagueofcomicgeeks.com/comic/4196345/action-comics-988",
+   "read_link": ""
+  },
+  {
+   "numero": "989",
+   "titulo": "Action Comics #989",
+   "data": "2017-10-11",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2056494.jpg?1784570801",
+   "link": "https://leagueofcomicgeeks.com/comic/2056494/action-comics-989",
+   "read_link": ""
+  },
+  {
+   "numero": "990",
+   "titulo": "Action Comics #990",
+   "data": "2017-10-25",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1596450.jpg?1784571452",
+   "link": "https://leagueofcomicgeeks.com/comic/1596450/action-comics-990",
+   "read_link": ""
+  },
+  {
+   "numero": "991",
+   "titulo": "Action Comics #991",
+   "data": "2017-11-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4955011.jpg?1786206486",
+   "link": "https://leagueofcomicgeeks.com/comic/4955011/action-comics-991",
+   "read_link": ""
+  },
+  {
+   "numero": "992",
+   "titulo": "Action Comics #992",
+   "data": "2017-11-22",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3447414.jpg?1704419854",
+   "link": "https://leagueofcomicgeeks.com/comic/3447414/action-comics-992",
+   "read_link": ""
+  },
+  {
+   "numero": "993",
+   "titulo": "Action Comics #993",
+   "data": "2017-12-13",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4357124.jpg?1754739967",
+   "link": "https://leagueofcomicgeeks.com/comic/4357124/action-comics-993",
+   "read_link": ""
+  },
+  {
+   "numero": "994",
+   "titulo": "Action Comics #994",
+   "data": "2017-12-27",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5809378.jpg?1713881033",
+   "link": "https://leagueofcomicgeeks.com/comic/5809378/action-comics-994",
+   "read_link": ""
+  },
+  {
+   "numero": "995",
+   "titulo": "Action Comics #995",
+   "data": "2018-01-10",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4505046.jpg?1704420003",
+   "link": "https://leagueofcomicgeeks.com/comic/4505046/action-comics-995",
+   "read_link": ""
+  },
+  {
+   "numero": "996",
+   "titulo": "Action Comics #996",
+   "data": "2018-01-24",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6068331.jpg?1704420051",
+   "link": "https://leagueofcomicgeeks.com/comic/6068331/action-comics-996",
+   "read_link": ""
+  },
+  {
+   "numero": "997",
+   "titulo": "Action Comics #997",
+   "data": "2018-02-14",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8071273.jpg?1704420089",
+   "link": "https://leagueofcomicgeeks.com/comic/8071273/action-comics-997",
+   "read_link": ""
+  },
+  {
+   "numero": "998",
+   "titulo": "Action Comics #998",
+   "data": "2018-02-28",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1101719.jpg?1704420146",
+   "link": "https://leagueofcomicgeeks.com/comic/1101719/action-comics-998",
+   "read_link": ""
+  },
+  {
+   "numero": "999",
+   "titulo": "Action Comics #999",
+   "data": "2018-03-14",
+   "preco": "2.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9487913.jpg?1704420173",
+   "link": "https://leagueofcomicgeeks.com/comic/9487913/action-comics-999",
+   "read_link": ""
+  },
+  {
+   "numero": "1000",
+   "titulo": "Action Comics #1000",
+   "data": "2018-04-18",
+   "preco": "7.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9643653.jpg?1782222285",
+   "link": "https://leagueofcomicgeeks.com/comic/9643653/action-comics-1000",
+   "read_link": ""
+  },
+  {
+   "numero": "1001",
+   "titulo": "Action Comics #1001",
+   "data": "2018-07-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3801316.jpg?1754740113",
+   "link": "https://leagueofcomicgeeks.com/comic/3801316/action-comics-1001",
+   "read_link": ""
+  },
+  {
+   "numero": "1002",
+   "titulo": "Action Comics #1002",
+   "data": "2018-08-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6534952.jpg?1721218447",
+   "link": "https://leagueofcomicgeeks.com/comic/6534952/action-comics-1002",
+   "read_link": ""
+  },
+  {
+   "numero": "1003",
+   "titulo": "Action Comics #1003",
+   "data": "2018-09-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7004621.jpg?1749267180",
+   "link": "https://leagueofcomicgeeks.com/comic/7004621/action-comics-1003",
+   "read_link": ""
+  },
+  {
+   "numero": "1004",
+   "titulo": "Action Comics #1004",
+   "data": "2018-10-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3553190.jpg?1706037535",
+   "link": "https://leagueofcomicgeeks.com/comic/3553190/action-comics-1004",
+   "read_link": ""
+  },
+  {
+   "numero": "1005",
+   "titulo": "Action Comics #1005",
+   "data": "2018-11-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2955731.jpg?1711329918",
+   "link": "https://leagueofcomicgeeks.com/comic/2955731/action-comics-1005",
+   "read_link": ""
+  },
+  {
+   "numero": "1006",
+   "titulo": "Action Comics #1006",
+   "data": "2019-01-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9780357.jpg?1711330197",
+   "link": "https://leagueofcomicgeeks.com/comic/9780357/action-comics-1006",
+   "read_link": ""
+  },
+  {
+   "numero": "1007",
+   "titulo": "Action Comics #1007",
+   "data": "2019-01-30",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8081183.jpg?1754740172",
+   "link": "https://leagueofcomicgeeks.com/comic/8081183/action-comics-1007",
+   "read_link": ""
+  },
+  {
+   "numero": "1008",
+   "titulo": "Action Comics #1008",
+   "data": "2019-02-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9184310.jpg?1754740186",
+   "link": "https://leagueofcomicgeeks.com/comic/9184310/action-comics-1008",
+   "read_link": ""
+  },
+  {
+   "numero": "1009",
+   "titulo": "Action Comics #1009",
+   "data": "2019-03-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2601381.jpg?1754740223",
+   "link": "https://leagueofcomicgeeks.com/comic/2601381/action-comics-1009",
+   "read_link": ""
+  },
+  {
+   "numero": "1010",
+   "titulo": "Action Comics #1010",
+   "data": "2019-04-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7416504.jpg?1754740240",
+   "link": "https://leagueofcomicgeeks.com/comic/7416504/action-comics-1010",
+   "read_link": ""
+  },
+  {
+   "numero": "1011",
+   "titulo": "Action Comics #1011",
+   "data": "2019-05-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2567031.jpg?1754740291",
+   "link": "https://leagueofcomicgeeks.com/comic/2567031/action-comics-1011",
+   "read_link": ""
+  },
+  {
+   "numero": "1012",
+   "titulo": "Action Comics #1012",
+   "data": "2019-06-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8114171.jpg?1754740303",
+   "link": "https://leagueofcomicgeeks.com/comic/8114171/action-comics-1012",
+   "read_link": ""
+  },
+  {
+   "numero": "1013",
+   "titulo": "Action Comics #1013",
+   "data": "2019-07-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7715105.jpg?1754740328",
+   "link": "https://leagueofcomicgeeks.com/comic/7715105/action-comics-1013",
+   "read_link": ""
+  },
+  {
+   "numero": "1014",
+   "titulo": "Action Comics #1014",
+   "data": "2019-08-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2802491.jpg?1763546047",
+   "link": "https://leagueofcomicgeeks.com/comic/2802491/action-comics-1014",
+   "read_link": ""
+  },
+  {
+   "numero": "1015",
+   "titulo": "Action Comics #1015",
+   "data": "2019-09-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6288933.jpg?1754740366",
+   "link": "https://leagueofcomicgeeks.com/comic/6288933/action-comics-1015",
+   "read_link": ""
+  },
+  {
+   "numero": "1016",
+   "titulo": "Action Comics #1016",
+   "data": "2019-10-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5256857.jpg?1711329697",
+   "link": "https://leagueofcomicgeeks.com/comic/5256857/action-comics-1016",
+   "read_link": ""
+  },
+  {
+   "numero": "1017",
+   "titulo": "Action Comics #1017",
+   "data": "2019-11-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3093114.jpg?1714517536",
+   "link": "https://leagueofcomicgeeks.com/comic/3093114/action-comics-1017",
+   "read_link": ""
+  },
+  {
+   "numero": "1018",
+   "titulo": "Action Comics #1018",
+   "data": "2020-01-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3129690.jpg?1714517996",
+   "link": "https://leagueofcomicgeeks.com/comic/3129690/action-comics-1018",
+   "read_link": ""
+  },
+  {
+   "numero": "1019",
+   "titulo": "Action Comics #1019",
+   "data": "2020-01-29",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5658803.jpg?1714518556",
+   "link": "https://leagueofcomicgeeks.com/comic/5658803/action-comics-1019",
+   "read_link": ""
+  },
+  {
+   "numero": "1020",
+   "titulo": "Action Comics #1020",
+   "data": "2020-02-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8280214.jpg?1714518875",
+   "link": "https://leagueofcomicgeeks.com/comic/8280214/action-comics-1020",
+   "read_link": ""
+  },
+  {
+   "numero": "1021",
+   "titulo": "Action Comics #1021",
+   "data": "2020-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3635954.jpg?1714519318",
+   "link": "https://leagueofcomicgeeks.com/comic/3635954/action-comics-1021",
+   "read_link": ""
+  },
+  {
+   "numero": "1022",
+   "titulo": "Action Comics #1022",
+   "data": "2020-06-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9690861.jpg?1715135010",
+   "link": "https://leagueofcomicgeeks.com/comic/9690861/action-comics-1022",
+   "read_link": ""
+  },
+  {
+   "numero": "1023",
+   "titulo": "Action Comics #1023",
+   "data": "2020-07-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3796725.jpg?1715174384",
+   "link": "https://leagueofcomicgeeks.com/comic/3796725/action-comics-1023",
+   "read_link": ""
+  },
+  {
+   "numero": "1024",
+   "titulo": "Action Comics #1024",
+   "data": "2020-08-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2759468.jpg?1715174587",
+   "link": "https://leagueofcomicgeeks.com/comic/2759468/action-comics-1024",
+   "read_link": ""
+  },
+  {
+   "numero": "1025",
+   "titulo": "Action Comics #1025",
+   "data": "2020-09-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1719183.jpg?1745167864",
+   "link": "https://leagueofcomicgeeks.com/comic/1719183/action-comics-1025",
+   "read_link": ""
+  },
+  {
+   "numero": "1026",
+   "titulo": "Action Comics #1026",
+   "data": "2020-10-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5587740.jpg?1715176206",
+   "link": "https://leagueofcomicgeeks.com/comic/5587740/action-comics-1026",
+   "read_link": ""
+  },
+  {
+   "numero": "1027",
+   "titulo": "Action Comics #1027",
+   "data": "2020-11-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3971647.jpg?1715176239",
+   "link": "https://leagueofcomicgeeks.com/comic/3971647/action-comics-1027",
+   "read_link": ""
+  },
+  {
+   "numero": "1028",
+   "titulo": "Action Comics #1028",
+   "data": "2020-12-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4047338.jpg?1715176557",
+   "link": "https://leagueofcomicgeeks.com/comic/4047338/action-comics-1028",
+   "read_link": ""
+  },
+  {
+   "numero": "1029",
+   "titulo": "Action Comics #1029",
+   "data": "2021-03-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6357892.jpg?1782870660",
+   "link": "https://leagueofcomicgeeks.com/comic/6357892/action-comics-1029",
+   "read_link": ""
+  },
+  {
+   "numero": "1030",
+   "titulo": "Action Comics #1030",
+   "data": "2021-04-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9441485.jpg?1782869752",
+   "link": "https://leagueofcomicgeeks.com/comic/9441485/action-comics-1030",
+   "read_link": ""
+  },
+  {
+   "numero": "1031",
+   "titulo": "Action Comics #1031",
+   "data": "2021-05-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8826530.jpg?1782869845",
+   "link": "https://leagueofcomicgeeks.com/comic/8826530/action-comics-1031",
+   "read_link": ""
+  },
+  {
+   "numero": "1032",
+   "titulo": "Action Comics #1032",
+   "data": "2021-06-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4374644.jpg?1753384345",
+   "link": "https://leagueofcomicgeeks.com/comic/4374644/action-comics-1032",
+   "read_link": ""
+  },
+  {
+   "numero": "1033",
+   "titulo": "Action Comics #1033",
+   "data": "2021-07-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5744934.jpg?1782869949",
+   "link": "https://leagueofcomicgeeks.com/comic/5744934/action-comics-1033",
+   "read_link": ""
+  },
+  {
+   "numero": "1034",
+   "titulo": "Action Comics #1034",
+   "data": "2021-08-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2692445.jpg?1753384381",
+   "link": "https://leagueofcomicgeeks.com/comic/2692445/action-comics-1034",
+   "read_link": ""
+  },
+  {
+   "numero": "1035",
+   "titulo": "Action Comics #1035",
+   "data": "2021-09-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8627520.jpg?1782869988",
+   "link": "https://leagueofcomicgeeks.com/comic/8627520/action-comics-1035",
+   "read_link": ""
+  },
+  {
+   "numero": "1036",
+   "titulo": "Action Comics #1036",
+   "data": "2021-11-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2089118.jpg?1782870006",
+   "link": "https://leagueofcomicgeeks.com/comic/2089118/action-comics-1036",
+   "read_link": ""
+  },
+  {
+   "numero": "1037",
+   "titulo": "Action Comics #1037",
+   "data": "2021-11-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8176004.jpg?1785251049",
+   "link": "https://leagueofcomicgeeks.com/comic/8176004/action-comics-1037",
+   "read_link": ""
+  },
+  {
+   "numero": "1038",
+   "titulo": "Action Comics #1038",
+   "data": "2021-12-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4047357.jpg?1782870082",
+   "link": "https://leagueofcomicgeeks.com/comic/4047357/action-comics-1038",
+   "read_link": ""
+  },
+  {
+   "numero": "1039",
+   "titulo": "Action Comics #1039",
+   "data": "2022-01-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4852732.jpg?1733134133",
+   "link": "https://leagueofcomicgeeks.com/comic/4852732/action-comics-1039",
+   "read_link": ""
+  },
+  {
+   "numero": "1040",
+   "titulo": "Action Comics #1040",
+   "data": "2022-02-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6041999.jpg?1785251033",
+   "link": "https://leagueofcomicgeeks.com/comic/6041999/action-comics-1040",
+   "read_link": ""
+  },
+  {
+   "numero": "1041",
+   "titulo": "Action Comics #1041",
+   "data": "2022-03-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7216630.jpg?1782870164",
+   "link": "https://leagueofcomicgeeks.com/comic/7216630/action-comics-1041",
+   "read_link": ""
+  },
+  {
+   "numero": "1042",
+   "titulo": "Action Comics #1042",
+   "data": "2022-04-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5856932.jpg?1782870207",
+   "link": "https://leagueofcomicgeeks.com/comic/5856932/action-comics-1042",
+   "read_link": ""
+  },
+  {
+   "numero": "1043",
+   "titulo": "Action Comics #1043",
+   "data": "2022-05-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4233664.jpg?1782870241",
+   "link": "https://leagueofcomicgeeks.com/comic/4233664/action-comics-1043",
+   "read_link": ""
+  },
+  {
+   "numero": "1044",
+   "titulo": "Action Comics #1044",
+   "data": "2022-06-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8648391.jpg?1782870313",
+   "link": "https://leagueofcomicgeeks.com/comic/8648391/action-comics-1044",
+   "read_link": ""
+  },
+  {
+   "numero": "1045",
+   "titulo": "Action Comics #1045",
+   "data": "2022-07-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7951913.jpg?1782870338",
+   "link": "https://leagueofcomicgeeks.com/comic/7951913/action-comics-1045",
+   "read_link": ""
+  },
+  {
+   "numero": "1046",
+   "titulo": "Action Comics #1046",
+   "data": "2022-08-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4715706.jpg?1782870358",
+   "link": "https://leagueofcomicgeeks.com/comic/4715706/action-comics-1046",
+   "read_link": ""
+  },
+  {
+   "numero": "1047",
+   "titulo": "Action Comics #1047",
+   "data": "2022-09-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4543882.jpg?1703446955",
+   "link": "https://leagueofcomicgeeks.com/comic/4543882/action-comics-1047",
+   "read_link": ""
+  },
+  {
+   "numero": "1048",
+   "titulo": "Action Comics #1048",
+   "data": "2022-10-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4402680.jpg?1703446665",
+   "link": "https://leagueofcomicgeeks.com/comic/4402680/action-comics-1048",
+   "read_link": ""
+  },
+  {
+   "numero": "1049",
+   "titulo": "Action Comics #1049",
+   "data": "2022-11-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9821762.jpg?1779393243",
+   "link": "https://leagueofcomicgeeks.com/comic/9821762/action-comics-1049",
+   "read_link": ""
+  },
+  {
+   "numero": "1050",
+   "titulo": "Action Comics #1050",
+   "data": "2022-12-27",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5292271.jpg?1782870392",
+   "link": "https://leagueofcomicgeeks.com/comic/5292271/action-comics-1050",
+   "read_link": ""
+  },
+  {
+   "numero": "1051",
+   "titulo": "Action Comics #1051",
+   "data": "2023-01-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6508782.jpg?1779803497",
+   "link": "https://leagueofcomicgeeks.com/comic/6508782/action-comics-1051",
+   "read_link": ""
+  },
+  {
+   "numero": "1052",
+   "titulo": "Action Comics #1052",
+   "data": "2023-02-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2725335.jpg?1771359227",
+   "link": "https://leagueofcomicgeeks.com/comic/2725335/action-comics-1052",
+   "read_link": ""
+  },
+  {
+   "numero": "1053",
+   "titulo": "Action Comics #1053",
+   "data": "2023-03-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4308566.jpg?1771359262",
+   "link": "https://leagueofcomicgeeks.com/comic/4308566/action-comics-1053",
+   "read_link": ""
+  },
+  {
+   "numero": "1054",
+   "titulo": "Action Comics #1054",
+   "data": "2023-04-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5373410.jpg?1771359301",
+   "link": "https://leagueofcomicgeeks.com/comic/5373410/action-comics-1054",
+   "read_link": ""
+  },
+  {
+   "numero": "1055",
+   "titulo": "Action Comics #1055",
+   "data": "2023-05-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8857093.jpg?1771359336",
+   "link": "https://leagueofcomicgeeks.com/comic/8857093/action-comics-1055",
+   "read_link": ""
+  },
+  {
+   "numero": "1056",
+   "titulo": "Action Comics #1056",
+   "data": "2023-06-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9103415.jpg?1771548977",
+   "link": "https://leagueofcomicgeeks.com/comic/9103415/action-comics-1056",
+   "read_link": ""
+  },
+  {
+   "numero": "1057",
+   "titulo": "Action Comics #1057",
+   "data": "2023-09-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3324232.jpg?1780841849",
+   "link": "https://leagueofcomicgeeks.com/comic/3324232/action-comics-1057",
+   "read_link": ""
+  },
+  {
+   "numero": "1058",
+   "titulo": "Action Comics #1058",
+   "data": "2023-10-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9083894.jpg?1738057092",
+   "link": "https://leagueofcomicgeeks.com/comic/9083894/action-comics-1058",
+   "read_link": ""
+  },
+  {
+   "numero": "1059",
+   "titulo": "Action Comics #1059",
+   "data": "2023-11-28",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6673892.jpg?1738865775",
+   "link": "https://leagueofcomicgeeks.com/comic/6673892/action-comics-1059",
+   "read_link": ""
+  },
+  {
+   "numero": "1060",
+   "titulo": "Action Comics #1060",
+   "data": "2023-12-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7869752.jpg?1778695894",
+   "link": "https://leagueofcomicgeeks.com/comic/7869752/action-comics-1060",
+   "read_link": ""
+  },
+  {
+   "numero": "1061",
+   "titulo": "Action Comics #1061",
+   "data": "2024-01-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5129371.jpg?1731774332",
+   "link": "https://leagueofcomicgeeks.com/comic/5129371/action-comics-1061",
+   "read_link": ""
+  },
+  {
+   "numero": "1062",
+   "titulo": "Action Comics #1062",
+   "data": "2024-02-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5414153.jpg?1731774708",
+   "link": "https://leagueofcomicgeeks.com/comic/5414153/action-comics-1062",
+   "read_link": ""
+  },
+  {
+   "numero": "1063",
+   "titulo": "Action Comics #1063",
+   "data": "2024-03-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2413363.jpg?1731774981",
+   "link": "https://leagueofcomicgeeks.com/comic/2413363/action-comics-1063",
+   "read_link": ""
+  },
+  {
+   "numero": "1064",
+   "titulo": "Action Comics #1064",
+   "data": "2024-04-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7984849.jpg?1781360705",
+   "link": "https://leagueofcomicgeeks.com/comic/7984849/action-comics-1064",
+   "read_link": ""
+  },
+  {
+   "numero": "1065",
+   "titulo": "Action Comics #1065",
+   "data": "2024-05-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7617002.jpg?1781361160",
+   "link": "https://leagueofcomicgeeks.com/comic/7617002/action-comics-1065",
+   "read_link": ""
+  },
+  {
+   "numero": "1066",
+   "titulo": "Action Comics #1066",
+   "data": "2024-06-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3771393.jpg?1781361186",
+   "link": "https://leagueofcomicgeeks.com/comic/3771393/action-comics-1066",
+   "read_link": ""
+  },
+  {
+   "numero": "1067",
+   "titulo": "Action Comics #1067",
+   "data": "2024-07-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4947404.jpg?1781361104",
+   "link": "https://leagueofcomicgeeks.com/comic/4947404/action-comics-1067",
+   "read_link": ""
+  },
+  {
+   "numero": "1068",
+   "titulo": "Action Comics #1068",
+   "data": "2024-08-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2897006.jpg?1781361872",
+   "link": "https://leagueofcomicgeeks.com/comic/2897006/action-comics-1068",
+   "read_link": ""
+  },
+  {
+   "numero": "1069",
+   "titulo": "Action Comics #1069",
+   "data": "2024-09-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3626645.jpg?1781238979",
+   "link": "https://leagueofcomicgeeks.com/comic/3626645/action-comics-1069",
+   "read_link": ""
+  },
+  {
+   "numero": "1070",
+   "titulo": "Action Comics #1070",
+   "data": "2024-10-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8808195.jpg?1736455890",
+   "link": "https://leagueofcomicgeeks.com/comic/8808195/action-comics-1070",
+   "read_link": ""
+  },
+  {
+   "numero": "1071",
+   "titulo": "Action Comics #1071",
+   "data": "2024-10-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2972375.jpg?1785350295",
+   "link": "https://leagueofcomicgeeks.com/comic/2972375/action-comics-1071",
+   "read_link": ""
+  },
+  {
+   "numero": "1072",
+   "titulo": "Action Comics #1072",
+   "data": "2024-10-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4267205.jpg?1785089180",
+   "link": "https://leagueofcomicgeeks.com/comic/4267205/action-comics-1072",
+   "read_link": ""
+  },
+  {
+   "numero": "1073",
+   "titulo": "Action Comics #1073",
+   "data": "2024-10-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8512602.jpg?1785088796",
+   "link": "https://leagueofcomicgeeks.com/comic/8512602/action-comics-1073",
+   "read_link": ""
+  },
+  {
+   "numero": "1074",
+   "titulo": "Action Comics #1074",
+   "data": "2024-11-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9127369.jpg?1785088819",
+   "link": "https://leagueofcomicgeeks.com/comic/9127369/action-comics-1074",
+   "read_link": ""
+  },
+  {
+   "numero": "1075",
+   "titulo": "Action Comics #1075",
+   "data": "2024-11-13",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6773680.jpg?1756801499",
+   "link": "https://leagueofcomicgeeks.com/comic/6773680/action-comics-1075",
+   "read_link": ""
+  },
+  {
+   "numero": "1076",
+   "titulo": "Action Comics #1076",
+   "data": "2024-11-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4950365.jpg?1733532440",
+   "link": "https://leagueofcomicgeeks.com/comic/4950365/action-comics-1076",
+   "read_link": ""
+  },
+  {
+   "numero": "1077",
+   "titulo": "Action Comics #1077",
+   "data": "2024-11-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7285620.jpg?1785088901",
+   "link": "https://leagueofcomicgeeks.com/comic/7285620/action-comics-1077",
+   "read_link": ""
+  },
+  {
+   "numero": "1078",
+   "titulo": "Action Comics #1078",
+   "data": "2024-12-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2582133.jpg?1785088939",
+   "link": "https://leagueofcomicgeeks.com/comic/2582133/action-comics-1078",
+   "read_link": ""
+  },
+  {
+   "numero": "1079",
+   "titulo": "Action Comics #1079",
+   "data": "2024-12-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9644201.jpg?1785088969",
+   "link": "https://leagueofcomicgeeks.com/comic/9644201/action-comics-1079",
+   "read_link": ""
+  },
+  {
+   "numero": "1080",
+   "titulo": "Action Comics #1080",
+   "data": "2024-12-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9043624.jpg?1785089006",
+   "link": "https://leagueofcomicgeeks.com/comic/9043624/action-comics-1080",
+   "read_link": ""
+  },
+  {
+   "numero": "1081",
+   "titulo": "Action Comics #1081",
+   "data": "2024-12-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2943652.jpg?1785089035",
+   "link": "https://leagueofcomicgeeks.com/comic/2943652/action-comics-1081",
+   "read_link": ""
+  },
+  {
+   "numero": "1082",
+   "titulo": "Action Comics #1082",
+   "data": "2025-01-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9960382.jpg?1743290346",
+   "link": "https://leagueofcomicgeeks.com/comic/9960382/action-comics-1082",
+   "read_link": ""
+  },
+  {
+   "numero": "1083",
+   "titulo": "Action Comics #1083",
+   "data": "2025-02-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9683524.jpg?1781878387",
+   "link": "https://leagueofcomicgeeks.com/comic/9683524/action-comics-1083",
+   "read_link": ""
+  },
+  {
+   "numero": "1084",
+   "titulo": "Action Comics #1084",
+   "data": "2025-03-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7608465.jpg?1781878367",
+   "link": "https://leagueofcomicgeeks.com/comic/7608465/action-comics-1084",
+   "read_link": ""
+  },
+  {
+   "numero": "1085",
+   "titulo": "Action Comics #1085",
+   "data": "2025-04-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6221075.jpg?1744437654",
+   "link": "https://leagueofcomicgeeks.com/comic/6221075/action-comics-1085",
+   "read_link": ""
+  },
+  {
+   "numero": "1086",
+   "titulo": "Action Comics #1086",
+   "data": "2025-05-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1917418.jpg?1749239099",
+   "link": "https://leagueofcomicgeeks.com/comic/1917418/action-comics-1086",
+   "read_link": ""
+  },
+  {
+   "numero": "1087",
+   "titulo": "Action Comics #1087",
+   "data": "2025-06-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9404514.jpg?1757888843",
+   "link": "https://leagueofcomicgeeks.com/comic/9404514/action-comics-1087",
+   "read_link": ""
+  },
+  {
+   "numero": "1088",
+   "titulo": "Action Comics #1088",
+   "data": "2025-07-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5961899.jpg?1781878344",
+   "link": "https://leagueofcomicgeeks.com/comic/5961899/action-comics-1088",
+   "read_link": ""
+  },
+  {
+   "numero": "1089",
+   "titulo": "Action Comics #1089",
+   "data": "2025-08-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2862456.jpg?1755137124",
+   "link": "https://leagueofcomicgeeks.com/comic/2862456/action-comics-1089",
+   "read_link": ""
+  },
+  {
+   "numero": "1090",
+   "titulo": "Action Comics #1090",
+   "data": "2025-09-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6529105.jpg?1759522515",
+   "link": "https://leagueofcomicgeeks.com/comic/6529105/action-comics-1090",
+   "read_link": ""
+  },
+  {
+   "numero": "1091",
+   "titulo": "Action Comics #1091",
+   "data": "2025-10-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3734967.jpg?1760458430",
+   "link": "https://leagueofcomicgeeks.com/comic/3734967/action-comics-1091",
+   "read_link": ""
+  },
+  {
+   "numero": "1092",
+   "titulo": "Action Comics #1092",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6748452.jpg?1764034308",
+   "link": "https://leagueofcomicgeeks.com/comic/6748452/action-comics-1092",
+   "read_link": ""
+  },
+  {
+   "numero": "1093",
+   "titulo": "Action Comics #1093",
+   "data": "2025-12-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8264669.jpg?1766679030",
+   "link": "https://leagueofcomicgeeks.com/comic/8264669/action-comics-1093",
+   "read_link": ""
+  },
+  {
+   "numero": "1094",
+   "titulo": "Action Comics #1094",
+   "data": "2026-01-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8256484.jpg?1781878319",
+   "link": "https://leagueofcomicgeeks.com/comic/8256484/action-comics-1094",
+   "read_link": ""
+  },
+  {
+   "numero": "1095",
+   "titulo": "Action Comics #1095",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1012888.jpg?1771209634",
+   "link": "https://leagueofcomicgeeks.com/comic/1012888/action-comics-1095",
+   "read_link": ""
+  },
+  {
+   "numero": "1096",
+   "titulo": "Action Comics #1096",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5588083.jpg?1781783077",
+   "link": "https://leagueofcomicgeeks.com/comic/5588083/action-comics-1096",
+   "read_link": ""
+  },
+  {
+   "numero": "1097",
+   "titulo": "Action Comics #1097",
+   "data": "2026-04-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3239646.jpg?1776815098",
+   "link": "https://leagueofcomicgeeks.com/comic/3239646/action-comics-1097",
+   "read_link": ""
+  },
+  {
+   "numero": "1098",
+   "titulo": "Action Comics #1098",
+   "data": "2026-05-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3211836.jpg?1781782595",
+   "link": "https://leagueofcomicgeeks.com/comic/3211836/action-comics-1098",
+   "read_link": ""
+  },
+  {
+   "numero": "1099",
+   "titulo": "Action Comics #1099",
+   "data": "2026-06-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9144354.jpg?1782005882",
+   "link": "https://leagueofcomicgeeks.com/comic/9144354/action-comics-1099",
+   "read_link": ""
+  },
+  {
+   "numero": "1100",
+   "titulo": "Action Comics #1100",
+   "data": "2026-07-22",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6579097.jpg?1786340006",
+   "link": "https://leagueofcomicgeeks.com/comic/6579097/action-comics-1100",
+   "read_link": ""
+  },
+  {
+   "numero": "1101",
+   "titulo": "Action Comics #1101",
+   "data": "2026-08-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7012959.jpg?1786577040",
+   "link": "https://leagueofcomicgeeks.com/comic/7012959/action-comics-1101",
+   "read_link": ""
+  },
+  {
+   "numero": "1102",
+   "titulo": "Action Comics #1102",
+   "data": "2026-09-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2403358.jpg?1782785146",
+   "link": "https://leagueofcomicgeeks.com/comic/2403358/action-comics-1102",
+   "read_link": ""
+  }
+ ]
+}

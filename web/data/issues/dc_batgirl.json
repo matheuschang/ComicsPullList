@@ -1,0 +1,214 @@
+{
+ "id": "dc_batgirl",
+ "nome": "Batgirl",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Batgirl #1",
+   "data": "2024-11-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3458557.jpg?1758666253",
+   "link": "https://leagueofcomicgeeks.com/comic/3458557/batgirl-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Batgirl #2",
+   "data": "2024-12-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5342007.jpg?1736456804",
+   "link": "https://leagueofcomicgeeks.com/comic/5342007/batgirl-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Batgirl #3",
+   "data": "2025-01-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4054355.jpg?1777154856",
+   "link": "https://leagueofcomicgeeks.com/comic/4054355/batgirl-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Batgirl #4",
+   "data": "2025-02-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7145196.jpg?1744724887",
+   "link": "https://leagueofcomicgeeks.com/comic/7145196/batgirl-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Batgirl #5",
+   "data": "2025-03-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6355816.jpg?1746889232",
+   "link": "https://leagueofcomicgeeks.com/comic/6355816/batgirl-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Batgirl #6",
+   "data": "2025-04-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1883006.jpg?1749052857",
+   "link": "https://leagueofcomicgeeks.com/comic/1883006/batgirl-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Batgirl #7",
+   "data": "2025-05-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9548622.jpg?1747909647",
+   "link": "https://leagueofcomicgeeks.com/comic/9548622/batgirl-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Batgirl #8",
+   "data": "2025-06-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6579764.jpg?1757618104",
+   "link": "https://leagueofcomicgeeks.com/comic/6579764/batgirl-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Batgirl #9",
+   "data": "2025-07-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2850948.jpg?1756923591",
+   "link": "https://leagueofcomicgeeks.com/comic/2850948/batgirl-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Batgirl #10",
+   "data": "2025-08-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7306244.jpg?1754764038",
+   "link": "https://leagueofcomicgeeks.com/comic/7306244/batgirl-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Batgirl #11",
+   "data": "2025-09-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8644235.jpg?1756950542",
+   "link": "https://leagueofcomicgeeks.com/comic/8644235/batgirl-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Batgirl #12",
+   "data": "2025-10-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4359503.jpg?1759820348",
+   "link": "https://leagueofcomicgeeks.com/comic/4359503/batgirl-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Batgirl #13",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4032513.jpg?1767394730",
+   "link": "https://leagueofcomicgeeks.com/comic/4032513/batgirl-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Batgirl #14",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9640177.jpg?1767402892",
+   "link": "https://leagueofcomicgeeks.com/comic/9640177/batgirl-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Batgirl #15",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6342332.jpg?1779060987",
+   "link": "https://leagueofcomicgeeks.com/comic/6342332/batgirl-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Batgirl #16",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2600544.jpg?1779062928",
+   "link": "https://leagueofcomicgeeks.com/comic/2600544/batgirl-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Batgirl #17",
+   "data": "2026-03-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7357732.jpg?1775065648",
+   "link": "https://leagueofcomicgeeks.com/comic/7357732/batgirl-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Batgirl #18",
+   "data": "2026-04-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1639344.jpg?1775065612",
+   "link": "https://leagueofcomicgeeks.com/comic/1639344/batgirl-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Batgirl #19",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1034362.jpg?1778167545",
+   "link": "https://leagueofcomicgeeks.com/comic/1034362/batgirl-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Batgirl #20",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6723183.jpg?1780601935",
+   "link": "https://leagueofcomicgeeks.com/comic/6723183/batgirl-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Batgirl #21",
+   "data": "2026-07-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9382655.jpg?1783528688",
+   "link": "https://leagueofcomicgeeks.com/comic/9382655/batgirl-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Batgirl #22",
+   "data": "2026-08-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6487201.jpg?1786110446",
+   "link": "https://leagueofcomicgeeks.com/comic/6487201/batgirl-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Batgirl #23",
+   "data": "2026-09-02",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9277505.jpg?1786046614",
+   "link": "https://leagueofcomicgeeks.com/comic/9277505/batgirl-23",
+   "read_link": ""
+  }
+ ]
+}

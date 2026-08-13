@@ -1,0 +1,52 @@
+{
+ "id": "marvel_cyclops",
+ "nome": "Cyclops",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Cyclops #1",
+   "data": "2026-02-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9130314.jpg?1779985725",
+   "link": "https://leagueofcomicgeeks.com/comic/9130314/cyclops-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Cyclops #2",
+   "data": "2026-03-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8698417.jpg?1779985778",
+   "link": "https://leagueofcomicgeeks.com/comic/8698417/cyclops-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Cyclops #3",
+   "data": "2026-04-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3801363.jpg?1781662863",
+   "link": "https://leagueofcomicgeeks.com/comic/3801363/cyclops-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Cyclops #4",
+   "data": "2026-05-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7707194.jpg?1781662839",
+   "link": "https://leagueofcomicgeeks.com/comic/7707194/cyclops-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Cyclops #5",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4949576.jpg?1781662773",
+   "link": "https://leagueofcomicgeeks.com/comic/4949576/cyclops-5",
+   "read_link": ""
+  }
+ ]
+}

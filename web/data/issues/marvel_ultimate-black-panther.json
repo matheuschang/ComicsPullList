@@ -1,0 +1,223 @@
+{
+ "id": "marvel_ultimate-black-panther",
+ "nome": "Ultimate Black Panther",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Ultimate Black Panther #1",
+   "data": "2024-02-07",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8401446.jpg?1756965040",
+   "link": "https://leagueofcomicgeeks.com/comic/8401446/ultimate-black-panther-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Ultimate Black Panther #2",
+   "data": "2024-03-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9986515.jpg?1718945014",
+   "link": "https://leagueofcomicgeeks.com/comic/9986515/ultimate-black-panther-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Ultimate Black Panther #3",
+   "data": "2024-04-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1325446.jpg?1756965012",
+   "link": "https://leagueofcomicgeeks.com/comic/1325446/ultimate-black-panther-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Ultimate Black Panther #4",
+   "data": "2024-05-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9020936.jpg?1720964873",
+   "link": "https://leagueofcomicgeeks.com/comic/9020936/ultimate-black-panther-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Ultimate Black Panther #5",
+   "data": "2024-06-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5881201.jpg?1720199015",
+   "link": "https://leagueofcomicgeeks.com/comic/5881201/ultimate-black-panther-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Ultimate Black Panther #6",
+   "data": "2024-07-24",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8122792.jpg?1736511591",
+   "link": "https://leagueofcomicgeeks.com/comic/8122792/ultimate-black-panther-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Ultimate Black Panther #7",
+   "data": "2024-08-07",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3253213.jpg?1746162614",
+   "link": "https://leagueofcomicgeeks.com/comic/3253213/ultimate-black-panther-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Ultimate Black Panther #8",
+   "data": "2024-09-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3946554.jpg?1736511929",
+   "link": "https://leagueofcomicgeeks.com/comic/3946554/ultimate-black-panther-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Ultimate Black Panther #9",
+   "data": "2024-10-02",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6926679.jpg?1756965289",
+   "link": "https://leagueofcomicgeeks.com/comic/6926679/ultimate-black-panther-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Ultimate Black Panther #10",
+   "data": "2024-11-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6536421.jpg?1758743351",
+   "link": "https://leagueofcomicgeeks.com/comic/6536421/ultimate-black-panther-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Ultimate Black Panther #11",
+   "data": "2024-12-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5419459.jpg?1736511684",
+   "link": "https://leagueofcomicgeeks.com/comic/5419459/ultimate-black-panther-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Ultimate Black Panther #12",
+   "data": "2025-01-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1938348.jpg?1736511698",
+   "link": "https://leagueofcomicgeeks.com/comic/1938348/ultimate-black-panther-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Ultimate Black Panther #13",
+   "data": "2025-02-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4695741.jpg?1752125051",
+   "link": "https://leagueofcomicgeeks.com/comic/4695741/ultimate-black-panther-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Ultimate Black Panther #14",
+   "data": "2025-03-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3596782.jpg?1752649718",
+   "link": "https://leagueofcomicgeeks.com/comic/3596782/ultimate-black-panther-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Ultimate Black Panther #15",
+   "data": "2025-04-23",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2544019.jpg?1752649583",
+   "link": "https://leagueofcomicgeeks.com/comic/2544019/ultimate-black-panther-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Ultimate Black Panther #16",
+   "data": "2025-05-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7829354.jpg?1752125895",
+   "link": "https://leagueofcomicgeeks.com/comic/7829354/ultimate-black-panther-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Ultimate Black Panther #17",
+   "data": "2025-06-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2566824.jpg?1749925646",
+   "link": "https://leagueofcomicgeeks.com/comic/2566824/ultimate-black-panther-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Ultimate Black Panther #18",
+   "data": "2025-07-16",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8499683.jpg?1753098657",
+   "link": "https://leagueofcomicgeeks.com/comic/8499683/ultimate-black-panther-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Ultimate Black Panther #19",
+   "data": "2025-08-20",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6960727.jpg?1755962548",
+   "link": "https://leagueofcomicgeeks.com/comic/6960727/ultimate-black-panther-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Ultimate Black Panther #20",
+   "data": "2025-09-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5885991.jpg?1758858516",
+   "link": "https://leagueofcomicgeeks.com/comic/5885991/ultimate-black-panther-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Ultimate Black Panther #21",
+   "data": "2025-10-08",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1469115.jpg?1760356397",
+   "link": "https://leagueofcomicgeeks.com/comic/1469115/ultimate-black-panther-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Ultimate Black Panther #22",
+   "data": "2025-11-12",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6527268.jpg?1763567322",
+   "link": "https://leagueofcomicgeeks.com/comic/6527268/ultimate-black-panther-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Ultimate Black Panther #23",
+   "data": "2025-12-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2800857.jpg?1765710629",
+   "link": "https://leagueofcomicgeeks.com/comic/2800857/ultimate-black-panther-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Ultimate Black Panther #24",
+   "data": "2026-01-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4339810.jpg?1769041432",
+   "link": "https://leagueofcomicgeeks.com/comic/4339810/ultimate-black-panther-24",
+   "read_link": ""
+  }
+ ]
+}

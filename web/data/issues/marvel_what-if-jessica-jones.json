@@ -1,0 +1,16 @@
+{
+ "id": "marvel_what-if-jessica-jones",
+ "nome": "What If...? Jessica Jones",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "What If...? Jessica Jones #1",
+   "data": "2026-07-15",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4543618.jpg?1786535972",
+   "link": "https://leagueofcomicgeeks.com/comic/4543618/what-if-jessica-jones-1",
+   "read_link": ""
+  }
+ ]
+}

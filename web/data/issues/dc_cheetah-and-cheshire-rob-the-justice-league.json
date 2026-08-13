@@ -1,0 +1,61 @@
+{
+ "id": "dc_cheetah-and-cheshire-rob-the-justice-league",
+ "nome": "Cheetah and Cheshire Rob the Justice League",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Cheetah and Cheshire Rob the Justice League #1",
+   "data": "2025-08-06",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4706389.jpg?1774298122",
+   "link": "https://leagueofcomicgeeks.com/comic/4706389/cheetah-and-cheshire-rob-the-justice-league-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Cheetah and Cheshire Rob the Justice League #2",
+   "data": "2025-09-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4755418.jpg?1774298221",
+   "link": "https://leagueofcomicgeeks.com/comic/4755418/cheetah-and-cheshire-rob-the-justice-league-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Cheetah and Cheshire Rob the Justice League #3",
+   "data": "2025-10-01",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5224612.jpg?1761857525",
+   "link": "https://leagueofcomicgeeks.com/comic/5224612/cheetah-and-cheshire-rob-the-justice-league-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Cheetah and Cheshire Rob the Justice League #4",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4465988.jpg?1763604568",
+   "link": "https://leagueofcomicgeeks.com/comic/4465988/cheetah-and-cheshire-rob-the-justice-league-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Cheetah and Cheshire Rob the Justice League #5",
+   "data": "2025-12-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7471118.jpg?1765010485",
+   "link": "https://leagueofcomicgeeks.com/comic/7471118/cheetah-and-cheshire-rob-the-justice-league-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Cheetah and Cheshire Rob the Justice League #6",
+   "data": "2026-01-07",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5329805.jpg?1767889148",
+   "link": "https://leagueofcomicgeeks.com/comic/5329805/cheetah-and-cheshire-rob-the-justice-league-6",
+   "read_link": ""
+  }
+ ]
+}

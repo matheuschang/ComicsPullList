@@ -1,0 +1,61 @@
+{
+ "id": "dc_harley-ivy-life-crimes",
+ "nome": "Harley & Ivy: Life & Crimes",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Harley & Ivy: Life & Crimes #1",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6009130.jpg?1766997097",
+   "link": "https://leagueofcomicgeeks.com/comic/6009130/harley-ivy-life-crimes-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Harley & Ivy: Life & Crimes #2",
+   "data": "2025-12-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6484996.jpg?1766997120",
+   "link": "https://leagueofcomicgeeks.com/comic/6484996/harley-ivy-life-crimes-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Harley & Ivy: Life & Crimes #3",
+   "data": "2026-01-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3679475.jpg?1769725895",
+   "link": "https://leagueofcomicgeeks.com/comic/3679475/harley-ivy-life-crimes-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Harley & Ivy: Life & Crimes #4",
+   "data": "2026-03-11",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8730699.jpg?1782693108",
+   "link": "https://leagueofcomicgeeks.com/comic/8730699/harley-ivy-life-crimes-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Harley & Ivy: Life & Crimes #5",
+   "data": "2026-04-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7947792.jpg?1782496909",
+   "link": "https://leagueofcomicgeeks.com/comic/7947792/harley-ivy-life-crimes-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Harley & Ivy: Life & Crimes #6",
+   "data": "2026-06-03",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3649359.jpg?1782497026",
+   "link": "https://leagueofcomicgeeks.com/comic/3649359/harley-ivy-life-crimes-6",
+   "read_link": ""
+  }
+ ]
+}

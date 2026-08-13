@@ -1,0 +1,295 @@
+{
+ "id": "dc_titans",
+ "nome": "Titans",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Titans #1",
+   "data": "2023-05-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9969890.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/9969890/titans-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Titans #2",
+   "data": "2023-06-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1622241.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/1622241/titans-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Titans #3",
+   "data": "2023-09-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3094767.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/3094767/titans-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Titans #4",
+   "data": "2023-10-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2346009.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/2346009/titans-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Titans #5",
+   "data": "2023-11-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9534352.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/9534352/titans-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Titans #6",
+   "data": "2023-12-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3346347.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/3346347/titans-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Titans #7",
+   "data": "2024-01-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6022581.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/6022581/titans-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Titans #8",
+   "data": "2024-02-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1776620.jpg?1781533059",
+   "link": "https://leagueofcomicgeeks.com/comic/1776620/titans-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Titans #9",
+   "data": "2024-03-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5306895.jpg?1781527676",
+   "link": "https://leagueofcomicgeeks.com/comic/5306895/titans-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Titans #10",
+   "data": "2024-04-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9245267.jpg?1781527788",
+   "link": "https://leagueofcomicgeeks.com/comic/9245267/titans-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "Titans #11",
+   "data": "2024-05-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9549196.jpg?1781527856",
+   "link": "https://leagueofcomicgeeks.com/comic/9549196/titans-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "Titans #12",
+   "data": "2024-06-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1101448.jpg?1781527902",
+   "link": "https://leagueofcomicgeeks.com/comic/1101448/titans-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "Titans #13",
+   "data": "2024-07-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6573870.jpg?1781527946",
+   "link": "https://leagueofcomicgeeks.com/comic/6573870/titans-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "Titans #14",
+   "data": "2024-08-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5945370.jpg?1782099692",
+   "link": "https://leagueofcomicgeeks.com/comic/5945370/titans-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "Titans #15",
+   "data": "2024-09-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9910150.jpg?1782223793",
+   "link": "https://leagueofcomicgeeks.com/comic/9910150/titans-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "Titans #16",
+   "data": "2024-10-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7135835.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/7135835/titans-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "Titans #17",
+   "data": "2024-11-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3909071.jpg?1783610736",
+   "link": "https://leagueofcomicgeeks.com/comic/3909071/titans-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "Titans #18",
+   "data": "2024-12-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2371166.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/2371166/titans-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "Titans #19",
+   "data": "2025-01-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8607093.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/8607093/titans-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "Titans #20",
+   "data": "2025-02-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3356384.jpg?1782224137",
+   "link": "https://leagueofcomicgeeks.com/comic/3356384/titans-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "Titans #21",
+   "data": "2025-03-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1764725.jpg?1782224115",
+   "link": "https://leagueofcomicgeeks.com/comic/1764725/titans-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "Titans #22",
+   "data": "2025-04-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1216770.jpg?1782224095",
+   "link": "https://leagueofcomicgeeks.com/comic/1216770/titans-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "Titans #23",
+   "data": "2025-05-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3844797.jpg?1782224076",
+   "link": "https://leagueofcomicgeeks.com/comic/3844797/titans-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "Titans #24",
+   "data": "2025-06-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4084115.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/4084115/titans-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "Titans #25",
+   "data": "2025-07-16",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2510286.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/2510286/titans-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "Titans #26",
+   "data": "2025-08-20",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2640284.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/2640284/titans-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "Titans #27",
+   "data": "2025-09-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3740615.jpg?1782224050",
+   "link": "https://leagueofcomicgeeks.com/comic/3740615/titans-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "Titans #28",
+   "data": "2025-10-15",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1031583.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/1031583/titans-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "Titans #29",
+   "data": "2025-11-19",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5767350.jpg?1771576253",
+   "link": "https://leagueofcomicgeeks.com/comic/5767350/titans-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "Titans #30",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2986293.jpg?1781780159",
+   "link": "https://leagueofcomicgeeks.com/comic/2986293/titans-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "Titans #31",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9548816.jpg?1782223994",
+   "link": "https://leagueofcomicgeeks.com/comic/9548816/titans-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "Titans #32",
+   "data": "2026-02-18",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2021612.jpg?1782224018",
+   "link": "https://leagueofcomicgeeks.com/comic/2021612/titans-32",
+   "read_link": ""
+  }
+ ]
+}

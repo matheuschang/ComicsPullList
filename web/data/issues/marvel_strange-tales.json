@@ -1,0 +1,43 @@
+{
+ "id": "marvel_strange-tales",
+ "nome": "Strange Tales",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Strange Tales #1",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2178634.jpg?1764618925",
+   "link": "https://leagueofcomicgeeks.com/comic/2178634/strange-tales-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Strange Tales #2",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7365880.jpg?1770968727",
+   "link": "https://leagueofcomicgeeks.com/comic/7365880/strange-tales-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Strange Tales #3",
+   "data": "2025-12-17",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9342909.jpg?1770968777",
+   "link": "https://leagueofcomicgeeks.com/comic/9342909/strange-tales-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Strange Tales #4",
+   "data": "2026-01-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4830675.jpg?1770968989",
+   "link": "https://leagueofcomicgeeks.com/comic/4830675/strange-tales-4",
+   "read_link": ""
+  }
+ ]
+}

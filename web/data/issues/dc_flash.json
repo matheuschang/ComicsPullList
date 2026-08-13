@@ -1,0 +1,340 @@
+{
+ "id": "dc_flash",
+ "nome": "The Flash",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Flash #1",
+   "data": "2023-09-26",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9622181.jpg?1763840247",
+   "link": "https://leagueofcomicgeeks.com/comic/9622181/the-flash-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Flash #2",
+   "data": "2023-10-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3768195.jpg?1781481692",
+   "link": "https://leagueofcomicgeeks.com/comic/3768195/the-flash-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Flash #3",
+   "data": "2023-11-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3828453.jpg?1754222613",
+   "link": "https://leagueofcomicgeeks.com/comic/3828453/the-flash-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Flash #4",
+   "data": "2023-12-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3290342.jpg?1761846811",
+   "link": "https://leagueofcomicgeeks.com/comic/3290342/the-flash-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Flash #5",
+   "data": "2024-01-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9386086.jpg?1738429200",
+   "link": "https://leagueofcomicgeeks.com/comic/9386086/the-flash-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "The Flash #6",
+   "data": "2024-02-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5599049.jpg?1738344279",
+   "link": "https://leagueofcomicgeeks.com/comic/5599049/the-flash-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "The Flash #7",
+   "data": "2024-03-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4269975.jpg?1737933816",
+   "link": "https://leagueofcomicgeeks.com/comic/4269975/the-flash-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "The Flash #8",
+   "data": "2024-04-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2679450.jpg?1714748688",
+   "link": "https://leagueofcomicgeeks.com/comic/2679450/the-flash-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "The Flash #9",
+   "data": "2024-05-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7763563.jpg?1727824548",
+   "link": "https://leagueofcomicgeeks.com/comic/7763563/the-flash-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "The Flash #10",
+   "data": "2024-06-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4289595.jpg?1727824587",
+   "link": "https://leagueofcomicgeeks.com/comic/4289595/the-flash-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "The Flash #11",
+   "data": "2024-07-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9928789.jpg?1727824664",
+   "link": "https://leagueofcomicgeeks.com/comic/9928789/the-flash-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "The Flash #12",
+   "data": "2024-08-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4687780.jpg?1778383925",
+   "link": "https://leagueofcomicgeeks.com/comic/4687780/the-flash-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "The Flash #13",
+   "data": "2024-09-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7587208.jpg?1778171782",
+   "link": "https://leagueofcomicgeeks.com/comic/7587208/the-flash-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "The Flash #14",
+   "data": "2024-10-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1634583.jpg?1774543045",
+   "link": "https://leagueofcomicgeeks.com/comic/1634583/the-flash-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "The Flash #15",
+   "data": "2024-11-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6511047.jpg?1738598813",
+   "link": "https://leagueofcomicgeeks.com/comic/6511047/the-flash-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "The Flash #16",
+   "data": "2024-12-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8497583.jpg?1783024874",
+   "link": "https://leagueofcomicgeeks.com/comic/8497583/the-flash-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "The Flash #17",
+   "data": "2025-01-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1852899.jpg?1781803040",
+   "link": "https://leagueofcomicgeeks.com/comic/1852899/the-flash-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "The Flash #18",
+   "data": "2025-02-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3501352.jpg?1781803031",
+   "link": "https://leagueofcomicgeeks.com/comic/3501352/the-flash-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "The Flash #19",
+   "data": "2025-03-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1760045.jpg?1781803024",
+   "link": "https://leagueofcomicgeeks.com/comic/1760045/the-flash-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "The Flash #20",
+   "data": "2025-04-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7541328.jpg?1751660967",
+   "link": "https://leagueofcomicgeeks.com/comic/7541328/the-flash-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "The Flash #21",
+   "data": "2025-05-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1497209.jpg?1754927146",
+   "link": "https://leagueofcomicgeeks.com/comic/1497209/the-flash-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "The Flash #22",
+   "data": "2025-06-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1018657.jpg?1778868741",
+   "link": "https://leagueofcomicgeeks.com/comic/1018657/the-flash-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "The Flash #23",
+   "data": "2025-07-30",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8904308.jpg?1785983145",
+   "link": "https://leagueofcomicgeeks.com/comic/8904308/the-flash-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "The Flash #24",
+   "data": "2025-08-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5829048.jpg?1756345086",
+   "link": "https://leagueofcomicgeeks.com/comic/5829048/the-flash-24",
+   "read_link": ""
+  },
+  {
+   "numero": "25",
+   "titulo": "The Flash #25",
+   "data": "2025-09-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9697498.jpg?1758743575",
+   "link": "https://leagueofcomicgeeks.com/comic/9697498/the-flash-25",
+   "read_link": ""
+  },
+  {
+   "numero": "26",
+   "titulo": "The Flash #26",
+   "data": "2025-10-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8560870.jpg?1784174222",
+   "link": "https://leagueofcomicgeeks.com/comic/8560870/the-flash-26",
+   "read_link": ""
+  },
+  {
+   "numero": "27",
+   "titulo": "The Flash #27",
+   "data": "2025-11-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4591538.jpg?1781801617",
+   "link": "https://leagueofcomicgeeks.com/comic/4591538/the-flash-27",
+   "read_link": ""
+  },
+  {
+   "numero": "28",
+   "titulo": "The Flash #28",
+   "data": "2025-12-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2309849.jpg?1781780139",
+   "link": "https://leagueofcomicgeeks.com/comic/2309849/the-flash-28",
+   "read_link": ""
+  },
+  {
+   "numero": "29",
+   "titulo": "The Flash #29",
+   "data": "2026-01-28",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3191779.jpg?1780192610",
+   "link": "https://leagueofcomicgeeks.com/comic/3191779/the-flash-29",
+   "read_link": ""
+  },
+  {
+   "numero": "30",
+   "titulo": "The Flash #30",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6612083.jpg?1780192653",
+   "link": "https://leagueofcomicgeeks.com/comic/6612083/the-flash-30",
+   "read_link": ""
+  },
+  {
+   "numero": "31",
+   "titulo": "The Flash #31",
+   "data": "2026-03-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8992986.jpg?1775499835",
+   "link": "https://leagueofcomicgeeks.com/comic/8992986/the-flash-31",
+   "read_link": ""
+  },
+  {
+   "numero": "32",
+   "titulo": "The Flash #32",
+   "data": "2026-04-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6657119.jpg?1781801607",
+   "link": "https://leagueofcomicgeeks.com/comic/6657119/the-flash-32",
+   "read_link": ""
+  },
+  {
+   "numero": "33",
+   "titulo": "The Flash #33",
+   "data": "2026-05-27",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2559422.jpg?1781801594",
+   "link": "https://leagueofcomicgeeks.com/comic/2559422/the-flash-33",
+   "read_link": ""
+  },
+  {
+   "numero": "34",
+   "titulo": "The Flash #34",
+   "data": "2026-06-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5513601.jpg?1782612172",
+   "link": "https://leagueofcomicgeeks.com/comic/5513601/the-flash-34",
+   "read_link": ""
+  },
+  {
+   "numero": "35",
+   "titulo": "The Flash #35",
+   "data": "2026-07-22",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9148052.jpg?1784679743",
+   "link": "https://leagueofcomicgeeks.com/comic/9148052/the-flash-35",
+   "read_link": ""
+  },
+  {
+   "numero": "36",
+   "titulo": "The Flash #36",
+   "data": "2026-08-26",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4999488.jpg?1785445635",
+   "link": "https://leagueofcomicgeeks.com/comic/4999488/the-flash-36",
+   "read_link": ""
+  },
+  {
+   "numero": "37",
+   "titulo": "The Flash #37",
+   "data": "2026-09-23",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7582342.jpg?1783098993",
+   "link": "https://leagueofcomicgeeks.com/comic/7582342/the-flash-37",
+   "read_link": ""
+  }
+ ]
+}

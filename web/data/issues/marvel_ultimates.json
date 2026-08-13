@@ -1,0 +1,223 @@
+{
+ "id": "marvel_ultimates",
+ "nome": "The Ultimates",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "The Ultimates #1",
+   "data": "2024-06-05",
+   "preco": "5.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6460185.jpg?1767063726",
+   "link": "https://leagueofcomicgeeks.com/comic/6460185/the-ultimates-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "The Ultimates #2",
+   "data": "2024-07-10",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8962197.jpg?1782341024",
+   "link": "https://leagueofcomicgeeks.com/comic/8962197/the-ultimates-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "The Ultimates #3",
+   "data": "2024-08-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5525832.jpg?1767063649",
+   "link": "https://leagueofcomicgeeks.com/comic/5525832/the-ultimates-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "The Ultimates #4",
+   "data": "2024-09-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2003141.jpg?1761176798",
+   "link": "https://leagueofcomicgeeks.com/comic/2003141/the-ultimates-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "The Ultimates #5",
+   "data": "2024-10-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1911366.jpg?1769018098",
+   "link": "https://leagueofcomicgeeks.com/comic/1911366/the-ultimates-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "The Ultimates #6",
+   "data": "2024-11-06",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7143571.jpg?1769018080",
+   "link": "https://leagueofcomicgeeks.com/comic/7143571/the-ultimates-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "The Ultimates #7",
+   "data": "2024-12-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3033465.jpg?1775900268",
+   "link": "https://leagueofcomicgeeks.com/comic/3033465/the-ultimates-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "The Ultimates #8",
+   "data": "2025-01-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3019706.jpg?1778800320",
+   "link": "https://leagueofcomicgeeks.com/comic/3019706/the-ultimates-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "The Ultimates #9",
+   "data": "2025-02-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6596056.jpg?1738779534",
+   "link": "https://leagueofcomicgeeks.com/comic/6596056/the-ultimates-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "The Ultimates #10",
+   "data": "2025-03-05",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9417609.jpg?1741133957",
+   "link": "https://leagueofcomicgeeks.com/comic/9417609/the-ultimates-10",
+   "read_link": ""
+  },
+  {
+   "numero": "11",
+   "titulo": "The Ultimates #11",
+   "data": "2025-04-09",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5460954.jpg?1751626659",
+   "link": "https://leagueofcomicgeeks.com/comic/5460954/the-ultimates-11",
+   "read_link": ""
+  },
+  {
+   "numero": "12",
+   "titulo": "The Ultimates #12",
+   "data": "2025-05-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7972279.jpg?1748169754",
+   "link": "https://leagueofcomicgeeks.com/comic/7972279/the-ultimates-12",
+   "read_link": ""
+  },
+  {
+   "numero": "13",
+   "titulo": "The Ultimates #13",
+   "data": "2025-06-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5127298.jpg?1774272088",
+   "link": "https://leagueofcomicgeeks.com/comic/5127298/the-ultimates-13",
+   "read_link": ""
+  },
+  {
+   "numero": "14",
+   "titulo": "The Ultimates #14",
+   "data": "2025-07-30",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7250164.jpg?1764321395",
+   "link": "https://leagueofcomicgeeks.com/comic/7250164/the-ultimates-14",
+   "read_link": ""
+  },
+  {
+   "numero": "15",
+   "titulo": "The Ultimates #15",
+   "data": "2025-08-13",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8304824.jpg?1755548944",
+   "link": "https://leagueofcomicgeeks.com/comic/8304824/the-ultimates-15",
+   "read_link": ""
+  },
+  {
+   "numero": "16",
+   "titulo": "The Ultimates #16",
+   "data": "2025-09-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8330305.jpg?1776741436",
+   "link": "https://leagueofcomicgeeks.com/comic/8330305/the-ultimates-16",
+   "read_link": ""
+  },
+  {
+   "numero": "17",
+   "titulo": "The Ultimates #17",
+   "data": "2025-10-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8138802.jpg?1768435657",
+   "link": "https://leagueofcomicgeeks.com/comic/8138802/the-ultimates-17",
+   "read_link": ""
+  },
+  {
+   "numero": "18",
+   "titulo": "The Ultimates #18",
+   "data": "2025-11-19",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5566620.jpg?1771621543",
+   "link": "https://leagueofcomicgeeks.com/comic/5566620/the-ultimates-18",
+   "read_link": ""
+  },
+  {
+   "numero": "19",
+   "titulo": "The Ultimates #19",
+   "data": "2025-12-31",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3431283.jpg?1767819245",
+   "link": "https://leagueofcomicgeeks.com/comic/3431283/the-ultimates-19",
+   "read_link": ""
+  },
+  {
+   "numero": "20",
+   "titulo": "The Ultimates #20",
+   "data": "2026-01-14",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3667017.jpg?1778295196",
+   "link": "https://leagueofcomicgeeks.com/comic/3667017/the-ultimates-20",
+   "read_link": ""
+  },
+  {
+   "numero": "21",
+   "titulo": "The Ultimates #21",
+   "data": "2026-02-25",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4696672.jpg?1779982352",
+   "link": "https://leagueofcomicgeeks.com/comic/4696672/the-ultimates-21",
+   "read_link": ""
+  },
+  {
+   "numero": "22",
+   "titulo": "The Ultimates #22",
+   "data": "2026-03-18",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1693232.jpg?1779987550",
+   "link": "https://leagueofcomicgeeks.com/comic/1693232/the-ultimates-22",
+   "read_link": ""
+  },
+  {
+   "numero": "23",
+   "titulo": "The Ultimates #23",
+   "data": "2026-04-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6383159.jpg?1777468280",
+   "link": "https://leagueofcomicgeeks.com/comic/6383159/the-ultimates-23",
+   "read_link": ""
+  },
+  {
+   "numero": "24",
+   "titulo": "The Ultimates #24",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4536051.jpg?1780497819",
+   "link": "https://leagueofcomicgeeks.com/comic/4536051/the-ultimates-24",
+   "read_link": ""
+  }
+ ]
+}

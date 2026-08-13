@@ -1,0 +1,61 @@
+{
+ "id": "dc_batman-giant-sized-special-edition",
+ "nome": "Batman: Giant-Sized Special Edition",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "158",
+   "titulo": "Batman: Giant-Sized Special Edition #158",
+   "data": "2025-03-26",
+   "preco": "14.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4001045.jpg?1758899784",
+   "link": "https://leagueofcomicgeeks.com/comic/4001045/batman-giant-sized-special-edition-158",
+   "read_link": ""
+  },
+  {
+   "numero": "159",
+   "titulo": "Batman: Giant-Sized Special Edition #159",
+   "data": "2025-04-23",
+   "preco": "14.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1872619.jpg?1758899784",
+   "link": "https://leagueofcomicgeeks.com/comic/1872619/batman-giant-sized-special-edition-159",
+   "read_link": ""
+  },
+  {
+   "numero": "160",
+   "titulo": "Batman: Giant-Sized Special Edition #160",
+   "data": "2025-05-28",
+   "preco": "14.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1104249.jpg?1758899784",
+   "link": "https://leagueofcomicgeeks.com/comic/1104249/batman-giant-sized-special-edition-160",
+   "read_link": ""
+  },
+  {
+   "numero": "161",
+   "titulo": "Batman: Giant-Sized Special Edition #161",
+   "data": "2025-07-23",
+   "preco": "14.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3448420.jpg?1758899784",
+   "link": "https://leagueofcomicgeeks.com/comic/3448420/batman-giant-sized-special-edition-161",
+   "read_link": ""
+  },
+  {
+   "numero": "162",
+   "titulo": "Batman: Giant-Sized Special Edition #162",
+   "data": "2025-11-12",
+   "preco": "14.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1101450.jpg?1760709147",
+   "link": "https://leagueofcomicgeeks.com/comic/1101450/batman-giant-sized-special-edition-162",
+   "read_link": ""
+  },
+  {
+   "numero": "163",
+   "titulo": "Batman: Giant-Sized Special Edition #163",
+   "data": "2026-05-27",
+   "preco": "14.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2474380.jpg?1778553530",
+   "link": "https://leagueofcomicgeeks.com/comic/2474380/batman-giant-sized-special-edition-163",
+   "read_link": ""
+  }
+ ]
+}

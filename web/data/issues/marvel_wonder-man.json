@@ -1,0 +1,52 @@
+{
+ "id": "marvel_wonder-man",
+ "nome": "Wonder Man",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Wonder Man #1",
+   "data": "2026-04-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7177734.jpg?1785427503",
+   "link": "https://leagueofcomicgeeks.com/comic/7177734/wonder-man-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Wonder Man #2",
+   "data": "2026-04-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4666717.jpg?1785427533",
+   "link": "https://leagueofcomicgeeks.com/comic/4666717/wonder-man-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Wonder Man #3",
+   "data": "2026-05-27",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2469288.jpg?1785427610",
+   "link": "https://leagueofcomicgeeks.com/comic/2469288/wonder-man-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Wonder Man #4",
+   "data": "2026-06-17",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6023525.jpg?1785427579",
+   "link": "https://leagueofcomicgeeks.com/comic/6023525/wonder-man-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Wonder Man #5",
+   "data": "2026-07-22",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4209972.jpg?1785427561",
+   "link": "https://leagueofcomicgeeks.com/comic/4209972/wonder-man-5",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "marvel_spirits-of-violence",
+ "nome": "Spirits of Violence",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Spirits of Violence #1",
+   "data": "2025-10-01",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5563936.jpg?1762359694",
+   "link": "https://leagueofcomicgeeks.com/comic/5563936/spirits-of-violence-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Spirits of Violence #2",
+   "data": "2025-11-05",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9665071.jpg?1763553621",
+   "link": "https://leagueofcomicgeeks.com/comic/9665071/spirits-of-violence-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Spirits of Violence #3",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1490386.jpg?1765910347",
+   "link": "https://leagueofcomicgeeks.com/comic/1490386/spirits-of-violence-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Spirits of Violence #4",
+   "data": "2026-01-14",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7530843.jpg?1770265330",
+   "link": "https://leagueofcomicgeeks.com/comic/7530843/spirits-of-violence-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Spirits of Violence #5",
+   "data": "2026-02-04",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3461818.jpg?1778018033",
+   "link": "https://leagueofcomicgeeks.com/comic/3461818/spirits-of-violence-5",
+   "read_link": ""
+  }
+ ]
+}

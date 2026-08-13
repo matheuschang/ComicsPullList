@@ -1,0 +1,25 @@
+{
+ "id": "dc_dc-x-aew",
+ "nome": "DC x AEW",
+ "editora": "dc",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "DC x AEW #1",
+   "data": "2026-02-04",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3251358.jpg?1783091687",
+   "link": "https://leagueofcomicgeeks.com/comic/3251358/dc-x-aew-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "DC x AEW #2",
+   "data": "2026-03-11",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3087218.jpg?1783091725",
+   "link": "https://leagueofcomicgeeks.com/comic/3087218/dc-x-aew-2",
+   "read_link": ""
+  }
+ ]
+}

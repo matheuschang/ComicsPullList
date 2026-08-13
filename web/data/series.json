@@ -1,0 +1,6810 @@
+[
+ {
+  "id": "dc_100-bullets-the-us-of-anger",
+  "nome": "100 Bullets: The US of Anger",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4886983.jpg?1781808474",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-batman",
+  "nome": "Absolute Batman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3952461.jpg?1786050106",
+  "edicoes_conhecidas": 24,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-10-09"
+  },
+  "ultima_edicao": {
+   "numero": "23",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "24",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-batman-ark-m-special",
+  "nome": "Absolute Batman: Ark M Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7993695.jpg?1780168984",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-07"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-07"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-cassandra-cain-the-shadow-s-hand",
+  "nome": "Absolute Cassandra Cain: The Shadow's Hand",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9567504.jpg?1786548930",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-catwoman",
+  "nome": "Absolute Catwoman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3606895.jpg?1784771398",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-10"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-07-08"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-flash",
+  "nome": "Absolute Flash",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1587344.jpg?1781811775",
+  "edicoes_conhecidas": 19,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-03-19"
+  },
+  "ultima_edicao": {
+   "numero": "17",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "18",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-green-arrow",
+  "nome": "Absolute Green Arrow",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1153213.jpg?1785106557",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-20"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-green-lantern",
+  "nome": "Absolute Green Lantern",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1586369.jpg?1786046028",
+  "edicoes_conhecidas": 18,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-04-02"
+  },
+  "ultima_edicao": {
+   "numero": "17",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "18",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-martian-manhunter",
+  "nome": "Absolute Martian Manhunter",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7124600.jpg?1783107627",
+  "edicoes_conhecidas": 12,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-03-26"
+  },
+  "ultima_edicao": {
+   "numero": "12",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-superman",
+  "nome": "Absolute Superman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7919676.jpg?1786046405",
+  "edicoes_conhecidas": 23,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-11-06"
+  },
+  "ultima_edicao": {
+   "numero": "22",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "23",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-wonder-woman",
+  "nome": "Absolute Wonder Woman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2604793.jpg?1781811850",
+  "edicoes_conhecidas": 24,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-10-23"
+  },
+  "ultima_edicao": {
+   "numero": "22",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "23",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_absolute-wonder-woman-2026-annual",
+  "nome": "Absolute Wonder Woman 2026 Annual",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1134204.jpg?1779387712",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_action-comics",
+  "nome": "Action Comics",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2403358.jpg?1782785146",
+  "edicoes_conhecidas": 146,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "957",
+   "data": "2016-06-08"
+  },
+  "ultima_edicao": {
+   "numero": "1101",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "1102",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_adventures-of-superman-book-of-el",
+  "nome": "Adventures of Superman: Book of El",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3742461.jpg?1782785560",
+  "edicoes_conhecidas": 12,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-03"
+  },
+  "ultima_edicao": {
+   "numero": "11",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "12",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_aquaman",
+  "nome": "Aquaman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8791244.jpg?1779387691",
+  "edicoes_conhecidas": 14,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-01-08"
+  },
+  "ultima_edicao": {
+   "numero": "14",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_aquaman-yo-ho-hold-onto-your-hook",
+  "nome": "Aquaman: Yo-Ho-Hold onto Your Hook!",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9688417.jpg?1772773958",
+  "edicoes_conhecidas": 26,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-16"
+  },
+  "ultima_edicao": {
+   "numero": "26",
+   "data": "2026-02-03"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_barbara-gordon-breakout",
+  "nome": "Barbara Gordon: Breakout",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9655665.jpg?1783449498",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-13"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batgirl",
+  "nome": "Batgirl",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9277505.jpg?1786046614",
+  "edicoes_conhecidas": 23,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-11-06"
+  },
+  "ultima_edicao": {
+   "numero": "22",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "23",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman",
+  "nome": "Batman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1126236.jpg?1780495945",
+  "edicoes_conhecidas": 163,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-03"
+  },
+  "ultima_edicao": {
+   "numero": "163",
+   "data": "2026-05-27"
+  },
+  "proxima_edicao": {
+   "numero": "13",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-green-arrow-the-question-arcadia",
+  "nome": "Batman / Green Arrow / The Question: Arcadia",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4085613.jpg?1783378199",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-26"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-static-beyond",
+  "nome": "Batman / Static: Beyond",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9503620.jpg?1778808137",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-12"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-05-06"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-superman-weird-al-world-s-weirdest",
+  "nome": "Batman / Superman / Weird Al: World's Weirdest",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7648239.jpg?1786047811",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-superman-world-s-finest",
+  "nome": "Batman / Superman: World's Finest",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4395617.jpg?1781813285",
+  "edicoes_conhecidas": 26,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "30",
+   "data": "2024-08-21"
+  },
+  "ultima_edicao": {
+   "numero": "53",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "54",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-superman-world-s-finest-2026-annual",
+  "nome": "Batman / Superman: World's Finest 2026 Annual",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8134066.jpg?1785813503",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-wonder-woman-truth",
+  "nome": "Batman / Wonder Woman: Truth",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8844555.jpg?1778268495",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-and-robin",
+  "nome": "Batman and Robin",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3846995.jpg?1779387669",
+  "edicoes_conhecidas": 30,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-09-12"
+  },
+  "ultima_edicao": {
+   "numero": "30",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-and-robin-year-one-dynamic-duos",
+  "nome": "Batman and Robin: Year One – Dynamic Duos",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8397405.jpg?1782325294",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-12"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-day-2026-batman-of-two-worlds",
+  "nome": "Batman Day 2026: Batman of Two Worlds",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4935691.jpg?1784931562",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-19"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-19"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-bad-seeds-gotham-central",
+  "nome": "Batman: Bad Seeds – Gotham Central",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8653804.jpg?1781811863",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-bad-seeds-gotham-general",
+  "nome": "Batman: Bad Seeds – Gotham General",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7892538.jpg?1781811708",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-bad-seeds-sunset",
+  "nome": "Batman: Bad Seeds – Sunset",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9187427.jpg?1785632179",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-dark-patterns-pareidolia",
+  "nome": "Batman: Dark Patterns – Pareidolia",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6896975.jpg?1785660968",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-gargoyle-of-gotham",
+  "nome": "Batman: Gargoyle of Gotham",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3052889.jpg?1786547868",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-09-12"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-06-10"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-gargoyle-of-gotham-noir-edition",
+  "nome": "Batman: Gargoyle of Gotham – Noir Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3579923.jpg?1778194298",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-09-12"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-06-10"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-giant-sized-special-edition",
+  "nome": "Batman: Giant-Sized Special Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2474380.jpg?1778553530",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "158",
+   "data": "2025-03-26"
+  },
+  "ultima_edicao": {
+   "numero": "163",
+   "data": "2026-05-27"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batman-r-i-p",
+  "nome": "Batman: R.I.P.",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3127388.jpg?1785660985",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_batwoman",
+  "nome": "Batwoman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5609092.jpg?1781812187",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-18"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "6",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_bizarro-year-none",
+  "nome": "Bizarro: Year None",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9288857.jpg?1781841285",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-06-24"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_black-tower-the-raven-conspiracy",
+  "nome": "Black Tower: The Raven Conspiracy",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7391903.jpg?1784633341",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_bleeding-hearts",
+  "nome": "Bleeding Hearts",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3243782.jpg?1781830022",
+  "edicoes_conhecidas": 8,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "7",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "8",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_c-o-r-t-children-of-the-round-table",
+  "nome": "C.O.R.T.: Children of the Round Table",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8118724.jpg?1771296692",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-10"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_catwoman",
+  "nome": "Catwoman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1254464.jpg?1784723961",
+  "edicoes_conhecidas": 91,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2018-07-04"
+  },
+  "ultima_edicao": {
+   "numero": "89",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "90",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_cheetah-and-cheshire-rob-the-justice-league",
+  "nome": "Cheetah and Cheshire Rob the Justice League",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5329805.jpg?1767889148",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-08-06"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-01-07"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_clayface-celebrity-dirt",
+  "nome": "Clayface: Celebrity Dirt",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7056380.jpg?1786313320",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-08"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dark-knights-of-steel-ii",
+  "nome": "Dark Knights of Steel II",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5430723.jpg?1781841807",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-15"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dark-knights-of-steel-heir-to-the-sea",
+  "nome": "Dark Knights of Steel: Heir to the Sea",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5139937.jpg?1782438116",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-marvel-supergirl-blade",
+  "nome": "DC / Marvel: Supergirl / Blade",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4647565.jpg?1775683965",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-08"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-08"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-marvel-superman-spider-man",
+  "nome": "DC / Marvel: Superman / Spider-Man",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1666180.jpg?1782779375",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-25"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-03-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-and-marvel-present-superman-and-spider-man-treasury-edition",
+  "nome": "DC and Marvel Present: Superman and Spider-Man Treasury Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8601661.jpg?1767629341",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-k-o",
+  "nome": "DC K.O.",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4580771.jpg?1785890832",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-08"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-03-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-k-o-boss-battle",
+  "nome": "DC K.O.: Boss Battle",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2271078.jpg?1782422114",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-k-o-green-lantern-galactic-slam",
+  "nome": "DC K.O.: Green Lantern Galactic Slam",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2050058.jpg?1781303058",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-21"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-21"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-k-o-knightfight",
+  "nome": "DC K.O.: Knightfight",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7818841.jpg?1781408768",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-05"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-02-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-k-o-the-kids-are-all-fight-special",
+  "nome": "DC K.O.: The Kids Are All Fight Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2074662.jpg?1769763133",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-w-i-p-batman-the-dark-knight-returns",
+  "nome": "DC W.I.P.: Batman – The Dark Knight Returns",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5778665.jpg?1782327715",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-w-i-p-dark-nights-metal",
+  "nome": "DC W.I.P.: Dark Nights Metal",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6324001.jpg?1768163023",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-w-i-p-supergirl-woman-of-tomorrow",
+  "nome": "DC W.I.P.: Supergirl – Woman of Tomorrow",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3804667.jpg?1783054875",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-w-i-p-watchmen",
+  "nome": "DC W.I.P.: Watchmen",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4416054.jpg?1781827168",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-x-aew",
+  "nome": "DC x AEW",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3087218.jpg?1783091725",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-03-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-x-sonic-the-hedgehog-metal-legion",
+  "nome": "DC x Sonic the Hedgehog: Metal Legion",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3868702.jpg?1786208491",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "4",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-x-sonic-the-hedgehog-the-metal-legion",
+  "nome": "DC x Sonic the Hedgehog: The Metal Legion",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6973953.jpg?1785596447",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-s-hawk-girl-summer",
+  "nome": "DC's Hawk-Girl Summer",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7197891.jpg?1785449230",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-s-quoth-the-raven-whatever",
+  "nome": "DC's Quoth the Raven… Whatever",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7383783.jpg?1781819991",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_dc-s-supergirl-next-door",
+  "nome": "DC's Supergirl Next Door",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9950266.jpg?1769963928",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_deathstroke-the-terminator",
+  "nome": "Deathstroke: The Terminator",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4180296.jpg?1782317311",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-18"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "6",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_detective-comics",
+  "nome": "Detective Comics",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2449306.jpg?1784941387",
+  "edicoes_conhecidas": 29,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1085",
+   "data": "2024-05-28"
+  },
+  "ultima_edicao": {
+   "numero": "1111",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "1112",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_detective-comics-2026-annual",
+  "nome": "Detective Comics 2026 Annual",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8534965.jpg?1785833799",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_detective-comics-the-victim-syndicate",
+  "nome": "Detective Comics: The Victim Syndicate",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5537250.jpg?1779526364",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-09"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_emperor-aquaman",
+  "nome": "Emperor Aquaman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8730291.jpg?1785160754",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "15",
+   "data": "2026-03-11"
+  },
+  "ultima_edicao": {
+   "numero": "20",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "21",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_end-of-life",
+  "nome": "End of Life",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5717300.jpg?1781799391",
+  "edicoes_conhecidas": 8,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "7",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_free-comic-book-day-2026-aquamanatee-special-edition",
+  "nome": "Free Comic Book Day 2026: Aquamanatee Special Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9966686.jpg?1783499931",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_free-comic-book-day-2026-dc-next-level-sampler",
+  "nome": "Free Comic Book Day 2026: DC Next Level Sampler",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9925206.jpg?1779653847",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_free-comic-book-day-2026-dc-x-sonic-the-hedgehog-special-edition",
+  "nome": "Free Comic Book Day 2026: DC x Sonic the Hedgehog Special Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3183576.jpg?1777787303",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_free-comic-book-day-2026-lego-batman-legacy-of-the-dark-knight",
+  "nome": "Free Comic Book Day 2026: Lego Batman – Legacy of the Dark Knight",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8517462.jpg?1782846978",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_free-comic-book-day-2026-the-nice-house-on-the-lake-special-edition",
+  "nome": "Free Comic Book Day 2026: The Nice House on the Lake Special Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7753588.jpg?1781958764",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_gotham-academy-first-year",
+  "nome": "Gotham Academy: First Year",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1594361.jpg?1786384480",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-01"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_green-lantern",
+  "nome": "Green Lantern",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8252925.jpg?1785445845",
+  "edicoes_conhecidas": 39,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-05-09"
+  },
+  "ultima_edicao": {
+   "numero": "37",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "38",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_green-lantern-corps",
+  "nome": "Green Lantern Corps",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8435049.jpg?1781840910",
+  "edicoes_conhecidas": 20,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-02-12"
+  },
+  "ultima_edicao": {
+   "numero": "19",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "20",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_harley-ivy-life-crimes",
+  "nome": "Harley & Ivy: Life & Crimes",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3649359.jpg?1782497026",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-05"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_harley-quinn",
+  "nome": "Harley Quinn",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2446541.jpg?1781812510",
+  "edicoes_conhecidas": 66,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2021-03-23"
+  },
+  "ultima_edicao": {
+   "numero": "64",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "65",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_harley-quinn-in-paradise",
+  "nome": "Harley Quinn in Paradise",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2586670.jpg?1782645529",
+  "edicoes_conhecidas": 52,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-10-14"
+  },
+  "ultima_edicao": {
+   "numero": "52",
+   "data": "2026-02-17"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_immortal-legend-batman",
+  "nome": "Immortal Legend Batman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1711607.jpg?1774362243",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-08-27"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_jla-tower-of-babel",
+  "nome": "JLA: Tower of Babel",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5344376.jpg?1780389957",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-03-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_joe-kubert-100-years-a-life-in-covers",
+  "nome": "Joe Kubert: 100 Years – A Life in Covers",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2123646.jpg?1786120252",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_jon-kent-this-internship-is-my-kryptonite",
+  "nome": "Jon Kent: This Internship Is My Kryptonite",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5973502.jpg?1785892809",
+  "edicoes_conhecidas": 31,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-16"
+  },
+  "ultima_edicao": {
+   "numero": "31",
+   "data": "2026-08-04"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_jsa",
+  "nome": "JSA",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3906396.jpg?1786048440",
+  "edicoes_conhecidas": 23,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-11-06"
+  },
+  "ultima_edicao": {
+   "numero": "22",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "23",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_justice-league-intergalactic-special",
+  "nome": "Justice League Intergalactic Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2963439.jpg?1782319841",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_justice-league-red",
+  "nome": "Justice League Red",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5285041.jpg?1769981873",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-08-20"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_justice-league-unlimited",
+  "nome": "Justice League Unlimited",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6534000.jpg?1785630518",
+  "edicoes_conhecidas": 23,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-11-27"
+  },
+  "ultima_edicao": {
+   "numero": "21",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "22",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_justice-league-vs-godzilla-vs-kong-2",
+  "nome": "Justice League vs. Godzilla vs. Kong 2",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5425338.jpg?1772401607",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-06-04"
+  },
+  "ultima_edicao": {
+   "numero": "7",
+   "data": "2026-02-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_justice-league-dream-girls-a-dc-pride-event",
+  "nome": "Justice League: Dream Girls – A DC Pride Event",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3808778.jpg?1783432441",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-06-24"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_justice-league-heroes-of-the-pitch",
+  "nome": "Justice League: Heroes of the Pitch",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3075444.jpg?1782907763",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-20"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-20"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_justice-league-knight-vision-special",
+  "nome": "Justice League: Knight Vision Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2451599.jpg?1785467673",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_legion-of-super-heroes",
+  "nome": "Legion of Super-Heroes",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6670013.jpg?1786048889",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_lobo",
+  "nome": "Lobo",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2764915.jpg?1785195891",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-18"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "6",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_mad",
+  "nome": "Mad",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9433393.jpg?1782438792",
+  "edicoes_conhecidas": 51,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2018-04-18"
+  },
+  "ultima_edicao": {
+   "numero": "600",
+   "data": "2026-06-17"
+  },
+  "proxima_edicao": {
+   "numero": "601",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_mad-about-dc",
+  "nome": "Mad About DC",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8518835.jpg?1777648656",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_mad-hodgepodge-of-humor",
+  "nome": "Mad Hodgepodge of Humor",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6838422.jpg?1777635583",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-04-14"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_mad-spoofs-america",
+  "nome": "Mad Spoofs America",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4170603.jpg?1777788120",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_my-little-warlord",
+  "nome": "My Little Warlord",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1045561.jpg?1778117862",
+  "edicoes_conhecidas": 26,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-16"
+  },
+  "ultima_edicao": {
+   "numero": "26",
+   "data": "2026-05-06"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_new-history-of-the-dc-universe-the-dakota-incident",
+  "nome": "New History of the DC Universe: The Dakota Incident",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5993689.jpg?1777852216",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-25"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_new-titans",
+  "nome": "New Titans",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1547067.jpg?1783120988",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "33",
+   "data": "2026-03-18"
+  },
+  "ultima_edicao": {
+   "numero": "37",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "38",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_next-level-one-shot",
+  "nome": "Next Level: One Shot",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9884601.jpg?1786491305",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_nightwing",
+  "nome": "Nightwing",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3812734.jpg?1782317611",
+  "edicoes_conhecidas": 142,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2016-07-27"
+  },
+  "ultima_edicao": {
+   "numero": "140",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "141",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_nothing-butt-nightwing",
+  "nome": "Nothing Butt Nightwing",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1999185.jpg?1782645219",
+  "edicoes_conhecidas": 52,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-10-14"
+  },
+  "ultima_edicao": {
+   "numero": "52",
+   "data": "2026-06-04"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_poison-ivy",
+  "nome": "Poison Ivy",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1426929.jpg?1781896197",
+  "edicoes_conhecidas": 22,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "27",
+   "data": "2024-11-06"
+  },
+  "ultima_edicao": {
+   "numero": "46",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": {
+   "numero": "47",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_sirens-love-hurts",
+  "nome": "Sirens: Love Hurts",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1796167.jpg?1779845024",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-05-20"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_start-here-batman-2011",
+  "nome": "Start Here: Batman (2011)",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3883761.jpg?1785026288",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_start-here-batman-2016",
+  "nome": "Start Here: Batman (2016)",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2039689.jpg?1785025149",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_start-here-batman-dark-patterns",
+  "nome": "Start Here: Batman – Dark Patterns",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3747999.jpg?1785025037",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_start-here-batman-white-knight",
+  "nome": "Start Here: Batman – White Knight",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1315901.jpg?1785025263",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_stuart-fails-to-save-the-universe",
+  "nome": "Stuart Fails To Save The Universe",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7873031.jpg?1785171432",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-23"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_summer-of-supergirl-special",
+  "nome": "Summer of Supergirl Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3729618.jpg?1783277765",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-24"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-24"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_supergirl",
+  "nome": "Supergirl",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7622584.jpg?1782785123",
+  "edicoes_conhecidas": 17,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-05-14"
+  },
+  "ultima_edicao": {
+   "numero": "16",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "17",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_supergirl-survive",
+  "nome": "Supergirl: Survive",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2766506.jpg?1786049388",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman",
+  "nome": "Superman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2071458.jpg?1786535786",
+  "edicoes_conhecidas": 42,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-02-21"
+  },
+  "ultima_edicao": {
+   "numero": "40",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "41",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-2026-annual-year-one-thousand",
+  "nome": "Superman 2026 Annual: Year One Thousand",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5629404.jpg?1785713845",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-day-2026-dc-finest-presents-superman-time-and-time-again-special-edition",
+  "nome": "Superman Day 2026: DC Finest Presents – Superman: Time and Time Again Special Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2631375.jpg?1779372098",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-day-2026-supergirl",
+  "nome": "Superman Day 2026: Supergirl",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9039481.jpg?1777473946",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-day-2026-supergirl-the-world-special-edition",
+  "nome": "Superman Day 2026: Supergirl – The World Special Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9976847.jpg?1777590478",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-day-2026-supergirl-woman-of-tomorrow",
+  "nome": "Superman Day 2026: Supergirl – Woman of Tomorrow",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5903796.jpg?1781192369",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-day-2026-supergirl-s-zoo-per-heroes-krypto-s-big-break-special-edition",
+  "nome": "Superman Day 2026: Supergirl's Zoo-per Heroes – Krypto's Big Break Special Edition",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4731956.jpg?1783499896",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-day-2026-superman",
+  "nome": "Superman Day 2026: Superman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3213212.jpg?1776963640",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-unlimited",
+  "nome": "Superman Unlimited",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4861384.jpg?1782785078",
+  "edicoes_conhecidas": 17,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-05-21"
+  },
+  "ultima_edicao": {
+   "numero": "15",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "16",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-chains-of-love-special",
+  "nome": "Superman: Chains of Love Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3025020.jpg?1772761260",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-escape-from-dinosaur-island",
+  "nome": "Superman: Escape from Dinosaur Island",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1048442.jpg?1785660919",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-father-of-tomorrow",
+  "nome": "Superman: Father of Tomorrow",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5809864.jpg?1781841972",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-27"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-kingdom-of-zod-special",
+  "nome": "Superman: Kingdom of Zod Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8255540.jpg?1782785228",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_superman-the-stranger",
+  "nome": "Superman: The Stranger",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4301596.jpg?1786049511",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_swamp-thing-1989",
+  "nome": "Swamp Thing 1989",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9603731.jpg?1784767143",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_tales-of-the-green-lantern-corps-guy-gardner",
+  "nome": "Tales of the Green Lantern Corps: Guy Gardner",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3299160.jpg?1778645124",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_taste-of-justice",
+  "nome": "Taste of Justice",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5124300.jpg?1785470797",
+  "edicoes_conhecidas": 26,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-16"
+  },
+  "ultima_edicao": {
+   "numero": "26",
+   "data": "2026-07-31"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_teen-titans",
+  "nome": "Teen Titans",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1958996.jpg?1786559819",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_teen-titans-go",
+  "nome": "Teen Titans Go!",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4845485.jpg?1770217142",
+  "edicoes_conhecidas": 12,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-03-05"
+  },
+  "ultima_edicao": {
+   "numero": "12",
+   "data": "2026-02-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_bat-man-second-knight",
+  "nome": "The Bat-Man: Second Knight",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4292427.jpg?1772077423",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-17"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-02-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_deadman",
+  "nome": "The Deadman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2005964.jpg?1786404268",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_doom-patrol",
+  "nome": "The Doom Patrol",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9098419.jpg?1786048173",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_flash",
+  "nome": "The Flash",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7582342.jpg?1783098993",
+  "edicoes_conhecidas": 37,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-09-26"
+  },
+  "ultima_edicao": {
+   "numero": "35",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "36",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_fury-of-firestorm",
+  "nome": "The Fury of Firestorm",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7620924.jpg?1785348114",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-08"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "6",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_magical-mysteries-of-shazam",
+  "nome": "The Magical Mysteries of Shazam!",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5975292.jpg?1780648160",
+  "edicoes_conhecidas": 26,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-16"
+  },
+  "ultima_edicao": {
+   "numero": "26",
+   "data": "2026-05-14"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_nice-house-by-the-sea",
+  "nome": "The Nice House by the Sea",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8998938.jpg?1784632904",
+  "edicoes_conhecidas": 12,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-07-24"
+  },
+  "ultima_edicao": {
+   "numero": "11",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "12",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_peril-of-the-brutal-dark-an-ezra-cain-mystery",
+  "nome": "The Peril of the Brutal Dark: An Ezra Cain Mystery",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2027686.jpg?1785066415",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-25"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_titans",
+  "nome": "Titans",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2021612.jpg?1782224018",
+  "edicoes_conhecidas": 32,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-05-16"
+  },
+  "ultima_edicao": {
+   "numero": "32",
+   "data": "2026-02-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_warriors-and-a-wee-wonder",
+  "nome": "Warriors and a Wee Wonder",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2961369.jpg?1780700658",
+  "edicoes_conhecidas": 26,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-16"
+  },
+  "ultima_edicao": {
+   "numero": "26",
+   "data": "2026-05-27"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_wonder-woman",
+  "nome": "Wonder Woman",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6580015.jpg?1782862956",
+  "edicoes_conhecidas": 37,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-09-19"
+  },
+  "ultima_edicao": {
+   "numero": "35",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "36",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_wonder-woman-2026-annual-wonder-war-the-matriarch-special",
+  "nome": "Wonder Woman 2026 Annual: Wonder War – The Matriarch Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9512536.jpg?1782785337",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_wonder-woman-black-gold-2026-special",
+  "nome": "Wonder Woman: Black & Gold 2026 Special",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4909110.jpg?1771675542",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "dc_zatanna",
+  "nome": "Zatanna",
+  "editora": "dc",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9162660.jpg?1782785183",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_1776",
+  "nome": "1776",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8384829.jpg?1774892182",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-12"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-03-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_616-day-marvel-mystery-bag-featuring-doom",
+  "nome": "616 Day: Marvel Mystery Bag Featuring Doom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2325018.jpg?1781031727",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-17"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-17"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_616-day-marvel-mystery-thank-you-bag-featuring-doom",
+  "nome": "616 Day: Marvel Mystery Thank You Bag Featuring Doom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2383237.jpg?1781032257",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_alias-red-band",
+  "nome": "Alias: Red Band",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2771135.jpg?1785859289",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-11"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_alien-vs-captain-america",
+  "nome": "Alien vs. Captain America",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8530010.jpg?1771191359",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-05"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_alien-vs-x-men",
+  "nome": "Alien vs. X-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8869248.jpg?1786565799",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_alien-king-killer",
+  "nome": "Alien: King Killer",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1644798.jpg?1785977101",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_all-new-spider-gwen-ghost-spider",
+  "nome": "All-New Spider-Gwen: Ghost-Spider",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1733801.jpg?1779721839",
+  "edicoes_conhecidas": 10,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-08-20"
+  },
+  "ultima_edicao": {
+   "numero": "10",
+   "data": "2026-05-06"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-spider-man-venom-death-spiral",
+  "nome": "Amazing Spider-Man / Venom: Death Spiral",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8371066.jpg?1773425222",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-25"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-spider-man-venom-death-spiral-body-count",
+  "nome": "Amazing Spider-Man / Venom: Death Spiral – Body Count",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2567664.jpg?1781014181",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-13"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-13"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_astonishing-miles-morales-spider-man-the-art-of-thwip",
+  "nome": "Astonishing Miles Morales: Spider-Man – The Art of Thwip",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1436120.jpg?1777681191",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_avengers-armageddon",
+  "nome": "Avengers: Armageddon",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6658111.jpg?1786584344",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-10"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_avengers-that-s-impossible",
+  "nome": "Avengers: That's Impossible!",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4089143.jpg?1779035736",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-09"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_axe-the-fresh-men",
+  "nome": "AXE: The Fresh-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2165924.jpg?1782839690",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-19"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-19"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_battleworld",
+  "nome": "Battleworld",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2632081.jpg?1782518625",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-24"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-01-14"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_bishop",
+  "nome": "Bishop",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1931646.jpg?1784225012",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-10"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_black-cat",
+  "nome": "Black Cat",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6678858.jpg?1786133925",
+  "edicoes_conhecidas": 14,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-08-20"
+  },
+  "ultima_edicao": {
+   "numero": "12",
+   "data": "2026-07-08"
+  },
+  "proxima_edicao": {
+   "numero": "13",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_black-panther-namor-doomed",
+  "nome": "Black Panther / Namor: Doomed",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3470364.jpg?1784227221",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_black-panther-60th-anniversary-special",
+  "nome": "Black Panther 60th Anniversary Special",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5258330.jpg?1771443617",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_black-panther-intergalactic",
+  "nome": "Black Panther: Intergalactic",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4073811.jpg?1780083850",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-12-17"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-03-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_captain-america",
+  "nome": "Captain America",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5478055.jpg?1786289716",
+  "edicoes_conhecidas": 15,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-02"
+  },
+  "ultima_edicao": {
+   "numero": "14",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "15",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_captain-marvel-dark-past",
+  "nome": "Captain Marvel: Dark Past",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7928276.jpg?1785854433",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_challenges-of-doom-mr-fantastic",
+  "nome": "Challenges of Doom: Mr. Fantastic",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2247194.jpg?1782949155",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_challenges-of-doom-spider-man",
+  "nome": "Challenges of Doom: Spider-Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2107726.jpg?1784227840",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_civil-war-unmasked",
+  "nome": "Civil War: Unmasked",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9282771.jpg?1784226806",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_comics-giveaway-day-2026-alien-predator-planet-of-the-apes",
+  "nome": "Comics Giveaway Day 2026: Alien, Predator & Planet of the Apes",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3356436.jpg?1779670230",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_comics-giveaway-day-2026-amazing-spider-man-queen-in-black",
+  "nome": "Comics Giveaway Day 2026: Amazing Spider-Man / Queen in Black",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9840039.jpg?1785437811",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_comics-giveaway-day-2026-armageddon-x-men",
+  "nome": "Comics Giveaway Day 2026: Armageddon / X-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5533864.jpg?1781393516",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_comics-giveaway-day-2026-spidey-his-amazing-friends",
+  "nome": "Comics Giveaway Day 2026: Spidey & His Amazing Friends",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8397219.jpg?1781042212",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-02"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_custom-magic-the-gathering-x-men-97-season-two-yearbook",
+  "nome": "Custom Magic The Gathering X-Men '97: Season Two Yearbook",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7159787.jpg?1785371873",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_custom-sony-spider-noir-2026-black-white-comic",
+  "nome": "Custom Sony Spider-Noir 2026 Black & White Comic",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3385664.jpg?1783341294",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-24"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-24"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_custom-sony-spider-noir-2026-comic",
+  "nome": "Custom Sony Spider-Noir 2026 Comic",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4024731.jpg?1783340523",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-24"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-24"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_cyclops",
+  "nome": "Cyclops",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4949576.jpg?1781662773",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_daredevil",
+  "nome": "Daredevil",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6503368.jpg?1786564182",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-07-08"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_daredevil-punisher-the-devil-s-trigger",
+  "nome": "Daredevil / Punisher: The Devil's Trigger",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9907587.jpg?1772915408",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-26"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-03-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_deadly-hands-of-k-un-lun",
+  "nome": "Deadly Hands of K'un-Lun",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7477141.jpg?1783000808",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-06-17"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_deadpool-april-pool-s-day",
+  "nome": "Deadpool: April Pool's Day",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7997968.jpg?1775608067",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_dnx",
+  "nome": "DNX",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4068159.jpg?1784235646",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-09-16"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_doctor-strange",
+  "nome": "Doctor Strange",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6927825.jpg?1784226926",
+  "edicoes_conhecidas": 10,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-12-03"
+  },
+  "ultima_edicao": {
+   "numero": "9",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "10",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_doctor-strange-and-doctor-doom-triumph-and-torment",
+  "nome": "Doctor Strange and Doctor Doom: Triumph and Torment",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5917787.jpg?1784227603",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_doom-2099-rage-of-doom",
+  "nome": "Doom 2099: Rage of Doom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2161079.jpg?1778808362",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-29"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_doomquest",
+  "nome": "Doomquest",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6278421.jpg?1784224212",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-27"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_doomquest-black-white",
+  "nome": "Doomquest: Black & White",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7979166.jpg?1782270185",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-17"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-17"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_dungeons-of-doom",
+  "nome": "Dungeons of Doom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5162112.jpg?1775079419",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-03-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_eternals-50th-anniversary-special",
+  "nome": "Eternals 50th Anniversary Special",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1755012.jpg?1775138780",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_fantastic-four",
+  "nome": "Fantastic Four",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2384942.jpg?1785532099",
+  "edicoes_conhecidas": 17,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-07-09"
+  },
+  "ultima_edicao": {
+   "numero": "15",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "16",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_fantastic-four-65-years-of-the-world-s-greatest-comic-covers",
+  "nome": "Fantastic Four: 65 Years of the World's Greatest Comic Covers",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9841012.jpg?1785509792",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_gambit-gone",
+  "nome": "Gambit Gone",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9676640.jpg?1784878448",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_gambit-wanted",
+  "nome": "Gambit: Wanted",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8020926.jpg?1785529939",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_generation-x-23",
+  "nome": "Generation X-23",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2155057.jpg?1784759824",
+  "edicoes_conhecidas": 8,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "ultima_edicao": {
+   "numero": "7",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "8",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_godzilla-conquers-the-multiverse",
+  "nome": "Godzilla Conquers the Multiverse",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6479112.jpg?1784223789",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_godzilla-infinity-roar",
+  "nome": "Godzilla: Infinity Roar",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7080754.jpg?1780887578",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_hulk-smash-everything",
+  "nome": "Hulk: Smash Everything",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6799507.jpg?1784611619",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-12-03"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-04-22"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_iceman-omega",
+  "nome": "Iceman: Omega",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5043209.jpg?1777177248",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-04"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-03-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_imperial-guardians",
+  "nome": "Imperial Guardians",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7947235.jpg?1784764411",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-11"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_infernal-hulk-vs-wolverine",
+  "nome": "Infernal Hulk vs. Wolverine",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7518051.jpg?1786302553",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_inglorious-x-force",
+  "nome": "Inglorious X-Force",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7200285.jpg?1786574135",
+  "edicoes_conhecidas": 9,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-21"
+  },
+  "ultima_edicao": {
+   "numero": "7",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "8",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_iron-man",
+  "nome": "Iron Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1937325.jpg?1786179323",
+  "edicoes_conhecidas": 9,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "ultima_edicao": {
+   "numero": "8",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "9",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_it-s-jeff-meets-daredevil",
+  "nome": "It's Jeff Meets Daredevil",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4348361.jpg?1775707941",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_it-s-jeff-brand-new-week",
+  "nome": "It's Jeff: Brand New Week",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7467191.jpg?1780482845",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_it-s-symbie",
+  "nome": "It's Symbie",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2554167.jpg?1783100579",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-08"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-08"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_jay-silent-bob-jays-of-future-past",
+  "nome": "Jay & Silent Bob: Jays of Future Past",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3991705.jpg?1781167919",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-10"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-10"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_jeff-the-land-shark-superstar",
+  "nome": "Jeff the Land Shark: Superstar",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5341158.jpg?1785531756",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-08"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_jubilee-deadly-reunion",
+  "nome": "Jubilee: Deadly Reunion",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1977625.jpg?1778806937",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_knull",
+  "nome": "Knull",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1178177.jpg?1782643025",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-05-13"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_logan-black-white-blood",
+  "nome": "Logan: Black, White & Blood",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1169675.jpg?1775409848",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-04-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_luna-snow-world-tour",
+  "nome": "Luna Snow: World Tour",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6163296.jpg?1769401912",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_magik-and-colossus",
+  "nome": "Magik and Colossus",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7293883.jpg?1782249621",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-06-17"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marc-spector-moon-knight",
+  "nome": "Marc Spector: Moon Knight",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8487392.jpg?1785531671",
+  "edicoes_conhecidas": 8,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "7",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "8",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-dc-spider-man-superman",
+  "nome": "Marvel / DC: Spider-Man / Superman",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6647659.jpg?1778177346",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-22"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-22"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-adventures-jack-in-the-box-exclusive",
+  "nome": "Marvel Adventures Jack In The Box Exclusive",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3563171.jpg?1782860734",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-15"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-15"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-gold-76",
+  "nome": "Marvel Gold '76",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4879103.jpg?1785198120",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-knights-punisher",
+  "nome": "Marvel Knights: Punisher",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5966927.jpg?1775009600",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-08"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-03-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-knights-the-world-to-come",
+  "nome": "Marvel Knights: The World to Come",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5987148.jpg?1784586676",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-06-04"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2025-12-31"
+  },
+  "proxima_edicao": {
+   "numero": "6",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-mangaverse-arcane-avengers",
+  "nome": "Marvel Mangaverse: Arcane Avengers",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2164278.jpg?1785530670",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-mangaverse-ghostlocke",
+  "nome": "Marvel Mangaverse: Ghostlocke",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4726298.jpg?1785530769",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-mangaverse-iron-knight",
+  "nome": "Marvel Mangaverse: Iron Knight",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8546832.jpg?1785198141",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-mangaverse-web-of-blood",
+  "nome": "Marvel Mangaverse: Web of Blood",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5878656.jpg?1785530659",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-mangaverse-web-of-destiny",
+  "nome": "Marvel Mangaverse: Web of Destiny",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7671092.jpg?1785531001",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-rivals-duel-of-kings",
+  "nome": "Marvel Rivals: Duel of Kings",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6710052.jpg?1774634559",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-rivals-the-cities-of-heaven",
+  "nome": "Marvel Rivals: The Cities of Heaven",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2987342.jpg?1767378317",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-07"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-07"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-swimsuit-special-brand-new-beach-day",
+  "nome": "Marvel Swimsuit Special: Brand New Beach Day",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5195807.jpg?1784638653",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-tokon-first-strike",
+  "nome": "Marvel Tōkon: First Strike",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7111316.jpg?1785606934",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-x-atlassian-williams-f1-team-iron-man-racing-towards-doom",
+  "nome": "Marvel x Atlassian Williams F1 Team: Iron Man Racing Towards Doom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7031445.jpg?1781491166",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-zero",
+  "nome": "Marvel Zero",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1067068.jpg?1785542277",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-zombies-red-band",
+  "nome": "Marvel Zombies: Red Band",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3811343.jpg?1770598016",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-17"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-zombies-war-zone",
+  "nome": "Marvel Zombies: War Zone",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3554251.jpg?1785090362",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_marvel-black-white-blood-and-guts",
+  "nome": "Marvel: Black, White & Blood and Guts",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2536337.jpg?1777897073",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-08"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-01-07"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_mary-jane-face-it-tiger",
+  "nome": "Mary Jane: Face It, Tiger",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4058395.jpg?1786094082",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_miles-morales-spider-man",
+  "nome": "Miles Morales: Spider-Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8268001.jpg?1774355496",
+  "edicoes_conhecidas": 42,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-12"
+  },
+  "ultima_edicao": {
+   "numero": "42",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_moonstar",
+  "nome": "Moonstar",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4572081.jpg?1784898963",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-04"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_new-avengers",
+  "nome": "New Avengers",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4822157.jpg?1786150748",
+  "edicoes_conhecidas": 10,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-06-11"
+  },
+  "ultima_edicao": {
+   "numero": "10",
+   "data": "2026-03-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_nova-centurion",
+  "nome": "Nova: Centurion",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6433068.jpg?1775591188",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-19"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-04-01"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_origins-of-the-hood-marvel-rivals",
+  "nome": "Origins of the Hood: Marvel Rivals",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9022103.jpg?1785922482",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_planet-of-the-apes-vs-fantastic-four",
+  "nome": "Planet of the Apes vs. Fantastic Four",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4748662.jpg?1782046558",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-05-27"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_planet-she-hulk",
+  "nome": "Planet She-Hulk",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9688330.jpg?1782970505",
+  "edicoes_conhecidas": 6,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-05"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-04-29"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_predator-vs-the-planet-of-the-apes",
+  "nome": "Predator vs. the Planet of the Apes",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3022458.jpg?1784226546",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_predator-bloodshed",
+  "nome": "Predator: Bloodshed",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8186980.jpg?1782171145",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-25"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-06-17"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_psylocke-ninja",
+  "nome": "Psylocke: Ninja",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4293590.jpg?1780473137",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-21"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-05-27"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_punisher",
+  "nome": "Punisher",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9346887.jpg?1785529960",
+  "edicoes_conhecidas": 8,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-25"
+  },
+  "ultima_edicao": {
+   "numero": "7",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "8",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_punisher-vs-spider-man",
+  "nome": "Punisher vs. Spider-Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9118280.jpg?1786488993",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-15"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_punisher-red-band",
+  "nome": "Punisher: Red Band",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5328673.jpg?1772004919",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-10"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_queen-in-black",
+  "nome": "Queen in Black",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8814110.jpg?1785596505",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_queen-in-black-defenders-of-light-and-dark",
+  "nome": "Queen in Black: Defenders of Light and Dark",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3274251.jpg?1786099814",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_queen-in-black-hela",
+  "nome": "Queen in Black: Hela",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5198408.jpg?1785348708",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_queen-in-black-thor",
+  "nome": "Queen in Black: Thor",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8651725.jpg?1786548765",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-12"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_queen-in-black-venom-unchained",
+  "nome": "Queen in Black: Venom Unchained",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3816266.jpg?1786105311",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_rocket-raccoon-rocket-rewind",
+  "nome": "Rocket Raccoon: Rocket Rewind",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3272513.jpg?1785350458",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_rogue",
+  "nome": "Rogue",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3196409.jpg?1780325180",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-21"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-05-20"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_sai-dimensional-rivals",
+  "nome": "Sai: Dimensional Rivals",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7269428.jpg?1779889994",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-14"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-05-20"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_sdcc-2026-wolverine-prequel",
+  "nome": "SDCC 2026 Wolverine Prequel",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3488093.jpg?1785907583",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-23"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_sorcerer-supreme",
+  "nome": "Sorcerer Supreme",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1547922.jpg?1784227474",
+  "edicoes_conhecidas": 10,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-12-31"
+  },
+  "ultima_edicao": {
+   "numero": "8",
+   "data": "2026-07-08"
+  },
+  "proxima_edicao": {
+   "numero": "9",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spectacular-spider-man-brand-new-day",
+  "nome": "Spectacular Spider-Man: Brand New Day",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8730781.jpg?1786549132",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-13"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spider-man-wolverine",
+  "nome": "Spider-Man & Wolverine",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6206347.jpg?1772399388",
+  "edicoes_conhecidas": 10,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-05-21"
+  },
+  "ultima_edicao": {
+   "numero": "10",
+   "data": "2026-02-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spider-man-94",
+  "nome": "Spider-Man '94",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8216333.jpg?1785910274",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-03"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-01-21"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spider-man-hulk-fire-and-brimstone",
+  "nome": "Spider-Man / Hulk: Fire and Brimstone",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4994498.jpg?1785531917",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-19"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spider-man-noir",
+  "nome": "Spider-Man Noir",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2672198.jpg?1771179503",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-01"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spider-man-long-way-home",
+  "nome": "Spider-Man: Long Way Home",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3496555.jpg?1785972751",
+  "edicoes_conhecidas": 3,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-17"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spider-man-meals-to-astonish",
+  "nome": "Spider-Man: Meals to Astonish",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7213900.jpg?1773234736",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-11"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-03-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spider-woman-50th-anniversary-special",
+  "nome": "Spider-Woman 50th Anniversary Special",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3320869.jpg?1785435999",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_spirits-of-violence",
+  "nome": "Spirits of Violence",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3461818.jpg?1778018033",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-01"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-02-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars",
+  "nome": "Star Wars",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7509911.jpg?1771579757",
+  "edicoes_conhecidas": 10,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-05-07"
+  },
+  "ultima_edicao": {
+   "numero": "10",
+   "data": "2026-02-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-galaxy-s-edge-echoes-of-the-empire",
+  "nome": "Star Wars: Galaxy's Edge – Echoes of the Empire",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7942521.jpg?1786529003",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-22"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-han-solo-hunt-for-the-falcon",
+  "nome": "Star Wars: Han Solo – Hunt for the Falcon",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5021150.jpg?1767792815",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-09-03"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-01-07"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-jar-jar",
+  "nome": "Star Wars: Jar Jar",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4314581.jpg?1770842924",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-legacy-of-vader",
+  "nome": "Star Wars: Legacy of Vader",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4383412.jpg?1768474674",
+  "edicoes_conhecidas": 12,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-02-05"
+  },
+  "ultima_edicao": {
+   "numero": "12",
+   "data": "2026-01-14"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-rogue-one-cassian-andor",
+  "nome": "Star Wars: Rogue One – Cassian Andor",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7602061.jpg?1778192111",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-06"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-rogue-one-jyn-erso",
+  "nome": "Star Wars: Rogue One – Jyn Erso",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4704783.jpg?1780690410",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-rogue-one-saw-gerrera",
+  "nome": "Star Wars: Rogue One – Saw Gerrera",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6228376.jpg?1782980342",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-shadow-of-maul",
+  "nome": "Star Wars: Shadow of Maul",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6713504.jpg?1783917312",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-04"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-08"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-the-book-of-boba-fett",
+  "nome": "Star Wars: The Book of Boba Fett",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8921151.jpg?1785198056",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-09"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_star-wars-the-fall-of-kylo-ren",
+  "nome": "Star Wars: The Fall of Kylo Ren",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2599035.jpg?1784227104",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-12"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-09-16"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_storm-earth-s-mightiest-mutant",
+  "nome": "Storm: Earth's Mightiest Mutant",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3409923.jpg?1786337643",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-04"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_stormbreakers-2026-sketchbook",
+  "nome": "Stormbreakers 2026 Sketchbook",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8830936.jpg?1769111227",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_strange-tales",
+  "nome": "Strange Tales",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4830675.jpg?1770968989",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-08"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-spider-man",
+  "nome": "The Amazing Spider-Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3313068.jpg?1785611252",
+  "edicoes_conhecidas": 18,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "19",
+   "data": "2026-01-07"
+  },
+  "ultima_edicao": {
+   "numero": "34",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "35",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-spider-man-2026-annual",
+  "nome": "The Amazing Spider-Man 2026 Annual",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6412399.jpg?1771488873",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-01-28"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-spider-man-battle-at-midtown-science-high",
+  "nome": "The Amazing Spider-Man: Battle at Midtown Science High",
+  "editora": "marvel",
+  "capa": "",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-08"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-08"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-spider-man-spider-versity",
+  "nome": "The Amazing Spider-Man: Spider-Versity",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1167516.jpg?1786577832",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-22"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-spider-man-torn",
+  "nome": "The Amazing Spider-Man: Torn",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2275859.jpg?1773949597",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-10-08"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_amazing-venom",
+  "nome": "The Amazing Venom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9384410.jpg?1785595629",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_avengers",
+  "nome": "The Avengers",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1413905.jpg?1772678311",
+  "edicoes_conhecidas": 36,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2023-05-17"
+  },
+  "ultima_edicao": {
+   "numero": "36",
+   "data": "2026-03-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_end-2099",
+  "nome": "The End 2099",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2026681.jpg?1775640796",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-12-10"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-04-08"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_fall-of-ultraman",
+  "nome": "The Fall of Ultraman",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4503945.jpg?1770849097",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_fantastic-four-first-foes",
+  "nome": "The Fantastic Four: First Foes",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9447934.jpg?1774440466",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-25"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-03-25"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_fantastic-four-first-foes-dragon-man",
+  "nome": "The Fantastic Four: First Foes – Dragon Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2666763.jpg?1784227999",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_fantastic-four-first-foes-shalla-bal",
+  "nome": "The Fantastic Four: First Foes – Shalla-Bal",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1258970.jpg?1783675783",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-08"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-08"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_infernal-hulk",
+  "nome": "The Infernal Hulk",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7178619.jpg?1786560549",
+  "edicoes_conhecidas": 10,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-26"
+  },
+  "ultima_edicao": {
+   "numero": "10",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_mortal-thor",
+  "nome": "The Mortal Thor",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5696452.jpg?1786466931",
+  "edicoes_conhecidas": 13,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-08-27"
+  },
+  "ultima_edicao": {
+   "numero": "13",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_muppets-take-the-marvel-universe",
+  "nome": "The Muppets Take the Marvel Universe",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6716515.jpg?1785595234",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-23"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_sentry",
+  "nome": "The Sentry",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4716596.jpg?1781168035",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-18"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-06-10"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimates",
+  "nome": "The Ultimates",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4536051.jpg?1780497819",
+  "edicoes_conhecidas": 24,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-06-05"
+  },
+  "ultima_edicao": {
+   "numero": "24",
+   "data": "2026-05-27"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_thor",
+  "nome": "Thor",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6374816.jpg?1785837621",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "800",
+   "data": "2026-08-19"
+  },
+  "ultima_edicao": {
+   "numero": "801",
+   "data": "2026-09-23"
+  },
+  "proxima_edicao": {
+   "numero": "800",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_tomb-of-apocalypse",
+  "nome": "Tomb of Apocalypse",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4586485.jpg?1784227504",
+  "edicoes_conhecidas": 2,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-09-30"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimate-black-panther",
+  "nome": "Ultimate Black Panther",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4339810.jpg?1769041432",
+  "edicoes_conhecidas": 24,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-02-07"
+  },
+  "ultima_edicao": {
+   "numero": "24",
+   "data": "2026-01-21"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimate-endgame",
+  "nome": "Ultimate Endgame",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7873089.jpg?1785069267",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-12-31"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-06-24"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimate-impact-reborn",
+  "nome": "Ultimate Impact: Reborn",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7222651.jpg?1784224899",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-20"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimate-spider-man",
+  "nome": "Ultimate Spider-Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8016841.jpg?1771627065",
+  "edicoes_conhecidas": 24,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-01-10"
+  },
+  "ultima_edicao": {
+   "numero": "24",
+   "data": "2026-02-18"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimate-universe-finale",
+  "nome": "Ultimate Universe: Finale",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5102357.jpg?1782336756",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-24"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-24"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimate-wolverine",
+  "nome": "Ultimate Wolverine",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1122606.jpg?1779987386",
+  "edicoes_conhecidas": 16,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-01-15"
+  },
+  "ultima_edicao": {
+   "numero": "16",
+   "data": "2026-04-15"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_ultimate-x-men",
+  "nome": "Ultimate X-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9805875.jpg?1770846178",
+  "edicoes_conhecidas": 24,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-03-06"
+  },
+  "ultima_edicao": {
+   "numero": "24",
+   "data": "2026-02-11"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_uncanny-x-men",
+  "nome": "Uncanny X-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4857766.jpg?1785596594",
+  "edicoes_conhecidas": 36,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-08-07"
+  },
+  "ultima_edicao": {
+   "numero": "33",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "34",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_uncanny-x-men-annual",
+  "nome": "Uncanny X-Men Annual",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4231847.jpg?1776133687",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-08"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-08"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_venom",
+  "nome": "Venom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5795317.jpg?1784224531",
+  "edicoes_conhecidas": 13,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "250",
+   "data": "2025-10-01"
+  },
+  "ultima_edicao": {
+   "numero": "260",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "261",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_wade-wilson-deadpool",
+  "nome": "Wade Wilson: Deadpool",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8023607.jpg?1785338617",
+  "edicoes_conhecidas": 8,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-11"
+  },
+  "ultima_edicao": {
+   "numero": "7",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": {
+   "numero": "8",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_web-of-venom",
+  "nome": "Web of Venom",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6803942.jpg?1775851966",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-08"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-04-08"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-captain-america",
+  "nome": "What If...? Captain America",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6242060.jpg?1786547683",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-jessica-jones",
+  "nome": "What If...? Jessica Jones",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4543618.jpg?1786535972",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-15"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-15"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-runaways",
+  "nome": "What If...? Runaways",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1414534.jpg?1786010629",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-19"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-08-19"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-secret-wars",
+  "nome": "What If...? Secret Wars",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1911897.jpg?1786207442",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-01"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-spider-man",
+  "nome": "What If...? Spider-Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4256463.jpg?1785717676",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-thor",
+  "nome": "What If...? Thor",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3623513.jpg?1782637285",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-17"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-17"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-uncanny-x-men",
+  "nome": "What If...? Uncanny X-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1033123.jpg?1781002127",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_what-if-x-men",
+  "nome": "What If...? X-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3663499.jpg?1784223148",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_where-is-matt-murdock",
+  "nome": "Where is Matt Murdock",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4064090.jpg?1774420515",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-24"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-03-24"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_wiccan-hulkling-raid-of-ultron",
+  "nome": "Wiccan & Hulkling: Raid of Ultron",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1855548.jpg?1782257217",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-05-27"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-05-27"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_wiccan-witches-road",
+  "nome": "Wiccan: Witches' Road",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2224600.jpg?1784310371",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-12-03"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-04-29"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_wolverine",
+  "nome": "Wolverine",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6220431.jpg?1784223700",
+  "edicoes_conhecidas": 28,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2024-09-11"
+  },
+  "ultima_edicao": {
+   "numero": "25",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "26",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_wolverine-weapons-of-armageddon",
+  "nome": "Wolverine: Weapons of Armageddon",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8520441.jpg?1779972653",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-02-18"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-05-20"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_wonder-man",
+  "nome": "Wonder Man",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4209972.jpg?1785427561",
+  "edicoes_conhecidas": 5,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-04-01"
+  },
+  "ultima_edicao": {
+   "numero": "5",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men",
+  "nome": "X-Men",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4695805.jpg?1786481797",
+  "edicoes_conhecidas": 19,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "20",
+   "data": "2025-08-13"
+  },
+  "ultima_edicao": {
+   "numero": "35",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "36",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-97-season-two",
+  "nome": "X-Men '97: Season Two",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3209530.jpg?1784759691",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-03"
+  },
+  "ultima_edicao": {
+   "numero": "3",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-annual",
+  "nome": "X-Men Annual",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2302675.jpg?1772994066",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-04"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-03-04"
+  },
+  "proxima_edicao": null,
+  "status": "sem-noticia",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-of-apocalypse",
+  "nome": "X-Men of Apocalypse",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4120674.jpg?1782775369",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2025-11-19"
+  },
+  "ultima_edicao": {
+   "numero": "4",
+   "data": "2026-06-03"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-of-apocalypse-omega",
+  "nome": "X-Men of Apocalypse Omega",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7851934.jpg?1786009166",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-08-05"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-united",
+  "nome": "X-Men United",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3507038.jpg?1786481639",
+  "edicoes_conhecidas": 7,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-03-11"
+  },
+  "ultima_edicao": {
+   "numero": "6",
+   "data": "2026-08-12"
+  },
+  "proxima_edicao": {
+   "numero": "7",
+   "data": "2026-09-30"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-omega-red-dawn",
+  "nome": "X-Men: Omega Red Dawn",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2651874.jpg?1784227690",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "1",
+   "data": "2026-09-02"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-outback",
+  "nome": "X-Men: Outback",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2878093.jpg?1785662318",
+  "edicoes_conhecidas": 4,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-06-24"
+  },
+  "ultima_edicao": {
+   "numero": "2",
+   "data": "2026-07-29"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-08-26"
+  },
+  "status": "em-publicacao",
+  "fonte": "locg"
+ },
+ {
+  "id": "marvel_x-men-the-hellfire-murder",
+  "nome": "X-Men: The Hellfire Murder",
+  "editora": "marvel",
+  "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9721695.jpg?1785239205",
+  "edicoes_conhecidas": 1,
+  "total_anunciado": null,
+  "primeira_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "ultima_edicao": {
+   "numero": "1",
+   "data": "2026-07-22"
+  },
+  "proxima_edicao": null,
+  "status": "em-publicacao",
+  "fonte": "locg"
+ }
+]

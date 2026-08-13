@@ -1,0 +1,97 @@
+{
+ "id": "marvel_spider-man-wolverine",
+ "nome": "Spider-Man & Wolverine",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "Spider-Man & Wolverine #1",
+   "data": "2025-05-21",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9308383.jpg?1748803502",
+   "link": "https://leagueofcomicgeeks.com/comic/9308383/spider-man-wolverine-1",
+   "read_link": ""
+  },
+  {
+   "numero": "2",
+   "titulo": "Spider-Man & Wolverine #2",
+   "data": "2025-06-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4059825.jpg?1776936237",
+   "link": "https://leagueofcomicgeeks.com/comic/4059825/spider-man-wolverine-2",
+   "read_link": ""
+  },
+  {
+   "numero": "3",
+   "titulo": "Spider-Man & Wolverine #3",
+   "data": "2025-07-30",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8097886.jpg?1758848018",
+   "link": "https://leagueofcomicgeeks.com/comic/8097886/spider-man-wolverine-3",
+   "read_link": ""
+  },
+  {
+   "numero": "4",
+   "titulo": "Spider-Man & Wolverine #4",
+   "data": "2025-08-13",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5711427.jpg?1759617944",
+   "link": "https://leagueofcomicgeeks.com/comic/5711427/spider-man-wolverine-4",
+   "read_link": ""
+  },
+  {
+   "numero": "5",
+   "titulo": "Spider-Man & Wolverine #5",
+   "data": "2025-09-24",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5174922.jpg?1759617991",
+   "link": "https://leagueofcomicgeeks.com/comic/5174922/spider-man-wolverine-5",
+   "read_link": ""
+  },
+  {
+   "numero": "6",
+   "titulo": "Spider-Man & Wolverine #6",
+   "data": "2025-10-08",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5683674.jpg?1776935488",
+   "link": "https://leagueofcomicgeeks.com/comic/5683674/spider-man-wolverine-6",
+   "read_link": ""
+  },
+  {
+   "numero": "7",
+   "titulo": "Spider-Man & Wolverine #7",
+   "data": "2025-11-12",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2155615.jpg?1765488974",
+   "link": "https://leagueofcomicgeeks.com/comic/2155615/spider-man-wolverine-7",
+   "read_link": ""
+  },
+  {
+   "numero": "8",
+   "titulo": "Spider-Man & Wolverine #8",
+   "data": "2025-12-10",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4484429.jpg?1765757644",
+   "link": "https://leagueofcomicgeeks.com/comic/4484429/spider-man-wolverine-8",
+   "read_link": ""
+  },
+  {
+   "numero": "9",
+   "titulo": "Spider-Man & Wolverine #9",
+   "data": "2026-01-21",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6557622.jpg?1769311628",
+   "link": "https://leagueofcomicgeeks.com/comic/6557622/spider-man-wolverine-9",
+   "read_link": ""
+  },
+  {
+   "numero": "10",
+   "titulo": "Spider-Man & Wolverine #10",
+   "data": "2026-02-25",
+   "preco": "3.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6206347.jpg?1772399388",
+   "link": "https://leagueofcomicgeeks.com/comic/6206347/spider-man-wolverine-10",
+   "read_link": ""
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "marvel_what-if-spider-man",
+ "nome": "What If...? Spider-Man",
+ "editora": "marvel",
+ "edicoes": [
+  {
+   "numero": "1",
+   "titulo": "What If...? Spider-Man #1",
+   "data": "2026-07-29",
+   "preco": "4.99",
+   "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4256463.jpg?1785717676",
+   "link": "https://leagueofcomicgeeks.com/comic/4256463/what-if-spider-man-1",
+   "read_link": ""
+  }
+ ]
+}
