@@ -15,6 +15,27 @@ const EDITORAS = { dc: 'DC', marvel: 'Marvel' };
 // Icones de olho (mostrar/ocultar senha) -- SVG inline, sem emoji.
 const OLHO = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>';
 const OLHO_OFF = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9.9 4.24A9 9 0 0 1 12 4c6.4 0 10 7 10 7a13.2 13.2 0 0 1-1.7 2.7M6.6 6.6C3.8 8.2 2 12 2 12s3.6 7 10 7a9.5 9.5 0 0 0 5.4-1.6"/><path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/><path d="m2 2 20 20"/></svg>';
+const CHEVRON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>';
+
+/** Detalhe expandido de uma edicao: capa + criadores + sinopse + personagens. */
+function detalheEdicao(e) {
+  const c = e.criadores || {};
+  const cred = [];
+  if (c.escritor?.length) cred.push(`<b>Escritor:</b> ${c.escritor.map(esc).join(', ')}`);
+  if (c.arte?.length) cred.push(`<b>Arte:</b> ${c.arte.map(esc).join(', ')}`);
+  if (c.cor?.length) cred.push(`<b>Cor:</b> ${c.cor.map(esc).join(', ')}`);
+  if (c.letra?.length) cred.push(`<b>Letra:</b> ${c.letra.map(esc).join(', ')}`);
+  const chars = (e.personagens || []).slice(0, 24);
+  return `
+    <div class="ed-detalhe-corpo">
+      ${e.capa ? `<img class="ed-capa" src="${esc(e.capa)}" alt="" loading="lazy">` : ''}
+      <div class="ed-detalhe-txt">
+        ${cred.length ? `<p class="ed-creditos">${cred.join(' &nbsp;·&nbsp; ')}</p>` : ''}
+        ${e.sinopse ? `<p class="ed-sinopse">${esc(e.sinopse)}</p>` : '<p class="nota">Sem sinopse cadastrada.</p>'}
+        ${chars.length ? `<div class="ed-personagens">${chars.map((p) => `<span class="chip">${esc(p)}</span>`).join('')}</div>` : ''}
+      </div>
+    </div>`;
+}
 
 // ---------------------------------------------------------------- utilidades
 
@@ -765,26 +786,36 @@ async function verSerie(id) {
     <ol class="edicoes">
       ${edicoes.map((e) => {
         const futura = e.data > hoje;
+        const temDetalhe = 'criadores' in e; // edicao ja enriquecida
         return `
         <li class="${lidas.has(e.numero) ? 'lida' : ''} ${futura ? 'futura' : ''}">
-          <label>
-            <input type="checkbox" data-edicao="${esc(e.numero)}"
-              ${lidas.has(e.numero) ? 'checked' : ''} ${futura ? 'disabled' : ''}>
-            <span class="numero">#${esc(e.numero)}</span>
-            <span class="data">${dataBR(e.data)}</span>
-            ${futura ? '<span class="tag-futura">a sair</span>' : ''}
-            ${e.preco ? `<span class="preco">US$ ${esc(e.preco)}</span>` : ''}
-          </label>
-          ${futura ? '' : estrelasHTML(e.numero, notas.get(e.numero) || 0)}
-          <span class="links">
-            ${e.link ? `<a href="${esc(e.link)}" target="_blank" rel="noopener">ficha</a>` : ''}
-            ${e.read_link ? `<a class="tag-ler" href="${esc(e.read_link)}" target="_blank" rel="noopener">LER</a>` : ''}
-          </span>
+          <div class="edicao-linha">
+            <label>
+              <input type="checkbox" data-edicao="${esc(e.numero)}"
+                ${lidas.has(e.numero) ? 'checked' : ''} ${futura ? 'disabled' : ''}>
+              <span class="numero">#${esc(e.numero)}</span>
+              <span class="data">${dataBR(e.data)}</span>
+              ${futura ? '<span class="tag-futura">a sair</span>' : ''}
+              ${e.preco ? `<span class="preco">US$ ${esc(e.preco)}</span>` : ''}
+            </label>
+            ${futura ? '' : estrelasHTML(e.numero, notas.get(e.numero) || 0)}
+            <span class="links">
+              ${e.read_link ? `<a class="tag-ler" href="${esc(e.read_link)}" target="_blank" rel="noopener">LER</a>` : ''}
+            </span>
+            ${temDetalhe ? `<button type="button" class="expandir" aria-label="Detalhes">${CHEVRON}</button>` : ''}
+          </div>
+          ${temDetalhe ? `<div class="ed-detalhe" hidden>${detalheEdicao(e)}</div>` : ''}
         </li>`;
       }).join('')}
     </ol>`;
 
   tela.querySelector('.edicoes').addEventListener('click', async (ev) => {
+    const exp = ev.target.closest('.expandir');
+    if (exp) {
+      const det = exp.closest('li').querySelector('.ed-detalhe');
+      if (det) { det.hidden = !det.hidden; exp.classList.toggle('aberto', !det.hidden); }
+      return;
+    }
     const est = ev.target.closest('.estrela');
     if (!est) return;
     const cont = est.closest('.estrelas');

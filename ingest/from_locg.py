@@ -974,6 +974,101 @@ def reparar(driver, ate):
           f"total: {meta['total_series']} series, {meta['total_edicoes']} edicoes")
 
 
+# Extrai sinopse, criadores (por funcao) e personagens da pagina de uma edicao.
+# A funcao vem do texto do card do criador (nome + funcao); classificamos por
+# palavra-chave. Personagens sao os links /character/ da secao de personagens.
+_JS_ENRIQUECER = r"""
+const norm = s => (s || '').replace(/\s+/g, ' ').trim();
+const out = { sinopse: '', criadores: { escritor: [], arte: [], cor: [], letra: [], editor: [] }, personagens: [] };
+const desc = document.querySelector('.listing-description');
+if (desc) out.sinopse = norm(desc.textContent);
+const secC = document.querySelector('section[id^="creators-"]');
+if (secC) {
+  for (const av of secC.querySelectorAll('.avatar-character')) {
+    const card = av.closest('.col-auto') || av.parentElement;
+    if (!card) continue;
+    const img = av.querySelector('img');
+    const nome = norm((img && img.getAttribute('alt')) || (av.querySelector('a') || {}).textContent);
+    if (!nome) continue;
+    const role = norm(card.textContent).replace(nome, '').toLowerCase();
+    const add = (arr) => { if (!arr.includes(nome)) arr.push(nome); };
+    if (/writ/.test(role)) add(out.criadores.escritor);
+    if (/art|pencil|illustrat|draw|ink/.test(role)) add(out.criadores.arte);
+    if (/colou?r/.test(role)) add(out.criadores.cor);
+    if (/letter/.test(role)) add(out.criadores.letra);
+    if (/editor/.test(role)) add(out.criadores.editor);
+  }
+}
+const secP = document.querySelector('section[id^="characters-"]');
+if (secP) {
+  const vis = new Set();
+  for (const a of secP.querySelectorAll('a[href*="/character/"]')) {
+    const n = norm(a.textContent);
+    if (n && !vis.has(n)) { vis.add(n); out.personagens.push(n); }
+  }
+}
+return out;
+"""
+
+
+def _enriquecer_edicao(driver, link):
+    cache = cache_ler("edicao:" + link)
+    if cache is not None:
+        return cache
+    driver.get(link)
+    aguardar_conteudo(driver, "section[id^='creators-'], .listing-description", timeout=45)
+    try:
+        dados = driver.execute_script(_JS_ENRIQUECER)
+    except Exception:
+        return None
+    cache_gravar("edicao:" + link, dados)
+    return dados
+
+
+def enriquecer(driver, limite):
+    """Visita a pagina de cada edicao e adiciona sinopse, criadores e personagens.
+
+    Incremental (pula quem ja tem 'criadores'), salva por serie (crash-safe) e usa
+    o cache pra nao re-buscar. Sao ~2700 paginas -- use --limite pra fazer em lotes
+    (ex.: --limite 300 por dia). Rode de novo pra continuar de onde parou.
+    """
+    saida = RAIZ / "web" / "data"
+    series = json.loads((saida / "series.json").read_text(encoding="utf-8"))
+
+    dados_serie = []
+    faltando = 0
+    for s in series:
+        d = json.loads((saida / "issues" / f"{s['id']}.json").read_text(encoding="utf-8"))
+        dados_serie.append((s, d))
+        faltando += sum(1 for e in d["edicoes"] if "criadores" not in e and e.get("link"))
+    print(f"edicoes sem enriquecer: {faltando}" + (f"  (lote de ate {limite})" if limite else ""))
+
+    feitas = 0
+    for s, d in dados_serie:
+        if limite and feitas >= limite:
+            break
+        mudou = False
+        for e in d["edicoes"]:
+            if limite and feitas >= limite:
+                break
+            if "criadores" in e or not e.get("link"):
+                continue
+            dados = _enriquecer_edicao(driver, e["link"])
+            if not dados:
+                continue
+            e["sinopse"] = dados.get("sinopse", "")
+            e["criadores"] = dados.get("criadores", {})
+            e["personagens"] = dados.get("personagens", [])
+            feitas += 1
+            mudou = True
+        if mudou:
+            (saida / "issues" / f"{s['id']}.json").write_text(
+                json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+            print(f"  {feitas:4}/{faltando}  {s['nome'][:38]}")
+    print(f"\n{feitas} edicoes enriquecidas nesta rodada. "
+          f"Faltam ~{faltando - feitas}. Rode de novo pra continuar.")
+
+
 def atualizar(driver, atras, frente):
     """Atualizacao semanal incremental: raspa as ultimas `atras` semanas e as
     proximas `frente`, e faz MERGE no catalogo que ja existe -- adiciona edicoes
@@ -1067,6 +1162,9 @@ def main():
                          "catalogo existente (nao re-raspa o ano). Usa --atras/--frente")
     ap.add_argument("--atras", type=int, default=4, help="semanas para tras na atualizacao (padrao 4)")
     ap.add_argument("--frente", type=int, default=1, help="semanas para frente na atualizacao (padrao 1)")
+    ap.add_argument("--enriquecer", action="store_true",
+                    help="visita a pagina de cada edicao e adiciona sinopse/criadores/"
+                         "personagens (use --limite N pra fazer em lotes)")
     ap.add_argument("--limite", type=int, help="mantem so N series (teste rapido)")
     ap.add_argument("--semanas", type=int, help="raspa so as N primeiras semanas (teste rapido)")
     ap.add_argument("--sem-cache", action="store_true",
@@ -1107,6 +1205,8 @@ def main():
             return reparar(driver, fim_do_mes_seguinte(dt.date.today()))
         if args.atualizar:
             return atualizar(driver, args.atras, args.frente)
+        if args.enriquecer:
+            return enriquecer(driver, args.limite)
         desde = dt.date.fromisoformat(args.desde)
         ate = fim_do_mes_seguinte(dt.date.today())
         rodar(driver, desde, ate, args.limite, args.completo, args.semanas)

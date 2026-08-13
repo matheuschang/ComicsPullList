@@ -216,16 +216,36 @@ main { padding: 20px 24px 64px; max-width: 1320px; margin: 0 auto; }
 
 .edicoes { list-style: none; margin: 0; padding: 0; border: 1px solid var(--borda); border-radius: var(--raio); overflow: hidden; }
 .edicoes li {
-  display: flex; align-items: center; gap: 12px;
-  padding: 11px 15px; background: var(--fundo-2);
-  border-top: 1px solid var(--borda);
+  background: var(--fundo-2); border-top: 1px solid var(--borda);
 }
 .edicoes li:first-child { border-top: 0; }
+.edicao-linha { display: flex; align-items: center; gap: 12px; padding: 11px 15px; }
 .edicoes li.lida { color: var(--texto-2); background: var(--fundo); }
 .edicoes li.lida .numero { text-decoration: line-through; }
 .edicoes li.futura { background: var(--fundo); }
 .edicoes li.futura label { cursor: default; }
 .edicoes li.futura .numero { color: var(--texto-2); }
+
+/* Botao de expandir + ficha detalhada da edicao. */
+.expandir {
+  margin-left: 4px; padding: 5px; display: flex; align-items: center;
+  background: none; border: 0; border-radius: 7px; cursor: pointer; color: var(--texto-2);
+}
+.expandir svg { width: 16px; height: 16px; transition: transform .18s ease; }
+.expandir:hover { background: var(--fundo-3); color: var(--texto); }
+.expandir.aberto svg { transform: rotate(180deg); }
+.ed-detalhe { padding: 0 15px 14px; }
+.ed-detalhe-corpo { display: flex; gap: 14px; padding-top: 12px; border-top: 1px dashed var(--borda); }
+.ed-capa { width: 92px; flex: none; border-radius: 8px; border: 1px solid var(--borda); align-self: flex-start; }
+.ed-detalhe-txt { min-width: 0; display: flex; flex-direction: column; gap: 9px; }
+.ed-creditos { margin: 0; font-size: 13px; color: var(--texto-2); }
+.ed-creditos b { color: var(--texto); font-weight: 600; }
+.ed-sinopse { margin: 0; font-size: 13.5px; line-height: 1.5; color: var(--texto); }
+.ed-personagens { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip {
+  padding: 2px 9px; border-radius: 99px; font-size: 11px;
+  background: var(--fundo-3); border: 1px solid var(--borda); color: var(--texto-2);
+}
 .tag-futura {
   padding: 2px 8px; border-radius: 5px;
   border: 1px dashed var(--borda); color: var(--texto-2);
@@ -559,7 +579,8 @@ body.deslogado .btn-menu { display: none !important; }
   .paineis { grid-template-columns: 1fr; }
   .capa-grande { width: 140px; }
   .ficha-info h2 { font-size: 22px; }
-  .edicoes li { flex-wrap: wrap; gap: 8px; }
+  .edicao-linha { flex-wrap: wrap; gap: 8px 10px; }
+  .ed-capa { width: 78px; }
   .data { min-width: auto; }
   .user-linha { align-items: flex-start; }
   .rank li { grid-template-columns: minmax(0, 1fr) 52px 24px; }
