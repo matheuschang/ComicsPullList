@@ -279,6 +279,9 @@ main { padding: 20px 24px 64px; max-width: 1320px; margin: 0 auto; }
 .tile-rot { color: var(--texto-2); font-size: 13px; }
 
 .paineis { display: grid; gap: 18px; grid-template-columns: 1fr 1fr; align-items: start; }
+/* Itens de grid/flex precisam de min-width:0 para encolher ate a coluna -- senao
+   conteudo largo (o grafico) estica a pagina inteira em vez de rolar internamente. */
+.paineis > section, .painel, .grafico, .barra > *, .barra-dash > * { min-width: 0; }
 .painel {
   background: var(--fundo-2); border: 1px solid var(--borda);
   border-radius: var(--raio); padding: 18px 20px;
@@ -504,7 +507,11 @@ body.deslogado #usuario { display: none; }
   .barra, .barra-dash { gap: 8px; margin: 14px 0 16px; }
   .titulo-secao { flex-basis: 100%; margin-right: 0; }
   #busca { min-width: 0; flex-basis: 100%; max-width: none; }
-  .segmentos { flex-wrap: wrap; }
+  /* Cada pilula fica numa linha so (rola se muito larga) em vez de quebrar por
+     dentro; os GRUPOS de controle e que quebram entre si. */
+  .segmentos { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; max-width: 100%; }
+  .segmentos::-webkit-scrollbar { display: none; }
+  .segmentos button { white-space: nowrap; }
   .contagem, .janela-rot { margin-left: 0; }
   .campo-data { flex: 1; min-width: 0; }
 
