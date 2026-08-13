@@ -580,7 +580,10 @@ async function verAdmin() {
             <input type="email" id="novo-email" autocomplete="off" required>
           </label>
           <label class="campo">Senha inicial
-            <input type="text" id="novo-senha" autocomplete="off" minlength="6" required>
+            <span class="senha-wrap">
+              <input type="password" id="novo-senha" autocomplete="off" minlength="6" required>
+              <button type="button" class="olho" data-olho aria-label="Mostrar senha">👁</button>
+            </span>
           </label>
           <label class="campo">Papel
             <select id="novo-role">
@@ -612,7 +615,10 @@ async function verAdmin() {
               </div>
             </div>
             <form class="reset-form" data-reset-form="${esc(u.id)}" hidden>
-              <input type="text" placeholder="Nova senha (mín. 6)" minlength="6" required autocomplete="off">
+              <span class="senha-wrap">
+                <input type="password" placeholder="Nova senha (mín. 6)" minlength="6" required autocomplete="off">
+                <button type="button" class="olho" data-olho aria-label="Mostrar senha">👁</button>
+              </span>
               <button type="submit" class="botao-seguir">Salvar</button>
               <button type="button" class="botao-fantasma" data-reset-cancel>Cancelar</button>
               <span class="nota reset-status"></span>
@@ -710,9 +716,8 @@ async function verSerie(id) {
   ]);
   const hoje = meta.referencia;
   const pendentes = edicoes.filter((e) => !lidas.has(e.numero) && e.data <= hoje).length;
-  // Com a Metron, issue_count diz quantas a serie tem no total. Se soubermos
-  // menos que isso, e honesto dizer -- em vez de deixar o usuario supor que a
-  // lista esta completa.
+  // total_anunciado (quando existir) diz quantas edicoes a serie tem no total;
+  // se soubermos menos, mostramos "X de Y" em vez de fingir que a lista fechou.
   const total = serie.total_anunciado;
   const contagem = (total && total > edicoes.length)
     ? `${edicoes.length} de ${total} edições`
@@ -761,11 +766,7 @@ async function verSerie(id) {
           </span>
         </li>`;
       }).join('')}
-    </ol>
-    ${meta.fonte === 'metron' ? '' : `<p class="nota rodape-serie">
-      As edições anteriores a ${dataBR(meta.cobertura.de)} ainda não entraram no
-      catálogo — por enquanto a série começa nessa data.
-    </p>`}`;
+    </ol>`;
 
   tela.querySelectorAll('[data-edicao]').forEach((cx) => {
     cx.addEventListener('change', async () => {
@@ -899,6 +900,18 @@ document.addEventListener('click', async (ev) => {
   }
 });
 
+// Olhinho de senha: mostra/oculta o campo. Vale para todo [data-olho] (login e admin).
+document.addEventListener('click', (ev) => {
+  const olho = ev.target.closest('[data-olho]');
+  if (!olho) return;
+  const input = olho.closest('.senha-wrap')?.querySelector('input');
+  if (!input) return;
+  const revelar = input.type === 'password';
+  input.type = revelar ? 'text' : 'password';
+  olho.textContent = revelar ? '🙈' : '👁';
+  olho.setAttribute('aria-label', revelar ? 'Ocultar senha' : 'Mostrar senha');
+});
+
 // ------------------------------------------------------------- autenticacao
 
 function traduzErro(msg) {
@@ -918,7 +931,10 @@ function mostrarLogin(erro = '') {
         <input type="email" id="login-email" autocomplete="username" required>
       </label>
       <label class="campo">Senha
-        <input type="password" id="login-senha" autocomplete="current-password" required>
+        <span class="senha-wrap">
+          <input type="password" id="login-senha" autocomplete="current-password" required>
+          <button type="button" class="olho" data-olho aria-label="Mostrar senha">👁</button>
+        </span>
       </label>
       ${erro ? `<p class="login-erro">${esc(erro)}</p>` : ''}
       <button type="submit" class="botao-seguir">Entrar</button>

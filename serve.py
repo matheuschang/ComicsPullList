@@ -48,7 +48,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 def main():
     porta = int(sys.argv[1]) if len(sys.argv) > 1 else 8765
     if not (WEB / "data" / "series.json").exists():
-        print("aviso: web/data/series.json nao existe -- rode 'python ingest/from_csv.py' antes")
+        print("aviso: web/data/series.json nao existe -- rode 'python ingest/from_locg.py' antes")
     handler = functools.partial(Handler, directory=str(WEB))
     print(f"servindo {WEB} em http://localhost:{porta}  (ctrl+c para parar)")
     http.server.ThreadingHTTPServer(("127.0.0.1", porta), handler).serve_forever()

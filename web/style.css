@@ -378,6 +378,18 @@ body.deslogado #usuario { display: none; }
 .login button { padding: 11px; font-size: 15px; }
 .login-erro { margin: 0; color: var(--marvel); font-size: 13px; }
 
+/* Campo de senha com botao de mostrar/ocultar (olhinho). */
+.senha-wrap { position: relative; display: flex; align-items: center; flex: 1; min-width: 0; }
+/* !important reserva o espaco do olhinho mesmo com o padding shorthand dos
+   contextos (.login input / .reset-form input, definidos depois no arquivo). */
+.senha-wrap input { width: 100%; padding-right: 40px !important; }
+.olho {
+  position: absolute; right: 4px; top: 50%; transform: translateY(-50%);
+  background: none; border: 0; cursor: pointer; padding: 4px 7px;
+  font-size: 15px; line-height: 1; border-radius: 6px;
+}
+.olho:hover { background: var(--fundo-3); }
+
 /* Painel admin */
 .form-admin { display: flex; flex-direction: column; gap: 12px; }
 .form-admin .campo { display: flex; flex-direction: column; gap: 6px; font-size: 13px; color: var(--texto-2); }
@@ -453,14 +465,36 @@ body.deslogado #usuario { display: none; }
 /* ----------------------------------------------------------------- mobile */
 
 @media (max-width: 700px) {
-  .topo { gap: 12px; padding: 10px 14px; }
-  .abas a { padding: 7px 9px; font-size: 13px; }
-  main { padding-left: 14px; padding-right: 14px; }
-  .grade { grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 13px; }
+  /* Header em duas linhas: marca + usuario em cima, abas rolando embaixo. */
+  .topo { flex-wrap: wrap; gap: 8px 12px; padding: 9px 12px; }
+  .marca { font-size: 18px; }
+  .usuario { margin-left: auto; }
+  .usuario-email { max-width: 130px; }
+  .abas {
+    order: 3; flex-basis: 100%; margin-right: 0;
+    overflow-x: auto; overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch; scrollbar-width: none;
+  }
+  .abas::-webkit-scrollbar { display: none; }
+  .abas a { flex: 0 0 auto; padding: 7px 11px; font-size: 13px; white-space: nowrap; }
+
+  main { padding: 16px 12px 56px; }
+
+  /* Barras de filtro: a busca ocupa a linha toda; o resto quebra e nao estoura. */
+  .barra, .barra-dash { gap: 8px; margin: 14px 0 16px; }
+  .titulo-secao { flex-basis: 100%; margin-right: 0; }
+  #busca { min-width: 0; flex-basis: 100%; max-width: none; }
+  .segmentos { flex-wrap: wrap; }
+  .contagem, .janela-rot { margin-left: 0; }
+  .campo-data { flex: 1; min-width: 0; }
+
+  .grade { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 13px; }
   .ficha { flex-direction: column; gap: 16px; }
   .paineis { grid-template-columns: 1fr; }
-  .capa-grande { width: 132px; }
+  .capa-grande { width: 140px; }
   .ficha-info h2 { font-size: 22px; }
   .edicoes li { flex-wrap: wrap; gap: 8px; }
   .data { min-width: auto; }
+  .user-linha { align-items: flex-start; }
+  .rank li { grid-template-columns: minmax(0, 1fr) 56px 26px; }
 }

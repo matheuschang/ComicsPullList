@@ -141,40 +141,4 @@ export const store = {
     c.ultimaVisita = quando;
     await comRetry(() => supabase.from('profiles').update({ ultima_visita: quando }).eq('id', c.userId));
   },
-
-  /** Export do proprio estado (JSON). O painel admin da etapa 3b amplia isto. */
-  async exportar() {
-    const c = await carregar();
-    return JSON.stringify({
-      email: c.perfil.email,
-      seguindo: [...c.seguindo],
-      lidas: Object.fromEntries([...c.lidas].map(([id, s]) => [id, [...s]])),
-      ultimaVisita: c.ultimaVisita,
-      exportadoEm: new Date().toISOString(),
-    }, null, 1);
-  },
-
-  /** Importa um export para a conta atual. Une com o que ja existe. */
-  async importar(texto) {
-    const novo = JSON.parse(texto);
-    if (!novo || !Array.isArray(novo.seguindo)) {
-      throw new Error('arquivo não parece um export do Pull List');
-    }
-    const c = await carregar();
-    const follows = novo.seguindo.filter((id) => !c.seguindo.has(id));
-    const reads = [];
-    for (const [id, numeros] of Object.entries(novo.lidas || {})) {
-      const set = c.lidas.get(id) || new Set();
-      for (const n of numeros) if (!set.has(n)) reads.push({ user_id: c.userId, serie_id: id, numero: n });
-    }
-    if (follows.length) {
-      await supabase.from('follows').upsert(follows.map((id) => ({ user_id: c.userId, serie_id: id })));
-    }
-    if (reads.length) await supabase.from('reads').upsert(reads);
-    cache = null; // recarrega do banco na proxima leitura
-    return { series: novo.seguindo.length, comLidas: Object.keys(novo.lidas || {}).length };
-  },
-
-  /** Sem migracao de slug no Supabase: cada conta comeca do zero. No-op. */
-  async migrar() { return 0; },
 };

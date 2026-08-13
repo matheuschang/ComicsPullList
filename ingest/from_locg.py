@@ -1,10 +1,10 @@
 """Monta o catalogo raspando o League of Comics Geeks (LOCG).
 
-Substitui a fase 2 da Metron (que nunca funcionou). O objetivo e o mesmo: um
-catalogo com TODAS as edicoes de cada serie DC/Marvel -- inclusive as anteriores
-a data de corte -- para dar pra marcar a serie inteira como lida.
+E a fonte de dados do Pull List: um catalogo com TODAS as edicoes de cada serie
+DC/Marvel -- inclusive as anteriores a data de corte -- para dar pra marcar a
+serie inteira como lida.
 
-Requisitos combinados:
+Requisitos:
   - todo titulo DC e Marvel com edicao a partir de --desde (padrao 2026-01-01);
   - se a serie teve a #1 antes disso, buscar as edicoes anteriores tambem;
   - so DC e Marvel;

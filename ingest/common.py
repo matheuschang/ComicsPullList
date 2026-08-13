@@ -1,9 +1,8 @@
-"""Regras de catalogo compartilhadas entre as fontes de dados.
+"""Regras de catalogo, compartilhadas entre a raspagem e a escrita dos JSONs.
 
-A fonte de hoje sao os CSVs da League of Comic Geeks (via comics_releases).
-A fonte da fase 2 e a API da Metron. Tudo que for logica de catalogo -- o que
-conta como serie, o que e ruido, como se ordena uma edicao -- mora aqui, para
-que trocar a fonte nao mude o comportamento do app.
+Tudo que for logica de catalogo -- o que conta como serie, o que e ruido, como
+se ordena uma edicao, como se grava -- mora aqui. O `from_locg.py` (a raspagem
+do League of Comics Geeks) so busca os dados; o formato de saida e definido aqui.
 """
 
 import datetime as dt
@@ -14,13 +13,6 @@ import unicodedata
 # Uma serie conta como "em publicacao" se lancou algo nesta janela, contada a
 # partir da data de referencia do catalogo.
 JANELA_EM_PUBLICACAO = dt.timedelta(days=90)
-
-# Editoras que entram no catalogo. A chave e o que vem na fonte; o valor e o
-# codigo curto usado no JSON e nos filtros da interface.
-EDITORAS = {
-    "DC Comics": "dc",
-    "Marvel Comics": "marvel",
-}
 
 # "Absolute Batman #13" -> ("Absolute Batman", "13", "")
 # O numero nao e so digito: existe "#C-23" (Limited Collectors' Edition).
@@ -81,12 +73,11 @@ def motivo_descarte(serie, resto):
 
 
 def chave_serie(editora, serie):
-    """Identidade da serie para agrupar edicoes.
+    """Identidade da serie para agrupar edicoes: um slug normalizado do nome.
 
-    Na fase 2 isso vira o id da Metron, que e estavel de verdade. Ate la, um
-    slug normalizado -- suficiente para agrupar, mas incapaz de distinguir
-    relancamentos ("Batman #1" de 2016 e de 2025 colidem). O campo `fonte` no
-    JSON marca essa limitacao para quem consumir os dados.
+    E suficiente para agrupar, mas nao distingue relancamentos ("Batman #1" de
+    2016 e de 2025 colidem no mesmo slug). Resolver isso pediria o id de volume
+    da LOCG -- fica para depois.
     """
     nome = _PREFIXO_ARTIGO.sub("", serie)
     nome = unicodedata.normalize("NFKD", nome)
