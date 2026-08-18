@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-08-13T06:07:23",
+ "gerado_em": "2026-08-17T23:12:31",
  "fonte": "locg",
- "referencia": "2026-08-13",
+ "referencia": "2026-08-17",
  "cobertura": {
   "de": "2026-01-01",
-  "ate": "2026-08-20"
+  "ate": "2026-08-24"
  },
  "total_series": 337,
  "total_edicoes": 2687,
