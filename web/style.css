@@ -112,7 +112,7 @@ main { padding: 20px 24px 64px; max-width: 1320px; margin: 0 auto; }
 }
 #busca:focus { outline: 2px solid var(--dc); outline-offset: -1px; }
 
-.segmentos { display: flex; background: var(--fundo-2); border: 1px solid var(--borda); border-radius: 8px; padding: 3px; }
+.segmentos { display: flex; flex: 0 0 auto; background: var(--fundo-2); border: 1px solid var(--borda); border-radius: 8px; padding: 3px; }
 .segmentos button {
   padding: 6px 15px; border: 0; border-radius: 6px;
   background: transparent; color: var(--texto-2);
@@ -329,7 +329,7 @@ main { padding: 20px 24px 64px; max-width: 1320px; margin: 0 auto; }
 .paineis { display: grid; gap: 18px; grid-template-columns: 1fr 1fr; align-items: start; }
 /* Itens de grid/flex precisam de min-width:0 para encolher ate a coluna -- senao
    conteudo largo (o grafico) estica a pagina inteira em vez de rolar internamente. */
-.paineis > section, .painel, .grafico, .barra > *, .barra-dash > * { min-width: 0; }
+.paineis > section, .painel, .grafico { min-width: 0; }
 .painel {
   background: var(--fundo-2); border: 1px solid var(--borda);
   border-radius: var(--raio); padding: 18px 20px;

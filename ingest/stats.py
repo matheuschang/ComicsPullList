@@ -28,16 +28,27 @@ def main():
 
     por_mes = defaultdict(lambda: {"dc": 0, "marvel": 0})   # mes -> contagem por editora
     novos_por_mes = defaultdict(int)                        # mes -> series estreando
+    semanas_por_serie = {}                                  # id -> [quartas de lancamento]
     total_edicoes = 0
+
+    def quarta_da_semana(iso):
+        # Quarta-feira (ancora da semana da LOCG) da semana que contem `iso`.
+        # Mesma logica do quartaDaSemana do app.js, para casar o filtro de data.
+        d = dt.date.fromisoformat(iso)
+        return (d - dt.timedelta(days=(d.weekday() - 2) % 7)).isoformat()
 
     for s in series:
         arq = DATA / "issues" / f"{s['id']}.json"
         edicoes = json.loads(arq.read_text(encoding="utf-8")).get("edicoes", [])
+        semanas = set()
         for e in edicoes:
-            mes = (e.get("data") or "")[:7]
-            if len(mes) == 7:
-                por_mes[mes][s["editora"]] += 1
+            data = e.get("data") or ""
+            if len(data) == 10:
+                por_mes[data[:7]][s["editora"]] += 1
                 total_edicoes += 1
+                semanas.add(quarta_da_semana(data))
+        if semanas:
+            semanas_por_serie[s["id"]] = sorted(semanas)
         if edicoes:
             estreia = min(edicoes, key=lambda e: e["data"])["data"][:7]
             if len(estreia) == 7:
@@ -58,6 +69,7 @@ def main():
              "edicoes": s.get("edicoes_conhecidas") or 0}
             for s in top
         ],
+        "semanas_por_serie": semanas_por_serie,
     }
     (DATA / "stats.json").write_text(
         json.dumps(stats, ensure_ascii=False, indent=1), encoding="utf-8")

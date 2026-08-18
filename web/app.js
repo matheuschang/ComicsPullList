@@ -6,7 +6,7 @@ const cacheEdicoes = new Map();
 
 let catalogo = [];
 let meta = {};
-let filtro = { texto: '', editora: 'todas', soAtivas: false, janela: 0 };
+let filtro = { texto: '', editora: 'todas', soAtivas: false, data: '' };
 let ordemCampo = 'nome'; // 'nome' | 'lancamento' | 'edicoes' | 'pendencias'
 let ordemDir = 'asc';    // 'asc' | 'desc'
 
@@ -91,17 +91,16 @@ async function naoLidas(id) {
 // ------------------------------------------------------------------ catalogo
 
 // Filtros compartilhados entre Catalogo e Seguindo: editora, "so em publicacao" e
-// a janela de semanas (lancou nas ultimas N). A busca por texto NAO entra aqui de
-// proposito -- e so do catalogo (senao pesquisar filtraria a aba Seguindo tambem).
-// A ultima_edicao.data e a saida mais recente; se esta na janela, a serie lancou
-// nela -- entao o filtro por "ultimas N semanas" e exato.
+// a semana de lancamento (via data). A busca por texto NAO entra aqui de proposito
+// -- e so do catalogo. O filtro por semana usa stats.semanas_por_serie (as quartas
+// em que cada serie lancou), entao pegar "a semana de uma data" e exato.
 function aplicarFiltro(lista) {
-  const hoje = meta.referencia;
-  const corte = filtro.janela ? isoMaisDias(hoje, -filtro.janela * 7) : '';
+  const semana = filtro.data ? quartaDaSemana(filtro.data) : '';
+  const porSerie = (stats && stats.semanas_por_serie) || {};
   return lista.filter((s) => (
     (filtro.editora === 'todas' || s.editora === filtro.editora)
     && (!filtro.soAtivas || s.status === 'em-publicacao')
-    && (!filtro.janela || (s.ultima_edicao.data <= hoje && s.ultima_edicao.data >= corte))
+    && (!semana || (porSerie[s.id] || []).includes(semana))
   ));
 }
 
@@ -139,14 +138,13 @@ function controleOrdem(campos) {
     </button>`;
 }
 
-/** Filtro de janela: titulos que lancaram nas ultimas N semanas. */
-function controleSemana() {
-  const ops = [[0, 'Qualquer'], [1, '1 sem'], [2, '2 sem'], [4, '4 sem'], [8, '8 sem']];
+/** Filtro por semana: titulos que lancaram na semana da data escolhida. */
+function controleDataSemana() {
   return `
-    <span class="janela-rot">lançou:</span>
-    <div class="segmentos">
-      ${ops.map(([v, r]) => `<button data-janela-cat="${v}" class="${filtro.janela === v ? 'ativo' : ''}">${r}</button>`).join('')}
-    </div>`;
+    <span class="janela-rot">semana de:</span>
+    <input type="date" id="filtro-data" class="campo-data" value="${filtro.data}"
+      max="${meta.referencia}" title="Lançamentos da semana desta data">
+    ${filtro.data ? '<button class="alternador" id="filtro-data-limpar" title="Limpar">✕</button>' : ''}`;
 }
 
 /** Nome com o volume quando ele distingue relancamentos: "Batman (2016)". */
@@ -202,6 +200,7 @@ async function grade(lista, vazio) {
 }
 
 async function verCatalogo() {
+  await carregarStats();
   const texto = filtro.texto.trim().toLowerCase();
   const lista = ordenarLista(
     aplicarFiltro(catalogo).filter((s) => !texto || s.nome.toLowerCase().includes(texto)),
@@ -211,7 +210,7 @@ async function verCatalogo() {
     <div class="barra barra-dash">
       <input id="busca" type="search" placeholder="Buscar título…" value="${esc(filtro.texto)}">
       ${controles()}
-      ${controleSemana()}
+      ${controleDataSemana()}
       ${controleOrdem(['nome', 'lancamento', 'edicoes'])}
       <span class="contagem">${lista.length} de ${catalogo.length}</span>
     </div>
@@ -237,6 +236,7 @@ async function verCatalogo() {
 let segFiltro = 'todas'; // 'todas' | 'pendentes' | 'emdia'
 
 async function verSeguindo() {
+  await carregarStats();
   const seguindo = await store.seguindo();
   let lista = aplicarFiltro(catalogo.filter((s) => seguindo.has(s.id)));
 
@@ -255,7 +255,7 @@ async function verSeguindo() {
         ${filtros.map(([v, r]) => `<button data-seg-filtro="${v}" class="${segFiltro === v ? 'ativo' : ''}">${r}</button>`).join('')}
       </div>
       ${controles()}
-      ${controleSemana()}
+      ${controleDataSemana()}
       ${controleOrdem(['nome', 'lancamento', 'edicoes', 'pendencias'])}
     </div>
     ${await grade(lista, seguindo.size
@@ -978,9 +978,17 @@ document.addEventListener('click', async (ev) => {
     await rotear();
     return;
   }
-  const jcat = ev.target.closest('[data-janela-cat]');
-  if (jcat) {
-    filtro.janela = Number(jcat.dataset.janelaCat);
+  if (ev.target.closest('#filtro-data-limpar')) {
+    filtro.data = '';
+    await rotear();
+  }
+});
+
+// Filtro por semana no catalogo/seguindo: escolher a data mostra os titulos que
+// lancaram na semana dela. Delegado para sobreviver aos re-renders da barra.
+document.addEventListener('change', async (ev) => {
+  if (ev.target.id === 'filtro-data') {
+    filtro.data = ev.target.value;
     await rotear();
   }
 });
