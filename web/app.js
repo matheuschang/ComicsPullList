@@ -6,7 +6,7 @@ const cacheEdicoes = new Map();
 
 let catalogo = [];
 let meta = {};
-let filtro = { texto: '', editora: 'todas', soAtivas: false };
+let filtro = { texto: '', editora: 'todas', soAtivas: false, janela: 0 };
 let ordemCampo = 'nome'; // 'nome' | 'lancamento' | 'edicoes' | 'pendencias'
 let ordemDir = 'asc';    // 'asc' | 'desc'
 
@@ -90,13 +90,18 @@ async function naoLidas(id) {
 
 // ------------------------------------------------------------------ catalogo
 
-// Filtros compartilhados entre as abas: editora e "so em publicacao". A busca por
-// texto NAO entra aqui de proposito -- ela e so do catalogo; se entrasse, pesquisar
-// no catalogo filtraria tambem a aba Seguindo.
+// Filtros compartilhados entre Catalogo e Seguindo: editora, "so em publicacao" e
+// a janela de semanas (lancou nas ultimas N). A busca por texto NAO entra aqui de
+// proposito -- e so do catalogo (senao pesquisar filtraria a aba Seguindo tambem).
+// A ultima_edicao.data e a saida mais recente; se esta na janela, a serie lancou
+// nela -- entao o filtro por "ultimas N semanas" e exato.
 function aplicarFiltro(lista) {
+  const hoje = meta.referencia;
+  const corte = filtro.janela ? isoMaisDias(hoje, -filtro.janela * 7) : '';
   return lista.filter((s) => (
     (filtro.editora === 'todas' || s.editora === filtro.editora)
     && (!filtro.soAtivas || s.status === 'em-publicacao')
+    && (!filtro.janela || (s.ultima_edicao.data <= hoje && s.ultima_edicao.data >= corte))
   ));
 }
 
@@ -107,7 +112,9 @@ const ORDEM_ROTULO = { nome: 'A–Z', lancamento: 'Lançamento', edicoes: 'Ediç
 function ordenarLista(lista, pend) {
   const chave = {
     nome: (s) => s.nome.toLowerCase(),
-    lancamento: (s) => s.ultima_edicao.data,
+    // "Lancamento" = ultima edicao JA publicada; series so com edicao futura (nao
+    // lancaram ainda) recebem sentinela antiga para nao subir no topo do recente.
+    lancamento: (s) => (s.ultima_edicao.data <= meta.referencia ? s.ultima_edicao.data : '0000-00-00'),
     edicoes: (s) => s.edicoes_conhecidas || 0,
     pendencias: (s) => (pend ? pend.get(s.id) || 0 : 0),
   }[ordemCampo] || ((s) => s.nome.toLowerCase());
@@ -130,6 +137,16 @@ function controleOrdem(campos) {
     <button class="alternador" data-ordem-dir title="${ordemDir === 'asc' ? 'Crescente' : 'Decrescente'}">
       ${ordemDir === 'asc' ? '↑ cresc.' : '↓ decr.'}
     </button>`;
+}
+
+/** Filtro de janela: titulos que lancaram nas ultimas N semanas. */
+function controleSemana() {
+  const ops = [[0, 'Qualquer'], [1, '1 sem'], [2, '2 sem'], [4, '4 sem'], [8, '8 sem']];
+  return `
+    <span class="janela-rot">lançou:</span>
+    <div class="segmentos">
+      ${ops.map(([v, r]) => `<button data-janela-cat="${v}" class="${filtro.janela === v ? 'ativo' : ''}">${r}</button>`).join('')}
+    </div>`;
 }
 
 /** Nome com o volume quando ele distingue relancamentos: "Batman (2016)". */
@@ -194,6 +211,7 @@ async function verCatalogo() {
     <div class="barra barra-dash">
       <input id="busca" type="search" placeholder="Buscar título…" value="${esc(filtro.texto)}">
       ${controles()}
+      ${controleSemana()}
       ${controleOrdem(['nome', 'lancamento', 'edicoes'])}
       <span class="contagem">${lista.length} de ${catalogo.length}</span>
     </div>
@@ -237,6 +255,7 @@ async function verSeguindo() {
         ${filtros.map(([v, r]) => `<button data-seg-filtro="${v}" class="${segFiltro === v ? 'ativo' : ''}">${r}</button>`).join('')}
       </div>
       ${controles()}
+      ${controleSemana()}
       ${controleOrdem(['nome', 'lancamento', 'edicoes', 'pendencias'])}
     </div>
     ${await grade(lista, seguindo.size
@@ -956,6 +975,12 @@ document.addEventListener('click', async (ev) => {
   }
   if (ev.target.closest('[data-so-ativas]')) {
     filtro.soAtivas = !filtro.soAtivas;
+    await rotear();
+    return;
+  }
+  const jcat = ev.target.closest('[data-janela-cat]');
+  if (jcat) {
+    filtro.janela = Number(jcat.dataset.janelaCat);
     await rotear();
   }
 });
