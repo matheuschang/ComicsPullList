@@ -1,15 +1,15 @@
 {
- "gerado_em": "2026-08-17T23:16:46",
+ "gerado_em": "2026-09-07T19:56:07",
  "fonte": "locg",
- "referencia": "2026-08-17",
+ "referencia": "2026-09-07",
  "cobertura": {
   "de": "2026-01-01",
-  "ate": "2026-08-24"
+  "ate": "2026-09-14"
  },
  "total_series": 337,
  "total_edicoes": 2687,
- "em_publicacao": 222,
- "com_proxima": 135,
+ "em_publicacao": 196,
+ "com_proxima": 98,
  "descartes": {
   "antes-do-corte": 17,
   "outra-editora": 9242,

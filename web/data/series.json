@@ -11,13 +11,10 @@
    "data": "2026-07-01"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "3",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -96,13 +93,10 @@
    "data": "2026-06-10"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-07-08"
-  },
-  "proxima_edicao": {
    "numero": "3",
    "data": "2026-08-26"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -118,12 +112,12 @@
    "data": "2025-03-19"
   },
   "ultima_edicao": {
-   "numero": "17",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "18",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "19",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -140,12 +134,12 @@
    "data": "2026-05-20"
   },
   "ultima_edicao": {
-   "numero": "3",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "4",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -162,13 +156,10 @@
    "data": "2025-04-02"
   },
   "ultima_edicao": {
-   "numero": "17",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "18",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -203,13 +194,10 @@
    "data": "2024-11-06"
   },
   "ultima_edicao": {
-   "numero": "22",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "23",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -225,12 +213,12 @@
    "data": "2024-10-23"
   },
   "ultima_edicao": {
-   "numero": "22",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "23",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "24",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -288,13 +276,10 @@
    "data": "2025-09-03"
   },
   "ultima_edicao": {
-   "numero": "11",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "12",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -370,13 +355,10 @@
    "data": "2024-11-06"
   },
   "ultima_edicao": {
-   "numero": "22",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "23",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -395,11 +377,8 @@
    "numero": "163",
    "data": "2026-05-27"
   },
-  "proxima_edicao": {
-   "numero": "13",
-   "data": "2026-09-02"
-  },
-  "status": "em-publicacao",
+  "proxima_edicao": null,
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -455,10 +434,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -474,12 +450,12 @@
    "data": "2024-08-21"
   },
   "ultima_edicao": {
-   "numero": "53",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "54",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "55",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -644,10 +620,7 @@
    "numero": "1",
    "data": "2026-08-26"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-08-26"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -667,7 +640,7 @@
    "data": "2026-06-01"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -724,7 +697,7 @@
    "data": "2026-05-27"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -743,7 +716,7 @@
    "data": "2026-06-01"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -758,12 +731,12 @@
    "data": "2026-03-18"
   },
   "ultima_edicao": {
-   "numero": "5",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "6",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "7",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -802,12 +775,12 @@
    "data": "2026-08-26"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-09-23"
-  },
-  "proxima_edicao": {
    "numero": "1",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -865,12 +838,12 @@
    "data": "2018-07-04"
   },
   "ultima_edicao": {
-   "numero": "89",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "90",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "91",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -928,12 +901,12 @@
    "data": "2026-07-15"
   },
   "ultima_edicao": {
-   "numero": "1",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "2",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1323,12 +1296,12 @@
    "data": "2026-03-18"
   },
   "ultima_edicao": {
-   "numero": "5",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "6",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "7",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1345,12 +1318,12 @@
    "data": "2024-05-28"
   },
   "ultima_edicao": {
-   "numero": "1111",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "1112",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "1113",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1427,12 +1400,12 @@
    "data": "2026-02-18"
   },
   "ultima_edicao": {
-   "numero": "6",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "7",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "8",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1563,12 +1536,12 @@
    "data": "2023-05-09"
   },
   "ultima_edicao": {
-   "numero": "37",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "38",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "39",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1611,7 +1584,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -1626,12 +1599,12 @@
    "data": "2021-03-23"
   },
   "ultima_edicao": {
-   "numero": "64",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "65",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "66",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1746,13 +1719,10 @@
    "data": "2024-11-06"
   },
   "ultima_edicao": {
-   "numero": "22",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "23",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -1806,12 +1776,12 @@
    "data": "2024-11-27"
   },
   "ultima_edicao": {
-   "numero": "21",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "22",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "23",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1870,7 +1840,7 @@
    "data": "2026-05-20"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -1907,10 +1877,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -1926,12 +1893,12 @@
    "data": "2026-03-18"
   },
   "ultima_edicao": {
-   "numero": "5",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "6",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "7",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -1948,13 +1915,10 @@
    "data": "2018-04-18"
   },
   "ultima_edicao": {
-   "numero": "600",
-   "data": "2026-06-17"
-  },
-  "proxima_edicao": {
    "numero": "601",
    "data": "2026-08-19"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2065,12 +2029,12 @@
    "data": "2026-03-18"
   },
   "ultima_edicao": {
-   "numero": "37",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "38",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "39",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -2090,10 +2054,7 @@
    "numero": "1",
    "data": "2026-08-26"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-08-26"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2109,12 +2070,12 @@
    "data": "2016-07-27"
   },
   "ultima_edicao": {
-   "numero": "140",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "141",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "142",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -2135,7 +2096,7 @@
    "data": "2026-06-04"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -2150,12 +2111,12 @@
    "data": "2024-11-06"
   },
   "ultima_edicao": {
-   "numero": "46",
-   "data": "2026-07-01"
-  },
-  "proxima_edicao": {
    "numero": "47",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "48",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -2176,7 +2137,7 @@
    "data": "2026-05-20"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -2194,10 +2155,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2216,10 +2174,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2238,10 +2193,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2260,10 +2212,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2339,13 +2288,10 @@
    "data": "2026-06-03"
   },
   "ultima_edicao": {
-   "numero": "3",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "4",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2361,12 +2307,12 @@
    "data": "2023-02-21"
   },
   "ultima_edicao": {
-   "numero": "40",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "41",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "42",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -2516,12 +2462,12 @@
    "data": "2025-05-21"
   },
   "ultima_edicao": {
-   "numero": "15",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "16",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "17",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -2561,7 +2507,7 @@
    "data": "2026-06-01"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -2576,12 +2522,12 @@
    "data": "2026-05-27"
   },
   "ultima_edicao": {
-   "numero": "3",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "4",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -2623,10 +2569,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2702,10 +2645,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2759,13 +2699,10 @@
    "data": "2026-06-03"
   },
   "ultima_edicao": {
-   "numero": "3",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "4",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2784,10 +2721,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -2803,12 +2737,12 @@
    "data": "2023-09-26"
   },
   "ultima_edicao": {
-   "numero": "35",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "36",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "37",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -2930,7 +2864,7 @@
    "data": "2026-05-27"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -2945,12 +2879,12 @@
    "data": "2023-09-19"
   },
   "ultima_edicao": {
-   "numero": "35",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "36",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "37",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3008,12 +2942,12 @@
    "data": "2026-04-29"
   },
   "ultima_edicao": {
-   "numero": "4",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "5",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "6",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3072,7 +3006,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -3147,13 +3081,10 @@
    "data": "2026-04-01"
   },
   "ultima_edicao": {
-   "numero": "4",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "5",
    "data": "2026-08-19"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -3245,12 +3176,12 @@
    "data": "2026-06-10"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "3",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3324,12 +3255,12 @@
    "data": "2026-06-10"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-07-29"
-  },
-  "proxima_edicao": {
    "numero": "3",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3346,12 +3277,12 @@
    "data": "2025-08-20"
   },
   "ultima_edicao": {
-   "numero": "12",
-   "data": "2026-07-08"
-  },
-  "proxima_edicao": {
    "numero": "13",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "14",
+   "data": "2026-09-09"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3371,10 +3302,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -3428,13 +3356,10 @@
    "data": "2025-07-02"
   },
   "ultima_edicao": {
-   "numero": "14",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "15",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -3450,13 +3375,10 @@
    "data": "2026-04-01"
   },
   "ultima_edicao": {
-   "numero": "4",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "5",
    "data": "2026-08-19"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -3672,7 +3594,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -3687,12 +3609,12 @@
    "data": "2026-04-01"
   },
   "ultima_edicao": {
-   "numero": "4",
-   "data": "2026-07-08"
+   "numero": "6",
+   "data": "2026-09-02"
   },
   "proxima_edicao": {
-   "numero": "5",
-   "data": "2026-08-19"
+   "numero": "7",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3766,12 +3688,12 @@
    "data": "2026-09-02"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-09-16"
-  },
-  "proxima_edicao": {
    "numero": "1",
    "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3813,10 +3735,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -3930,12 +3849,12 @@
    "data": "2025-07-09"
   },
   "ultima_edicao": {
-   "numero": "15",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "16",
    "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "17",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -3993,12 +3912,12 @@
    "data": "2026-07-22"
   },
   "ultima_edicao": {
-   "numero": "1",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "2",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -4037,12 +3956,12 @@
    "data": "2026-07-22"
   },
   "ultima_edicao": {
-   "numero": "1",
-   "data": "2026-07-22"
-  },
-  "proxima_edicao": {
    "numero": "2",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -4063,7 +3982,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -4157,12 +4076,12 @@
    "data": "2026-01-21"
   },
   "ultima_edicao": {
-   "numero": "7",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "8",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "9",
+   "data": "2026-09-09"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -4224,7 +4143,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -4495,13 +4414,10 @@
    "data": "2025-06-04"
   },
   "ultima_edicao": {
-   "numero": "5",
-   "data": "2025-12-31"
-  },
-  "proxima_edicao": {
    "numero": "6",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -4586,10 +4502,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -4707,7 +4620,7 @@
    "data": "2026-06-05"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -4763,10 +4676,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -4922,7 +4832,7 @@
    "data": "2026-05-27"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -4956,12 +4866,12 @@
    "data": "2026-07-29"
   },
   "ultima_edicao": {
-   "numero": "1",
-   "data": "2026-07-29"
-  },
-  "proxima_edicao": {
    "numero": "2",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5001,7 +4911,7 @@
    "data": "2026-05-27"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -5038,12 +4948,12 @@
    "data": "2026-07-15"
   },
   "ultima_edicao": {
-   "numero": "1",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "2",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5079,12 +4989,12 @@
    "data": "2026-07-29"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "3",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5101,12 +5011,12 @@
    "data": "2026-07-29"
   },
   "ultima_edicao": {
-   "numero": "1",
-   "data": "2026-07-29"
-  },
-  "proxima_edicao": {
    "numero": "2",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5161,12 +5071,12 @@
    "data": "2026-08-05"
   },
   "ultima_edicao": {
-   "numero": "1",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "2",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "3",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5206,7 +5116,7 @@
    "data": "2026-05-20"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -5225,7 +5135,7 @@
    "data": "2026-05-20"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -5259,12 +5169,12 @@
    "data": "2025-12-31"
   },
   "ultima_edicao": {
-   "numero": "8",
-   "data": "2026-07-08"
-  },
-  "proxima_edicao": {
    "numero": "9",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "10",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5281,12 +5191,12 @@
    "data": "2026-05-13"
   },
   "ultima_edicao": {
-   "numero": "3",
-   "data": "2026-07-29"
-  },
-  "proxima_edicao": {
    "numero": "4",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5341,12 +5251,12 @@
    "data": "2026-08-19"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-09-23"
-  },
-  "proxima_edicao": {
    "numero": "1",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -5426,10 +5336,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -5483,13 +5390,10 @@
    "data": "2026-04-22"
   },
   "ultima_edicao": {
-   "numero": "4",
-   "data": "2026-07-15"
-  },
-  "proxima_edicao": {
    "numero": "5",
    "data": "2026-08-19"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -5585,7 +5489,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -5686,7 +5590,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -5739,12 +5643,12 @@
    "data": "2026-01-07"
   },
   "ultima_edicao": {
-   "numero": "34",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "35",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "1000",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6059,7 +5963,7 @@
    "data": "2026-05-27"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -6074,12 +5978,12 @@
    "data": "2026-08-19"
   },
   "ultima_edicao": {
-   "numero": "801",
-   "data": "2026-09-23"
-  },
-  "proxima_edicao": {
    "numero": "800",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "801",
+   "data": "2026-09-23"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6096,12 +6000,12 @@
    "data": "2026-08-26"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-09-30"
-  },
-  "proxima_edicao": {
    "numero": "1",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "2",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6156,12 +6060,12 @@
    "data": "2026-05-20"
   },
   "ultima_edicao": {
-   "numero": "3",
-   "data": "2026-07-29"
-  },
-  "proxima_edicao": {
    "numero": "4",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "5",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6254,12 +6158,12 @@
    "data": "2024-08-07"
   },
   "ultima_edicao": {
-   "numero": "33",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "34",
    "data": "2026-08-19"
+  },
+  "proxima_edicao": {
+   "numero": "35",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6295,12 +6199,12 @@
    "data": "2025-10-01"
   },
   "ultima_edicao": {
-   "numero": "260",
-   "data": "2026-08-12"
-  },
-  "proxima_edicao": {
    "numero": "261",
    "data": "2026-09-02"
+  },
+  "proxima_edicao": {
+   "numero": "262",
+   "data": "2026-09-30"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6317,13 +6221,10 @@
    "data": "2026-02-11"
   },
   "ultima_edicao": {
-   "numero": "7",
-   "data": "2026-08-05"
-  },
-  "proxima_edicao": {
    "numero": "8",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -6399,10 +6300,7 @@
    "numero": "1",
    "data": "2026-08-19"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-08-19"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -6479,7 +6377,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -6497,10 +6395,7 @@
    "numero": "1",
    "data": "2026-08-26"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-08-26"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -6539,7 +6434,7 @@
    "data": "2026-05-27"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -6573,12 +6468,12 @@
    "data": "2024-09-11"
   },
   "ultima_edicao": {
-   "numero": "25",
-   "data": "2026-08-12"
-  },
-  "proxima_edicao": {
    "numero": "26",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "27",
+   "data": "2026-09-09"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6599,7 +6494,7 @@
    "data": "2026-05-20"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -6633,12 +6528,12 @@
    "data": "2025-08-13"
   },
   "ultima_edicao": {
-   "numero": "35",
-   "data": "2026-08-12"
-  },
-  "proxima_edicao": {
    "numero": "36",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "37",
+   "data": "2026-09-09"
   },
   "status": "em-publicacao",
   "fonte": "locg"
@@ -6655,13 +6550,10 @@
    "data": "2026-06-03"
   },
   "ultima_edicao": {
-   "numero": "3",
-   "data": "2026-08-12"
-  },
-  "proxima_edicao": {
    "numero": "4",
    "data": "2026-09-02"
   },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -6700,7 +6592,7 @@
    "data": "2026-06-03"
   },
   "proxima_edicao": null,
-  "status": "em-publicacao",
+  "status": "sem-noticia",
   "fonte": "locg"
  },
  {
@@ -6759,10 +6651,7 @@
    "numero": "1",
    "data": "2026-09-02"
   },
-  "proxima_edicao": {
-   "numero": "1",
-   "data": "2026-09-02"
-  },
+  "proxima_edicao": null,
   "status": "em-publicacao",
   "fonte": "locg"
  },
@@ -6778,12 +6667,12 @@
    "data": "2026-06-24"
   },
   "ultima_edicao": {
-   "numero": "2",
-   "data": "2026-07-29"
-  },
-  "proxima_edicao": {
    "numero": "3",
    "data": "2026-08-26"
+  },
+  "proxima_edicao": {
+   "numero": "4",
+   "data": "2026-09-16"
   },
   "status": "em-publicacao",
   "fonte": "locg"
