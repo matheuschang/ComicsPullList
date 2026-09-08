@@ -10,7 +10,28 @@
    "preco": "3.99",
    "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4105653.jpg?1786027571",
    "link": "https://leagueofcomicgeeks.com/comic/4105653/100-bullets-the-us-of-anger-1",
-   "read_link": ""
+   "read_link": "",
+   "sinopse": "HAPPY 250TH, AMERICA. LONO'S BACK. YOU WON'T SURVIVE THE YEAR. Not many people made it out alive from the fall of the Trust in 100 Bullets. Lono did — just barely — and it sent him spiraling on a yearslong international odyssey. His one-time protégé, Loop Hughes, was the only one smart enough to walk away clean. But now tragedy has come knocking on Loop's door, and the scent of blood has attracted a dangerous stray dog. Lono's back in the United States, and he's on the hunt... through a network of good ol ' boys and militias, megachurches, millionaires, and madmen. In Brother Lono, Lono unsuccessfully tried to save his own soul; in The US of Anger, he'll play Satan to a host of demons tempting the United States to sell hers. The multi-Eisner Award-winning team of Brian Azzarello and Eduardo Risso has returned to its most famous creation, unleashing a new chapter in Vertigo's greatest crime saga — told for the first time in stunning black and white!",
+   "criadores": {
+    "arte": [
+     "Eduardo Risso"
+    ],
+    "cor": [],
+    "editor": [
+     "Matthew Levine",
+     "Chris Conroy"
+    ],
+    "escritor": [
+     "Brian Azzarello"
+    ],
+    "letra": [
+     "Clem Robins"
+    ]
+   },
+   "personagens": [
+    "Lono",
+    "Louis Hughes"
+   ]
   },
   {
    "numero": "2",
@@ -19,7 +40,28 @@
    "preco": "3.99",
    "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8105661.jpg?1786111655",
    "link": "https://leagueofcomicgeeks.com/comic/8105661/100-bullets-the-us-of-anger-2",
-   "read_link": ""
+   "read_link": "",
+   "sinopse": "VERTIGO'S MOST HARD-HITTING CRIME EPIC IS BACK! America has a problem. The streets are burning and a young man is dead — but it sure looks like the only reason Lono's arrived at the funeral is to pay disrespects...",
+   "criadores": {
+    "arte": [
+     "Eduardo Risso"
+    ],
+    "cor": [],
+    "editor": [
+     "Matthew Levine",
+     "Chris Conroy"
+    ],
+    "escritor": [
+     "Brian Azzarello"
+    ],
+    "letra": [
+     "Clem Robins"
+    ]
+   },
+   "personagens": [
+    "Lono",
+    "Louis Hughes"
+   ]
   },
   {
    "numero": "3",
@@ -28,7 +70,28 @@
    "preco": "3.99",
    "capa": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4886983.jpg?1781808474",
    "link": "https://leagueofcomicgeeks.com/comic/4886983/100-bullets-the-us-of-anger-3",
-   "read_link": ""
+   "read_link": "",
+   "sinopse": "The truth is dangerous—and the corporate media will never tell it. But here on our podcast, we're the only ones fearless enough to say it plain ... that there's a cabal that runs this country, a criminal enterprise dating back to the founding fathers. Our futures are held by the Trust ... and we're ready to blow it all wide open if you like and subscribe. But first we just gotta answer this knock at the door ...",
+   "criadores": {
+    "arte": [
+     "Eduardo Risso"
+    ],
+    "cor": [],
+    "editor": [
+     "Matthew Levine",
+     "Chris Conroy"
+    ],
+    "escritor": [
+     "Brian Azzarello"
+    ],
+    "letra": [
+     "Clem Robins"
+    ]
+   },
+   "personagens": [
+    "Lono",
+    "Louis Hughes"
+   ]
   }
  ]
 }

@@ -71,6 +71,42 @@ Modos úteis do `from_locg.py`:
 - `--reparar` — re-raspa só as séries que ficaram cortadas (edições faltando).
 - `--limite N`, `--semanas N`, `--sem-cache` — para testes. O cache fica em
   `.cache/locg/` (um crash não perde o que já foi raspado).
+- `--enriquecer` — visita a página de cada edição e grava sinopse, criadores e
+  personagens no catálogo (é o que a ficha rica da edição no site usa).
+
+## A base de fichas (cadastro manual)
+
+`ingest/fichas_locg.py` é um scraper **paralelo**, para um propósito diferente do
+site: gerar uma planilha que preenche um formulário de cadastro de quadrinhos
+(título, título original, tipo, número/volume, ano, editora, país, páginas,
+roteirista, artista, descrição, capa).
+
+Ela **deriva do catálogo do site**: a lista de trabalho sai de
+`web/data/issues/*.json`, então o escopo é o mesmo (DC/Marvel, regular issues +
+annuals, mesma janela) sem re-descobrir nada. Por isso a ordem é sempre: o site
+atualiza primeiro, a base de fichas depois.
+
+```bash
+# histórico (~2700 edições) — em lotes, é retomável
+python ingest/fichas_locg.py --anexar 127.0.0.1:9222 --limite 300
+
+# futuro (semanal, depois do --atualizar) — pega só os links novos
+python ingest/fichas_locg.py --anexar 127.0.0.1:9222
+
+# capas grandes, uma por edição (sem browser, direto do S3)
+python ingest/fichas_locg.py --so-capas
+
+# calibrar os seletores de páginas/formato numa edição
+python ingest/fichas_locg.py --anexar 127.0.0.1:9222 --probe <url da edição>
+```
+
+Sai em `fichas/` (**fora do repo**, veja o `.gitignore` — o repo é público e a
+pasta de capas passa de meio giga): `fichas.json` é a base canônica,
+`fichas.csv` é o entregável (UTF-8 com BOM, abre no Excel) e `capas/` tem uma
+capa por edição, nomeada com o id da LOCG para nunca colidir.
+
+Incremental e idempotente: a base é chaveada pelo **link** da edição, então
+rodar de novo só visita o que falta. O `.bat` semanal atualiza as duas bases.
 
 ## Deploy
 

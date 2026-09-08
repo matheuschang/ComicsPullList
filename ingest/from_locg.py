@@ -982,18 +982,28 @@ const norm = s => (s || '').replace(/\s+/g, ' ').trim();
 const out = { sinopse: '', criadores: { escritor: [], arte: [], cor: [], letra: [], editor: [] }, personagens: [] };
 const desc = document.querySelector('.listing-description');
 if (desc) out.sinopse = norm(desc.textContent);
-const secC = document.querySelector('section[id^="creators-"]');
+// Cada credito e um par de irmaos: <div class="role">Writer</div> +
+// <div class="name"><a>Jeph Loeb</a></div>.
+//
+// Nao use o avatar como ancora: ele e uma <img> sem texto e carrega ele MESMO
+// a classe .col-auto, entao closest('.col-auto') devolvia o proprio avatar e o
+// cargo saia vazio -- nenhum criador era classificado. Era por isso que o
+// enriquecimento gravava criadores em branco.
+//
+// section#creators- (sufixo vazio) e "Featured Creators", o credito da edicao.
+// #cover-artists e so a capa, e creators-<id> repete gente por materia.
+const secC = document.querySelector('section[id="creators-"]')
+          || document.querySelector('section[id^="creators-"]');
 if (secC) {
-  for (const av of secC.querySelectorAll('.avatar-character')) {
-    const card = av.closest('.col-auto') || av.parentElement;
-    if (!card) continue;
-    const img = av.querySelector('img');
-    const nome = norm((img && img.getAttribute('alt')) || (av.querySelector('a') || {}).textContent);
-    if (!nome) continue;
-    const role = norm(card.textContent).replace(nome, '').toLowerCase();
+  for (const elRole of secC.querySelectorAll('.role')) {
+    const elNome = elRole.parentElement && elRole.parentElement.querySelector('.name');
+    if (!elNome) continue;
+    const nome = norm(elNome.textContent);
+    const role = norm(elRole.textContent).toLowerCase();
+    if (!nome || /^cover\b/.test(role)) continue;
     const add = (arr) => { if (!arr.includes(nome)) arr.push(nome); };
-    if (/writ/.test(role)) add(out.criadores.escritor);
-    if (/art|pencil|illustrat|draw|ink/.test(role)) add(out.criadores.arte);
+    if (/writ|script|story by|plot/.test(role)) add(out.criadores.escritor);
+    if (/pencil|inker|artist|illustrat|breakdown|finishes|layout/.test(role)) add(out.criadores.arte);
     if (/colou?r/.test(role)) add(out.criadores.cor);
     if (/letter/.test(role)) add(out.criadores.letra);
     if (/editor/.test(role)) add(out.criadores.editor);
@@ -1012,7 +1022,10 @@ return out;
 
 
 def _enriquecer_edicao(driver, link):
-    cache = cache_ler("edicao:" + link)
+    # v2: a v1 gravou criadores vazios (bug do seletor, corrigido acima). Trocar
+    # a chave invalida aquele cache em vez de reaproveitar payload ruim.
+    chave = "edicao:v2:" + link
+    cache = cache_ler(chave)
     if cache is not None:
         return cache
     driver.get(link)
@@ -1021,7 +1034,7 @@ def _enriquecer_edicao(driver, link):
         dados = driver.execute_script(_JS_ENRIQUECER)
     except Exception:
         return None
-    cache_gravar("edicao:" + link, dados)
+    cache_gravar(chave, dados)
     return dados
 
 
@@ -1111,7 +1124,16 @@ def atualizar(driver, atras, frente):
                 por_serie[chave] = {}
                 serie_info[chave] = {"nome": partes["serie"], "editora": codigo}
                 novas_series += 1
-            por_serie[chave][partes["numero"]] = _edicao_do_card(c, partes)
+            nova = _edicao_do_card(c, partes)
+            # Preserva o que so a pagina de detalhe traz. O card da semana nao
+            # tem sinopse/criadores/personagens, entao substituir a edicao
+            # inteira apagava o enriquecimento de tudo que caisse na janela --
+            # ou seja, toda semana o --enriquecer era desfeito nas 4+1 semanas.
+            antiga = por_serie[chave].get(partes["numero"]) or {}
+            for campo in ("sinopse", "criadores", "personagens"):
+                if campo in antiga:
+                    nova[campo] = antiga[campo]
+            por_serie[chave][partes["numero"]] = nova
             vistos += 1
         print(f"  {quarta}: {vistos} edicoes na janela ({len(por_serie)} series, +{novas_series} novas)")
 

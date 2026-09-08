@@ -6,3 +6,8 @@ venv/
 .DS_Store
 .cache/
 .claude/
+
+# Base de fichas (cadastro manual): e ferramenta local, nao alimenta o site.
+# Fica fora do repo de proposito -- o repo e publico e vai pro Pages, e a pasta
+# de capas passa de meio giga (~220 KB x 2700 edicoes).
+fichas/
