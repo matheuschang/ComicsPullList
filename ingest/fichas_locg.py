@@ -565,8 +565,8 @@ def uma_ficha(driver, link):
     return bruto
 
 
-def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
-    """Visita as edicoes que faltam e adiciona na base. Retomavel."""
+def preparar_driver(driver, acelerado=True):
+    """Timeouts e aceleracao. Roda no inicio e a cada reconexao."""
     if acelerado:
         acelerar(driver)
     # Sem isto, driver.get espera a pagina inteira e pode passar dos 120s do
@@ -586,7 +586,38 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
         driver.command_executor._client_config.timeout = 45
     except Exception:
         pass
+    return driver
 
+
+def reconectar(criar, acelerado, tentativas=3):
+    """Refaz a conexao com o Chrome depois de o driver enroscar.
+
+    O chromedriver travar numa pagina foi o modo de falha mais comum das
+    rodadas longas -- e parar pedindo intervencao humana nao serve pra um job
+    de 2700 paginas. Reconectar e barato (o Chrome e anexado, nao nosso) e
+    abre uma aba nova, porque a antiga e justamente a que travou.
+    """
+    if not criar:
+        return None
+    for n in range(tentativas):
+        time.sleep(3 * (n + 1))
+        try:
+            d = preparar_driver(criar(), acelerado)
+            try:
+                d.switch_to.new_window("tab")
+            except Exception:
+                pass
+            d.current_url          # confirma que responde
+            print(f"  driver reconectado (tentativa {n + 1})")
+            return d
+        except Exception as erro:
+            print(f"  reconexao {n + 1}/{tentativas} falhou: {type(erro).__name__}")
+    return None
+
+
+def rodar(driver, saida, limite, ordem, refazer, acelerado=True, criar=None):
+    """Visita as edicoes que faltam e adiciona na base. Retomavel."""
+    preparar_driver(driver, acelerado)
     base = carregar_base(saida)
     itens = lista_de_trabalho(ordem)
     pendentes = [(s, e) for s, e in itens if refazer or e["link"] not in base]
@@ -609,6 +640,11 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
             # sessao morta ou bloqueio -- nao ha porque queimar o resto da lista
             # marcando falha. A base ja esta salva e a proxima rodada retoma.
             if not sessao_viva(driver):
+                novo_driver = reconectar(criar, acelerado)
+                if novo_driver is not None:
+                    driver = novo_driver
+                    seguidas = 0
+                    continue
                 print("\n! a sessao do Chrome morreu (ou o driver enroscou)"
                       " -- parando. Reabra o Chrome de depuracao e rode de novo"
                       " (retoma daqui).")
@@ -858,8 +894,10 @@ def main():
         if args.probe:
             probe(driver, args.probe)
             return
+        fabrica = lambda: criar_driver(args.chromedriver, args.headless,
+                                       args.anexar, args.perfil)
         rodar(driver, saida, args.limite, args.ordem, args.refazer,
-              acelerado=not args.sem_aceleracao)
+              acelerado=not args.sem_aceleracao, criar=fabrica)
     finally:
         # No modo --anexar a janela e do usuario: fechar seria rude (e perderia
         # o clearance do Cloudflare que ele passou na mao).
