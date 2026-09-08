@@ -96,8 +96,4 @@ pegam o catálogo novo. Se o Cloudflare aparecer, passe o desafio na janela.
 O catálogo (séries/edições) é estático; só o estado do usuário (segue/lidas) vive
 no Supabase. Auth por email + senha; contas são criadas pelo admin.
 
-## Próximo
 
-PWA + **push**: no dia em que uma edição de um título seguido lança, notificar às
-8h do horário local (service worker + `push_subscriptions` no Supabase + Edge
-Function agendada por `pg_cron`).
