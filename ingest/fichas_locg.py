@@ -514,6 +514,20 @@ def acelerar(driver):
         return False
 
 
+def sessao_viva(driver):
+    """Checagem barata: a sessao do driver ainda responde?
+
+    Depois de uma falha vale separar "pagina ruim" de "driver enroscado".
+    Sem isto, um driver travado consumia o timeout inteiro em cada uma das
+    20 tentativas do disjuntor -- dezenas de minutos sem raspar nada.
+    """
+    try:
+        driver.current_url
+        return True
+    except Exception:
+        return False
+
+
 def uma_ficha(driver, link):
     """Visita a pagina da edicao e devolve o payload cru (com cache em disco)."""
     # Chave propria: o cache "edicao:" do from_locg guarda um payload MENOR
@@ -564,6 +578,15 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
         except Exception:
             pass
 
+    # O timeout do CLIENTE (o HTTP falando com o chromedriver) e o unico que
+    # vale quando o proprio chromedriver enrosca -- os timeouts acima dependem
+    # dele estar sadio. O padrao e 120s: com o driver travado, cada pagina
+    # custava 2 min e o disjuntor levaria 40 min pra agir. 45s basta.
+    try:
+        driver.command_executor._client_config.timeout = 45
+    except Exception:
+        pass
+
     base = carregar_base(saida)
     itens = lista_de_trabalho(ordem)
     pendentes = [(s, e) for s, e in itens if refazer or e["link"] not in base]
@@ -585,6 +608,11 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
             # Disjuntor: pagina ruim isolada e normal, mas 20 seguidas significa
             # sessao morta ou bloqueio -- nao ha porque queimar o resto da lista
             # marcando falha. A base ja esta salva e a proxima rodada retoma.
+            if not sessao_viva(driver):
+                print("\n! a sessao do Chrome morreu (ou o driver enroscou)"
+                      " -- parando. Reabra o Chrome de depuracao e rode de novo"
+                      " (retoma daqui).")
+                break
             if seguidas >= 20:
                 print(f"\n! 20 falhas seguidas -- parando. Provavel Cloudflare ou "
                       f"Chrome fechado. Confira a janela e rode de novo (retoma daqui).")
