@@ -607,17 +607,25 @@ def limpar_abas(endereco):
     except (urllib.error.URLError, OSError, ValueError, TimeoutError):
         return False   # nem o HTTP responde: o Chrome caiu de vez
 
-    for aba in [a for a in abas if a.get("type") == "page"]:
-        try:
-            urllib.request.urlopen(base + "/json/close/" + aba["id"], timeout=10).read()
-        except (urllib.error.URLError, OSError, TimeoutError):
-            pass
+    antigas = [a for a in abas if a.get("type") == "page"]
+
+    # A aba nova vem PRIMEIRO, de proposito: fechar a ultima aba encerra o
+    # Chrome. Fechando tudo antes de abrir, a limpeza matava a sessao que ela
+    # deveria salvar -- e ai nem anexar dava mais (SessionNotCreated).
     try:
         pedido = urllib.request.Request(base + "/json/new?about:blank", method="PUT")
         urllib.request.urlopen(pedido, timeout=10).read()
     except (urllib.error.URLError, OSError, TimeoutError):
-        pass
-    print(f"  abas limpas ({len([a for a in abas if a.get('type') == 'page'])} fechadas)")
+        return False   # sem aba nova, fechar as antigas derrubaria o Chrome
+
+    fechadas = 0
+    for aba in antigas:
+        try:
+            urllib.request.urlopen(base + "/json/close/" + aba["id"], timeout=10).read()
+            fechadas += 1
+        except (urllib.error.URLError, OSError, TimeoutError):
+            pass
+    print(f"  abas limpas ({fechadas} fechadas, 1 nova)")
     return True
 
 
