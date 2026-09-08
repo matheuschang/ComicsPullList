@@ -35,7 +35,9 @@ controlado; veja o cabecalho de lá).
 Saida em `fichas/`:
     fichas.json   base canonica (uma entrada por edicao, chaveada pelo link)
     fichas.csv    a mesma coisa em CSV UTF-8 com BOM, pronto pro Excel
-    capas/        capa grande de cada edicao (so com --capas / --so-capas)
+    capas/        so se pedir --capas/--so-capas; normalmente nao precisa,
+                  porque a coluna `capa_url` ja aponta pra capa grande na LOCG
+                  (baixar as ~2700 daria meia-giga sem ganho)
 """
 
 import argparse
@@ -340,12 +342,16 @@ def montar_ficha(serie, edicao, bruto):
 # Ordem das colunas do CSV: primeiro os campos do formulario (de cima pra baixo,
 # como na tela), depois as colunas de referencia.
 COLUNAS = [
-    "capa_arquivo", "titulo", "titulo_original", "tipo_publicacao",
+    # A capa entra como URL, nao como arquivo: a `capa_url` e a capa grande
+    # (~200 KB) daquela edicao, servida direto pela LOCG. Baixar as ~2700 seria
+    # meia-giga sem ganho -- o `capa_arquivo` fica na secao de referencia, e so
+    # tem arquivo correspondente se o --so-capas tiver rodado.
+    "capa_url", "titulo", "titulo_original", "tipo_publicacao",
     "numero_volume", "ano", "editora", "pais", "paginas",
     "roteiristas", "artistas", "descricao",
     "serie", "serie_id", "data_lancamento", "preco_usd",
     "coloristas", "letristas", "editores", "artistas_capa", "personagens",
-    "formato_locg", "capa_url", "link",
+    "formato_locg", "capa_arquivo", "link",
 ]
 
 
