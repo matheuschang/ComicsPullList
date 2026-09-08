@@ -424,6 +424,36 @@ def gravar_base(saida, base):
 
 # ------------------------------------------------------------------- modos
 
+# Recursos que a extracao NAO usa. Sao ~2700 paginas: baixar capa, avatar, fonte
+# e video de cada uma dominava o tempo (medido: 5,2s por pagina, ~3,8h no total).
+# Bloquear isso derruba o tempo sem perder dado -- a <img> continua no DOM com o
+# src intacto (o request e que falha), e nossos seletores sao por classe, nao
+# dependem de layout.
+_BLOQUEAR = [
+    "*.jpg", "*.jpeg", "*.png", "*.gif", "*.webp", "*.svg", "*.ico",
+    "*.woff", "*.woff2", "*.ttf", "*.otf", "*.eot",
+    "*.mp4", "*.webm", "*.mp3", "*.avi",
+    "*googlesyndication*", "*doubleclick*", "*google-analytics*",
+    "*googletagmanager*", "*facebook.net*", "*adservice*", "*taboola*",
+]
+
+
+def acelerar(driver):
+    """Bloqueia imagem/fonte/video/ads na sessao do Chrome, via CDP.
+
+    Vale para a JANELA TODA (e um Chrome anexado, nao nosso). Some quando o
+    Chrome e fechado -- e um perfil dedicado a raspagem, entao nao incomoda.
+    Se o CDP nao aceitar, segue sem acelerar: e otimizacao, nao requisito.
+    """
+    try:
+        driver.execute_cdp_cmd("Network.enable", {})
+        driver.execute_cdp_cmd("Network.setBlockedURLs", {"urls": _BLOQUEAR})
+        return True
+    except Exception as erro:
+        print(f"  (sem aceleracao: {type(erro).__name__})")
+        return False
+
+
 def uma_ficha(driver, link):
     """Visita a pagina da edicao e devolve o payload cru (com cache em disco)."""
     # Chave propria: o cache "edicao:" do from_locg guarda um payload MENOR
@@ -443,8 +473,10 @@ def uma_ficha(driver, link):
     return bruto
 
 
-def rodar(driver, saida, limite, ordem, refazer):
+def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
     """Visita as edicoes que faltam e adiciona na base. Retomavel."""
+    if acelerado:
+        acelerar(driver)
     base = carregar_base(saida)
     itens = lista_de_trabalho(ordem)
     pendentes = [(s, e) for s, e in itens if refazer or e["link"] not in base]
@@ -653,6 +685,8 @@ def main():
     ap.add_argument("--saida", default="fichas", metavar="DIR",
                     help="pasta de saida (padrao: fichas/)")
     ap.add_argument("--sem-cache", action="store_true", help="ignora o cache em disco")
+    ap.add_argument("--sem-aceleracao", action="store_true",
+                    help="nao bloqueia imagem/fonte/ads (mais lento; use se algo quebrar)")
     ap.add_argument("--chromedriver", default="",
                     help="caminho do chromedriver (vazio = Selenium Manager)")
     ap.add_argument("--anexar", default="", metavar="HOST:PORTA",
@@ -690,7 +724,8 @@ def main():
         if args.probe:
             probe(driver, args.probe)
             return
-        rodar(driver, saida, args.limite, args.ordem, args.refazer)
+        rodar(driver, saida, args.limite, args.ordem, args.refazer,
+              acelerado=not args.sem_aceleracao)
     finally:
         # No modo --anexar a janela e do usuario: fechar seria rude (e perderia
         # o clearance do Cloudflare que ele passou na mao).
