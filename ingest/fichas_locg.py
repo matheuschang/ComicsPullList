@@ -521,9 +521,22 @@ def uma_ficha(driver, link):
     cache = cache_ler(chave)
     if cache is not None:
         return cache
-    driver.get(link)
-    aguardar_conteudo(driver, "section[id^='creators-'], .listing-description", timeout=45)
+
+    # Nada aqui pode derrubar o run: sao ~2700 paginas e uma so que trave
+    # custaria a rodada inteira. Foi o que aconteceu -- uma pagina passou dos
+    # 120s do cliente do chromedriver e o ReadTimeoutError subiu do driver.get.
+    # Pagina problematica agora e so pulada; a proxima rodada tenta de novo.
     try:
+        driver.get(link)
+    except Exception:
+        # Timeout de page load deixa o DOM meio montado -- ainda vale tentar
+        # extrair, porque o que precisamos costuma ja estar la.
+        pass
+    try:
+        if not aguardar_conteudo(driver, "section[id^='creators-'], .listing-description",
+                                 timeout=45):
+            print(f"    ! sem conteudo em {link}")
+            return None
         bruto = driver.execute_script(_JS_FICHA)
     except Exception as erro:
         print(f"    ! falhou em {link}: {type(erro).__name__}")
@@ -536,6 +549,15 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
     """Visita as edicoes que faltam e adiciona na base. Retomavel."""
     if acelerado:
         acelerar(driver)
+    # Sem isto, driver.get espera a pagina inteira e pode passar dos 120s do
+    # cliente do chromedriver -- que ai estoura por fora, sem dar pra tratar.
+    # 40s e folgado: a pagina util monta em ~1s com a aceleracao ligada.
+    for ajuste, valor in (("set_page_load_timeout", 40), ("set_script_timeout", 30)):
+        try:
+            getattr(driver, ajuste)(valor)
+        except Exception:
+            pass
+
     base = carregar_base(saida)
     itens = lista_de_trabalho(ordem)
     pendentes = [(s, e) for s, e in itens if refazer or e["link"] not in base]
@@ -545,14 +567,24 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
         print("nada a fazer -- a base ja cobre todo o catalogo.")
         return
 
-    feitas = 0
+    feitas = falhas = seguidas = 0
     serie_atual = None
     for serie, edicao in pendentes:
         if limite and feitas >= limite:
             break
         bruto = uma_ficha(driver, edicao["link"])
         if not bruto:
+            falhas += 1
+            seguidas += 1
+            # Disjuntor: pagina ruim isolada e normal, mas 20 seguidas significa
+            # sessao morta ou bloqueio -- nao ha porque queimar o resto da lista
+            # marcando falha. A base ja esta salva e a proxima rodada retoma.
+            if seguidas >= 20:
+                print(f"\n! 20 falhas seguidas -- parando. Provavel Cloudflare ou "
+                      f"Chrome fechado. Confira a janela e rode de novo (retoma daqui).")
+                break
             continue
+        seguidas = 0
         base[edicao["link"]] = montar_ficha(serie, edicao, bruto)
         feitas += 1
         # Salva ao trocar de serie: um crash perde no maximo uma serie. So o
@@ -567,7 +599,9 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
     com_pag = sum(1 for f in base.values() if f.get("paginas"))
     com_cred = sum(1 for f in base.values() if f.get("roteiristas"))
     com_desc = sum(1 for f in base.values() if f.get("descricao"))
-    print(f"\n{feitas} fichas nesta rodada. Base: {len(base)} fichas.")
+    print(f"\n{feitas} fichas nesta rodada"
+          + (f", {falhas} paginas puladas (a proxima rodada tenta de novo)" if falhas else "")
+          + f". Base: {len(base)} fichas.")
     print(f"preenchimento -> paginas {com_pag}/{len(base)} | "
           f"roteirista {com_cred}/{len(base)} | descricao {com_desc}/{len(base)}")
     if len(base) and not com_pag:
