@@ -194,9 +194,11 @@ _ROTULOS_PAGINAS = ("page count", "pages", "page-count", "paginas")
 _ROTULOS_FORMATO = ("format", "type", "publication type")
 
 _RE_PAGINAS = re.compile(r"(\d{1,4})\s*pages?\b", re.I)
+# "comic" entra tambem: paginas-stub de item promocional trazem so a palavra
+# solta, sem a linha "Comic - 36 pages - $4.99" que o caso normal tem.
 _RE_FORMATO = re.compile(
     r"\b(regular|annual|one[- ]shot|trade paperback|tpb|hardcover|omnibus|"
-    r"graphic novel|digital|magazine)\b", re.I)
+    r"graphic novel|digital|magazine|comic)\b", re.I)
 
 
 def _primeiro(detalhes, rotulos):
@@ -239,8 +241,15 @@ def formato_de(bruto):
     valor = _primeiro(bruto.get("detalhes") or {}, _ROTULOS_FORMATO)
     if valor:
         return valor
-    m = _RE_FORMATO.search(bruto.get("detalhes_raw") or "")
-    return m.group(1) if m else ""
+
+    # Fallback no texto cru. "Comic" e generico e aparece em quase toda pagina,
+    # inclusive nas digitais ("Comic - $0.00 - Digital Exclusive"): pegar a
+    # primeira ocorrencia apagaria o "Digital", que e o que explica a edicao nao
+    # ter contagem de paginas. Entao o especifico ganha do generico.
+    achados = [m.group(1) for m in _RE_FORMATO.finditer(bruto.get("detalhes_raw") or "")]
+    especificos = [a for a in achados if a.lower() != "comic"]
+    escolhido = (especificos or achados or [""])[0]
+    return escolhido.capitalize() if escolhido.islower() else escolhido
 
 
 def capa_grande(url):
@@ -928,13 +937,26 @@ def main():
               "a lista de trabalho vem do catalogo do site.")
         return
 
-    driver = criar_driver(args.chromedriver, args.headless, args.anexar, args.perfil)
+    fabrica = lambda: criar_driver(args.chromedriver, args.headless,
+                                   args.anexar, args.perfil)
+    # Anexar tambem pode travar: se o Chrome estiver com uma aba enroscada de
+    # uma rodada anterior, a PRIMEIRA conexao expira igual (e no timeout padrao
+    # de 120s, porque os nossos ajustes so entram depois dela). Entao a conexao
+    # inicial passa pela mesma recuperacao das outras: limpa as abas e insiste.
+    try:
+        driver = fabrica()
+    except Exception as erro:
+        print(f"conexao inicial falhou ({type(erro).__name__}); limpando e tentando de novo")
+        driver = reconectar(fabrica, not args.sem_aceleracao, endereco=args.anexar)
+        if driver is None:
+            print("nao consegui anexar no Chrome. Ele esta aberto com "
+                  "--remote-debugging-port? Reabra e rode de novo (retoma daqui).")
+            return
+
     try:
         if args.probe:
             probe(driver, args.probe)
             return
-        fabrica = lambda: criar_driver(args.chromedriver, args.headless,
-                                       args.anexar, args.perfil)
         rodar(driver, saida, args.limite, args.ordem, args.refazer,
               acelerado=not args.sem_aceleracao, criar=fabrica,
               endereco=args.anexar)
