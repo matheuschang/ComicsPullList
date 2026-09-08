@@ -42,6 +42,7 @@ import argparse
 import csv
 import datetime as dt
 import json
+import os
 import pathlib
 import re
 import sys
@@ -403,23 +404,76 @@ def carregar_base(saida):
     return {f["link"]: f for f in dados.get("fichas", []) if f.get("link")}
 
 
-def gravar_base(saida, base):
-    """Grava fichas.json (canonico) e fichas.csv (o entregavel)."""
-    saida.mkdir(parents=True, exist_ok=True)
+def _gravar_atomico(caminho, escrever, tentativas=5):
+    """Grava via arquivo temporario + replace, com retentativa.
+
+    Duas razoes, as duas ja custaram um run inteiro:
+
+    - O projeto mora dentro do OneDrive, que trava o arquivo durante o sync
+      (e o antivirus tambem, ao varrer). Deu OSError [Errno 22] no meio de uma
+      rodada de 45 min e derrubou tudo. O lock e passageiro, entao insiste.
+    - Escrever direto no destino deixa a base truncada se o processo morrer no
+      meio; com replace, o arquivo antigo vale ate o novo estar pronto.
+    """
+    caminho.parent.mkdir(parents=True, exist_ok=True)
+    tmp = caminho.with_suffix(caminho.suffix + ".tmp")
+    for n in range(tentativas):
+        try:
+            escrever(tmp)
+            os.replace(tmp, caminho)
+            return True
+        except OSError as erro:
+            if n == tentativas - 1:
+                print(f"  ! nao consegui gravar {caminho.name}: "
+                      f"{type(erro).__name__} {erro.errno} -- a base em memoria segue,"
+                      " tente de novo depois com --so-csv")
+                return False
+            time.sleep(1.5 * (n + 1))
+            try:
+                tmp.unlink()
+            except OSError:
+                pass
+    return False
+
+
+def gravar_base(saida, base, com_csv=True):
+    """Grava fichas.json (canonico) e, se pedido, fichas.csv (o entregavel).
+
+    O JSON e o estado de retomada, entao vai a cada serie. O CSV e derivado e
+    custava um arquivo inteiro reescrito por serie (~700 vezes numa rodada
+    cheia): fica para o fim, e o --so-csv regera quando preciso.
+    """
     fichas = sorted(base.values(),
                     key=lambda f: (f.get("data_lancamento") or "", f.get("serie") or ""),
                     reverse=True)
-    (saida / "fichas.json").write_text(json.dumps({
-        "gerado_em": dt.datetime.now().replace(microsecond=0).isoformat(),
-        "total": len(fichas),
-        "fichas": fichas,
-    }, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    # utf-8-sig: sem o BOM o Excel no Windows abre os acentos errados.
-    with (saida / "fichas.csv").open("w", encoding="utf-8-sig", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=COLUNAS, extrasaction="ignore")
-        w.writeheader()
-        w.writerows(fichas)
+    def escrever_json(destino):
+        destino.write_text(json.dumps({
+            "gerado_em": dt.datetime.now().replace(microsecond=0).isoformat(),
+            "total": len(fichas),
+            "fichas": fichas,
+        }, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    def escrever_csv(destino):
+        # utf-8-sig: sem o BOM o Excel no Windows abre os acentos errados.
+        with destino.open("w", encoding="utf-8-sig", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=COLUNAS, extrasaction="ignore")
+            w.writeheader()
+            w.writerows(fichas)
+
+    _gravar_atomico(saida / "fichas.json", escrever_json)
+    if com_csv:
+        _gravar_atomico(saida / "fichas.csv", escrever_csv)
+
+
+def regerar_csv(saida):
+    """Refaz o fichas.csv a partir do fichas.json, sem raspar nada."""
+    base = carregar_base(saida)
+    if not base:
+        print(f"base vazia em {saida} -- nada a regerar.")
+        return
+    gravar_base(saida, base)
+    print(f"fichas.csv regerado: {len(base)} linhas, {len(COLUNAS)} colunas.")
 
 
 # ------------------------------------------------------------------- modos
@@ -458,7 +512,12 @@ def uma_ficha(driver, link):
     """Visita a pagina da edicao e devolve o payload cru (com cache em disco)."""
     # Chave propria: o cache "edicao:" do from_locg guarda um payload MENOR
     # (sem detalhes/capa), reaproveita-lo devolveria ficha sem paginas.
-    chave = "ficha:v1:" + link
+    #
+    # A VERSAO faz parte da chave e sobe junto com o _JS_FICHA. A v1 nao tinha
+    # `linha_detalhe` (de onde saem paginas e formato) nem separava artista de
+    # capa: reaproveitar aquele payload devolvia ficha furada, e --refazer nao
+    # resolvia porque ele le o cache. Ao mexer no _JS_FICHA, suba a versao.
+    chave = "ficha:v2:" + link
     cache = cache_ler(chave)
     if cache is not None:
         return cache
@@ -496,10 +555,11 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True):
             continue
         base[edicao["link"]] = montar_ficha(serie, edicao, bruto)
         feitas += 1
-        # Salva ao trocar de serie: um crash perde no maximo uma serie.
+        # Salva ao trocar de serie: um crash perde no maximo uma serie. So o
+        # JSON -- o CSV e derivado e sai no fim (ver gravar_base).
         if serie["id"] != serie_atual:
             if serie_atual is not None:
-                gravar_base(saida, base)
+                gravar_base(saida, base, com_csv=False)
             serie_atual = serie["id"]
             print(f"  {feitas:4}/{len(pendentes)}  {serie['nome'][:40]}")
 
@@ -682,6 +742,8 @@ def main():
                     help="baixa as capas grandes ao terminar a raspagem")
     ap.add_argument("--so-capas", action="store_true",
                     help="so baixa as capas do que ja esta na base (sem browser)")
+    ap.add_argument("--so-csv", action="store_true",
+                    help="so regera o fichas.csv a partir do fichas.json (sem browser)")
     ap.add_argument("--saida", default="fichas", metavar="DIR",
                     help="pasta de saida (padrao: fichas/)")
     ap.add_argument("--sem-cache", action="store_true", help="ignora o cache em disco")
@@ -709,6 +771,10 @@ def main():
     saida = pathlib.Path(args.saida)
     if not saida.is_absolute():
         saida = RAIZ / saida
+
+    if args.so_csv:
+        regerar_csv(saida)
+        return
 
     if args.so_capas:
         baixar_capas(saida, args.limite)
