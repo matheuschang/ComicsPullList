@@ -589,7 +589,39 @@ def preparar_driver(driver, acelerado=True):
     return driver
 
 
-def reconectar(criar, acelerado, tentativas=3):
+def limpar_abas(endereco):
+    """Fecha as abas do Chrome pelo HTTP do CDP e abre uma limpa.
+
+    Existe porque o modo de falha real e este: uma aba trava, e a partir dai
+    TODO comando de sessao (inclusive anexar um driver novo) expira -- a aba
+    enroscada segura o driver. O endpoint HTTP do CDP, porem, continua
+    respondendo, entao da pra limpar por fora o que o Selenium nao alcanca.
+    Sem isso, cada tentativa de reconexao so abria mais uma aba e expirava.
+    """
+    if not endereco:
+        return False
+    base = "http://" + endereco
+    try:
+        with urllib.request.urlopen(base + "/json/list", timeout=10) as r:
+            abas = json.loads(r.read().decode("utf-8"))
+    except (urllib.error.URLError, OSError, ValueError, TimeoutError):
+        return False   # nem o HTTP responde: o Chrome caiu de vez
+
+    for aba in [a for a in abas if a.get("type") == "page"]:
+        try:
+            urllib.request.urlopen(base + "/json/close/" + aba["id"], timeout=10).read()
+        except (urllib.error.URLError, OSError, TimeoutError):
+            pass
+    try:
+        pedido = urllib.request.Request(base + "/json/new?about:blank", method="PUT")
+        urllib.request.urlopen(pedido, timeout=10).read()
+    except (urllib.error.URLError, OSError, TimeoutError):
+        pass
+    print(f"  abas limpas ({len([a for a in abas if a.get('type') == 'page'])} fechadas)")
+    return True
+
+
+def reconectar(criar, acelerado, tentativas=3, endereco=""):
     """Refaz a conexao com o Chrome depois de o driver enroscar.
 
     O chromedriver travar numa pagina foi o modo de falha mais comum das
@@ -601,12 +633,10 @@ def reconectar(criar, acelerado, tentativas=3):
         return None
     for n in range(tentativas):
         time.sleep(3 * (n + 1))
+        # Limpa ANTES de anexar: com a aba travada de pe, anexar tambem expira.
+        limpar_abas(endereco)
         try:
             d = preparar_driver(criar(), acelerado)
-            try:
-                d.switch_to.new_window("tab")
-            except Exception:
-                pass
             d.current_url          # confirma que responde
             print(f"  driver reconectado (tentativa {n + 1})")
             return d
@@ -615,7 +645,8 @@ def reconectar(criar, acelerado, tentativas=3):
     return None
 
 
-def rodar(driver, saida, limite, ordem, refazer, acelerado=True, criar=None):
+def rodar(driver, saida, limite, ordem, refazer, acelerado=True, criar=None,
+          endereco=""):
     """Visita as edicoes que faltam e adiciona na base. Retomavel."""
     preparar_driver(driver, acelerado)
     base = carregar_base(saida)
@@ -640,7 +671,7 @@ def rodar(driver, saida, limite, ordem, refazer, acelerado=True, criar=None):
             # sessao morta ou bloqueio -- nao ha porque queimar o resto da lista
             # marcando falha. A base ja esta salva e a proxima rodada retoma.
             if not sessao_viva(driver):
-                novo_driver = reconectar(criar, acelerado)
+                novo_driver = reconectar(criar, acelerado, endereco=endereco)
                 if novo_driver is not None:
                     driver = novo_driver
                     seguidas = 0
@@ -897,7 +928,8 @@ def main():
         fabrica = lambda: criar_driver(args.chromedriver, args.headless,
                                        args.anexar, args.perfil)
         rodar(driver, saida, args.limite, args.ordem, args.refazer,
-              acelerado=not args.sem_aceleracao, criar=fabrica)
+              acelerado=not args.sem_aceleracao, criar=fabrica,
+              endereco=args.anexar)
     finally:
         # No modo --anexar a janela e do usuario: fechar seria rude (e perderia
         # o clearance do Cloudflare que ele passou na mao).
